@@ -8,40 +8,40 @@ Internal navigation links may not work in the PDF version of this report.
 + [Worxspace](#Worxspace) (188)
 + [psdevuk](#psdevuk) (107)
 + [Broadcom](#Broadcom) (100)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (87)
-+ [Texas Roemer](#Texas-Roemer) (79)
-+ [Friedrich Weinmann](#Friedrich-Weinmann) (75)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (86)
++ [Texas Roemer](#Texas-Roemer) (80)
++ [Friedrich Weinmann](#Friedrich-Weinmann) (76)
 + [Jan Hoek](#Jan-Hoek) (61)
 + [Adam Driscoll](#Adam-Driscoll) (60)
-+ [James Brundage](#James-Brundage) (58)
++ [James Brundage](#James-Brundage) (57)
 + [Pawel Wujczyk](#Pawel-Wujczyk) (56)
 + [PSModule](#PSModule) (55)
 + [Pwshrc Maintainers](#Pwshrc-Maintainers) (53)
-+ [Ironman Software](#Ironman-Software) (44)
++ [Ironman Software](#Ironman-Software) (45)
 + [Jeff Hicks](#Jeff-Hicks) (41)
-+ [Roger Brown](#Roger-Brown) (39)
 + [John.Leyva](#JohnLeyva) (39)
++ [Roger Brown](#Roger-Brown) (38)
 + [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (38)
 + [owen.heaume](#owenheaume) (33)
-+ [Michael Haken](#Michael-Haken) (31)
++ [Mark5900](#Mark5900) (31)
 + [Adam Bacon](#Adam-Bacon) (31)
-+ [Mark5900](#Mark5900) (30)
-+ [Jakoby](#Jakoby) (29)
++ [Michael Haken](#Michael-Haken) (30)
 + [Michal Gajda](#Michal-Gajda) (28)
-+ [Andreas Eulitz](#Andreas-Eulitz) (27)
++ [Jakoby](#Jakoby) (28)
++ [Andreas Eulitz](#Andreas-Eulitz) (28)
 + [WebMD Health Services](#WebMD-Health-Services) (26)
 
 ## Worxspace
 
 + **[pspulumiyaml.azurenative 0.0.4](https://github.com/worxspace/PSPulumiYaml)**  - Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi [*06/26/2022 06:32:46*]
 + **pspulumiyaml.azurenative.digitaltwins 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 06:25:32*]
-+ **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
++ **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.windowsiot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
++ **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.testbase 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:58*]
 + **pspulumiyaml.azurenative.visualstudio 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:57*]
 + **pspulumiyaml.azurenative.web 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:56*]
@@ -51,8 +51,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.solutions 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:50*]
 + **pspulumiyaml.azurenative.synapse 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:49*]
 + **pspulumiyaml.azurenative.storagesync 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:47*]
-+ **pspulumiyaml.azurenative.sqlvirtualmachine 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.storagecache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
++ **pspulumiyaml.azurenative.sqlvirtualmachine 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.storsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:43*]
 + **pspulumiyaml.azurenative.storage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:40*]
 + **pspulumiyaml.azurenative.storagepool 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:39*]
@@ -102,16 +102,16 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.media 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:53*]
 + **pspulumiyaml.azurenative.maps 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:52*]
 + **pspulumiyaml.azurenative.marketplace 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:47*]
-+ **pspulumiyaml.azurenative.managementpartner 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
 + **pspulumiyaml.azurenative.managednetwork 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
++ **pspulumiyaml.azurenative.managementpartner 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
 + **pspulumiyaml.azurenative.managedservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:42*]
 + **pspulumiyaml.azurenative.mixedreality 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:41*]
 + **pspulumiyaml.azurenative.migrate 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:38*]
 + **pspulumiyaml.azurenative.managedidentity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:25*]
 + **pspulumiyaml.azurenative.machinelearningservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:20*]
 + **pspulumiyaml.azurenative.maintenance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:09*]
-+ **pspulumiyaml.azurenative.insights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.logic 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
++ **pspulumiyaml.azurenative.insights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.machinelearningcompute 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:01*]
 + **pspulumiyaml.azurenative.kubernetesconfiguration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:00*]
 + **pspulumiyaml.azurenative.logz 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:53*]
@@ -140,8 +140,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.healthcareapis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:17*]
 + **pspulumiyaml.azurenative.enterpriseknowledgegraph 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:14*]
 + **pspulumiyaml.azurenative.hybridconnectivity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:11*]
-+ **pspulumiyaml.azurenative.features 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.hanaonazure 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
++ **pspulumiyaml.azurenative.features 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.eventhub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:07*]
 + **pspulumiyaml.azurenative.education 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:06*]
 + **pspulumiyaml.azurenative.intune 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:05*]
@@ -172,14 +172,14 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.datadog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:30*]
 + **pspulumiyaml.azurenative.datacatalog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:12*]
 + **pspulumiyaml.azurenative.confluent 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:55*]
-+ **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.cdn 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
++ **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.customerinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:50*]
 + **pspulumiyaml.azurenative.connectedvmwarevsphere 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:49*]
-+ **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
-+ **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
++ **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.containerregistry 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
++ **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
 + **pspulumiyaml.azurenative.databox 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.consumption 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:40*]
@@ -199,8 +199,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.confidentialledger 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.containerinstance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.azurestackhci 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:21*]
-+ **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.authorization 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
++ **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.azurestack 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:15*]
 + **pspulumiyaml.azurenative.apimanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:14*]
 + **pspulumiyaml.azurenative.app 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
@@ -472,7 +472,6 @@ https://developer.broadcom.com/powercli/installation-guide [*06/17/2025 14:12:22
 + **[PowerBGInfo 0.0.5](https://github.com/EvotecIT/PowerBGInfo)**  - PowerBGInfo is a module that allows you to create background images with information about your environment. [*11/19/2024 08:19:35*]
 + **[ConsoleMonster 0.0.4](https://github.com/EvotecIT/ConsoleMonster)**  - Console Monster is a PowerShell module to build cool GUI applications using Spectre Console and Terminal GUI [*10/26/2024 10:18:55*]
 + **[O365Synchronizer 1.0.3](https://github.com/EvotecIT/O365Synchronizer)**  - This module allows to synchronize users to/from Office 365. You can synchronize users information to personal contacts or synchronize tenants between each other. [*10/15/2024 16:31:33*]
-+ **[PowerInfoblox 1.0.31](https://github.com/EvotecIT/PowerInfoblox)**  - Helper module for Infoblox. [*10/09/2024 10:40:51*]
 + **[PSPGP 0.1.13](https://github.com/EvotecIT/PSPGP)**  - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP. [*09/18/2024 13:00:03*]
 + **[UnifiStockTracker 2.2.0](https://github.com/EvotecIT/UnifiStockTracker)**  - PowerShell module to get current stock in Ubiquiti Unifi store [*08/11/2024 14:48:41*]
 + **[PSBlackListChecker 0.8.7](https://github.com/EvotecIT/PSBlackListChecker)**  - This module allows you to easily check if your defined list of IPs are on any of defined blacklists.
@@ -607,6 +606,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **Get-IdracRemoteServiceApiStatusREDFISH 8.0.0**  - Cmdlet using Redfish API with OEM extension to get iDRAC remote service status. The output will return LC (Lifecycle controller) status, RT (real time monitoring) status, server status (examples, in POST or in in BIOS boot manager) and overall status. [*10/31/2025 14:06:46*]
 + **Get-IdracLifecycleLogsREDFISH 12.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to get complete iDRAC Lifecycle logs, echo to the screen. NOTE: Recommended to redirect output to a file due to large amount of data returned [*10/31/2025 14:05:44*]
 + **Invoke-DecommissionREDFISH 1.0.0**  - iDRAC cmdlet using Redfish API to run Decommission DMTF action. Note this cmdlet is only supported on iDRAC10 or newer. [*11/22/2024 20:16:56*]
++ **Invoke-CreateCustomIdracUserRoleREDFISH 1.0.0**  - iDRAC cmdlet using Redfish API to create custom iDRAC user role. Note this cmdlet is only supported on iDRAC10 or newer. [*11/22/2024 20:15:05*]
 + **Set-PowerControlREDFISH 7.0.0**  - Cmdlet using iDRAC with Redfish API to get either server current power state or change the server power state. If changing the server power state, make sure you pass in the exact string value since the values are case sensitive. [*04/27/2023 14:10:00*]
 + **[Set-UpdateOneDeviceREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to update fimrware for one device iDRAC supports or upload a PM file using OEM extension. Supported file types are .exe, .pm (personal module) and .d9 (iDRAC only image). For updating iDRAC devices, you will be using Dell Windows Update Packages (DUP) with .exe extension. [*12/18/2020 20:38:48*]
 + **[Set-IdracUserPasswordREDFISH 1.0.1](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20PowerShell)**  - iDRAC cmdlet used to change iDRAC user password using Redfish API. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash(-) or single quote in your current or new password, make sure to surround the password value with double quotes. [*12/18/2020 19:42:00*]
@@ -658,6 +658,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PSAzureMigrationAdvisor 1.2.14](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)**  - Tools to help migrate scripts using the official Azure/AzureAD modules [*04/13/2023 14:53:09*]
 + **AzureDevOps.Services.OpenApi 1.0.4**  - Autogenerated Client for the Azure Devops Services API [*04/12/2023 15:12:20*]
 + **PSInfernal 1.0.0**  - Wrapper Module to get the latest versions of Fred's most commonly used PowerShell utilities & tools [*03/14/2023 23:26:42*]
++ **[MDCA 1.1.4](https://github.com/FriedrichWeinmann/MDCA)**  - Client for the Microsoft Defender for Cloud Apps API [*12/15/2022 16:22:20*]
 + **[Azure.Function.Tools 1.0.4](https://github.com/FriedrichWeinmann/Azure.Function.Tools)**  - Lightweight tooling for Function Apps [*12/14/2022 08:37:55*]
 + **[LdapTools 1.1.7](https://github.com/FriedrichWeinmann/LdapTools)**  - Toolkit for AD queries without requiring ActiveDirectory module [*07/27/2022 06:26:37*]
 + **[RestConnect 1.0.10](https://github.com/FriedrichWeinmann/RestConnect)**  - Authentication and request execution for API clients generated from AutoRest [*06/14/2022 06:43:08*]
@@ -822,7 +823,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Turtle 0.2.1](https://github.com/PowerShellWeb/Turtle)**  - Turtle Graphics in PowerShell [*11/03/2025 19:52:10*]
 + **[Glass 0.1.1](https://github.com/StartAutomating/Glass)**  - Get, read, and write invisible glass text [*10/24/2025 19:05:27*]
 + **[OpenXML 0.1](https://github.com/PowerShellWeb/OpenXML)**  - Automate OpenXML. Excel, Word, and PowerPoint automation in PowerShell. [*10/16/2025 19:41:05*]
-+ **[Vector 0.1](https://github.com/PowerShellWeb/Vector)**  - Vectors in PowerShell [*10/05/2025 18:56:58*]
 + **[MathML 0.1](https://github.com/PowerShellWeb/MathML)**  - MathML and PowerShell [*10/02/2025 19:09:54*]
 + **[Emoji 0.1.6](https://github.com/StartAutomating/Emoji)**  - ⟩⚡PowerShell Emoji 😎😉😍🥰🤔😟 [*09/16/2025 21:25:07*]
 + **[RoughDraft 0.4.1](https://github.com/StartAutomating/RoughDraft)**  - A Fun PowerShell Module for Multimedia [*07/19/2025 02:19:48*]
@@ -1013,8 +1013,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[poshy-wrap-maven 0.3.0](https://github.com/pwshrc/poshy-wrap-maven)**  - Convenient cmdlets and aliases which wrap `maven`. [*12/18/2024 19:31:59*]
 + **[poshy-wrap-terragrunt 0.4.1](https://github.com/pwshrc/poshy-wrap-terragrunt)**  - Convenient cmdlets and aliases which wrap `terragrunt`. [*12/18/2024 19:31:32*]
 + **[poshy-wrap-terraform 0.4.1](https://github.com/pwshrc/poshy-wrap-terraform)**  - Convenient cmdlets and aliases which wrap `terraform`. [*12/18/2024 19:30:49*]
-+ **[poshy-wrap-tmux 0.4.1](https://github.com/pwshrc/poshy-wrap-tmux)**  - Convenient cmdlets and aliases which wrap `tmux`. [*12/18/2024 19:30:42*]
 + **[poshy-wrap-ruby 0.4.1](https://github.com/pwshrc/poshy-wrap-ruby)**  - Convenient cmdlets and aliases which wrap `ruby`. [*12/18/2024 19:30:42*]
++ **[poshy-wrap-tmux 0.4.1](https://github.com/pwshrc/poshy-wrap-tmux)**  - Convenient cmdlets and aliases which wrap `tmux`. [*12/18/2024 19:30:42*]
 + **[poshy-wrap-docker-compose 0.3.0](https://github.com/pwshrc/poshy-wrap-docker-compose)**  - Convenient cmdlets and aliases which wrap `docker-compose`. [*12/18/2024 19:30:26*]
 + **[poshy-wrap-npm 0.3.0](https://github.com/pwshrc/poshy-wrap-npm)**  - Convenient cmdlets and aliases which wrap `npm`. [*12/18/2024 19:30:10*]
 + **[poshy-wrap-kubectl 0.3.0](https://github.com/pwshrc/poshy-wrap-kubectl)**  - Convenient cmdlets and aliases which wrap `kubectl`. [*12/18/2024 19:29:59*]
@@ -1060,6 +1060,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PowerShellUniversal.Apps.Earthquakes 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.Earthquakes)**  - An app that displays earthquakes in a map for the last 24 hours. [*01/06/2025 23:13:42*]
 + **[PowerShellUniversal.API.Monitoring 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/APIs/PowerShellUniversal.API.Monitoring)**  - Server monitoring API for PowerShell Universal. [*01/05/2025 22:56:22*]
 + **[PowerShellUniversal.Apps.Pester 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.Pester)**  - A Pester test result viewer for PowerShell Universal. [*01/04/2025 18:10:38*]
++ **[PowerShellUniversal.Apps.ThemeBuilder 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.ThemeBuilder)**  - Theme builder app for PowerShell Universal. [*01/03/2025 14:41:20*]
 + **[PowerShellUniversal.Apps.TaskManager 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.TaskManager)**  - Task Manager for PowerShell Universal. [*12/31/2024 21:25:37*]
 + **[PowerShellUniversal.Apps.Services 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.Services)**  - Service Manager for Windows. [*12/30/2024 18:25:59*]
 + **[PowerShellUniversal.Triggers.BurntToast 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Triggers/PowerShellUniversal.Triggers.BurntToast)**  - Send BurntToast notifications from PowerShell Universal to client machines. [*12/29/2024 20:14:37*]
@@ -1142,48 +1143,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PSReadlineHelper 0.7.0](https://github.com/jdhitsolutions/PSReadlineHelper)**  - PSReadline customizations and helper functions [*10/23/2018 15:47:16*]
 + **[PSPivotTable 2.1.5](https://github.com/jdhitsolutions/PSPivotTable)**  - Convert PowerShell expression results into console-based pivot tables. [*01/12/2017 17:56:55*]
 
-## Roger Brown
-
-+ **[rhubarb-geek-nz.TypeLib 1.0.0](https://github.com/rhubarb-geek-nz/TypeLib)**  - TypeLib Cmdlets for PowerShell [*04/18/2025 11:56:25*]
-+ **[rhubarb-geek-nz.DbDataAdapter 1.0.3](https://github.com/rhubarb-geek-nz/DbDataAdapter)**  - DbDataAdapter Cmdlet for PowerShell [*03/25/2025 06:52:50*]
-+ **[rhubarb-geek-nz.PipelineBroadcast 1.1.3](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Write pipeline to multiple scripts [*03/22/2025 09:31:43*]
-+ **[rhubarb-geek-nz.PSStyle 1.0.0](https://github.com/rhubarb-geek-nz/PSStyle)**  - $PSStyle variable for PowerShell Desktop [*03/21/2025 16:03:51*]
-+ **[rhubarb-geek-nz.PSWriteLine 1.0.0](https://github.com/rhubarb-geek-nz/PSWriteLine)**  - Write-PSHost cmdlet for PowerShell [*03/19/2025 22:47:02*]
-+ **[rhubarb-geek-nz.Sparsely 1.0.4](https://github.com/rhubarb-geek-nz/Sparsely)**  - Sparse file aware tool for PowerShell [*03/17/2025 19:36:09*]
-+ **[rhubarb-geek-nz.SmartCardReader 1.0.0](https://github.com/rhubarb-geek-nz/SmartCardReader)**  - Smartcard Reader [*03/11/2025 22:08:40*]
-+ **[rhubarb-geek-nz.OracleConnection.Core 3.21.170](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/01/2025 09:28:12*]
-+ **[rhubarb-geek-nz.mkdir 1.0.0](https://github.com/rhubarb-geek-nz/mkdir)**  - New-Directory function generated from PowerShell 7.4.5 mkdir [*02/07/2025 08:22:40*]
-+ **[rhubarb-geek-nz.SinceYouAsk 1.0.2](https://github.com/rhubarb-geek-nz/SinceYouAsk)**  - Tool for getting the boot time [*02/02/2025 13:08:56*]
-+ **[rhubarb-geek-nz.CiscoT7 1.0.0](https://github.com/rhubarb-geek-nz/CiscoT7)**  - Convert SecureString to and from Cisco Type 7 encoding [*01/19/2025 20:48:55*]
-+ **[rhubarb-geek-nz.RuntimeIdentifier 1.0.0](https://github.com/rhubarb-geek-nz/RuntimeIdentifier)**  - RuntimeIdentifier Cmdlets for PowerShell [*01/11/2025 19:35:00*]
-+ **[rhubarb-geek-nz.SQLiteConnection.Core 8.0.11](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/10/2025 18:57:03*]
-+ **[rhubarb-geek-nz.AspNetForPowerShell 7.2.21](https://github.com/rhubarb-geek-nz/AspNetForPowerShell)**  - AspNetCore for PowerShell [*01/10/2025 08:57:24*]
-+ **[rhubarb-geek-nz.SQLiteConnection.Desktop 1.0.119.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/05/2025 00:12:28*]
-+ **[rhubarb-geek-nz.SQLiteConnection 1.0.119](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/06/2024 19:16:48*]
-+ **[rhubarb-geek-nz.Guido 1.0.0](https://github.com/rhubarb-geek-nz/Guido)**  - Guid Cmdlet for PowerShell [*10/18/2024 10:09:45*]
-+ **[rhubarb-geek-nz.AuthenticodeSignature 1.1.3](https://github.com/rhubarb-geek-nz/AuthenticodeSignature)**  - Provides Set-AuthenticodeSignature using HTTP signature service [*08/21/2024 06:35:50*]
-+ **[rhubarb-geek-nz.PSCPreProcessor 1.0.1](https://github.com/rhubarb-geek-nz/cpp)**  - Implements C preprocessor as a pipeline allowing direct usage in PowerShell [*08/08/2024 18:31:56*]
-+ **[rhubarb-geek-nz.Joinery 1.0.5](https://github.com/rhubarb-geek-nz/Joinery)**  - Join Tools [*07/19/2024 16:24:10*]
-+ **[rhubarb-geek-nz.NuGetPackage 1.0.2](https://github.com/rhubarb-geek-nz/NuGetPackage)**  - NuGet tools [*06/07/2024 15:02:57*]
-+ **[rhubarb-geek-nz.SystemLockdownPolicy 1.0.0](https://github.com/rhubarb-geek-nz/SystemLockdownPolicy)**  - Cmdlet for getting the SystemLockdownPolicy [*06/01/2024 07:44:49*]
-+ **[rhubarb-geek-nz.ScriptBlock 1.0.0](https://github.com/rhubarb-geek-nz/ScriptBlock)**  - ScriptBlock tools for creation and invocation [*06/01/2024 05:18:42*]
-+ **[rhubarb-geek-nz.Console 1.0.4](https://github.com/rhubarb-geek-nz/Console)**  - Tools for reading and writing directly to stdin, stdout and stderr using the Console API [*05/29/2024 17:12:57*]
-+ **[rhubarb-geek-nz.SqlConnection 2.0.2](https://github.com/rhubarb-geek-nz/SqlConnection)**  - MSSQL Connection Tool [*05/19/2024 04:41:56*]
-+ **[rhubarb-geek-nz.TeeParty 1.0.0](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Tee-Party alias [*05/17/2024 05:37:35*]
-+ **[rhubarb-geek-nz.SplitContent 1.0.2](https://github.com/rhubarb-geek-nz/SplitContent)**  - Split-Content Cmdlet for PowerShell [*05/12/2024 14:55:05*]
-+ **[rhubarb-geek-nz.NpgsqlConnection 8.0.2](https://github.com/rhubarb-geek-nz/NpgsqlConnection)**  - PostgreSQL Connection Tool [*04/27/2024 22:35:33*]
-+ **[rhubarb-geek-nz.MySqlConnection 2.3.7](https://github.com/rhubarb-geek-nz/MySqlConnection)**  - MySQL Connection Tool [*04/27/2024 19:53:07*]
-+ **[rhubarb-geek-nz.OnReflection 1.0.1](https://github.com/rhubarb-geek-nz/OnReflection)**  - Reflection Cmdlet for PowerShell [*04/21/2024 15:47:11*]
-+ **[rhubarb-geek-nz.Base64 1.0.0](https://github.com/rhubarb-geek-nz/Base64)**  - Base64 Cmdlets for PowerShell [*04/20/2024 17:34:39*]
-+ **[rhubarb-geek-nz.Base64String 1.0.0](https://github.com/rhubarb-geek-nz/Base64String)**  - Base64 Cmdlets for PowerShell [*04/20/2024 17:31:13*]
-+ **[rhubarb-geek-nz.GZip 1.0.0](https://github.com/rhubarb-geek-nz/gzip)**  - GZip Tools [*04/10/2024 01:44:45*]
-+ **[rhubarb-geek-nz.SQLiteConnection.Alpine 1.0.118.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/27/2023 03:17:31*]
-+ **[rhubarb-geek-nz.Forever 0.0.3](https://github.com/rhubarb-geek-nz/Forever)**  - Forever PSCmdlet [*11/26/2023 22:59:43*]
-+ **[rhubarb-geek-nz.PowerShellDataFile 1.0.0](https://github.com/rhubarb-geek-nz/PowerShellDataFile)**  - Implements Export-PowerShellDataFile for writing module manifests [*11/25/2023 01:18:05*]
-+ **[rhubarb-geek-nz.CancellationTokenEvent 1.0.2](https://github.com/rhubarb-geek-nz/CancellationTokenEvent)**  - CancellationToken event registration [*05/19/2023 23:48:56*]
-+ **[rhubarb-geek-nz.LocalSecurityAuthority 1.0.0](https://github.com/rhubarb-geek-nz/LocalSecurityAuthority)**  - Local Security Authority Tools [*03/31/2023 22:18:04*]
-+ **[rhubarb-geek-nz.OracleConnection 21.9.0](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/18/2023 14:11:55*]
-
 ## John.Leyva
 
 + **pf-string 1.0.0.224**  - pf-string [*02/13/2025 20:39:43*]
@@ -1225,6 +1184,47 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **pf-assert 1.0.0.179**  - pf-assert [*12/14/2022 07:06:26*]
 + **pf-AseemblyVersion 1.0.0.179**  - NewModule [*12/14/2022 07:06:15*]
 + **pf-azFuncDeploy 1.0.1.3**  - Module [*01/26/2020 11:09:38*]
+
+## Roger Brown
+
++ **[rhubarb-geek-nz.AssemblyMetadata 1.0.3](https://github.com/rhubarb-geek-nz/AssemblyMetadata)**  - AssemblyMetadata Tool [*04/29/2025 17:39:06*]
++ **[rhubarb-geek-nz.TypeLib 1.0.0](https://github.com/rhubarb-geek-nz/TypeLib)**  - TypeLib Cmdlets for PowerShell [*04/18/2025 11:56:25*]
++ **[rhubarb-geek-nz.DbDataAdapter 1.0.3](https://github.com/rhubarb-geek-nz/DbDataAdapter)**  - DbDataAdapter Cmdlet for PowerShell [*03/25/2025 06:52:50*]
++ **[rhubarb-geek-nz.PipelineBroadcast 1.1.3](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Write pipeline to multiple scripts [*03/22/2025 09:31:43*]
++ **[rhubarb-geek-nz.PSStyle 1.0.0](https://github.com/rhubarb-geek-nz/PSStyle)**  - $PSStyle variable for PowerShell Desktop [*03/21/2025 16:03:51*]
++ **[rhubarb-geek-nz.PSWriteLine 1.0.0](https://github.com/rhubarb-geek-nz/PSWriteLine)**  - Write-PSHost cmdlet for PowerShell [*03/19/2025 22:47:02*]
++ **[rhubarb-geek-nz.Sparsely 1.0.4](https://github.com/rhubarb-geek-nz/Sparsely)**  - Sparse file aware tool for PowerShell [*03/17/2025 19:36:09*]
++ **[rhubarb-geek-nz.SmartCardReader 1.0.0](https://github.com/rhubarb-geek-nz/SmartCardReader)**  - Smartcard Reader [*03/11/2025 22:08:40*]
++ **[rhubarb-geek-nz.OracleConnection.Core 3.21.170](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/01/2025 09:28:12*]
++ **[rhubarb-geek-nz.mkdir 1.0.0](https://github.com/rhubarb-geek-nz/mkdir)**  - New-Directory function generated from PowerShell 7.4.5 mkdir [*02/07/2025 08:22:40*]
++ **[rhubarb-geek-nz.SinceYouAsk 1.0.2](https://github.com/rhubarb-geek-nz/SinceYouAsk)**  - Tool for getting the boot time [*02/02/2025 13:08:56*]
++ **[rhubarb-geek-nz.CiscoT7 1.0.0](https://github.com/rhubarb-geek-nz/CiscoT7)**  - Convert SecureString to and from Cisco Type 7 encoding [*01/19/2025 20:48:55*]
++ **[rhubarb-geek-nz.RuntimeIdentifier 1.0.0](https://github.com/rhubarb-geek-nz/RuntimeIdentifier)**  - RuntimeIdentifier Cmdlets for PowerShell [*01/11/2025 19:35:00*]
++ **[rhubarb-geek-nz.SQLiteConnection.Core 8.0.11](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/10/2025 18:57:03*]
++ **[rhubarb-geek-nz.AspNetForPowerShell 7.2.21](https://github.com/rhubarb-geek-nz/AspNetForPowerShell)**  - AspNetCore for PowerShell [*01/10/2025 08:57:24*]
++ **[rhubarb-geek-nz.SQLiteConnection.Desktop 1.0.119.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/05/2025 00:12:28*]
++ **[rhubarb-geek-nz.SQLiteConnection 1.0.119](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/06/2024 19:16:48*]
++ **[rhubarb-geek-nz.Guido 1.0.0](https://github.com/rhubarb-geek-nz/Guido)**  - Guid Cmdlet for PowerShell [*10/18/2024 10:09:45*]
++ **[rhubarb-geek-nz.AuthenticodeSignature 1.1.3](https://github.com/rhubarb-geek-nz/AuthenticodeSignature)**  - Provides Set-AuthenticodeSignature using HTTP signature service [*08/21/2024 06:35:50*]
++ **[rhubarb-geek-nz.PSCPreProcessor 1.0.1](https://github.com/rhubarb-geek-nz/cpp)**  - Implements C preprocessor as a pipeline allowing direct usage in PowerShell [*08/08/2024 18:31:56*]
++ **[rhubarb-geek-nz.Joinery 1.0.5](https://github.com/rhubarb-geek-nz/Joinery)**  - Join Tools [*07/19/2024 16:24:10*]
++ **[rhubarb-geek-nz.NuGetPackage 1.0.2](https://github.com/rhubarb-geek-nz/NuGetPackage)**  - NuGet tools [*06/07/2024 15:02:57*]
++ **[rhubarb-geek-nz.SystemLockdownPolicy 1.0.0](https://github.com/rhubarb-geek-nz/SystemLockdownPolicy)**  - Cmdlet for getting the SystemLockdownPolicy [*06/01/2024 07:44:49*]
++ **[rhubarb-geek-nz.ScriptBlock 1.0.0](https://github.com/rhubarb-geek-nz/ScriptBlock)**  - ScriptBlock tools for creation and invocation [*06/01/2024 05:18:42*]
++ **[rhubarb-geek-nz.Console 1.0.4](https://github.com/rhubarb-geek-nz/Console)**  - Tools for reading and writing directly to stdin, stdout and stderr using the Console API [*05/29/2024 17:12:57*]
++ **[rhubarb-geek-nz.SqlConnection 2.0.2](https://github.com/rhubarb-geek-nz/SqlConnection)**  - MSSQL Connection Tool [*05/19/2024 04:41:56*]
++ **[rhubarb-geek-nz.TeeParty 1.0.0](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Tee-Party alias [*05/17/2024 05:37:35*]
++ **[rhubarb-geek-nz.SplitContent 1.0.2](https://github.com/rhubarb-geek-nz/SplitContent)**  - Split-Content Cmdlet for PowerShell [*05/12/2024 14:55:05*]
++ **[rhubarb-geek-nz.NpgsqlConnection 8.0.2](https://github.com/rhubarb-geek-nz/NpgsqlConnection)**  - PostgreSQL Connection Tool [*04/27/2024 22:35:33*]
++ **[rhubarb-geek-nz.MySqlConnection 2.3.7](https://github.com/rhubarb-geek-nz/MySqlConnection)**  - MySQL Connection Tool [*04/27/2024 19:53:07*]
++ **[rhubarb-geek-nz.OnReflection 1.0.1](https://github.com/rhubarb-geek-nz/OnReflection)**  - Reflection Cmdlet for PowerShell [*04/21/2024 15:47:11*]
++ **[rhubarb-geek-nz.Base64 1.0.0](https://github.com/rhubarb-geek-nz/Base64)**  - Base64 Cmdlets for PowerShell [*04/20/2024 17:34:39*]
++ **[rhubarb-geek-nz.GZip 1.0.0](https://github.com/rhubarb-geek-nz/gzip)**  - GZip Tools [*04/10/2024 01:44:45*]
++ **[rhubarb-geek-nz.SQLiteConnection.Alpine 1.0.118.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/27/2023 03:17:31*]
++ **[rhubarb-geek-nz.Forever 0.0.3](https://github.com/rhubarb-geek-nz/Forever)**  - Forever PSCmdlet [*11/26/2023 22:59:43*]
++ **[rhubarb-geek-nz.PowerShellDataFile 1.0.0](https://github.com/rhubarb-geek-nz/PowerShellDataFile)**  - Implements Export-PowerShellDataFile for writing module manifests [*11/25/2023 01:18:05*]
++ **[rhubarb-geek-nz.LocalSecurityAuthority 1.0.0](https://github.com/rhubarb-geek-nz/LocalSecurityAuthority)**  - Local Security Authority Tools [*03/31/2023 22:18:04*]
++ **[rhubarb-geek-nz.OracleConnection 21.9.0](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/18/2023 14:11:55*]
 
 ## Akamai Technologies Ltd.
 
@@ -1303,45 +1303,64 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
 + **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
 
-## Michael Haken
+## Mark5900
 
-+ **[BAMCIS.Crypto 1.0.1](https://github.com/bamcisnetworks/BAMCIS.Crypto)**  - Provides cmdlets to convert PEM formats to usable .NET crypto service provider objects. [*04/17/2020 14:31:45*]
-+ **[HDFS 1.0.1](https://github.com/bamcis-io/HDFS)**  - This PowerShell module provides a wrapper for the Hadoop File System REST API (webhdfs). [*03/10/2020 17:00:40*]
-+ **[GoogleOAuth2 1.0.1.0](https://github.com/bamcisnetworks/GoogleOAuth2)**  - Provides cmdlets that are used to retrieve Google OAuth2 tokens for OAuth2 cloud identities and service accounts. [*11/15/2019 18:08:01*]
-+ **[AwsUtilities 1.0.6.3](https://github.com/bamcis-io/AwsUtilities)**  - Supplemental AWS cmdlets to help automate common tasks. [*10/09/2019 15:26:09*]
-+ **[BAMCIS.FileIO 1.1.0.0](https://github.com/bamcis-io/BAMCIS.FileIO)**  - This module contains PowerShell cmdlets to automate complex file and directory operations. [*02/24/2019 05:23:12*]
-+ **[AWSPriceList 1.0.1](https://github.com/bamcis-io/AWSPriceList)**  - Supplemental AWS Price List API cmdlets. [*01/16/2019 17:50:45*]
-+ **[CloudEndure 1.2.1.1](https://github.com/bamcisnetworks/CloudEndure)**  - A wrapper for the CloudEndure migration/DR tool APIs. [*12/06/2018 05:41:51*]
-+ **[BAMCIS.Common 1.0.4.0](https://github.com/bamcisnetworks/BAMCIS.Common)**  - A core set of common PowerShell cmdlets used across a number of modules or on their own in common scripts. [*12/06/2018 05:40:49*]
-+ **[BAMCIS.UserAccounts 1.0.1](https://github.com/bamcis-io/BAMCIS.UserAccounts)**  - Provides cmdlets to interact with local and domain user accounts, groups, and profiles. [*08/22/2018 14:10:35*]
-+ **[GoogleAdminDirectory 1.0.0.0](https://github.com/bamcisnetworks/GoogleAdminDirectory)**  - Provides cmdlets to interact with the Google Admin SDK Directory API. [*02/20/2018 18:27:43*]
-+ **[BAMCIS.DynamicParam 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.DynamicParams)**  - Provides cmdlets to create dynamic parameters in PowerShell cmdlets. [*02/06/2018 15:29:29*]
-+ **[BAMCIS.Base64 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.Base64)**  - Provides PowerShell cmdlets to do base64 encoding and decoding. [*01/28/2018 01:33:10*]
-+ **[ASN.1 1.0.0.5](https://github.com/bamcisnetworks/ASN1)**  - Provides cmdlets to parse data structures in ASN.1 encoding with just PowerShell. [*01/26/2018 18:15:59*]
-+ **[BAMCIS.OffensiveSecurity 1.0.1.3](https://github.com/bamcisnetworks/BAMCIS.OffensiveSecurity)**  - Provides security focused PowerShell cmdlets to conduct security testing and forensics. [*01/25/2018 20:19:38*]
-+ **[BAMCIS.ByteArrays 1.0.2.1](https://github.com/bamcisnetworks/BAMCIS.ByteArrays)**  - Contains cmdlets to help manipulate byte arrays. [*01/23/2018 04:51:39*]
-+ **[BAMCIS.CredentialManager 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.CredentialManager)**  - Provides a PowerShell wrapper around the Windows Credential Manager Win32 APIs. [*01/03/2018 16:34:27*]
-+ **[BAMCIS.Networking 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.Networking)**  - This module contains PowerShell cmdlets that conduct network operations. [*10/27/2017 15:15:27*]
-+ **[BAMCIS.TokenManipulation 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.TokenManipulation)**  - Provides PowerShell cmdlets to view and modify the token assigned to a user including their group membership and privileges. [*10/26/2017 17:14:34*]
-+ **[BAMCIS.Logging 1.0.0.2](https://github.com/bamcisnetworks/BAMCIS.Logging)**  - Contains functions to simplify logging inside PowerShell cmdlets. [*10/26/2017 17:07:57*]
-+ **[HostUtilities 1.1.3.1](https://github.com/bamcisnetworks/HostUtilities)**  - A collection of utilities to help automate administration tasks on a local host. [*10/24/2017 19:30:58*]
-+ **[InfobloxGrid 2.0.0.3](https://github.com/bamcisnetworks/InfobloxGrid)**  - Providers a wrapper around the Infoblox WAPI. The current SDK supports objects up to version 2.0 of the WAPI, although the PowerShell cmdlets can be used with WAPI versions above 2.0. Extensible attributes on objects are not currently supported. [*08/23/2017 03:26:02*]
-+ **[ActiveDirectoryTools 2.0.0.9](https://github.com/bamcisnetworks/ActiveDirectoryTools)**  - Custom tools for automating Active Directory management and setup. I've put these together to consolidate a number of scripts I regularly used. [*08/07/2017 14:58:27*]
-+ **[ESENT 1.0.0.1](https://github.com/bamcisnetworks/ESENT)**  - Provides PowerShell cmdlets to use with the built-in Extensible Storage Engine (ESE) aka JET Blue. The module utilizes the ManagedESENT .NET library and provides read-only access to existing ESENT databases. [*06/27/2017 19:09:53*]
-+ **[SqlStig 0.1.0.2](https://github.com/bamcisnetworks/SqlStig)**  - Configures all of the settings required by the SQL 2014 Draft STIG excluding the Logon Trigger requirement (I find this to essentially break everytime) and TDE.
-
-Run both the Set-SQLInstanceStigItems and Set-SQLDatabaseStigItems to completely STIG the Instance. Requires some prior setup for SQL Agent Operators and Windows and/or Local Groups. [*03/04/2017 04:36:40*]
-+ **[InstallExchange 1.0.0.9](https://github.com/bamcisnetworks/InstallExchange)**  - This module automates the installation of Exchange 2013 or 2016 including retrieving installation media, installing prerequisites, and post configuration tasks.
-
-To get started, download and unpack the Exchange 2013 or 2016 installation media to a directory on the server (which should be domain joined already) or use the Get-ExchangeInstallationMedia cmdlet. This will be the SourceDirectory parameter for Install-Exchange. 
-
-Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017 04:24:01*]
-+ **[ESAE 0.0.0.22](https://github.com/bamcisnetworks/ESAE)**  - Builds a secure ESAE Forest from which to manage other AD Forests. Can also be used to build a standalone secure forest. Includes all DISA STIGs as GPOs for Windows 8.1, Server 2012 R2, and more. [*03/03/2017 20:22:36*]
-+ **[ActiveDirectoryStig 1.0.0.9](https://github.com/bamcisnetworks/ActiveDirectoryStig)**  - Contains functions to set Active Directory STIG requirements that are not configurable through a GPO. [*03/03/2017 16:46:28*]
-+ **[DnsStig 1.0.0.9](https://github.com/bamcisnetworks/DnsStig)**  - Automates completing the Windows Server 2012 DNS STIG. Does not include DNSSEC related checks. [*03/03/2017 15:38:26*]
-+ **[AssetInventory 1.0.1.6](https://github.com/bamcisnetworks/AssetInventory)**  - Collects asset information including software inventory, windows updates, and system information. [*01/19/2017 03:14:25*]
-+ **[Hyper-VAdministration 1.0.0.1](https://github.com/bamcisnetworks/Hyper-VAdministration)**  - Performs automated tasks to help in the administration of Hyper-V environments. [*01/03/2017 17:16:25*]
-+ **DISA_STIG 1.0.0.2**  - Converts DISA STIG xccdf and zip files to usable objects and makes comparisons of STIGs for easy updates to GPOs. [*11/26/2015 14:56:24*]
++ **[Capa.PowerShell.Module 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*07/16/2025 13:13:30*]
++ **[Capa.PowerShell.Module.SDK 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for the SDK. [*07/16/2025 13:13:29*]
++ **[Capa.PowerShell.Module.CCS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*07/16/2025 13:13:27*]
++ **[Capa.PowerShell.Module.Tools 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing tools for CapaInstaller and PowerPacks. [*07/16/2025 13:13:26*]
++ **[Capa.PowerShell.Module.SDK.VPP 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for VPP functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:25*]
++ **[Capa.PowerShell.Module.SDK.MDM 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for MDM functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:24*]
++ **[Capa.PowerShell.Module.SDK.User 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:20*]
++ **[Capa.PowerShell.Module.SDK.WSUS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:19*]
++ **[Capa.PowerShell.Module.PowerPack 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*07/16/2025 13:13:18*]
++ **[Capa.PowerShell.Module.SDK.Unit 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Unit functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:18*]
++ **[Capa.PowerShell.Module.SDK.Group 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Group functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:17*]
++ **[Capa.PowerShell.Module.PowerPack.Reg 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:16*]
++ **[Capa.PowerShell.Module.SDK.Package 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:16*]
++ **[Capa.PowerShell.Module.PowerPack.CMS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*07/16/2025 13:13:12*]
++ **[Capa.PowerShell.Module.PowerPack.Ini 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:11*]
++ **[Capa.PowerShell.Module.PowerPack.Job 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:10*]
++ **[Capa.PowerShell.Module.PowerPack.MSI 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:09*]
++ **[Capa.PowerShell.Module.PowerPack.Log 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:09*]
++ **[Capa.PowerShell.Module.PowerPack.Sys 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:08*]
++ **[Capa.PowerShell.Module.SDK.Utilities 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Utilities functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:03*]
++ **[Capa.PowerShell.Module.SDK.Container 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Container functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:02*]
++ **[Capa.PowerShell.Module.SDK.Inventory 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Inventory functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:01*]
++ **[Capa.PowerShell.Module.SDK.SystemSdk 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for System functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:57*]
++ **[Capa.PowerShell.Module.PowerPack.File 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:56*]
++ **[Capa.PowerShell.Module.PowerPack.Exit 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Exit codes.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:55*]
++ **[Capa.PowerShell.Module.PowerPack.Shell 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:54*]
++ **[Capa.PowerShell.Module.PowerPack.UsrMgr 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:52*]
++ **[Capa.PowerShell.Module.SDK.OSDeployment 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for OS Deployment functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:49*]
++ **[Capa.PowerShell.Module.PowerPack.Winget 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands. [*07/16/2025 13:12:48*]
++ **[Capa.PowerShell.Module.PowerPack.Service 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:47*]
++ **[Capa.PowerShell.Module.SDK.Authentication 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:45*]
 
 ## Adam Bacon
 
@@ -1377,62 +1396,75 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **UniversalDashboard.UDMug 1.0.0**  - Adding some SVG goodness to your dashboard [*09/11/2019 14:29:53*]
 + **UniversalDashboard.UDGhost 1.0.0**  - Making best use of your blank spaces [*09/11/2019 14:12:08*]
 
-## Mark5900
+## Michael Haken
 
-+ **[Capa.PowerShell.Module 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*07/16/2025 13:13:30*]
-+ **[Capa.PowerShell.Module.SDK 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for the SDK. [*07/16/2025 13:13:29*]
-+ **[Capa.PowerShell.Module.CCS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*07/16/2025 13:13:27*]
-+ **[Capa.PowerShell.Module.Tools 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing tools for CapaInstaller and PowerPacks. [*07/16/2025 13:13:26*]
-+ **[Capa.PowerShell.Module.SDK.VPP 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for VPP functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:25*]
-+ **[Capa.PowerShell.Module.SDK.MDM 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for MDM functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:24*]
-+ **[Capa.PowerShell.Module.SDK.User 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:20*]
-+ **[Capa.PowerShell.Module.SDK.WSUS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:19*]
-+ **[Capa.PowerShell.Module.SDK.Unit 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Unit functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:18*]
-+ **[Capa.PowerShell.Module.PowerPack 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*07/16/2025 13:13:18*]
-+ **[Capa.PowerShell.Module.SDK.Group 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Group functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:17*]
-+ **[Capa.PowerShell.Module.SDK.Package 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:16*]
-+ **[Capa.PowerShell.Module.PowerPack.Reg 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:16*]
-+ **[Capa.PowerShell.Module.PowerPack.CMS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*07/16/2025 13:13:12*]
-+ **[Capa.PowerShell.Module.PowerPack.Ini 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:11*]
-+ **[Capa.PowerShell.Module.PowerPack.Job 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:10*]
-+ **[Capa.PowerShell.Module.PowerPack.MSI 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:09*]
-+ **[Capa.PowerShell.Module.PowerPack.Log 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:09*]
-+ **[Capa.PowerShell.Module.PowerPack.Sys 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:08*]
-+ **[Capa.PowerShell.Module.SDK.Utilities 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Utilities functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:03*]
-+ **[Capa.PowerShell.Module.SDK.Container 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Container functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:02*]
-+ **[Capa.PowerShell.Module.SDK.SystemSdk 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for System functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:57*]
-+ **[Capa.PowerShell.Module.PowerPack.File 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:56*]
-+ **[Capa.PowerShell.Module.PowerPack.Exit 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Exit codes.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:55*]
-+ **[Capa.PowerShell.Module.PowerPack.Shell 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:54*]
-+ **[Capa.PowerShell.Module.PowerPack.UsrMgr 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:52*]
-+ **[Capa.PowerShell.Module.SDK.OSDeployment 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for OS Deployment functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:49*]
-+ **[Capa.PowerShell.Module.PowerPack.Winget 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands. [*07/16/2025 13:12:48*]
-+ **[Capa.PowerShell.Module.PowerPack.Service 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:47*]
-+ **[Capa.PowerShell.Module.SDK.Authentication 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:45*]
++ **[BAMCIS.Crypto 1.0.1](https://github.com/bamcisnetworks/BAMCIS.Crypto)**  - Provides cmdlets to convert PEM formats to usable .NET crypto service provider objects. [*04/17/2020 14:31:45*]
++ **[HDFS 1.0.1](https://github.com/bamcis-io/HDFS)**  - This PowerShell module provides a wrapper for the Hadoop File System REST API (webhdfs). [*03/10/2020 17:00:40*]
++ **[GoogleOAuth2 1.0.1.0](https://github.com/bamcisnetworks/GoogleOAuth2)**  - Provides cmdlets that are used to retrieve Google OAuth2 tokens for OAuth2 cloud identities and service accounts. [*11/15/2019 18:08:01*]
++ **[AwsUtilities 1.0.6.3](https://github.com/bamcis-io/AwsUtilities)**  - Supplemental AWS cmdlets to help automate common tasks. [*10/09/2019 15:26:09*]
++ **[BAMCIS.FileIO 1.1.0.0](https://github.com/bamcis-io/BAMCIS.FileIO)**  - This module contains PowerShell cmdlets to automate complex file and directory operations. [*02/24/2019 05:23:12*]
++ **[CloudEndure 1.2.1.1](https://github.com/bamcisnetworks/CloudEndure)**  - A wrapper for the CloudEndure migration/DR tool APIs. [*12/06/2018 05:41:51*]
++ **[BAMCIS.Common 1.0.4.0](https://github.com/bamcisnetworks/BAMCIS.Common)**  - A core set of common PowerShell cmdlets used across a number of modules or on their own in common scripts. [*12/06/2018 05:40:49*]
++ **[BAMCIS.UserAccounts 1.0.1](https://github.com/bamcis-io/BAMCIS.UserAccounts)**  - Provides cmdlets to interact with local and domain user accounts, groups, and profiles. [*08/22/2018 14:10:35*]
++ **[GoogleAdminDirectory 1.0.0.0](https://github.com/bamcisnetworks/GoogleAdminDirectory)**  - Provides cmdlets to interact with the Google Admin SDK Directory API. [*02/20/2018 18:27:43*]
++ **[BAMCIS.DynamicParam 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.DynamicParams)**  - Provides cmdlets to create dynamic parameters in PowerShell cmdlets. [*02/06/2018 15:29:29*]
++ **[BAMCIS.Base64 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.Base64)**  - Provides PowerShell cmdlets to do base64 encoding and decoding. [*01/28/2018 01:33:10*]
++ **[ASN.1 1.0.0.5](https://github.com/bamcisnetworks/ASN1)**  - Provides cmdlets to parse data structures in ASN.1 encoding with just PowerShell. [*01/26/2018 18:15:59*]
++ **[BAMCIS.OffensiveSecurity 1.0.1.3](https://github.com/bamcisnetworks/BAMCIS.OffensiveSecurity)**  - Provides security focused PowerShell cmdlets to conduct security testing and forensics. [*01/25/2018 20:19:38*]
++ **[BAMCIS.ByteArrays 1.0.2.1](https://github.com/bamcisnetworks/BAMCIS.ByteArrays)**  - Contains cmdlets to help manipulate byte arrays. [*01/23/2018 04:51:39*]
++ **[BAMCIS.CredentialManager 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.CredentialManager)**  - Provides a PowerShell wrapper around the Windows Credential Manager Win32 APIs. [*01/03/2018 16:34:27*]
++ **[BAMCIS.Networking 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.Networking)**  - This module contains PowerShell cmdlets that conduct network operations. [*10/27/2017 15:15:27*]
++ **[BAMCIS.TokenManipulation 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.TokenManipulation)**  - Provides PowerShell cmdlets to view and modify the token assigned to a user including their group membership and privileges. [*10/26/2017 17:14:34*]
++ **[BAMCIS.Logging 1.0.0.2](https://github.com/bamcisnetworks/BAMCIS.Logging)**  - Contains functions to simplify logging inside PowerShell cmdlets. [*10/26/2017 17:07:57*]
++ **[HostUtilities 1.1.3.1](https://github.com/bamcisnetworks/HostUtilities)**  - A collection of utilities to help automate administration tasks on a local host. [*10/24/2017 19:30:58*]
++ **[InfobloxGrid 2.0.0.3](https://github.com/bamcisnetworks/InfobloxGrid)**  - Providers a wrapper around the Infoblox WAPI. The current SDK supports objects up to version 2.0 of the WAPI, although the PowerShell cmdlets can be used with WAPI versions above 2.0. Extensible attributes on objects are not currently supported. [*08/23/2017 03:26:02*]
++ **[ActiveDirectoryTools 2.0.0.9](https://github.com/bamcisnetworks/ActiveDirectoryTools)**  - Custom tools for automating Active Directory management and setup. I've put these together to consolidate a number of scripts I regularly used. [*08/07/2017 14:58:27*]
++ **[ESENT 1.0.0.1](https://github.com/bamcisnetworks/ESENT)**  - Provides PowerShell cmdlets to use with the built-in Extensible Storage Engine (ESE) aka JET Blue. The module utilizes the ManagedESENT .NET library and provides read-only access to existing ESENT databases. [*06/27/2017 19:09:53*]
++ **[SqlStig 0.1.0.2](https://github.com/bamcisnetworks/SqlStig)**  - Configures all of the settings required by the SQL 2014 Draft STIG excluding the Logon Trigger requirement (I find this to essentially break everytime) and TDE.
+
+Run both the Set-SQLInstanceStigItems and Set-SQLDatabaseStigItems to completely STIG the Instance. Requires some prior setup for SQL Agent Operators and Windows and/or Local Groups. [*03/04/2017 04:36:40*]
++ **[InstallExchange 1.0.0.9](https://github.com/bamcisnetworks/InstallExchange)**  - This module automates the installation of Exchange 2013 or 2016 including retrieving installation media, installing prerequisites, and post configuration tasks.
+
+To get started, download and unpack the Exchange 2013 or 2016 installation media to a directory on the server (which should be domain joined already) or use the Get-ExchangeInstallationMedia cmdlet. This will be the SourceDirectory parameter for Install-Exchange. 
+
+Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017 04:24:01*]
++ **[ESAE 0.0.0.22](https://github.com/bamcisnetworks/ESAE)**  - Builds a secure ESAE Forest from which to manage other AD Forests. Can also be used to build a standalone secure forest. Includes all DISA STIGs as GPOs for Windows 8.1, Server 2012 R2, and more. [*03/03/2017 20:22:36*]
++ **[ActiveDirectoryStig 1.0.0.9](https://github.com/bamcisnetworks/ActiveDirectoryStig)**  - Contains functions to set Active Directory STIG requirements that are not configurable through a GPO. [*03/03/2017 16:46:28*]
++ **[DnsStig 1.0.0.9](https://github.com/bamcisnetworks/DnsStig)**  - Automates completing the Windows Server 2012 DNS STIG. Does not include DNSSEC related checks. [*03/03/2017 15:38:26*]
++ **[AssetInventory 1.0.1.6](https://github.com/bamcisnetworks/AssetInventory)**  - Collects asset information including software inventory, windows updates, and system information. [*01/19/2017 03:14:25*]
++ **[Hyper-VAdministration 1.0.0.1](https://github.com/bamcisnetworks/Hyper-VAdministration)**  - Performs automated tasks to help in the administration of Hyper-V environments. [*01/03/2017 17:16:25*]
++ **DISA_STIG 1.0.0.2**  - Converts DISA STIG xccdf and zip files to usable objects and makes comparisons of STIGs for easy updates to GPOs. [*11/26/2015 14:56:24*]
+
+## Michal Gajda
+
++ **[PSMSAL 4.70.0.6](https://github.com/mgajda83/PSMSAL)**  - PowerShell module for MSAL Tokens. [*04/02/2025 10:54:09*]
++ **[PSAdaptiveCards 1.0.0.6](https://github.com/mgajda83/PSAdaptiveCards)**  - Set of classes to build AdaptiveCard object [*03/20/2025 14:13:58*]
++ **[PSChatBot 1.0.0.7](https://github.com/mgajda83/PSChatBot)**  - Send Teams message as ChatBot [*03/18/2025 07:35:28*]
++ **[PSDevOpsBackup 1.0.1.2](https://github.com/mgajda83/PSDevOpsBackup)**  - PowerShell module for backup DevOps repos. [*01/03/2025 15:05:21*]
++ **[PSSentinelOneAPI 1.0.0.7](https://github.com/mgajda83/PSSentinelOneAPI)**  - Module to handle the SentinelOne API [*11/22/2024 12:25:53*]
++ **[PSWindowsUpdate 2.2.1.5](https://github.com/mgajda83/PSWindowsUpdate)**  - This module contain cmdlets to manage Windows Update Client. [*07/20/2024 10:51:44*]
++ **[PSRuntimeEnviromentModule 1.0.0.2](https://github.com/mgajda83/PSRuntimeEnviromentModule)**  - Module to manage PowerShell modules in Azure Automation Runtime Enviroments. [*07/19/2024 11:36:28*]
++ **[IntuneDiagnosticTools 1.0.0.0](https://github.com/mgajda83/IntuneDiagnosticTools)**  - Set of tools to diagnostics Intune client. [*12/07/2023 09:49:43*]
++ **[PSSDPAPI 1.0.2.2](https://github.com/mgajda83/PSSDPAPI)**  - Modul PowerShell do obslugi API ServiceDesk Plus. [*06/15/2023 14:39:14*]
++ **[PSServiceBusMessenger 1.0.0.9](https://github.com/mgajda83/PSServiceBusMessenger)**  - Manage ServiceBus messages [*06/12/2023 15:29:51*]
++ **[PSLogAnalyticsWriter 1.0.0.6](https://github.com/mgajda83/PSLogAnalyticsWriter)**  - Write object to LogAnalytics workspace. [*06/09/2023 07:37:31*]
++ **[PSDefenderEndpoint 1.0.1.5](https://github.com/mgajda83/PSDefenderEndpoint)**  - Modul PowerShell do obslugi API Microsoft Defender for Endpoint. [*04/28/2023 08:38:33*]
++ **[PSJWTToken 1.0.0.1](https://github.com/mgajda83/PSJWTToken)**  - Powershell modul for decoding JWT Tokens from Azure AD. [*03/09/2023 06:56:09*]
++ **[PSMISP 1.0.0.12](https://github.com/mgajda83/PSMISP)**  - Modul PowerShell do obslugi API MISP. [*10/28/2022 11:33:13*]
++ **[PSJiraAPI 1.0.0.1](https://github.com/mgajda83/PSJiraAPI)**  - Module to invoke Jira API requests. [*10/24/2022 14:06:57*]
++ **[PSWinGet 1.0.0.7](https://github.com/mgajda83/PSWinGet)**  - This module contain functions to manage WinGet Client. [*08/23/2022 12:32:21*]
++ **PSM365Security 1.0.0.3**  - Modul PowerShell do obslugi API Microsoft 365 Security. [*06/27/2022 13:25:45*]
++ **PSAES 1.0.0.5**  - AES encryption module. [*05/16/2022 11:40:28*]
++ **PSSubnetScanCore 2.0.3.2**  - The module allows you to scan a range of IP addresses to obtain information about the status of individual machines. Returns information about ICMP status, optionally the machine name from DNS, and status of ports or remote management protocols like WMI/WSMan [*04/14/2022 15:27:50*]
++ **PSSubnetScan 2.0.3.2**  - The module allows you to scan a range of IP addresses to obtain information about the status of individual machines. Returns information about ICMP status, optionally the machine name from DNS, and status of ports or remote management protocols like WMI/WSMan [*04/14/2022 15:19:23*]
++ **PSCredMan 1.0.0.3**  - Module for management of Windows Credential Manager objects [*04/14/2022 12:38:26*]
++ **PSFTP 1.7.1.1**  - This module contain function to manage FTP account. [*09/02/2021 11:00:20*]
++ **PSReEnrollment 1.0.0.1**  - Intune Force reEnrollmet [*03/26/2021 06:36:31*]
++ **PSMyClaims 1.1.0.2**  - PSMyClaims is a PowerShell graphical tool for generate and debuging Azure AD OAuth tokens. [*12/30/2020 14:02:57*]
++ **PSEWS.Api 2.2.1.0**  - It is base EWS.Api for using in Azure Automation. [*10/18/2019 11:26:29*]
++ **PSVirusTotal 1.0.0.0**  - Modul to get basic Virus Total reports [*10/18/2019 07:40:25*]
++ **ConvertADName 1.0.0.0**  - Module for converting usernames of AD users [*01/13/2019 12:42:21*]
++ **PasswordsGenerator 1.0.0.0**  - Password Gernerator [*09/01/2015 16:35:17*]
 
 ## Jakoby
 
@@ -1450,7 +1482,6 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **node 0.0.1**  - manage node [*05/07/2025 11:54:23*]
 + **HackerOne 0.0.1**  - Navigate the HackerOne Api [*05/02/2025 10:19:08*]
 + **example3 0.0.1**  - test [*04/23/2025 19:04:45*]
-+ **xss 0.0.6**  - XSS Test [*04/17/2025 07:58:02*]
 + **lolbins 0.0.5**  - gives automated functionality to LOLBAS project [*03/30/2025 17:48:10*]
 + **example 0.0.2**  - start calc [*06/22/2024 15:16:05*]
 + **Resolve-DnsName 0.0.2**  - Provides access to the Resolve-DnsName function on Linux [*06/03/2024 12:22:09*]
@@ -1496,43 +1527,13 @@ function four  {echo "command 4"} [*08/07/2023 00:47:51*]
     }
 } [*12/02/2022 02:33:28*]
 
-## Michal Gajda
-
-+ **[PSMSAL 4.70.0.6](https://github.com/mgajda83/PSMSAL)**  - PowerShell module for MSAL Tokens. [*04/02/2025 10:54:09*]
-+ **[PSAdaptiveCards 1.0.0.6](https://github.com/mgajda83/PSAdaptiveCards)**  - Set of classes to build AdaptiveCard object [*03/20/2025 14:13:58*]
-+ **[PSChatBot 1.0.0.7](https://github.com/mgajda83/PSChatBot)**  - Send Teams message as ChatBot [*03/18/2025 07:35:28*]
-+ **[PSDevOpsBackup 1.0.1.2](https://github.com/mgajda83/PSDevOpsBackup)**  - PowerShell module for backup DevOps repos. [*01/03/2025 15:05:21*]
-+ **[PSSentinelOneAPI 1.0.0.7](https://github.com/mgajda83/PSSentinelOneAPI)**  - Module to handle the SentinelOne API [*11/22/2024 12:25:53*]
-+ **[PSWindowsUpdate 2.2.1.5](https://github.com/mgajda83/PSWindowsUpdate)**  - This module contain cmdlets to manage Windows Update Client. [*07/20/2024 10:51:44*]
-+ **[PSRuntimeEnviromentModule 1.0.0.2](https://github.com/mgajda83/PSRuntimeEnviromentModule)**  - Module to manage PowerShell modules in Azure Automation Runtime Enviroments. [*07/19/2024 11:36:28*]
-+ **[IntuneDiagnosticTools 1.0.0.0](https://github.com/mgajda83/IntuneDiagnosticTools)**  - Set of tools to diagnostics Intune client. [*12/07/2023 09:49:43*]
-+ **[PSSDPAPI 1.0.2.2](https://github.com/mgajda83/PSSDPAPI)**  - Modul PowerShell do obslugi API ServiceDesk Plus. [*06/15/2023 14:39:14*]
-+ **[PSServiceBusMessenger 1.0.0.9](https://github.com/mgajda83/PSServiceBusMessenger)**  - Manage ServiceBus messages [*06/12/2023 15:29:51*]
-+ **[PSLogAnalyticsWriter 1.0.0.6](https://github.com/mgajda83/PSLogAnalyticsWriter)**  - Write object to LogAnalytics workspace. [*06/09/2023 07:37:31*]
-+ **[PSDefenderEndpoint 1.0.1.5](https://github.com/mgajda83/PSDefenderEndpoint)**  - Modul PowerShell do obslugi API Microsoft Defender for Endpoint. [*04/28/2023 08:38:33*]
-+ **[PSJWTToken 1.0.0.1](https://github.com/mgajda83/PSJWTToken)**  - Powershell modul for decoding JWT Tokens from Azure AD. [*03/09/2023 06:56:09*]
-+ **[PSMISP 1.0.0.12](https://github.com/mgajda83/PSMISP)**  - Modul PowerShell do obslugi API MISP. [*10/28/2022 11:33:13*]
-+ **[PSJiraAPI 1.0.0.1](https://github.com/mgajda83/PSJiraAPI)**  - Module to invoke Jira API requests. [*10/24/2022 14:06:57*]
-+ **[PSWinGet 1.0.0.7](https://github.com/mgajda83/PSWinGet)**  - This module contain functions to manage WinGet Client. [*08/23/2022 12:32:21*]
-+ **PSM365Security 1.0.0.3**  - Modul PowerShell do obslugi API Microsoft 365 Security. [*06/27/2022 13:25:45*]
-+ **PSAES 1.0.0.5**  - AES encryption module. [*05/16/2022 11:40:28*]
-+ **PSSubnetScanCore 2.0.3.2**  - The module allows you to scan a range of IP addresses to obtain information about the status of individual machines. Returns information about ICMP status, optionally the machine name from DNS, and status of ports or remote management protocols like WMI/WSMan [*04/14/2022 15:27:50*]
-+ **PSSubnetScan 2.0.3.2**  - The module allows you to scan a range of IP addresses to obtain information about the status of individual machines. Returns information about ICMP status, optionally the machine name from DNS, and status of ports or remote management protocols like WMI/WSMan [*04/14/2022 15:19:23*]
-+ **PSCredMan 1.0.0.3**  - Module for management of Windows Credential Manager objects [*04/14/2022 12:38:26*]
-+ **PSFTP 1.7.1.1**  - This module contain function to manage FTP account. [*09/02/2021 11:00:20*]
-+ **PSReEnrollment 1.0.0.1**  - Intune Force reEnrollmet [*03/26/2021 06:36:31*]
-+ **PSMyClaims 1.1.0.2**  - PSMyClaims is a PowerShell graphical tool for generate and debuging Azure AD OAuth tokens. [*12/30/2020 14:02:57*]
-+ **PSEWS.Api 2.2.1.0**  - It is base EWS.Api for using in Azure Automation. [*10/18/2019 11:26:29*]
-+ **PSVirusTotal 1.0.0.0**  - Modul to get basic Virus Total reports [*10/18/2019 07:40:25*]
-+ **ConvertADName 1.0.0.0**  - Module for converting usernames of AD users [*01/13/2019 12:42:21*]
-+ **PasswordsGenerator 1.0.0.0**  - Password Gernerator [*09/01/2015 16:35:17*]
-
 ## Andreas Eulitz
 
 + **Gumby.Math 0.0.1.1**  - Module containing math helper methods. [*05/29/2025 22:49:46*]
 + **Gumby.Window 0.0.1.1**  - Module containing console character window helper methods. [*06/28/2024 18:52:13*]
 + **Gumby.TreeView 0.0.1.1**  - Module containing console character tree view helper methods. [*06/28/2024 18:51:57*]
 + **Gumby.SysConfig 0.0.1.1**  - Module containing system configuration helper methods. [*06/28/2024 18:51:34*]
++ **Gumby.String 0.0.1.8**  - String utility functions. [*06/28/2024 18:51:20*]
 + **Gumby.Search 0.0.1.1**  - Module containing search helper methods. [*06/28/2024 18:51:08*]
 + **Gumby.ScrollView 0.0.1.1**  - Module containing console char scrollview helper methods. [*06/28/2024 18:50:53*]
 + **Gumby.Navigate 0.0.1.1**  - Module containing navigation helper methods. [*06/28/2024 18:50:38*]
@@ -1540,13 +1541,13 @@ function four  {echo "command 4"} [*08/07/2023 00:47:51*]
 + **Gumby.Git 0.0.1.1**  - Module containing Git helper methods. [*06/28/2024 18:50:01*]
 + **Gumby.File 0.0.1.4**  - Module containing file system helper methods. [*06/28/2024 18:49:50*]
 + **Gumby.CmdHistory 0.0.1.2**  - Module containing command history helper methods. [*06/28/2024 18:49:33*]
++ **Gumby.DirHistory 0.0.1.0**  - Module containing directory history helper methods. [*06/28/2024 01:03:47*]
 + **Gumby.Win32 0.0.1.0**  - Module containing Win32 helper methods. [*06/28/2024 00:23:09*]
 + **Gumby.Object 0.0.1.0**  - Module containing object helper methods. [*06/28/2024 00:13:54*]
 + **Gumby.Net 0.0.1.0**  - Module containing networking helper methods. [*06/28/2024 00:07:11*]
 + **Gumby.LaunchHelpers 0.0.1.0**  - Module containing app launch helper methods. [*06/27/2024 23:51:52*]
 + **Gumby.Input 0.0.1.0**  - Module containing input helper methods. [*06/27/2024 23:46:30*]
 + **Gumby.FSShortcuts 0.0.1.0**  - Module containing file system shortcut helper methods. [*06/27/2024 23:18:34*]
-+ **Gumby.DotNet 0.0.1.0**  - Module containing .NET helper methods. [*06/27/2024 23:12:53*]
 + **Gumby.Crypto 0.0.1.0**  - Module containing crypto helper methods. [*06/27/2024 23:02:18*]
 + **Gumby.Conversion 0.0.1.0**  - Module containing conversion helper methods. [*06/27/2024 22:48:16*]
 + **Gumby.Path 0.0.1.5**  - File system path helper functions. [*08/16/2023 23:14:32*]
@@ -1624,4 +1625,4 @@ System Requirements:
     This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
 + **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
-*Updated: Thursday, 27 November 2025 09:53:19 UTC*
+*Updated: Thursday, 27 November 2025 21:52:24 UTC*

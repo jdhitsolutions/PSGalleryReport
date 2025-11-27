@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 27 November 2025 09:53:19 UTC
+Updated: Thursday, 27 November 2025 21:52:24 UTC
 
 .bat
 .env
@@ -146,6 +146,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -221,6 +222,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -640,6 +642,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -681,7 +684,6 @@ automationaccount
 automationanywhere
 automationportal
 automations
-automationutils
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -728,7 +730,6 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
-awspricelist
 awx
 axapta
 axcient
@@ -778,7 +779,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -804,6 +804,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1018,6 +1020,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1155,6 +1158,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1253,7 +1257,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1998,12 +2001,14 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2497,7 +2502,6 @@ durabletask
 dust
 dutch
 dvls
-dvr
 dword
 dxexpeditions
 dynamic
@@ -2766,7 +2770,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3051,6 +3054,7 @@ flasharray
 flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3458,6 +3462,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3539,7 +3544,6 @@ hcm
 hcp
 hcx
 hdfs
-hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3638,7 +3642,6 @@ homebrewing
 homelab
 homelandsecurity
 homeschooling
-hometheater
 hon
 hooking
 horizon
@@ -3658,6 +3661,7 @@ hot-water
 hotkey
 hotkeys
 hotp
+hougaard
 howto
 hp
 hpc
@@ -3775,6 +3779,7 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -4258,6 +4263,7 @@ kusto
 kusto.data
 kusto.ingest
 kvm
+kvp
 l-system
 l1tf
 l2tp
@@ -4518,6 +4524,7 @@ lolcat
 longfile
 longfiles
 longitude
+look
 lookup
 lookupaccountname
 lookupaccountsid
@@ -5045,6 +5052,7 @@ mvr
 mvradaptivecards
 mwsqlserver
 mx
+mxlookup
 mycloudrevolution
 mycorp
 myget
@@ -5297,7 +5305,6 @@ nupkg
 nuspec
 nutanix
 nuwave
-nva
 nvd
 nvdimm
 nvdimm-n
@@ -5507,6 +5514,7 @@ origin
 orion
 orleans
 orm
+orphaned
 orphanedprofiles
 os
 osbuild
@@ -5806,7 +5814,6 @@ play
 playback
 playbook
 player
-playlist
 playlists
 playwright
 plc
@@ -6090,7 +6097,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 pricing
 primenumber
 primera
@@ -9096,7 +9102,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshdhomerun
 pshost
 pshtml
 psidoit
@@ -9286,6 +9291,7 @@ quantum
 quarantine
 queries
 query
+querybuilder
 queryexcel
 querystring
 question
@@ -9394,10 +9400,8 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-reconnaissance
 record
 recording
-recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9468,6 +9472,7 @@ regularexpression
 regularexpressions
 reinstall
 relational
+relativity
 relay
 release
 releasedefinition
@@ -9599,6 +9604,7 @@ retro
 retry
 returnuserprofile
 retype
+reuse
 reverse-engineer
 reverse-string
 reversed-color-text
@@ -9672,11 +9678,9 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routeros
 routes
-routetable
 routine
 rover
 royalapps
@@ -9961,13 +9965,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semanticversioning
@@ -10011,7 +10013,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 serverprotection
@@ -10144,10 +10145,8 @@ signal
 signalfx
 signalr
 signature
-signed
 signing
 signtool
-silicondust
 silk
 silver_ticket
 sim
@@ -10574,6 +10573,7 @@ stringmanager
 stringmanagertool
 strings
 stringtable
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -10696,6 +10696,7 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
+system-group
 system-info
 system-service
 system-services
@@ -10973,6 +10974,7 @@ to-do
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -11019,7 +11021,6 @@ traceevent
 tracer
 tracert
 tracing
-track
 tracker
 tracking
 trading
@@ -11185,7 +11186,6 @@ ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
-ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
@@ -11209,7 +11209,6 @@ udfeedback
 udp
 udpclient
 udptest
-udr
 udthememode
 udword
 uefi
@@ -11411,7 +11410,6 @@ vdswitch
 vduplink
 ve7cc
 vector
-vectormath
 veeam
 veeampn
 veenendaal
@@ -11454,7 +11452,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -12017,7 +12014,6 @@ xql
 xrm
 xsa
 xsiam
-xsl
 xtremio
 xtrude
 xunit
@@ -12036,6 +12032,7 @@ yarn
 yaugeraio
 year
 yetanotherhelloworld
+yfinance
 yify
 yml
 ynab
