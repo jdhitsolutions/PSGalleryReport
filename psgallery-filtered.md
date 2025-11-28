@@ -3,13 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [SentinelOneTextToCSV](https://www.powershellgallery.com/Packages/SentinelOneTextToCSV/0.0.1) | 0.0.1
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.4.5) | 2.4.5
 
-### Published: 11/28/2025 08:54:49 by Jacob Phillips
+### Published: 11/28/2025 20:09:17 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 9,049 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [compass](https://www.powershellgallery.com/Packages/compass/0.2.0) | 0.2.0
+
+### Published: 11/28/2025 19:58:48 by adil-adysh
+
+A PowerShell utility that surfaces recently modified files with date, size, and extension filters plus readable output.
+
+__Downloads__: 1 | __Repository__: https://github.com/adil-adysh/compass
+
+## [DevKit](https://www.powershellgallery.com/Packages/DevKit/1.0.0) | 1.0.0
+
+### Published: 11/28/2025 18:07:42 by Upayan Mazumder
+
+DevKit: Utility scripts for Bash and PowerShell development.
+
+__Downloads__: 1 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.28.3) | 25.11.28.3
+
+### Published: 11/28/2025 17:07:45 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,663,665 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/4.2.25332) | 4.2.25332
+
+### Published: 11/28/2025 16:00:27 by Marcus Melberg
+
+The official eKlient Powershell module to simplify integration with SysMan
+
+__Downloads__: 3,148 | __Repository__: https://www.inera.se/eklient
+
+## [ib](https://www.powershellgallery.com/Packages/ib/1.1.10) | 1.1.10
+
+### Published: 11/28/2025 15:29:09 by Renaud WANGLER
+
+Simplification des actions techniques pour les installations des machines en salle
+
+__Downloads__: 228 | __Repository__: https://github.com/ib-cegos/ibPSModule
+
+## [QrCodeReader](https://www.powershellgallery.com/Packages/QrCodeReader/0.0.1) | 0.0.1
+
+### Published: 11/28/2025 15:23:54 by TYamanaka
+
+This module reads QR Code to convert to readable test.
+
+__Downloads__: 0 | __Repository__: 
+
+## [MCSAssessment](https://www.powershellgallery.com/Packages/MCSAssessment/0.2.0) | 0.2.0
+
+### Published: 11/28/2025 14:03:28 by Claudio Merola
+
+MCS Assessment module for evaluating and analyzing Mission Critical Services for Azure Workloads.
+
+__Downloads__: 6 | __Repository__: 
+
+## [SentinelOneTextToCSV](https://www.powershellgallery.com/Packages/SentinelOneTextToCSV/0.0.2) | 0.0.2
+
+### Published: 11/28/2025 10:13:58 by Jacob Phillips
 
 Convert text-based exclusions into SentinelOne bulk-exclusion CSV format.
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.64) | 1.0.21.64
 
@@ -19,21 +83,13 @@ Quandis Infrastructure Management, including publishing of qbo databases and web
 
 __Downloads__: 1,721 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.28.1) | 25.11.28.1
-
-### Published: 11/28/2025 05:08:52 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,663,674 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.1.1) | 0.1.1
 
 ### Published: 11/28/2025 04:25:36 by Jorgeasaurus
 
 Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
 
-__Downloads__: 0 | __Repository__: https://github.com/jorgeasaurus/Intune-Hydration-Kit
+__Downloads__: 2 | __Repository__: https://github.com/jorgeasaurus/Intune-Hydration-Kit
 
 ## [PSYahooFinance-AI](https://www.powershellgallery.com/Packages/PSYahooFinance-AI/1.0.1) | 1.0.1
 
@@ -123,14 +179,6 @@ relaxed IT client management scripts
 
 __Downloads__: 1,766 | __Repository__: https://github.com/josy1024/RelaxedIT
 
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.4.4) | 2.4.4
-
-### Published: 11/27/2025 15:32:11 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 9,049 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
-
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.6.5) | 2.6.5
 
 ### Published: 11/27/2025 14:54:40 by MASES s.r.l.
@@ -165,7 +213,7 @@ __Downloads__: 1,106 | __Repository__: https://github.com/SamErde/PSPreworkout
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,722,785 | __Repository__: https://dbatools.io/
+__Downloads__: 7,722,744 | __Repository__: https://dbatools.io/
 
 ## [AzureFailureSimulator](https://www.powershellgallery.com/Packages/AzureFailureSimulator/1.0.13) | 1.0.13
 
@@ -213,7 +261,7 @@ __Downloads__: 487 | __Repository__: https://github.com/AzureStackNerd/EntraIdDS
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 16,850,849 | __Repository__: https://vcredist.com/
+__Downloads__: 16,850,753 | __Repository__: https://vcredist.com/
 
 ## [DatabricksDsc](https://www.powershellgallery.com/Packages/DatabricksDsc/0.5.0) | 0.5.0
 
@@ -635,7 +683,7 @@ __Downloads__: 4 | __Repository__:
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 9,458,415 | __Repository__: http://psframework.org/
+__Downloads__: 9,458,382 | __Repository__: http://psframework.org/
 
 ## [TMF](https://www.powershellgallery.com/Packages/TMF/2.0.26787) | 2.0.26787
 
@@ -933,14 +981,6 @@ testing how V3 API repositories handle sem ver
 
 __Downloads__: 6 | __Repository__: 
 
-## [ib](https://www.powershellgallery.com/Packages/ib/1.1.8) | 1.1.8
-
-### Published: 11/20/2025 16:51:07 by Renaud WANGLER
-
-Simplification des actions techniques pour les installations des machines en salle
-
-__Downloads__: 228 | __Repository__: https://github.com/ib-cegos/ibPSModule
-
 ## [PSNotify](https://www.powershellgallery.com/Packages/PSNotify/0.1.0) | 0.1.0
 
 ### Published: 11/20/2025 16:23:34 by florian.von.bracht@apteco.de
@@ -1125,7 +1165,7 @@ __Downloads__: 954 | __Repository__: https://github.com/joshuastenhouse/rscrepor
 
 ArcGIS Module for PowerShell DSC
 
-__Downloads__: 492,438 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+__Downloads__: 492,439 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
 
 ## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.4.0.6) | 1.4.0.6
 
@@ -1993,44 +2033,4 @@ This modules provides Cmdlets for OCI Dif Service
 
 __Downloads__: 161 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:41:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Devops Service
-
-__Downloads__: 12,192 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.30.1) | 4.30.1
-
-### Published: 11/18/2025 18:41:11 by Ryan Bolger
-
-ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
-
-__Downloads__: 3,164,715 | __Repository__: https://github.com/rmbolger/Posh-ACME
-
-## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:41:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Desktops Service
-
-__Downloads__: 6,953 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Demandsignal](https://www.powershellgallery.com/Packages/OCI.PSModules.Demandsignal/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:40:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Demandsignal Service
-
-__Downloads__: 5,568 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Delegateaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Delegateaccesscontrol/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:40:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Delegateaccesscontrol Service
-
-__Downloads__: 3,154 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 28 November 2025 09:52:17 UTC*
+*Updated: Friday, 28 November 2025 21:52:08 UTC*
