@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RandomString](https://www.powershellgallery.com/Packages/RandomString/0.9.0) | 0.9.0
+
+### Published: 11/29/2025 21:14:37 by Kira
+
+Generates random strings with customizable character sets and lengths.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/9.1.1) | 9.1.1
+
+### Published: 11/29/2025 20:54:18 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 18,343 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [signal](https://www.powershellgallery.com/Packages/signal/1.0.0.3) | 1.0.0.3
+
+### Published: 11/29/2025 20:40:48 by PSeudoScripter
+
+Signal module to interact with the Signal Messenger API (bbernhard/signal-cli-rest-api).
+
+__Downloads__: 121 | __Repository__: https://github.com/PSeudoScripter/signal
+
+## [Trilium](https://www.powershellgallery.com/Packages/Trilium/1.0.0) | 1.0.0
+
+### Published: 11/29/2025 20:35:53 by Patrick Morris
+
+Powershell wrapper for the Trilium Notes API
+
+__Downloads__: 343 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
+
+## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.152) | 1.0.152
+
+### Published: 11/29/2025 17:45:10 by hillesheim@n-dimensions.de
+
+N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
+
+__Downloads__: 967 | __Repository__: https://blog.n-dimensions.de/
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.12) | 2.7.12
+
+### Published: 11/29/2025 17:41:26 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 7,732,085 | __Repository__: https://dbatools.io/
+
+## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.11.29) | 2025.11.29
+
+### Published: 11/29/2025 17:20:32 by the dbatools team
+
+The library that powers dbatools, the community module for SQL Server Pros
+
+__Downloads__: 4,055,580 | __Repository__: https://dbatools.io/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.29.3) | 25.11.29.3
+
+### Published: 11/29/2025 17:07:44 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,671,986 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [DattoRMM](https://www.powershellgallery.com/Packages/DattoRMM/1.0.0.34) | 1.0.0.34
+
+### Published: 11/29/2025 13:22:33 by Aaron Engels
+
+This module is designed to make it easier to use the DattoRMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
+
+__Downloads__: 527,911 | __Repository__: https://github.com/aaronengels/DattoRMM
+
 ## [MASES.NavenPS](https://www.powershellgallery.com/Packages/MASES.NavenPS/3.9.3) | 3.9.3
 
 ### Published: 11/29/2025 08:26:55 by MASES s.r.l.
@@ -38,14 +110,6 @@ PLCOnNet (.NET suite for PLC4X™) PowerShell (aka PLCOnNetPS) is a PowerShell M
 More information within the project hosted on GitHub at https://github.com/masesgroup/PLCOnNet for further information.
 
 __Downloads__: 43 | __Repository__: https://github.com/masesgroup/PLCOnNet
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.29.1) | 25.11.29.1
-
-### Published: 11/29/2025 05:07:44 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,671,986 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [QrCodeReader](https://www.powershellgallery.com/Packages/QrCodeReader/0.0.2) | 0.0.2
 
@@ -187,7 +251,7 @@ __Downloads__: 509 | __Repository__: https://github.com/Noble-Effeciency13/PIMAc
 
 Client for the Windmill platform.
 
-__Downloads__: 12,222 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 12,223 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [RelaxedIT.3rdParty](https://www.powershellgallery.com/Packages/RelaxedIT.3rdParty/0.0.89) | 0.0.89
 
@@ -265,14 +329,6 @@ A special mix of tools to help jump start your PowerShell session!
 
 __Downloads__: 1,109 | __Repository__: https://github.com/SamErde/PSPreworkout
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.10) | 2.7.10
-
-### Published: 11/27/2025 12:25:47 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 7,732,140 | __Repository__: https://dbatools.io/
-
 ## [AzureFailureSimulator](https://www.powershellgallery.com/Packages/AzureFailureSimulator/1.0.13) | 1.0.13
 
 ### Published: 11/27/2025 11:16:24 by wmoselhy
@@ -343,7 +399,7 @@ __Downloads__: 127 | __Repository__: https://github.com/niwamo/SpotifyUtils
 
 Activate Windows and Office permanently, installs Office®Tool for deploying Office, enables dotNET 3.5 package and much more.
 
-__Downloads__: 349 | __Repository__: 
+__Downloads__: 348 | __Repository__: 
 
 ## [psedit](https://www.powershellgallery.com/Packages/psedit/1.1.0) | 1.1.0
 
@@ -933,7 +989,7 @@ __Downloads__: 2,207 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 459,803 | __Repository__: https://devolutions.net/
+__Downloads__: 459,802 | __Repository__: https://devolutions.net/
 
 ## [PoshJsonWebToken](https://www.powershellgallery.com/Packages/PoshJsonWebToken/1.2.0) | 1.2.0
 
@@ -1051,7 +1107,7 @@ __Downloads__: 169 | __Repository__: https://github.com/Apteco/AptecoPSModules/t
 
 Module to bootstrap amd support Sopra Steria Norway RightCloud private Powershell Gallery.
 
-__Downloads__: 95,046 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
+__Downloads__: 95,044 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
 
 ## [EntraAuth.Graph.Application](https://www.powershellgallery.com/Packages/EntraAuth.Graph.Application/1.1.9) | 1.1.9
 
@@ -1083,7 +1139,7 @@ __Downloads__: 29,306 | __Repository__: https://github.com/fbprogmbh/Audit-Test-
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 40,527 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 40,549 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.2.3) | 0.2.3
 
@@ -1995,60 +2051,4 @@ This modules provides Cmdlets for OCI Functions Service
 
 __Downloads__: 13,149 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Fleetsoftwareupdate](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetsoftwareupdate/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fleetsoftwareupdate Service
-
-__Downloads__: 8,650 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fleetappsmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetappsmanagement/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fleetappsmanagement Service
-
-__Downloads__: 3,331 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Filestorage Service
-
-__Downloads__: 15,970 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 13,273 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emwarehouse Service
-
-__Downloads__: 10,626 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emaildataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Emaildataplane/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:42:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emaildataplane Service
-
-__Downloads__: 6,204 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Email](https://www.powershellgallery.com/Packages/OCI.PSModules.Email/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:41:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Email Service
-
-__Downloads__: 13,191 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 29 November 2025 09:52:12 UTC*
+*Updated: Saturday, 29 November 2025 21:52:11 UTC*
