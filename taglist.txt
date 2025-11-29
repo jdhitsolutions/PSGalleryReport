@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 28 November 2025 21:52:18 UTC
+Updated: Saturday, 29 November 2025 09:52:21 UTC
 
 .bat
 .env
@@ -642,6 +642,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -1062,6 +1063,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1315,7 +1317,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1963,6 +1964,7 @@ daily
 dalle3
 dane
 dangling
+dapper
 dapr
 dare
 dark
@@ -3091,7 +3093,6 @@ food
 football
 for
 force
-forcedelete
 foreach
 foreach-object
 forecast
@@ -3329,6 +3330,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3477,6 +3479,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3675,8 +3678,6 @@ hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpegreenlake
 hpeilocmdlets
-hpemigrationadvisorycmdlets
-hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
@@ -3689,7 +3690,6 @@ hrprovisioning
 hsdp
 hsl
 html
-html-templates
 htmlentity
 http
 http_proxy
@@ -3782,6 +3782,7 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -5610,6 +5611,7 @@ pages
 pagination
 paging
 palo
+paloalto
 paloaltonetworks
 pam
 pan
@@ -9216,7 +9218,6 @@ publishing
 publishmap
 pubsub
 pubxml
-pull
 pulldistributionpoint
 pullrequest
 pullserver
@@ -9532,6 +9533,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -10826,7 +10830,6 @@ temp
 temperature
 template
 template-engine
-template-utility
 templater
 templates
 templating
@@ -10893,7 +10896,6 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10956,7 +10958,6 @@ ticks
 tictactoe
 tiermodel
 time
-timedlogging
 timeout
 timer
 timeseriesinsights
@@ -11754,6 +11755,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -12093,6 +12095,7 @@ zpr
 zsh
 zstd
 zstd-compression
+zuora
 zvm
 zvml
 zvmlinux
