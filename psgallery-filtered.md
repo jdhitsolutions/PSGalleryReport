@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSRainbow](https://www.powershellgallery.com/Packages/PSRainbow/1.0.1) | 1.0.1
+
+### Published: 11/30/2025 21:40:38 by Gregory F Martin (Not Gary)
+
+Provides a library of 24-bit colors that can be used in PowerShell scripts.
+
+__Downloads__: 1 | __Repository__: https://github.com/gregoryfmartin/PSRainbow
+
+## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.5.3) | 0.5.3
+
+### Published: 11/30/2025 20:07:54 by Alexis La Goutte
+
+A PowerShell module to generate an as built report on the configuration of Fortinet FortiGate.
+
+__Downloads__: 32,417 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Fortinet.FortiGate
+
+## [PeachSecurity.AIUsageDiscovery](https://www.powershellgallery.com/Packages/PeachSecurity.AIUsageDiscovery/1.1.0) | 1.1.0
+
+### Published: 11/30/2025 19:47:28 by Peach Security
+
+Discover AI usage and Shadow AI across Chrome, Edge, and Firefox using PowerShell.
+
+__Downloads__: 0 | __Repository__: https://github.com/Peach-Security/AIUsageDiscovery
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.587.0) | 1.587.0
+
+### Published: 11/30/2025 17:53:31 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 12,236 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.30.3) | 25.11.30.3
+
+### Published: 11/30/2025 17:07:18 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,672,952 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PoshMCP](https://www.powershellgallery.com/Packages/PoshMCP/0.1.3) | 0.1.3
+
+### Published: 11/30/2025 14:25:51 by Cezary Piatek
+
+A Model Context Protocol (MCP) server that exposes PowerShell cmdlets as tools for AI assistants like Claude or GitHub Copilot. Features declarative configuration, automatic schema generation from cmdlet documentation, and security through explicit cmdlet whitelisting.
+
+__Downloads__: 0 | __Repository__: https://github.com/cezarypiatek/PoshMCP
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.7) | 1.3.7
+
+### Published: 11/30/2025 14:05:25 by Yoshifumi Tsuda
+
+Enables PowerShell console to function as an MCP server for Claude Desktop.
+
+__Downloads__: 474 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+
+## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.7) | 1.0.7
+
+### Published: 11/30/2025 12:33:44 by Maxim Zaytsev
+
+A graphical viewer and explorer for PowerShell Abstract Syntax Trees (AST)
+
+__Downloads__: 34 | __Repository__: https://github.com/Krinopotam/PsAstViewer
+
+## [Sql](https://www.powershellgallery.com/Packages/Sql/0.7.0) | 0.7.0
+
+### Published: 11/30/2025 11:22:04 by Cédric Belin <cedx@outlook.com>
+
+A simple micro-ORM supporting MySQL, PostgreSQL, SQL Server and SQLite.
+
+__Downloads__: 75 | __Repository__: https://github.com/cedx/sql.ps1
+
+## [MyPowerShellTemplates](https://www.powershellgallery.com/Packages/MyPowerShellTemplates/1.3.0) | 1.3.0
+
+### Published: 11/30/2025 10:01:26 by numidia
+
+A comprehensive PowerShell module development toolkit for creating templates, scaffolding modules, and generating PowerShell scripts with best practices built-in.
+
+__Downloads__: 31 | __Repository__: https://github.com/NumidiaLive/MyPowershellTemplates
+
 ## [MyBudgetPowerShellModule](https://www.powershellgallery.com/Packages/MyBudgetPowerShellModule/0.4.0) | 0.4.0
 
 ### Published: 11/30/2025 09:28:42 by Your Name
@@ -26,14 +106,6 @@ __Downloads__: 1,726 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/q
 Bringing simple dotfiles management to Windows
 
 __Downloads__: 781 | __Repository__: https://github.com/ralish/PSPuTTYCfg
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.30.1) | 25.11.30.1
-
-### Published: 11/30/2025 05:07:44 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,672,952 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Works4me.Xurrent.GraphQL](https://www.powershellgallery.com/Packages/Works4me.Xurrent.GraphQL/1.0.4.2) | 1.0.4.2
 
@@ -117,7 +189,7 @@ __Downloads__: 346 | __Repository__: https://github.com/ptmorris1/TriliumNext-Po
 
 N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
 
-__Downloads__: 996 | __Repository__: https://blog.n-dimensions.de/
+__Downloads__: 1,005 | __Repository__: https://blog.n-dimensions.de/
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.12) | 2.7.12
 
@@ -305,14 +377,6 @@ PowerShell module for managing Microsoft Entra ID Privileged Identity Management
 
 __Downloads__: 509 | __Repository__: https://github.com/Noble-Effeciency13/PIMActivation
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.586.0) | 1.586.0
-
-### Published: 11/27/2025 17:48:53 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 12,236 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [RelaxedIT.3rdParty](https://www.powershellgallery.com/Packages/RelaxedIT.3rdParty/0.0.89) | 0.0.89
 
 ### Published: 11/27/2025 15:34:23 by Josef Lahmer
@@ -396,6 +460,14 @@ __Downloads__: 1,112 | __Repository__: https://github.com/SamErde/PSPreworkout
 A PowerShell module to simulate Azure resource failures
 
 __Downloads__: 58 | __Repository__: 
+
+## [NCache.Azure](https://www.powershellgallery.com/Packages/NCache.Azure/1.0.17) | 1.0.17
+
+### Published: 11/27/2025 10:16:44 by Alachisoft
+
+The NCache Azure PowerShell Module simplifies managing NCache environments in Microsoft Azure. It lets you deploy, configure, license, monitor, and test distributed caches and clients through an easy-to-use set of PowerShell cmdlets
+
+__Downloads__: 120 | __Repository__: 
 
 ## [IPNetCalc](https://www.powershellgallery.com/Packages/IPNetCalc/1.0.1) | 1.0.1
 
@@ -895,14 +967,6 @@ Module covering functions that are shared within multiple projects
 
 __Downloads__: 655,262 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
-## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.6) | 1.0.6
-
-### Published: 11/23/2025 09:13:49 by Maxim Zaytsev
-
-A graphical viewer and explorer for PowerShell Abstract Syntax Trees (AST)
-
-__Downloads__: 34 | __Repository__: https://github.com/Krinopotam/PsAstViewer
-
 ## [EasyGUI](https://www.powershellgallery.com/Packages/EasyGUI/1.2.0) | 1.2.0
 
 ### Published: 11/23/2025 08:10:40 by SercretProgrammer
@@ -983,13 +1047,13 @@ By default it installs SQL Engine and full text search, adds built-in Administra
 
 __Downloads__: 54,244 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
 
-## [Sql](https://www.powershellgallery.com/Packages/Sql/0.6.0) | 0.6.0
+## [Meca.Tools.WindowsVault](https://www.powershellgallery.com/Packages/Meca.Tools.WindowsVault/0.0.2) | 0.0.2
 
-### Published: 11/22/2025 00:52:55 by Cédric Belin <cedx@outlook.com>
+### Published: 11/22/2025 03:44:39 by dqlr
 
-A simple micro-ORM supporting MySQL, PostgreSQL, SQL Server and SQLite.
+Functions for Simple WindowsVault Management
 
-__Downloads__: 76 | __Repository__: https://github.com/cedx/sql.ps1
+__Downloads__: 12 | __Repository__: 
 
 ## [ProxmoxPVE](https://www.powershellgallery.com/Packages/ProxmoxPVE/9.1.1) | 9.1.1
 
@@ -1986,69 +2050,4 @@ This modules provides Cmdlets for OCI Identity Service
 
 __Downloads__: 23,398 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:44:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 27,751 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:44:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Governancerulescontrolplane Service
-
-__Downloads__: 10,724 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.30.1) | 4.30.1
-
-### Published: 11/18/2025 18:44:10 by Ryan Bolger
-
-ACME protocol client for obtaining certificates using Let''s Encrypt (or other ACME compliant CA)
-This is a custom build intended allow compatibility with .NET 4.6.1. It should not be used with PowerShell Core and you should only attempt to use RSA based key options.
-
-__Downloads__: 7,520 | __Repository__: https://github.com/rmbolger/Posh-ACME
-
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:44:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 12,810 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:43:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Globallydistributeddatabase Service
-
-__Downloads__: 7,319 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:43:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 12,432 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:43:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 7,415 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeaiagentruntime](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagentruntime/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:43:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiagentruntime Service
-
-__Downloads__: 2,649 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 30 November 2025 09:51:45 UTC*
+*Updated: Sunday, 30 November 2025 21:52:13 UTC*

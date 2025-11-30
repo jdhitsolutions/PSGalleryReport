@@ -50,7 +50,7 @@ __Downloads__: 141,557,825 | __Repository__: https://github.com/cloudbase/powers
 
 Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
 
-__Downloads__: 94,667,407 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+__Downloads__: 94,666,353 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
 
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.4.0) | 2.4.0
 
@@ -58,7 +58,7 @@ __Downloads__: 94,667,407 | __Repository__: https://github.com/EvotecIT/Security
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 88,859,776 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 88,859,367 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
 
@@ -66,7 +66,7 @@ __Downloads__: 88,859,776 | __Repository__: https://github.com/teamviewer/TeamVi
 
 Provides access to credentials in the Windows Credential Manager
 
-__Downloads__: 84,197,627 | __Repository__: 
+__Downloads__: 84,197,591 | __Repository__: 
 
 ## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
 
@@ -74,7 +74,7 @@ __Downloads__: 84,197,627 | __Repository__:
 
 The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join.
 
-__Downloads__: 83,654,053 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
+__Downloads__: 83,653,609 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -99,7 +99,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 79,918,969 | __Repository__: http://get-carbon.org/
+__Downloads__: 79,918,919 | __Repository__: http://get-carbon.org/
 
 ## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
 
@@ -107,7 +107,7 @@ __Downloads__: 79,918,969 | __Repository__: http://get-carbon.org/
 
 Module to detect Windows OS pending reboots.
 
-__Downloads__: 79,203,734 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+__Downloads__: 79,203,435 | __Repository__: https://github.com/bcwilhite/PendingReboot/
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.7) | 3.2.7
 
@@ -115,7 +115,7 @@ __Downloads__: 79,203,734 | __Repository__: https://github.com/bcwilhite/Pending
 
 Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials.
 
-__Downloads__: 60,370,794 | __Repository__: https://github.com/darkoperator/Posh-SSH
+__Downloads__: 60,370,375 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
@@ -123,7 +123,7 @@ __Downloads__: 60,370,794 | __Repository__: https://github.com/darkoperator/Posh
 
 List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
 
-__Downloads__: 56,707,579 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
+__Downloads__: 56,707,555 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
 
 ## [PSLogging](https://www.powershellgallery.com/Packages/PSLogging/2.5.2) | 2.5.2
 
@@ -131,7 +131,7 @@ __Downloads__: 56,707,579 | __Repository__: https://www.systanddeploy.com/2022/0
 
 Creates and manages log files for your scripts.
 
-__Downloads__: 55,898,856 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
+__Downloads__: 55,898,846 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
 
 ## [DockerMsftProvider](https://www.powershellgallery.com/Packages/DockerMsftProvider/1.0.0.8) | 1.0.0.8
 
@@ -1207,9 +1207,9 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 5,742,928 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.30.1) | 25.11.30.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.30.3) | 25.11.30.3
 
-### Published: 11/30/2025 05:07:44 by David Segura . Gary Blok . Michael Escamilla
+### Published: 11/30/2025 17:07:18 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
@@ -2138,4 +2138,4 @@ Write-Color is a wrapper around Write-Host allowing you to create nice looking s
 
 __Downloads__: 1,104,237 | __Repository__: https://github.com/EvotecIT/PSWriteColor
 
-*Updated: Sunday, 30 November 2025 09:51:51 UTC*
+*Updated: Sunday, 30 November 2025 21:52:19 UTC*
