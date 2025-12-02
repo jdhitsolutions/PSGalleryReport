@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 December 2025 21:52:42 UTC
+Updated: Tuesday, 02 December 2025 09:54:32 UTC
 
 .bat
 .env
@@ -14,8 +14,6 @@ Updated: Monday, 01 December 2025 21:52:42 UTC
 'provider'
 "<script>alert()</script>
 "interactive
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -79,6 +77,7 @@ aam
 aas
 aatp
 abakion
+abc
 abc_testing
 abe
 about
@@ -276,7 +275,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -576,7 +574,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -620,7 +617,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -629,7 +625,6 @@ auditad
 auditing
 auditnetlogon
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -682,6 +677,7 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -855,7 +851,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -998,7 +993,6 @@ black
 blackbaud
 blackberry
 blackberryuem
-blackbox
 blackbytesbox
 blacklist
 blade
@@ -1146,7 +1140,6 @@ bzip2-compression
 c
 c#
 c++
-c2r
 ca
 cache
 cachedroles
@@ -1388,7 +1381,6 @@ cli
 cli-menu
 cli-menu-helpers
 clickonce
-clicktorun
 client
 client-management
 clientpushsettings
@@ -1578,7 +1570,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -1876,7 +1867,6 @@ csp
 cspm
 csproj
 css
-csstools
 csv
 csv2adx
 csvhelper
@@ -1916,7 +1906,6 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
-customformatregionalsettings
 custominformationservices
 customis
 customisation
@@ -1986,7 +1975,6 @@ database
 database-first
 database-migrations
 databaseautomation
-databasefirst
 databasemanagement
 databasemigration
 databaserecovery
@@ -2104,6 +2092,7 @@ deepseek
 deepseek-coder
 deepseek-coder-v2
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -2143,7 +2132,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2267,11 +2255,13 @@ disablestartkey
 disasm
 disasterrecovery
 disconnect
+disconnectedoperations
 discord
 discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 diskcleanup
@@ -3354,10 +3344,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -3378,7 +3370,6 @@ golang
 golden_ticket
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-fonts
@@ -3519,6 +3510,7 @@ hardensysvol
 hardlink
 hardmatch
 hardware
+harperdb
 hartokens
 harvest
 harvestforecast
@@ -3921,7 +3913,6 @@ installercache
 installers
 installoffice
 installofficertool
-installtotalcommander
 instance
 instant
 instapush
@@ -4207,7 +4198,6 @@ keymanagementserver
 keymap
 keymapping
 keypair
-keyring
 keysms
 keytab
 keyusage
@@ -4357,7 +4347,6 @@ libgit2
 libmagic
 libraries
 library
-libsecret
 libvirt
 licence
 license
@@ -4914,7 +4903,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -5144,6 +5132,7 @@ netherlands
 netmask
 netpdf
 netpdfps
+nets
 netsapiens
 netscaler
 netscape
@@ -5678,7 +5667,6 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
-passwordwolf
 paste
 patch
 patches
@@ -5781,6 +5769,7 @@ pim-as-code
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5959,7 +5948,6 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -6130,6 +6118,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -7415,20 +7404,6 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
-pscommand_invoke-vscodeadd
-pscommand_invoke-vscodediff
-pscommand_invoke-vscodeforpwd
-pscommand_invoke-vscodegoto
-pscommand_invoke-vscodeinstallextension
-pscommand_invoke-vscodenewwindow
-pscommand_invoke-vscodereusewindow
-pscommand_invoke-vscodeuninstallextension
-pscommand_invoke-vscodeverbose
-pscommand_invoke-vscodewithdisableextensions
-pscommand_invoke-vscodewithextensionsdir
-pscommand_invoke-vscodewithlog
-pscommand_invoke-vscodewithuserdatadir
-pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -7926,21 +7901,7 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
-pscommand_vsc
-pscommand_vsca
-pscommand_vscd
-pscommand_vscde
-pscommand_vsced
-pscommand_vscg
-pscommand_vscie
-pscommand_vscl
-pscommand_vscn
 pscommand_vscp
-pscommand_vscr
-pscommand_vscu
-pscommand_vscue
-pscommand_vscv
-pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -8831,20 +8792,6 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
-psfunction_invoke-vscodeadd
-psfunction_invoke-vscodediff
-psfunction_invoke-vscodeforpwd
-psfunction_invoke-vscodegoto
-psfunction_invoke-vscodeinstallextension
-psfunction_invoke-vscodenewwindow
-psfunction_invoke-vscodereusewindow
-psfunction_invoke-vscodeuninstallextension
-psfunction_invoke-vscodeverbose
-psfunction_invoke-vscodewithdisableextensions
-psfunction_invoke-vscodewithextensionsdir
-psfunction_invoke-vscodewithlog
-psfunction_invoke-vscodewithuserdatadir
-psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -9232,7 +9179,6 @@ pure
 pure1
 pureservice
 purestorage
-purfew
 purple
 purview
 push
@@ -9366,7 +9312,6 @@ rbac
 rbacmodel
 rbsu
 rc4
-rcon
 rcs
 rcu
 rdap
@@ -9521,7 +9466,6 @@ remotepro
 remoteregistry
 remotesession
 remoting
-removal
 remove
 remove-githubsecrets
 remove-itemproperty
@@ -9857,7 +9801,6 @@ scraper
 scraping
 screen
 screencap
-screencapture
 screenconnect
 screener
 screenfetch
@@ -9953,14 +9896,12 @@ securityattribute
 securitycenter
 securitycompliance
 securitycompliancecenter
-securitycontrols
 securitygroup
 securitygroups
 securityinsights
 securityoptions
 securitypermissionschecker
 securitypolicydsc
-securityposture
 securityroles
 securityscopes
 securitytxt
@@ -10265,7 +10206,6 @@ snapping
 snapshot
 snapshots
 sni
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -10326,7 +10266,6 @@ sorting
 sound
 sounds
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
@@ -10334,7 +10273,6 @@ sourceindexing
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 sovcloud
 space
 spaces
@@ -10384,7 +10322,6 @@ splat
 splatting
 split
 splunk
-spmt
 spn
 spo
 spoofing
@@ -10453,6 +10390,7 @@ srcds
 srcsrv
 srcsvr
 srm
+srylius-write
 ssas
 ssc
 ssdt
@@ -10534,7 +10472,6 @@ stderr
 stdio
 stdout
 steam
-steam-games
 steamcmd
 stenography
 stepmanager
@@ -11465,7 +11402,6 @@ video-editing
 videogeneration
 videos
 vie
-view
 viewer
 vigenere
 vim
@@ -11807,7 +11743,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -11884,7 +11819,6 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
-wiz
 wizard
 wkhtmltopdf
 wlan
