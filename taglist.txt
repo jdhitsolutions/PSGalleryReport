@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 December 2025 21:52:06 UTC
+Updated: Wednesday, 03 December 2025 09:53:37 UTC
 
 .bat
 .env
@@ -275,6 +275,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 ai-development
 ai-server
@@ -385,6 +386,7 @@ anf
 anglesharp
 angular
 animals
+animate-svg
 animation
 animations
 anime
@@ -664,6 +666,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autolabeling
 autoload
 autologon
@@ -1372,6 +1375,7 @@ claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+cldr
 clean
 clean-architecture
 clean-up
@@ -1432,6 +1436,7 @@ cloudant
 cloudbees
 cloudberry
 cloudblue
+cloudbolt
 cloudbridge
 cloudendure
 cloudevents
@@ -1456,6 +1461,7 @@ cloudshell
 cloudsync
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1514,7 +1520,6 @@ codesign
 codesigning
 codex
 coding
-coercion
 cognitiveservice
 cognitiveservices
 cohere
@@ -2218,7 +2223,6 @@ dice
 diceware
 dicom
 dictionary
-dif
 diff
 difference
 dify
@@ -2382,7 +2386,6 @@ domainnamesystem
 domains
 domino
 done.land
-donothing
 dos
 dot
 dotenv
@@ -2563,6 +2566,7 @@ education
 educational
 eduprom
 effectiveroutes
+effects
 efficiency
 efficientether
 efi
@@ -2663,7 +2667,6 @@ entity
 entity-framework
 entityframework
 entra
-entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2771,6 +2774,7 @@ evergreen
 everix
 evernote
 everydaypowershell
+everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2881,6 +2885,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 failovercluster
 failure
 fake
@@ -3351,10 +3356,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -3788,6 +3795,7 @@ idna
 idoit
 idp
 idrac
+ids
 ie
 iem
 ifconfig
@@ -4067,6 +4075,7 @@ iteration
 itg
 itglue
 itin
+itops
 itsm
 itstore
 ivanti
@@ -4568,6 +4577,7 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
+macos-powershell
 macosx
 macro
 macros
@@ -4779,7 +4789,6 @@ microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-entra
-microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
 microsoft-teams
@@ -4815,7 +4824,6 @@ microsoftintune
 microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -4838,7 +4846,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -5212,6 +5219,7 @@ ni
 nic
 nic.ru
 nightmare
+ninite
 ninja
 ninjaone
 ninjarmm
@@ -5373,7 +5381,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5436,7 +5443,6 @@ onyphe
 onyphe.io
 oob
 oop
-ooxml
 op
 opa
 opc
@@ -5444,7 +5450,6 @@ open
 open-ai
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opencage
@@ -5669,6 +5674,7 @@ passwordmanagement
 passwordmanager
 passwords
 passwordsecure
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -5775,6 +5781,7 @@ pim-as-code
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5996,7 +6003,6 @@ powerpack
 powerplan
 powerplateform
 powerplatform
-powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -6126,7 +6132,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -9865,6 +9870,7 @@ screenshot
 script
 script_version
 script-module
+script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9884,6 +9890,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -9994,7 +10001,6 @@ send-message
 send-mgusermail
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -10263,7 +10269,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -10282,7 +10287,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -10601,7 +10605,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subdirectory
 subject
 subjectname
 sublimetext
@@ -10641,6 +10644,7 @@ supermarket
 support
 support-tool
 support-tools
+supporttools
 suppress
 supress-reboot
 surestacks
@@ -10851,7 +10855,6 @@ terminal-themes
 terminal-visuals
 terminal.gui
 terminalnotifier
-terminalservices
 terminalvelocity
 termset
 terraform
@@ -11063,6 +11066,7 @@ translator
 translit
 transliteration
 transmission
+transparancy
 transparency
 transpilation
 trap
@@ -11604,6 +11608,7 @@ vvx
 vxrail
 w32time
 w365
+w3svc
 w3w
 waa
 waas
@@ -11893,6 +11898,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -11962,7 +11969,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wts
 wtsapi32
 wttr
 wttr.in
@@ -12052,7 +12058,6 @@ yetanotherhelloworld
 yfinance
 yify
 yml
-ynab
 yokohama
 youtube
 youtube-dl
