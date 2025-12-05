@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 December 2025 09:52:46 UTC
+Updated: Friday, 05 December 2025 21:51:45 UTC
 
 .bat
 .env
@@ -16,6 +16,7 @@ Updated: Friday, 05 December 2025 09:52:46 UTC
 "interactive
 **psedition_desktop**
 **windows**
+🍄
 🍣
 💩
 🙇
@@ -609,6 +610,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atproto
 atprotocol
@@ -666,7 +668,6 @@ autocompletion
 autoenv
 autograph
 autohotkey
-autolabeling
 autoload
 autologon
 automai
@@ -799,7 +800,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1025,7 +1025,6 @@ blue
 bluecat
 bluedolhin
 blueprint
-blueprints
 bluesky
 blueteam
 bluetraitio
@@ -1301,7 +1300,6 @@ chef
 chef-automate
 chef-compliance
 chef-server
-chefconf2016
 chenxizhang
 cherrypy
 cherwell
@@ -1371,6 +1369,7 @@ classification
 classified
 claude
 claude3
+claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1527,6 +1526,7 @@ cohesity
 coinbase
 coinflip
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -2047,7 +2047,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -2097,6 +2096,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -2385,6 +2386,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2535,6 +2537,7 @@ e1
 earthquakes
 easy
 easy-to-use
+easylife365
 easypim
 easyvista
 eaton
@@ -3069,7 +3072,6 @@ flexible
 flickr
 flowchart
 flowy
-fluent
 fluidrelay
 flurl
 flyway
@@ -3317,11 +3319,11 @@ gh
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
 giphy
-gis
 gist
 git
 git-client
@@ -3648,6 +3650,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -3790,6 +3793,7 @@ identitysecuritycloud
 idf
 idm
 idn
+idna
 idoit
 idp
 idrac
@@ -3835,7 +3839,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -4172,7 +4175,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kb4
@@ -4302,7 +4304,6 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
-laplace
 laps
 laragon
 laserbeams
@@ -4328,7 +4329,6 @@ lcm
 lcminternals
 lcs
 ldap
-leaflet
 leafs
 league
 lean
@@ -4378,7 +4378,6 @@ light
 lights
 lime
 limesurvey
-limit
 limit-job
 limits
 lina
@@ -4462,7 +4461,6 @@ lockfile
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -4698,7 +4696,6 @@ mcd
 mchapv2
 mcp
 mcs
-mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mdatp
@@ -4780,6 +4777,7 @@ micro-framework
 micro-orm
 microfocus
 microk8s
+micropython
 microservices
 microsoft
 microsoft_365
@@ -5304,7 +5302,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 number
 numlock
 nummapper
@@ -5384,7 +5381,6 @@ officedev
 officegraph
 officemessageencryption
 officeopenxml
-officertool
 offline
 offlinewimservicing
 ofx
@@ -5477,7 +5473,6 @@ openssh
 opensshserver
 openssl
 openstack
-openstreetmap
 openstreetmaps
 openvpn
 openxml
@@ -5962,6 +5957,8 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -7372,6 +7369,24 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -7833,6 +7848,24 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -8752,6 +8785,24 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -9130,7 +9181,6 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9179,6 +9229,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -9555,7 +9606,6 @@ rest_cherrypy
 rest-api
 restapi
 restart
-restaurant
 restful
 restore
 restrictive
@@ -10631,6 +10681,7 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -10818,6 +10869,7 @@ terraform-docs
 terraform-switcher
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-automation
@@ -11035,6 +11087,7 @@ trein
 trello
 trellops
 trend
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -11076,7 +11129,6 @@ tst3
 tsv
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -11170,6 +11222,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -11190,7 +11243,6 @@ ui/ux
 ui7
 uk
 ulid
-ultimatetool
 um
 uml
 umn
@@ -11398,7 +11450,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioncontrol
@@ -11499,6 +11550,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumelicense
 volumelicenseagreement
@@ -11747,6 +11799,8 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
+windows-registry
+windows-remoting
 windows-server-2016
 windows-switcher
 windows-terminal
@@ -11779,7 +11833,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -12018,6 +12071,7 @@ youtube-transcript
 youtubeextractor
 yq
 yts
+yubaba
 yubikey
 yum
 z
@@ -12063,3 +12117,4 @@ zypper
 全角半角変換
 寿司
 日本語
+湯婆婆

@@ -3,13 +3,225 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.8.0) | 1.8.0
+## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/6.2) | 6.2
 
-### Published: 12/05/2025 09:46:54 by Imrich Szolik
+### Published: 12/05/2025 21:24:21 by Michael Grafnetter
+
+The DSInternals PowerShell Module exposes several internal features of Active Directory and Azure Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups and password hash calculation.
+
+DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
+
+__Downloads__: 5,823,597 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+
+## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.154) | 1.0.154
+
+### Published: 12/05/2025 21:11:30 by hillesheim@n-dimensions.de
+
+N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
+
+__Downloads__: 1,022 | __Repository__: https://blog.n-dimensions.de/
+
+## [DFSDsc](https://www.powershellgallery.com/Packages/DFSDsc/5.2.0) | 5.2.0
+
+### Published: 12/05/2025 21:09:14 by DSC Community
+
+DSC resources for configuring Distributed File System Replication and Namespaces.
+
+__Downloads__: 294,418 | __Repository__: https://github.com/dsccommunity/DFSDsc
+
+## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/4.1.1) | 4.1.1
+
+### Published: 12/05/2025 19:09:44 by Sander Rozemuller
+
+For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
+
+__Downloads__: 256,967 | __Repository__: https://github.com/srozemuller/AzAvd
+
+## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.8.0) | 6.8.0
+
+### Published: 12/05/2025 18:48:25 by Particular Software
+
+ServiceControl Management
+
+__Downloads__: 6,248 | __Repository__: https://github.com/Particular/ServiceControl
+
+## [RepAdmin](https://www.powershellgallery.com/Packages/RepAdmin/1.0.0) | 1.0.0
+
+### Published: 12/05/2025 18:34:53 by Friedrich Weinmann
+
+AD Replication Tools
+
+__Downloads__: 0 | __Repository__: 
+
+## [chocolatey](https://www.powershellgallery.com/Packages/chocolatey/0.10.4) | 0.10.4
+
+### Published: 12/05/2025 18:25:58 by Gael Colas
+
+This is an unofficial module with DSC resource to Install and configure Chocolatey.
+
+__Downloads__: 579,596 | __Repository__: https://github.com/chocolatey-community/Chocolatey/
+
+## [synedgy.universal.helper](https://www.powershellgallery.com/Packages/synedgy.universal.helper/0.1.2) | 0.1.2
+
+### Published: 12/05/2025 18:07:22 by Gael Colas
+
+A bunch of PowerShell Universal helpers to make your experience more productive
+
+__Downloads__: 40 | __Repository__: 
+
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2512.5.1713) | 4.2512.5.1713
+
+### Published: 12/05/2025 17:28:44 by Adam Rudell Luyao Feng
+
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
+
+__Downloads__: 272,712 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
+## [DnsServerDsc](https://www.powershellgallery.com/Packages/DnsServerDsc/3.0.2) | 3.0.2
+
+### Published: 12/05/2025 17:09:18 by DSC Community
+
+This module contains DSC resources for the management and configuration of Windows Server DNS Server.
+
+__Downloads__: 1,396,271 | __Repository__: https://github.com/dsccommunity/DnsServerDsc
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.5.3) | 25.12.5.3
+
+### Published: 12/05/2025 17:09:13 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,723,619 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PSPlatformer](https://www.powershellgallery.com/Packages/PSPlatformer/0.4.0) | 0.4.0
+
+### Published: 12/05/2025 16:58:37 by Gregory F Martin (Not Gary)
+
+A small platformer game to kill some time!
+
+__Downloads__: 22 | __Repository__: https://github.com/gregoryfmartin/PSPlatformer
+
+## [PSWimToolkit](https://www.powershellgallery.com/Packages/PSWimToolkit/1.0.0) | 1.0.0
+
+### Published: 12/05/2025 16:17:37 by Mickael CHAVE
+
+Modern PowerShell toolkit for provisioning Windows images (WIM) with Microsoft Update Catalog integration and automation helpers.
+
+__Downloads__: 1 | __Repository__: https://github.com/mchave3/PSWimToolkit
+
+## [Nebula.Core](https://www.powershellgallery.com/Packages/Nebula.Core/1.1.0) | 1.1.0
+
+### Published: 12/05/2025 15:58:59 by Giovanni Solone
+
+A PowerShell module that go beyond your workstations. It will make your Microsoft 365 life easier!
+
+__Downloads__: 7 | __Repository__: https://github.com/gioxx/Nebula.Core
+
+## [MyBudgetPowerShellModule](https://www.powershellgallery.com/Packages/MyBudgetPowerShellModule/0.7.0) | 0.7.0
+
+### Published: 12/05/2025 15:35:22 by Your Name
+
+PowerShell module for personal budget management. Track billers, earnings, accounts, and transactions with projected transaction reporting. Supports multiple budgets and workspace management.
+
+__Downloads__: 5 | __Repository__: 
+
+## [PSNtfy](https://www.powershellgallery.com/Packages/PSNtfy/0.2.1) | 0.2.1
+
+### Published: 12/05/2025 14:51:44 by Hudson M.
+
+PowerShell module to assist with building and sending notifications to Ntfy instances.
+
+__Downloads__: 0 | __Repository__: https://github.com/hudsonm62/PSNtfy
+
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.1203.200) | 1.25.1203.200
+
+### Published: 12/05/2025 14:26:03 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 17,696 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.3) | 1.5.3
+
+### Published: 12/05/2025 14:05:10 by Marius Solbakken Mellum
+
+A module for completing email change requests from the Bytt.Email service into Active Directory or Entra ID / Exchange Online
+
+__Downloads__: 257 | __Repository__: 
+
+## [ActiveDirectoryDsc](https://www.powershellgallery.com/Packages/ActiveDirectoryDsc/6.7.1) | 6.7.1
+
+### Published: 12/05/2025 13:45:56 by DSC Community
+
+The ActiveDirectoryDsc module contains DSC resources for deployment and configuration of Active Directory.
+
+    These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
+
+__Downloads__: 7,517,579 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+
+## [UpdateServicesDsc](https://www.powershellgallery.com/Packages/UpdateServicesDsc/1.3.0) | 1.3.0
+
+### Published: 12/05/2025 13:34:07 by DSC Community
+
+Module with DSC Resources for deployment and configuration of Windows Server Update Services.
+
+__Downloads__: 254,478 | __Repository__: https://github.com/dsccommunity/UpdateServicesDsc/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.589.3) | 1.589.3
+
+### Published: 12/05/2025 13:31:51 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 12,369 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.8.1) | 0.8.1
+
+### Published: 12/05/2025 13:26:46 by kurokobo
+
+PowerShell module for Dify.
+
+__Downloads__: 132 | __Repository__: https://github.com/kurokobo/psdify
+
+## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.4) | 2025.12.4
+
+### Published: 12/05/2025 12:49:39 by the dbatools team
+
+The library that powers dbatools, the community module for SQL Server Pros
+
+__Downloads__: 4,097,973 | __Repository__: https://dbatools.io/
+
+## [MyPowerShellTemplates](https://www.powershellgallery.com/Packages/MyPowerShellTemplates/1.4.0) | 1.4.0
+
+### Published: 12/05/2025 12:04:48 by numidia
+
+A comprehensive PowerShell module development toolkit for creating templates, scaffolding modules, and generating PowerShell scripts with intelligent code generation and complexity levels.
+
+__Downloads__: 40 | __Repository__: https://github.com/NumidiaLive/MyPowershellTemplates
+
+## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.9.1) | 1.9.1
+
+### Published: 12/05/2025 11:25:03 by Imrich Szolik
 
 Lomtec.com SourceCode cmdlets
 
 __Downloads__: 1,245 | __Repository__: 
+
+## [GetFolderTreeView](https://www.powershellgallery.com/Packages/GetFolderTreeView/1.0.0.0) | 1.0.0.0
+
+### Published: 12/05/2025 10:52:03 by pr_prakash78@outlook.com
+
+This will give you TreeView of your Folder/Directory Structure, Files and their sizes will also be displayed in a Tree Pattern. For Example Get-FolderTreeView -FolderPath 'c:\temp'
+
+__Downloads__: 2 | __Repository__: https://prakash78blog.wordpress.com/
+
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/3.0.2.0) | 3.0.2.0
+
+### Published: 12/05/2025 10:03:37 by glueckkanja-gab
+
+CMDlets to manage SCEPman (https://scepman.com/) installations
+
+__Downloads__: 18,619 | __Repository__: https://scepman.com/
 
 ## [swiftLogger](https://www.powershellgallery.com/Packages/swiftLogger/1.0.0.4) | 1.0.0.4
 
@@ -59,14 +271,6 @@ AI-powered scripting tools, including chat, summarization, and generation.
 
 __Downloads__: 2,263 | __Repository__: 
 
-## [PSNtfy](https://www.powershellgallery.com/Packages/PSNtfy/0.1.1) | 0.1.1
-
-### Published: 12/05/2025 08:53:55 by Hudson M.
-
-PowerShell module to assist with building and sending notifications to Ntfy instances.
-
-__Downloads__: 0 | __Repository__: https://github.com/hudsonm62/PSNtfy
-
 ## [SPClientCore](https://www.powershellgallery.com/Packages/SPClientCore/7.6.0.15) | 7.6.0.15
 
 ### Published: 12/05/2025 08:51:06 by karamem0
@@ -74,22 +278,6 @@ __Downloads__: 0 | __Repository__: https://github.com/hudsonm62/PSNtfy
 SharePoint Service Module for PowerShell
 
 __Downloads__: 3,361 | __Repository__: https://github.com/karamem0/sp-client-core
-
-## [MyBudgetPowerShellModule](https://www.powershellgallery.com/Packages/MyBudgetPowerShellModule/0.6.0) | 0.6.0
-
-### Published: 12/05/2025 08:47:36 by Your Name
-
-PowerShell module for personal budget management. Track billers, earnings, accounts, and transactions with projected transaction reporting. Supports multiple budgets and workspace management.
-
-__Downloads__: 5 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.589.2) | 1.589.2
-
-### Published: 12/05/2025 07:13:30 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 12,369 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [PipelineUtils](https://www.powershellgallery.com/Packages/PipelineUtils/0.2.1) | 0.2.1
 
@@ -123,14 +311,6 @@ Interact with any service implementing the Subsonic API
 
 __Downloads__: 17 | __Repository__: https://github.com/joshooaj/PSubsonic
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.5.1) | 25.12.5.1
-
-### Published: 12/05/2025 05:09:00 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,723,619 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.15.2) | 0.9.15.2
 
 ### Published: 12/05/2025 01:19:48 by Yoshifumi Tsuda
@@ -139,21 +319,13 @@ PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
 
 __Downloads__: 3,060 | __Repository__: 
 
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.7.7) | 6.7.7
-
-### Published: 12/05/2025 00:06:38 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 6,248 | __Repository__: https://github.com/Particular/ServiceControl
-
 ## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.9.9) | 1.9.9
 
 ### Published: 12/04/2025 23:54:20 by Richard M. Hicks
 
 PowerShell module for configuring, optimizing, and troubleshooting Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 40,080 | __Repository__: https://github.com/richardhicks/aovpntools
+__Downloads__: 40,079 | __Repository__: https://github.com/richardhicks/aovpntools
 
 ## [NewShellServer](https://www.powershellgallery.com/Packages/NewShellServer/0.0.1) | 0.0.1
 
@@ -257,7 +429,7 @@ __Downloads__: 58 | __Repository__: https://github.com/randalvs/PSCommercetools
 
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
-__Downloads__: 12,824,580 | __Repository__: 
+__Downloads__: 12,823,817 | __Repository__: 
 
 ## [SitecoreCecSearchModule](https://www.powershellgallery.com/Packages/SitecoreCecSearchModule/0.4.4) | 0.4.4
 
@@ -297,7 +469,7 @@ __Downloads__: 2,711,256 | __Repository__: https://github.com/Azure/AzOps
 
 Pure Storage FlashArray REST 2.46 API integration with Windows PowerShell.
 
-__Downloads__: 61,144 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
+__Downloads__: 61,143 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.25338.7408) | 5.1.25338.7408
 
@@ -395,14 +567,6 @@ Encrypted, decentralized, optionally anonymous peer-to-peer messaging for PowerS
 
 __Downloads__: 13 | __Repository__: https://github.com/PowerShellYoungTeam/PSCryptoChat
 
-## [PSPlatformer](https://www.powershellgallery.com/Packages/PSPlatformer/0.3.2) | 0.3.2
-
-### Published: 12/03/2025 20:45:43 by Gregory F Martin (Not Gary)
-
-A small platformer game to kill some time!
-
-__Downloads__: 22 | __Repository__: https://github.com/gregoryfmartin/PSPlatformer
-
 ## [X-ADCommander](https://www.powershellgallery.com/Packages/X-ADCommander/1.0.6) | 1.0.6
 
 ### Published: 12/03/2025 19:52:44 by Mhd Samer Sawas
@@ -449,7 +613,7 @@ __Downloads__: 78 | __Repository__: https://github.com/sup3rmark/iscUtils
 
 PowerShell for Proxmox VE
 
-__Downloads__: 255,719 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 255,678 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.39.0) | 0.0.39.0
 
@@ -465,15 +629,7 @@ __Downloads__: 1,874 | __Repository__: https://github.com/jhoek/UncommonSense.Tr
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 3,836,371 | __Repository__: https://github.com/microsoft/navcontainerhelper
-
-## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/3.0.1.0) | 3.0.1.0
-
-### Published: 12/03/2025 08:20:36 by glueckkanja-gab
-
-CMDlets to manage SCEPman (https://scepman.com/) installations
-
-__Downloads__: 18,619 | __Repository__: https://scepman.com/
+__Downloads__: 3,836,396 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [SCEPmanClient](https://www.powershellgallery.com/Packages/SCEPmanClient/3.0.0.0) | 3.0.0.0
 
@@ -860,14 +1016,6 @@ Module PS365
 
 __Downloads__: 26 | __Repository__: 
 
-## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.153) | 1.0.153
-
-### Published: 12/02/2025 15:09:33 by hillesheim@n-dimensions.de
-
-N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
-
-__Downloads__: 1,022 | __Repository__: https://blog.n-dimensions.de/
-
 ## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2025.3.3) | 2025.3.3
 
 ### Published: 12/02/2025 15:03:10 by Devolutions
@@ -875,14 +1023,6 @@ __Downloads__: 1,022 | __Repository__: https://blog.n-dimensions.de/
 Devolutions Gateway PowerShell Module
 
 __Downloads__: 15,222 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [Nebula.Core](https://www.powershellgallery.com/Packages/Nebula.Core/1.0.0) | 1.0.0
-
-### Published: 12/02/2025 14:49:27 by Giovanni Solone
-
-A PowerShell module that go beyond your workstations. It will make your Microsoft 365 life easier!
-
-__Downloads__: 7 | __Repository__: https://github.com/gioxx/Nebula.Core
 
 ## [Nebula.Log](https://www.powershellgallery.com/Packages/Nebula.Log/1.0.7) | 1.0.7
 
@@ -1156,14 +1296,6 @@ Excel coordinates to data
 
 __Downloads__: 36 | __Repository__: 
 
-## [XlsCoordinatesConverter-rel](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-rel/0.0.8) | 0.0.8
-
-### Published: 12/01/2025 09:27:21 by GermanEngineer
-
-Execl coordinates converter
-
-__Downloads__: 23 | __Repository__: 
-
 ## [Akismet](https://www.powershellgallery.com/Packages/Akismet/3.0.0) | 3.0.0
 
 ### Published: 12/01/2025 08:46:50 by Cédric Belin <cedx@outlook.com>
@@ -1178,7 +1310,7 @@ __Downloads__: 14 | __Repository__: https://github.com/cedx/akismet.ps1
 
 This module contains commands and DSC resources for deployment and configuration of Microsoft SQL Server, SQL Server Reporting Services and Power BI Report Server.
 
-__Downloads__: 12,728,375 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
+__Downloads__: 12,728,322 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
 
 ## [PSRainbow](https://www.powershellgallery.com/Packages/PSRainbow/1.1.0) | 1.1.0
 
@@ -1194,7 +1326,7 @@ __Downloads__: 26 | __Repository__: https://github.com/gregoryfmartin/PSRainbow
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 12,360,860 | __Repository__: https://eucpilots.com/evergreen-docs/
+__Downloads__: 12,360,818 | __Repository__: https://eucpilots.com/evergreen-docs/
 
 ## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.5.3) | 0.5.3
 
@@ -1227,14 +1359,6 @@ __Downloads__: 13 | __Repository__: https://github.com/cezarypiatek/PoshMCP
 A simple micro-ORM supporting MySQL, PostgreSQL, SQL Server and SQLite.
 
 __Downloads__: 90 | __Repository__: https://github.com/cedx/sql.ps1
-
-## [MyPowerShellTemplates](https://www.powershellgallery.com/Packages/MyPowerShellTemplates/1.3.0) | 1.3.0
-
-### Published: 11/30/2025 10:01:26 by numidia
-
-A comprehensive PowerShell module development toolkit for creating templates, scaffolding modules, and generating PowerShell scripts with best practices built-in.
-
-__Downloads__: 40 | __Repository__: https://github.com/NumidiaLive/MyPowershellTemplates
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.18) | 0.2.18
 
@@ -1296,21 +1420,13 @@ Powershell wrapper for the Trilium Notes API
 
 __Downloads__: 348 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
 
-## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.11.29) | 2025.11.29
-
-### Published: 11/29/2025 17:20:32 by the dbatools team
-
-The library that powers dbatools, the community module for SQL Server Pros
-
-__Downloads__: 4,097,902 | __Repository__: https://dbatools.io/
-
 ## [DattoRMM](https://www.powershellgallery.com/Packages/DattoRMM/1.0.0.34) | 1.0.0.34
 
 ### Published: 11/29/2025 13:22:33 by Aaron Engels
 
 This module is designed to make it easier to use the DattoRMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
 
-__Downloads__: 530,553 | __Repository__: https://github.com/aaronengels/DattoRMM
+__Downloads__: 530,548 | __Repository__: https://github.com/aaronengels/DattoRMM
 
 ## [MASES.NavenPS](https://www.powershellgallery.com/Packages/MASES.NavenPS/3.9.3) | 3.9.3
 
@@ -1556,7 +1672,7 @@ __Downloads__: 488 | __Repository__: https://github.com/AzureStackNerd/EntraIdDS
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 17,320,177 | __Repository__: https://vcredist.com/
+__Downloads__: 17,320,913 | __Repository__: https://vcredist.com/
 
 ## [DatabricksDsc](https://www.powershellgallery.com/Packages/DatabricksDsc/0.5.0) | 0.5.0
 
@@ -1712,6 +1828,14 @@ The HPE Compute Ops Management PowerShell library offers a comprehensive suite o
 
 __Downloads__: 850 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
 
+## [EasyLife365.Collaboration](https://www.powershellgallery.com/Packages/EasyLife365.Collaboration/1.1.2) | 1.1.2
+
+### Published: 11/25/2025 14:25:28 by EasyLife 365
+
+Use the EasyLife365.Collaboration PowerShell module to retrieve objects and attributes related to EasyLife 365 from the Graph API.
+
+__Downloads__: 241 | __Repository__: https://docs.easylife365.cloud/collab/integration/powershell/overview
+
 ## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20256.49856) | 0.20256.49856
 
 ### Published: 11/25/2025 04:51:02 by Eigenverft
@@ -1742,7 +1866,7 @@ __Downloads__: 37 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Man
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 1,378,314 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/CUT-4981_v2EUSupport/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 1,378,275 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/CUT-4981_v2EUSupport/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.1.1) | 0.1.1
 
@@ -1750,7 +1874,7 @@ __Downloads__: 1,378,314 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 1,347,770 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 1,347,731 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.1.1) | 0.1.1
 
@@ -1758,7 +1882,7 @@ __Downloads__: 1,347,770 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 1,350,294 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 1,350,255 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.37) | 1.0.37
 
@@ -1846,7 +1970,7 @@ __Downloads__: 5 | __Repository__:
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 9,500,356 | __Repository__: http://psframework.org/
+__Downloads__: 9,500,332 | __Repository__: http://psframework.org/
 
 ## [TMF](https://www.powershellgallery.com/Packages/TMF/2.0.26787) | 2.0.26787
 
@@ -1992,130 +2116,4 @@ Functions for Simple WindowsVault Management
 
 __Downloads__: 14 | __Repository__: 
 
-## [ProxmoxPVE](https://www.powershellgallery.com/Packages/ProxmoxPVE/9.1.1) | 9.1.1
-
-### Published: 11/21/2025 23:53:24 by Timo Wolf
-
-ProxmoxPVE - the PowerShell module for Proxmox VE
-
-__Downloads__: 164 | __Repository__: https://github.com/EldoBam/pve-powershell-module
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.141.1) | 1.141.1
-
-### Published: 11/21/2025 20:52:13 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 27,801 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/7.2.2.1) | 7.2.2.1
-
-### Published: 11/21/2025 17:10:17 by Atempo
-
-PowerShell module for managing and monitoring Atempo Lina continuous data protection solution
-
-__Downloads__: 2,208 | __Repository__: 
-
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2025.3.2) | 2025.3.2
-
-### Published: 11/21/2025 15:32:43 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 461,592 | __Repository__: https://devolutions.net/
-
-## [PoshJsonWebToken](https://www.powershellgallery.com/Packages/PoshJsonWebToken/1.2.0) | 1.2.0
-
-### Published: 11/21/2025 13:28:09 by ArmaanMcleod
-
-This module contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
-
-__Downloads__: 310 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebToken
-
-## [ThoughtForTheDay](https://www.powershellgallery.com/Packages/ThoughtForTheDay/2.0.2) | 2.0.2
-
-### Published: 11/21/2025 09:33:56 by Lars Panzerbjørn
-
-Provides a bit of daily wisdom
-
-__Downloads__: 242 | __Repository__: https://github.com/Panzerbjrn/ThoughtForTheDay
-
-## [TestingModule](https://www.powershellgallery.com/Packages/TestingModule/1.4.2) | 1.4.2
-
-### Published: 11/21/2025 09:33:52 by Lars Panzerbjørn
-
-This module is for providing code to easily see PowerShell functionality, and to get a hands-on test for how to use various Functionality. See also the included tests for basic Pester testing.
-
-__Downloads__: 237 | __Repository__: https://github.com/Panzerbjrn/TestingModule
-
-## [GeneralHelperModule](https://www.powershellgallery.com/Packages/GeneralHelperModule/3.0.5) | 3.0.5
-
-### Published: 11/21/2025 09:33:45 by Lars Panzerbjørn
-
-A variety of generic functions I use occasionally, or keep for inclusion in other modules as helper functions.
-
-__Downloads__: 145 | __Repository__: https://github.com/Panzerbjrn/GeneralHelperModule
-
-## [AzureRestApiHelper](https://www.powershellgallery.com/Packages/AzureRestApiHelper/0.1.1) | 0.1.1
-
-### Published: 11/21/2025 09:33:39 by Lars Panzerbjørn
-
-A module for helping with Azure REST API calls
-
-__Downloads__: 420 | __Repository__: https://github.com/Panzerbjrn/AzureRestApiHelper
-
-## [AzureGeneralHelperModule](https://www.powershellgallery.com/Packages/AzureGeneralHelperModule/3.0.2) | 3.0.2
-
-### Published: 11/21/2025 09:33:35 by Lars Panzerbjørn
-
-Module to help with simple Azure tasks. This has been frozen now. Please switch to AzureGeneralHelperModule
-
-__Downloads__: 8 | __Repository__: https://github.com/Panzerbjrn/AzureGeneralHelperModule
-
-## [AzureDevOpsHelperModule](https://www.powershellgallery.com/Packages/AzureDevOpsHelperModule/1.0.2) | 1.0.2
-
-### Published: 11/21/2025 09:33:31 by Lars Panzerbjørn
-
-This module has been frozen and will no longer receive updates. Please switch to AzureDevOpsHelperModule.
-
-__Downloads__: 24 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsHelperModule
-
-## [OMG.PSUtilities.VSphere](https://www.powershellgallery.com/Packages/OMG.PSUtilities.VSphere/1.0.1) | 1.0.1
-
-### Published: 11/20/2025 23:30:42 by Lakshmanachari Panuganti
-
-PowerShell automation for VMware vSphere virtual environments.
-
-__Downloads__: 282 | __Repository__: 
-
-## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.10) | 1.0.10
-
-### Published: 11/20/2025 20:01:58 by Chrissy LeMaire
-
-PowerShell wrapper for AI coding assistants. Batch process files using Claude Code, Aider, Gemini CLI, GitHub Copilot CLI, and Codex CLI with unified commands and pipeline support.
-
-__Downloads__: 402 | __Repository__: https://github.com/potatoqualitee/aitools
-
-## [test-semver-module](https://www.powershellgallery.com/Packages/test-semver-module/3.1) | 3.1
-
-### Published: 11/20/2025 17:44:07 by annavied
-
-testing how V3 API repositories handle sem ver
-
-__Downloads__: 7 | __Repository__: 
-
-## [PSNotify](https://www.powershellgallery.com/Packages/PSNotify/0.1.0) | 0.1.0
-
-### Published: 11/20/2025 16:23:34 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell Notify
-
-This module allows you to trigger messages via email, Telegram, Slack and Teams. You can use
-the channels separated from each other or combined as a group, when you want to inform via
-multiple different channels.
-
-Have a look at the GitHub repository for more information: https://github.com/Apteco/AptecoPSModules/tree/main/PSNotify
-
-__Downloads__: 171 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSNotify
-
-*Updated: Friday, 05 December 2025 09:52:37 UTC*
+*Updated: Friday, 05 December 2025 21:51:36 UTC*
