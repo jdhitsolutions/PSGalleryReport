@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 07 December 2025 21:52:07 UTC
+Updated: Monday, 08 December 2025 09:54:52 UTC
 
 .bat
 .env
@@ -100,6 +100,7 @@ accessrights
 accesstoken
 accord
 accord.net
+accordian
 account
 account-management
 accounting
@@ -918,6 +919,7 @@ bbc
 bbernhard
 bbp
 bc
+bc365
 bcd
 bcdedit
 bcdr
@@ -1144,6 +1146,7 @@ byte
 bytearray
 bzip2
 bzip2-compression
+c
 c#
 c++
 c2r
@@ -2678,6 +2681,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -3624,6 +3628,7 @@ hint
 hipaa
 hipb
 hipchat
+hiragana
 histogram
 history
 historyninja
@@ -3642,6 +3647,7 @@ hl7
 hlds
 hls
 hmac
+hockey
 hol
 holiday
 home
@@ -3797,7 +3803,6 @@ idm
 idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -4022,7 +4027,6 @@ ipcalculator
 ipconfig
 ipcontrol
 iperf
-ipfy.org
 iphone
 ipilot
 ipinfo
@@ -4089,6 +4093,7 @@ iwi
 j
 j81-blog
 jamba
+japanese
 jar
 jav
 java
@@ -4140,9 +4145,7 @@ json
 json-converter
 json-ld
 json-transform
-json+
 json2ps
-jsonplus
 jsonwebencryption
 jsonwebkey
 jsonwebsignature
@@ -4178,6 +4181,7 @@ karma
 kaseya
 kaseyavsa
 kaspersky
+katakana
 kb
 kb4
 kbarticle
@@ -4207,6 +4211,7 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -5220,6 +5225,7 @@ nfsv3
 ngen
 ngfw
 nginx
+nhl
 ni
 nic
 nic.ru
@@ -5435,6 +5441,7 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
+onnx
 onprem
 onpremisesdatagatewayhamgmt
 onq
@@ -5723,7 +5730,7 @@ pdf-generation
 pdf-redaction
 pdfbox
 pdq
-peachsecurity
+pe
 peek
 peering
 peheader
@@ -5762,6 +5769,7 @@ pfx
 pfy
 pgp
 phabricator
+phi
 philips
 philosophical
 philpritchett
@@ -9676,6 +9684,7 @@ roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
+romaji
 ropc
 rot13
 rotate
@@ -10097,7 +10106,6 @@ sha256crypt
 sha512crypt
 shacrypt
 shadow
-shadowai
 shadowcopy
 shadowcopybackups
 shadowgroups
@@ -10327,6 +10335,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -10386,6 +10395,7 @@ spo
 spoofing
 spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -10446,6 +10456,7 @@ squire
 squishedguid
 srcds
 srcsrv
+srcsvr
 srm
 srylius-write
 ssas
@@ -10727,7 +10738,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -11281,6 +11291,7 @@ unix
 unlinked
 unlock
 unprotect
+unraid
 unsigned
 unsupported
 untis
@@ -11510,7 +11521,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11714,7 +11724,6 @@ wfp
 wget
 what3words
 whatif
-whatismyip
 whatsnew
 whatsupgold
 whd
@@ -11775,6 +11784,7 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
+windbg
 windchillrv&s
 window
 windows
@@ -12104,6 +12114,10 @@ zvm
 zvml
 zvmlinux
 zypper
+カタカナ
+ひらがな
+ローマ字
 全角半角変換
 寿司
+日本語
 湯婆婆
