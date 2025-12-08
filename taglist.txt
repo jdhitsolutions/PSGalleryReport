@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 December 2025 09:54:52 UTC
+Updated: Monday, 08 December 2025 21:52:21 UTC
 
 .bat
 .env
@@ -100,7 +100,6 @@ accessrights
 accesstoken
 accord
 accord.net
-accordian
 account
 account-management
 accounting
@@ -121,7 +120,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -222,7 +220,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -465,7 +462,6 @@ appian
 appinsights
 applayering
 apple
-applebusinessmanager
 appleevents
 applescript
 applescript_bridge
@@ -483,6 +479,7 @@ apply
 appmgmtcontrol
 apppool
 appraiser
+approval
 approve
 apps
 appservice
@@ -565,7 +562,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -1013,6 +1009,7 @@ blobstorage
 block
 block-kit
 blockchain
+blocking
 blocks
 blog
 blogger
@@ -1162,7 +1159,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1194,7 +1190,6 @@ card
 cards
 cardwirth
 careport
-cares
 cargo
 carousel
 carrier
@@ -2605,7 +2600,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -3065,7 +3059,6 @@ flasharray
 flatfile
 flatten
 flaui
-flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3247,9 +3240,7 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generativeai
 generativeaiagent
@@ -3803,6 +3794,7 @@ idm
 idn
 idna
 idoit
+idp
 idrac
 ids
 ie
@@ -3959,7 +3951,6 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
-interchange
 interface
 interlogix
 internal
@@ -4027,6 +4018,7 @@ ipcalculator
 ipconfig
 ipcontrol
 iperf
+ipfy.org
 iphone
 ipilot
 ipinfo
@@ -4145,13 +4137,14 @@ json
 json-converter
 json-ld
 json-transform
+json+
 json2ps
+jsonplus
 jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -4196,7 +4189,6 @@ keepasslib
 keepawake
 keeper
 kelverion
-kelvin
 kentico
 kerb
 kerberos
@@ -4586,7 +4578,6 @@ macos
 macos-powershell
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4693,7 +4684,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4838,8 +4828,6 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -5056,7 +5044,6 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
@@ -5731,6 +5718,7 @@ pdf-redaction
 pdfbox
 pdq
 pe
+peachsecurity
 peek
 peering
 peheader
@@ -5967,6 +5955,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -6254,6 +6243,7 @@ pscalendar
 pscandy
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -7506,6 +7496,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -7755,8 +7747,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -7823,6 +7819,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -8081,6 +8078,7 @@ psfive9admin
 psflurl
 psfoldersize
 psframework
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -8975,6 +8973,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -9036,6 +9035,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -9271,6 +9271,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qatam
 qcloud
 qconvergeconsolepowerkit
@@ -9683,6 +9684,7 @@ role
 roleassignments
 rolebasedaccesscontrol_model
 roles
+rollback
 rollingfile
 romaji
 ropc
@@ -10106,6 +10108,7 @@ sha256crypt
 sha512crypt
 shacrypt
 shadow
+shadowai
 shadowcopy
 shadowcopybackups
 shadowgroups
@@ -10308,7 +10311,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -10647,7 +10649,6 @@ summit
 sumologic
 supercell
 superheros
-supermarket
 support
 support-tool
 support-tools
@@ -10738,6 +10739,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -10812,10 +10814,6 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -11327,7 +11325,6 @@ urbac
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urldecode
 urlencode
@@ -11521,6 +11518,7 @@ vlsc
 vlsm
 vm
 vmc
+vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11709,7 +11707,6 @@ webtesting
 webtime
 webview2
 wec
-wecutil
 weekday
 weekly
 wef
@@ -11724,6 +11721,7 @@ wfp
 wget
 what3words
 whatif
+whatismyip
 whatsnew
 whatsupgold
 whd
@@ -11732,7 +11730,6 @@ whfb
 whisper
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
@@ -11763,7 +11760,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -12054,7 +12050,6 @@ xwindowsupdate
 xwith
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yandexdisk
