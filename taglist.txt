@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 December 2025 21:52:21 UTC
+Updated: Tuesday, 09 December 2025 09:53:49 UTC
 
 .bat
 .env
@@ -100,6 +100,7 @@ accessrights
 accesstoken
 accord
 accord.net
+accordian
 account
 account-management
 accounting
@@ -120,6 +121,7 @@ action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -220,6 +222,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -400,7 +403,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -462,6 +464,7 @@ appian
 appinsights
 applayering
 apple
+applebusinessmanager
 appleevents
 applescript
 applescript_bridge
@@ -562,6 +565,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 ask-gpt
 askgpt
 asm
@@ -639,7 +643,6 @@ auth0
 authenticate
 authentication
 authenticationcertificate
-authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -1159,6 +1162,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1640,7 +1644,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2384,7 +2387,6 @@ domainkeys
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2600,6 +2602,7 @@ elmah-io
 elonmusk
 eloomi
 eloqua
+elvish
 elvui
 em
 emacs
@@ -3059,6 +3062,7 @@ flasharray
 flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3240,7 +3244,9 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generativeai
 generativeaiagent
@@ -3619,7 +3625,6 @@ hint
 hipaa
 hipb
 hipchat
-hiragana
 histogram
 history
 historyninja
@@ -3786,7 +3791,6 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
-identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -3933,7 +3937,6 @@ instant
 instapush
 instorage
 insulinpump
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -3951,6 +3954,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interchange
 interface
 interlogix
 internal
@@ -4085,7 +4089,6 @@ iwi
 j
 j81-blog
 jamba
-japanese
 jar
 jav
 java
@@ -4145,6 +4148,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -4174,7 +4178,6 @@ karma
 kaseya
 kaseyavsa
 kaspersky
-katakana
 kb
 kb4
 kbarticle
@@ -4189,6 +4192,7 @@ keepasslib
 keepawake
 keeper
 kelverion
+kelvin
 kentico
 kerb
 kerberos
@@ -4618,7 +4622,6 @@ managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4759,7 +4762,6 @@ messenger
 met
 meta
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4828,6 +4830,8 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
+microsoftteamsdevices
+microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -5044,6 +5048,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -5303,7 +5308,6 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -5529,7 +5533,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -9222,7 +9225,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pull
@@ -9686,7 +9688,6 @@ rolebasedaccesscontrol_model
 roles
 rollback
 rollingfile
-romaji
 ropc
 rot13
 rotate
@@ -10311,6 +10312,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -10547,7 +10549,6 @@ steamcmd
 stenography
 stepmanager
 stepper
-steps
 sticker
 sticker-pack
 stickers
@@ -10649,6 +10650,7 @@ summit
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -10814,6 +10816,10 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -11325,6 +11331,7 @@ urbac
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urldecode
 urlencode
@@ -11707,6 +11714,7 @@ webtesting
 webtime
 webview2
 wec
+wecutil
 weekday
 weekly
 wef
@@ -11754,12 +11762,12 @@ whoisserver
 whoissummary
 whoistool
 whoisutility
-whormi
 wi-fi
 wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
@@ -12050,6 +12058,7 @@ xwindowsupdate
 xwith
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yandexdisk
@@ -12109,10 +12118,6 @@ zvm
 zvml
 zvmlinux
 zypper
-カタカナ
-ひらがな
-ローマ字
 全角半角変換
 寿司
-日本語
 湯婆婆
