@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 December 2025 09:53:49 UTC
+Updated: Tuesday, 09 December 2025 21:52:27 UTC
 
 .bat
 .env
@@ -295,7 +295,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -403,6 +402,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -643,6 +643,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -795,7 +796,6 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
-azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1194,6 +1194,7 @@ card
 cards
 cardwirth
 careport
+cares
 cargo
 carousel
 carrier
@@ -1644,6 +1645,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -3625,6 +3627,7 @@ hint
 hipaa
 hipb
 hipchat
+hiragana
 histogram
 history
 historyninja
@@ -3791,6 +3794,7 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -3937,6 +3941,7 @@ instant
 instapush
 instorage
 insulinpump
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -4089,6 +4094,7 @@ iwi
 j
 j81-blog
 jamba
+japanese
 jar
 jav
 java
@@ -4178,6 +4184,7 @@ karma
 kaseya
 kaseyavsa
 kaspersky
+katakana
 kb
 kb4
 kbarticle
@@ -4582,6 +4589,7 @@ macos
 macos-powershell
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4622,6 +4630,7 @@ managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4687,6 +4696,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4762,6 +4772,7 @@ messenger
 met
 meta
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -5308,6 +5319,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5533,6 +5545,7 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
+osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -9194,7 +9207,6 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -9225,6 +9237,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pull
@@ -9239,7 +9252,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purfew
 purple
@@ -9355,7 +9367,6 @@ random-password-generator
 randompassword
 randomuser
 randomusers
-range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -9688,6 +9699,7 @@ rolebasedaccesscontrol_model
 roles
 rollback
 rollingfile
+romaji
 ropc
 rot13
 rotate
@@ -9958,6 +9970,7 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
+securityassessment
 securityattribute
 securitycenter
 securitycompliance
@@ -10506,7 +10519,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -10549,6 +10561,7 @@ steamcmd
 stenography
 stepmanager
 stepper
+steps
 sticker
 sticker-pack
 stickers
@@ -10753,7 +10766,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -11738,6 +11750,7 @@ whfb
 whisper
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -11762,6 +11775,7 @@ whoisserver
 whoissummary
 whoistool
 whoisutility
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -12018,7 +12032,6 @@ xdschelper
 xdscresources
 xdt
 xenapp
-xendeskop
 xendesktop
 xero
 xevents
@@ -12118,6 +12131,10 @@ zvm
 zvml
 zvmlinux
 zypper
+カタカナ
+ひらがな
+ローマ字
 全角半角変換
 寿司
+日本語
 湯婆婆
