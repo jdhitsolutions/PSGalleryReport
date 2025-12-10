@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 December 2025 09:53:47 UTC
+Updated: Wednesday, 10 December 2025 21:52:44 UTC
 
 .bat
 .env
@@ -156,6 +156,7 @@ activitycount
 actor-model
 actors
 acumatica
+acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -203,6 +204,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adidns
 adif
 adlds
@@ -239,6 +241,7 @@ adsite
 adsp
 adsync
 adt
+aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -292,6 +295,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -389,6 +393,7 @@ anime
 annotated
 announcement
 announcementsservice
+anonymize
 anonymous
 anova
 ansi
@@ -404,9 +409,7 @@ anthropic
 anti-idle
 anti-malware
 antimalwarescaninterface
-antiphishing
 antispam
-antispoofing
 antivirus
 anws
 any
@@ -1284,7 +1287,6 @@ chatanalysis
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1609,6 +1611,7 @@ composite
 compositeresource
 compoundproperty
 compress
+compressedguid
 compression
 compromised
 compute
@@ -1641,6 +1644,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2117,6 +2121,7 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
+defenderxdr
 defense
 definition
 deflate
@@ -2310,7 +2315,6 @@ division
 divoom
 diy
 dkim
-dkimcheck
 dkschrutebeets
 dl
 dll
@@ -2319,7 +2323,6 @@ dlmautomation
 dlmigration
 dlp
 dmarc
-dmarccheck
 dmgr
 dmi
 dmtf
@@ -2505,7 +2508,6 @@ durabletask
 dust
 dutch
 dvls
-dvr
 dword
 dxexpeditions
 dynamic
@@ -2607,11 +2609,8 @@ emacs
 email
 email-address
 emailaddressupdate
-emailauth
-emailauthchecker
 emailautomation
 emailcampain
-emailchecker
 emaildataplane
 emailmanagment
 emailnotification
@@ -2729,6 +2728,7 @@ espresso
 esri
 essbase
 est
+estimate
 estimation
 esx
 esxi
@@ -2829,6 +2829,7 @@ expand
 expand-string
 expand-tab
 expandframework
+expect
 experience
 experiments
 expiration
@@ -2857,6 +2858,7 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extensible
@@ -3454,6 +3456,7 @@ groundspeak
 group
 group-membership
 group-policy
+groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3548,7 +3551,6 @@ hcm
 hcp
 hcx
 hdfs
-hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3647,7 +3649,6 @@ homebrewing
 homelab
 homelandsecurity
 homeschooling
-hometheater
 hon
 hooking
 horizon
@@ -4596,7 +4597,6 @@ mailing
 mailkit
 mailmessage
 mails
-mailsecurity
 main
 main-menu
 maintain-module
@@ -4641,6 +4641,7 @@ map
 mapapi
 mapi
 mappeddrives
+mapper24
 mapping
 maps
 mapsapi
@@ -4702,6 +4703,7 @@ mcs
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
+mda
 mdatp
 mdb
 mdbc
@@ -4709,6 +4711,7 @@ mde
 mdep
 mdi
 mdm
+mdo
 mdop
 mdp
 mdt
@@ -9120,7 +9123,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshdhomerun
 pshost
 pshtml
 psidoit
@@ -9228,6 +9230,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pull
@@ -9242,6 +9245,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purfew
 purple
@@ -9421,7 +9425,6 @@ reconcile
 reconnaissance
 record
 recording
-recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9548,6 +9551,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 reonboarding
 repair
 repair-msauth
@@ -9847,6 +9851,7 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
+scim
 scissors
 scm
 scmanager
@@ -10175,7 +10180,6 @@ signature
 signed
 signing
 signtool
-silicondust
 silk
 silver_ticket
 sim
@@ -10357,6 +10361,7 @@ spanner
 spark
 sparkline
 sparklines
+spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10383,7 +10388,6 @@ spejder
 spellcheck
 spelling
 spf
-spfcheck
 spfx
 sphere
 spi
@@ -10397,7 +10401,6 @@ splunk
 spmt
 spn
 spo
-spoofing
 spooler
 sport
 sports
@@ -10456,7 +10459,9 @@ sqlvm
 sqr
 sqrt
 square
+squid
 squire
+squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10604,6 +10609,7 @@ strip-ansi
 stripe
 strongname
 structure
+structured
 sts
 stt
 studio
@@ -10887,8 +10893,10 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testabledata
 testaccount
 testautomation
+testdata
 tester
 testimonial
 testing
@@ -11385,6 +11393,8 @@ utm
 uudecode
 uuencode
 uuid
+uuidv3
+uuidv5
 uw
 uwp
 ux
@@ -11472,7 +11482,6 @@ video-editing
 videogeneration
 videos
 vie
-view
 viewer
 vigenere
 vim
@@ -11709,7 +11718,6 @@ webtesting
 webtime
 webview2
 wec
-wecutil
 weekday
 weekly
 wef
@@ -12011,10 +12019,12 @@ xbox
 xclarity
 xconvert
 xdr
+xdrinternals
 xdschelper
 xdscresources
 xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
@@ -12093,6 +12103,7 @@ zip
 zip-compression
 zipfile-transform
 zisson
+zivver
 zlib
 zlib-compression
 zoho
