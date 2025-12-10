@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 December 2025 21:52:27 UTC
+Updated: Wednesday, 10 December 2025 09:53:47 UTC
 
 .bat
 .env
@@ -156,7 +156,6 @@ activitycount
 actor-model
 actors
 acumatica
-acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -204,7 +203,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adidns
 adif
 adlds
@@ -241,7 +239,6 @@ adsite
 adsp
 adsync
 adt
-aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -392,7 +389,6 @@ anime
 annotated
 announcement
 announcementsservice
-anonymize
 anonymous
 anova
 ansi
@@ -796,6 +792,7 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
+azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1612,7 +1609,6 @@ composite
 compositeresource
 compoundproperty
 compress
-compressedguid
 compression
 compromised
 compute
@@ -1645,7 +1641,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2389,6 +2384,7 @@ domainkeys
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2733,7 +2729,6 @@ espresso
 esri
 essbase
 est
-estimate
 estimation
 esx
 esxi
@@ -2834,7 +2829,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2863,7 +2857,6 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extensible
@@ -3461,7 +3454,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3474,7 +3466,6 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
 guests
@@ -4650,7 +4641,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -9207,6 +9197,7 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
+pstablacus
 pstanss
 psthread
 pstk
@@ -9237,7 +9228,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pull
@@ -9367,6 +9357,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -9557,7 +9548,6 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
-render
 reonboarding
 repair
 repair-msauth
@@ -9857,7 +9847,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -10368,7 +10357,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10468,9 +10456,7 @@ sqlvm
 sqr
 sqrt
 square
-squid
 squire
-squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10519,6 +10505,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -10617,7 +10604,6 @@ strip-ansi
 stripe
 strongname
 structure
-structured
 sts
 stt
 studio
@@ -10766,6 +10752,7 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
+tablacus
 table
 tableau
 tableauserver
@@ -10900,10 +10887,8 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
-testabledata
 testaccount
 testautomation
-testdata
 tester
 testimonial
 testing
@@ -11400,8 +11385,6 @@ utm
 uudecode
 uuencode
 uuid
-uuidv3
-uuidv5
 uw
 uwp
 ux
@@ -12110,7 +12093,6 @@ zip
 zip-compression
 zipfile-transform
 zisson
-zivver
 zlib
 zlib-compression
 zoho
