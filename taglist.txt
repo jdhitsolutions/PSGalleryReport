@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 December 2025 21:52:44 UTC
+Updated: Thursday, 11 December 2025 09:54:24 UTC
 
 .bat
 .env
@@ -409,7 +409,9 @@ anthropic
 anti-idle
 anti-malware
 antimalwarescaninterface
+antiphishing
 antispam
+antispoofing
 antivirus
 anws
 any
@@ -577,7 +579,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -589,6 +590,7 @@ assertion-testing
 assessment
 asset
 assetintelligencepoint
+assetmanagement
 assets
 assist
 assistance
@@ -1287,6 +1289,7 @@ chatanalysis
 chatbot
 chatgpt
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1989,7 +1992,6 @@ database
 database-first
 database-migrations
 databaseautomation
-databasefirst
 databasemanagement
 databasemigration
 databaserecovery
@@ -2148,7 +2150,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2315,6 +2316,7 @@ division
 divoom
 diy
 dkim
+dkimcheck
 dkschrutebeets
 dl
 dll
@@ -2323,6 +2325,7 @@ dlmautomation
 dlmigration
 dlp
 dmarc
+dmarccheck
 dmgr
 dmi
 dmtf
@@ -2331,7 +2334,6 @@ dnd
 dnf
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2339,7 +2341,6 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2347,7 +2348,6 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -2443,7 +2443,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2508,6 +2507,7 @@ durabletask
 dust
 dutch
 dvls
+dvr
 dword
 dxexpeditions
 dynamic
@@ -2548,6 +2548,8 @@ ebooks
 ebur128
 ec2
 echo
+ecma2
+ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -2609,8 +2611,11 @@ emacs
 email
 email-address
 emailaddressupdate
+emailauth
+emailauthchecker
 emailautomation
 emailcampain
+emailchecker
 emaildataplane
 emailmanagment
 emailnotification
@@ -2744,7 +2749,6 @@ etl2pcapng
 etrade
 ets
 etw
-etymology
 eulanda
 evaluation
 evaluator
@@ -3185,7 +3189,6 @@ fulltextindexmaintenance
 fun
 function
 function-testing
-functionality
 functionalprogramming
 functionapp
 functions
@@ -3239,8 +3242,6 @@ genai
 general
 generate
 generate-dockerimagevariants
-generate-password
-generate-random-password
 generateaddress
 generates
 generatewif
@@ -3469,6 +3470,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3551,6 +3553,7 @@ hcm
 hcp
 hcx
 hdfs
+hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3649,6 +3652,7 @@ homebrewing
 homelab
 homelandsecurity
 homeschooling
+hometheater
 hon
 hooking
 horizon
@@ -3905,7 +3909,6 @@ inpainting
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
@@ -4360,7 +4363,6 @@ letsencrypt
 lf
 lgpo
 libgit2
-libmagic
 libraries
 library
 libsecret
@@ -4597,6 +4599,7 @@ mailing
 mailkit
 mailmessage
 mails
+mailsecurity
 main
 main-menu
 maintain-module
@@ -4677,7 +4680,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 mathml
@@ -5145,6 +5147,9 @@ netapp.ontap
 netapp.ontap_9.17.1
 netappfiles
 netbox
+netboxapi
+netboxps
+netboxpsv4
 netcease
 netcore
 netextender
@@ -5167,6 +5172,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
+networkautomation
 networkcategory
 networkcloud
 networkcontroller
@@ -5185,7 +5191,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5524,7 +5529,6 @@ organization
 organizationally
 orgnetwork
 oriflame
-origin
 orion
 orleans
 orm
@@ -5645,7 +5649,6 @@ parameters
 params
 parclient
 parititions
-parool
 parquet
 parse
 parsequerystring
@@ -5685,7 +5688,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -9123,7 +9125,7 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshost
+pshdhomerun
 pshtml
 psidoit
 psidoitng
@@ -9264,7 +9266,6 @@ pwa
 pwned
 pwpush
 pwpush.com
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -9357,7 +9358,6 @@ ram-it
 random
 random-date
 random-password
-random-password-generator
 randompassword
 randomuser
 randomusers
@@ -9386,8 +9386,6 @@ rcs
 rcu
 rdap
 rdap.org
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -9425,6 +9423,7 @@ reconcile
 reconnaissance
 record
 recording
+recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9494,7 +9493,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relativity
 relay
 release
@@ -9861,7 +9859,6 @@ scoop
 scope
 scopes
 score
-scottplot
 scouterna
 scouternasetjanster
 scoutnet
@@ -10180,6 +10177,7 @@ signature
 signed
 signing
 signtool
+silicondust
 silk
 silver_ticket
 sim
@@ -10235,7 +10233,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slideshow
 slmgr
 sln
@@ -10388,6 +10385,7 @@ spejder
 spellcheck
 spelling
 spf
+spfcheck
 spfx
 sphere
 spi
@@ -10401,6 +10399,7 @@ splunk
 spmt
 spn
 spo
+spoofing
 spooler
 sport
 sports
@@ -11207,7 +11206,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -11482,6 +11480,7 @@ video-editing
 videogeneration
 videos
 vie
+view
 viewer
 vigenere
 vim
@@ -11718,6 +11717,7 @@ webtesting
 webtime
 webview2
 wec
+wecutil
 weekday
 weekly
 wef
