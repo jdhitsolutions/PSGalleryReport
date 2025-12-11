@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 11 December 2025 09:54:24 UTC
+Updated: Thursday, 11 December 2025 21:52:30 UTC
 
 .bat
 .env
@@ -277,7 +277,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -579,6 +578,7 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
+aspnetcore
 asr
 assembleenationale
 assembly
@@ -623,7 +623,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -1066,7 +1065,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1379,7 +1377,6 @@ claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-cldr
 clean
 clean-architecture
 clean-up
@@ -1583,7 +1580,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -1725,7 +1721,6 @@ control
 controller
 controlroom
 controlup
-convention
 conventional
 conventional-commits
 convereter
@@ -1992,6 +1987,7 @@ database
 database-first
 database-migrations
 databaseautomation
+databasefirst
 databasemanagement
 databasemigration
 databaserecovery
@@ -2125,6 +2121,7 @@ defenderforidentity
 defenderforservers
 defenderxdr
 defense
+deferrals
 definition
 deflate
 deflate-compression
@@ -2150,6 +2147,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2334,6 +2332,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2341,6 +2340,7 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2348,6 +2348,7 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2443,6 +2444,7 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
+drop
 dropbox
 dropdatabase
 droplet
@@ -2749,6 +2751,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 eulanda
 evaluation
 evaluator
@@ -2862,7 +2865,6 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extensible
@@ -3242,6 +3244,8 @@ genai
 general
 generate
 generate-dockerimagevariants
+generate-password
+generate-random-password
 generateaddress
 generates
 generatewif
@@ -3335,7 +3339,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3470,7 +3473,6 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
 guests
@@ -3909,6 +3911,7 @@ inpainting
 input
 inputbox
 inputobject
+insert
 insiderthreat
 insight
 insightanalytics
@@ -4363,6 +4366,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libsecret
@@ -4680,6 +4684,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 mathml
@@ -4701,7 +4706,6 @@ mccs
 mcd
 mchapv2
 mcp
-mcs
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
@@ -5115,6 +5119,7 @@ naven
 navenps
 navigation
 nbi
+nbx
 ncal
 ncrestapi
 ndes
@@ -5150,6 +5155,7 @@ netbox
 netboxapi
 netboxps
 netboxpsv4
+netboxtools
 netcease
 netcore
 netextender
@@ -5191,6 +5197,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5479,7 +5486,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5526,9 +5532,9 @@ orchestration
 orchestrator
 order
 organization
-organizationally
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -5649,6 +5655,7 @@ parameters
 params
 parclient
 parititions
+parool
 parquet
 parse
 parsequerystring
@@ -5688,6 +5695,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -9126,6 +9134,7 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
+pshost
 pshtml
 psidoit
 psidoitng
@@ -9266,6 +9275,7 @@ pwa
 pwned
 pwpush
 pwpush.com
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -9358,6 +9368,7 @@ ram-it
 random
 random-date
 random-password
+random-password-generator
 randompassword
 randomuser
 randomusers
@@ -9386,6 +9397,8 @@ rcs
 rcu
 rdap
 rdap.org
+rdb
+rdbms
 rdc
 rdcman
 rdcmanager
@@ -9493,6 +9506,7 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
+relational
 relativity
 relay
 release
@@ -9546,9 +9560,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -9859,6 +9870,7 @@ scoop
 scope
 scopes
 score
+scottplot
 scouterna
 scouternasetjanster
 scoutnet
@@ -9912,7 +9924,6 @@ sd
 sddl
 sdk
 sdn
-sdp
 search
 search-adminauditlog
 search-engines
@@ -10233,6 +10244,7 @@ slack
 slash
 slashcommands
 sleep
+sleeper
 slideshow
 slmgr
 sln
@@ -11009,9 +11021,6 @@ toc
 todo
 todo.txt
 toggl
-toggl-api
-toggl-api-powershell
-toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -11206,6 +11215,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -11734,7 +11744,6 @@ what3words
 whatif
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -11991,7 +12000,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wus
 wvd
