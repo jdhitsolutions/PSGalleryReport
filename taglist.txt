@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 11 December 2025 21:52:30 UTC
+Updated: Friday, 12 December 2025 09:54:04 UTC
 
 .bat
 .env
@@ -277,6 +277,7 @@ agm
 agnoster
 ahk
 ai
+ai-development
 ai-server
 ai21
 ai21labs
@@ -380,7 +381,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -623,6 +623,7 @@ attestation
 attila
 attribute
 attributes
+attribution
 au
 audio
 audiocodes
@@ -1065,6 +1066,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1377,6 +1379,7 @@ claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+cldr
 clean
 clean-architecture
 clean-up
@@ -1414,7 +1417,6 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
-clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -1580,6 +1582,7 @@ comments
 commerce
 commfort
 commit
+commit-analysis
 commits
 common
 common-data-service
@@ -1721,6 +1724,7 @@ control
 controller
 controlroom
 controlup
+convention
 conventional
 conventional-commits
 convereter
@@ -2332,7 +2336,6 @@ dnd
 dnf
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2340,7 +2343,6 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2348,7 +2350,6 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -2865,6 +2866,7 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extensible
@@ -3176,7 +3178,6 @@ fslogix
 fsrm
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3191,6 +3192,7 @@ fulltextindexmaintenance
 fun
 function
 function-testing
+functionality
 functionalprogramming
 functionapp
 functions
@@ -3339,6 +3341,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3473,6 +3476,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3703,8 +3707,6 @@ html-templates
 htmlentity
 http
 http_proxy
-http-listener
-http-server
 httpclient
 httplistener
 httpqscollection
@@ -3917,6 +3919,7 @@ insight
 insightanalytics
 insights
 inspect
+inspection
 inspiration
 inspirationalquotes
 inspire
@@ -4546,7 +4549,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -4557,7 +4559,6 @@ lucene
 luma
 lumaai
 lunar
-lunches
 lustrefilestorage
 lwa
 lxca
@@ -4706,6 +4707,8 @@ mccs
 mcd
 mchapv2
 mcp
+mcs
+mcsb
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
@@ -5297,7 +5300,6 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -5486,6 +5488,7 @@ openidconnect
 openinghours
 openport
 openprovider
+openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5532,6 +5535,7 @@ orchestration
 orchestrator
 order
 organization
+organizationally
 orgnetwork
 oriflame
 origin
@@ -5828,6 +5832,7 @@ pkgx
 pki
 pki psmodule
 pks
+pktmon
 place
 places
 plain
@@ -5904,7 +5909,6 @@ port
 port70
 portal
 portchecker
-porthunter
 ports
 portscan
 porttest
@@ -9345,6 +9349,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qwinsta
 qword
 r
 r53
@@ -9560,6 +9565,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -9924,6 +9932,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -10146,7 +10155,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -10289,6 +10297,7 @@ snapping
 snapshot
 snapshots
 sni
+sniffer
 snipe-it
 snippet
 snippets
@@ -10918,7 +10927,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text_to_speech
@@ -11021,6 +11029,9 @@ toc
 todo
 todo.txt
 toggl
+toggl-api
+toggl-api-powershell
+toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -11677,10 +11688,8 @@ weaviate
 weaviatenet
 web
 web-browser
-web-framework
 web-hook
 web-search
-web-server
 web.config
 webadministration
 webapi
@@ -11724,7 +11733,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 webview2
 wec
 wecutil
@@ -11744,6 +11752,7 @@ what3words
 whatif
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -12000,6 +12009,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd
