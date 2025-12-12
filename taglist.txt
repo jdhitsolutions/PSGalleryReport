@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 December 2025 09:54:04 UTC
+Updated: Friday, 12 December 2025 21:52:33 UTC
 
 .bat
 .env
@@ -66,7 +66,6 @@ Updated: Friday, 12 December 2025 09:54:04 UTC
 7zip
 8.1
 9
-aa
 aac
 aad
 aad-graph
@@ -436,7 +435,6 @@ apigeeedge
 apimanagement
 apiplatform
 apis
-aplication
 apm
 apmconfig
 apmcontrolplane
@@ -662,7 +660,6 @@ auto
 auto_cd
 auto-completion
 autoadapter
-autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -909,7 +906,6 @@ bat
 batcat
 batch
 batch-install
-batchclass
 batching
 batman
 battery
@@ -1165,7 +1161,6 @@ calculator
 calendar
 callingcode
 callout
-callqueue
 calvin-and-hobbes
 cam
 camera
@@ -1417,6 +1412,7 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
+clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -2336,6 +2332,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2343,6 +2340,7 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2350,6 +2348,7 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2670,7 +2669,6 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
-enterprisevoice
 entertainment
 entity
 entity-framework
@@ -2699,7 +2697,6 @@ envvars
 eol
 eop
 eperl
-ephesoft
 epicor
 episode
 epplus
@@ -3178,6 +3175,7 @@ fslogix
 fsrm
 ftp
 ftps
+ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3707,6 +3705,8 @@ html-templates
 htmlentity
 http
 http_proxy
+http-listener
+http-server
 httpclient
 httplistener
 httpqscollection
@@ -4501,7 +4501,6 @@ loggingingestion
 loggingsearch
 loggly
 logic
-logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -4549,6 +4548,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -4559,6 +4559,7 @@ lucene
 luma
 lumaai
 lunar
+lunches
 lustrefilestorage
 lwa
 lxca
@@ -4649,7 +4650,7 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
+mapper
 mapping
 maps
 mapsapi
@@ -5300,6 +5301,7 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -5451,7 +5453,6 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
-onnx
 onprem
 onpremisesdatagatewayhamgmt
 onq
@@ -5621,7 +5622,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesartefact
 packagesregistry
 packaging
 packaging psmodule
@@ -5780,7 +5780,6 @@ pfx
 pfy
 pgp
 phabricator
-phi
 philips
 philosophical
 philpritchett
@@ -6023,8 +6022,8 @@ powerdex
 powerforensics
 powergraph
 powergui
-powermanagement
 powermax
+powernetbox
 powerpack
 powerplan
 powerplateform
@@ -9214,7 +9213,6 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -9512,7 +9510,6 @@ regularexpression
 regularexpressions
 reinstall
 relational
-relativity
 relay
 release
 releasedefinition
@@ -10075,7 +10072,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -10155,6 +10151,7 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
+sharetru
 sheets
 shell
 shell-art
@@ -10251,7 +10248,6 @@ skytap
 slack
 slash
 slashcommands
-sleep
 sleeper
 slideshow
 slmgr
@@ -10778,7 +10774,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -10927,6 +10922,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text_to_speech
@@ -11688,8 +11684,10 @@ weaviate
 weaviatenet
 web
 web-browser
+web-framework
 web-hook
 web-search
+web-server
 web.config
 webadministration
 webapi
@@ -11949,6 +11947,7 @@ workflows
 workingdays
 workinghours
 workingtime
+workitems
 workload
 workload-automation
 workloadidentity
