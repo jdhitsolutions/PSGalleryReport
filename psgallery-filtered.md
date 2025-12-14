@@ -3,17 +3,49 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.143.1) | 1.143.1
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.7.3) | 2.7.3
 
-### Published: 12/13/2025 21:26:30 by Chris Peterson
+### Published: 12/14/2025 08:24:04 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 10,121 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.14.1) | 25.12.14.1
+
+### Published: 12/14/2025 05:08:52 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,795,514 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PPDS.Tools](https://www.powershellgallery.com/Packages/PPDS.Tools/1.0.0) | 1.0.0
+
+### Published: 12/14/2025 05:01:21 by Josh Smith
+
+PowerShell tools for Dataverse plugin deployment, drift detection, and CI/CD automation. Part of the Power Platform Developer Suite.
+
+__Downloads__: 0 | __Repository__: https://github.com/joshsmithxrm/ppds-tools
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.144.1) | 1.144.1
+
+### Published: 12/14/2025 00:26:54 by Chris Peterson
 
 Interact with GitLab via PowerShell
 
 __Downloads__: 27,897 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
-## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.145) | 2.1.145
+## [GoodEnoughRules](https://www.powershellgallery.com/Packages/GoodEnoughRules/0.3.0) | 0.3.0
 
-### Published: 12/13/2025 20:58:06 by devizer
+### Published: 12/14/2025 00:07:22 by Gilbert Sanchez
+
+A set of PSScriptAnalyzer rules that help make it Good Enough!
+
+__Downloads__: 37 | __Repository__: https://github.com/HeyItsGilbert/GoodEnoughRules/
+
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.146) | 2.1.146
+
+### Published: 12/13/2025 23:22:44 by devizer
 
 SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
 
@@ -24,23 +56,15 @@ The intended use of this project is for Continuous Integration (CI) scenarios, w
 
 By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
 
-__Downloads__: 57,160 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
+__Downloads__: 57,162 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
 
-## [Sql](https://www.powershellgallery.com/Packages/Sql/0.11.0) | 0.11.0
+## [Sql](https://www.powershellgallery.com/Packages/Sql/0.12.0) | 0.12.0
 
-### Published: 12/13/2025 19:39:13 by Cédric Belin <cedx@outlook.com>
+### Published: 12/13/2025 23:04:28 by Cédric Belin <cedx@outlook.com>
 
 A simple micro-ORM, based on ADO.NET and data annotations.
 
 __Downloads__: 108 | __Repository__: https://github.com/cedx/sql.net
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.13.3) | 25.12.13.3
-
-### Published: 12/13/2025 17:07:43 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,795,514 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSPktmon](https://www.powershellgallery.com/Packages/PSPktmon/0.6.2) | 0.6.2
 
@@ -57,14 +81,6 @@ __Downloads__: 17 | __Repository__: https://github.com/Ekky-PS/PSPktmon
 GraphEssentials is a PowerShell module that helps with Office 365 / Azure AD using mostly Graph
 
 __Downloads__: 1,594 | __Repository__: 
-
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.7.2) | 2.7.2
-
-### Published: 12/13/2025 15:17:25 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 10,121 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
 
 ## [ConvertFrom-JsonAsHashtable](https://www.powershellgallery.com/Packages/ConvertFrom-JsonAsHashtable/1.0.2) | 1.0.2
 
@@ -463,14 +479,6 @@ __Downloads__: 16,714 | __Repository__: https://github.com/PSModule/GoogleFonts
 NetboxPSv4 - A comprehensive PowerShell module for the Netbox REST API with 100% API coverage. Fork of NetboxPS with full Netbox 4.x compatibility. Supports DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, and Users modules. Cross-platform (Windows, Linux, macOS).
 
 __Downloads__: 4 | __Repository__: https://github.com/ctrl-alt-automate/NetboxPS
-
-## [ECMA2HostTools](https://www.powershellgallery.com/Packages/ECMA2HostTools/1.0.0) | 1.0.0
-
-### Published: 12/11/2025 04:33:01 by Darren J Robinson
-
-PowerShell module for orchestrating ECMA2Host and its connectors in Microsoft Identity Manager (MIM) / FIM Sync Engine environments
-
-__Downloads__: 4 | __Repository__: https://github.com/darrenjrobinson
 
 ## [SolarWinds.ServiceDesk](https://www.powershellgallery.com/Packages/SolarWinds.ServiceDesk/1.0.4) | 1.0.4
 
@@ -2029,12 +2037,4 @@ Master module for a collection of modules. These modules are varied in their tas
 
 __Downloads__: 131,890 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
-## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.43) | 1.5.0.43
-
-### Published: 12/09/2025 03:29:30 by Taylor Lee
-
-Functions for Security Operations and Investigations
-
-__Downloads__: 6,416 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Saturday, 13 December 2025 21:52:20 UTC*
+*Updated: Sunday, 14 December 2025 09:52:16 UTC*

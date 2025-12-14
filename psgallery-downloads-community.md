@@ -9,7 +9,7 @@ These are the most popular 250 modules based on total download count for modules
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 1,790,967,149 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 1,790,974,375 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.19) | 1.0.19
 
@@ -17,7 +17,7 @@ __Downloads__: 1,790,967,149 | __Repository__: https://github.com/mgajda83/PSWin
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 521,660,534 | __Repository__: 
+__Downloads__: 521,660,536 | __Repository__: 
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -26,7 +26,7 @@ __Downloads__: 521,660,534 | __Repository__:
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 181,539,882 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 181,541,390 | __Repository__: https://github.com/jborean93/PSPrivilege
 
 ## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
 
@@ -34,7 +34,7 @@ __Downloads__: 181,539,882 | __Repository__: https://github.com/jborean93/PSPriv
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 148,882,341 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 148,883,163 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.12) | 0.4.12
 
@@ -42,7 +42,7 @@ __Downloads__: 148,882,341 | __Repository__: https://github.com/KelvinTegelaar/R
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 143,412,450 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 143,412,754 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.13) | 0.0.13
 
@@ -1207,9 +1207,9 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 5,959,729 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.13.3) | 25.12.13.3
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.14.1) | 25.12.14.1
 
-### Published: 12/13/2025 17:07:43 by David Segura . Gary Blok . Michael Escamilla
+### Published: 12/14/2025 05:08:52 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
@@ -2138,4 +2138,4 @@ Easy way to send emails in PowerShell
 
 __Downloads__: 1,107,117 | __Repository__: https://github.com/EvotecIT/Emailimo
 
-*Updated: Saturday, 13 December 2025 21:52:26 UTC*
+*Updated: Sunday, 14 December 2025 09:52:22 UTC*
