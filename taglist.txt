@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 14 December 2025 21:51:54 UTC
+Updated: Monday, 15 December 2025 09:56:55 UTC
 
 .bat
 .env
@@ -344,6 +344,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alto
 alwaysontop
 alwaysonvpn
@@ -399,6 +400,8 @@ ansi
 ansi-art
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 ansiblectl
 ansibletower
@@ -735,9 +738,11 @@ awspricelist
 awx
 axapta
 axcient
+axcient_x360recover
 axinom
 axis
 axium
+ayx
 az
 az-cli
 az.runtimeenvironment
@@ -1107,7 +1112,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1378,10 +1382,8 @@ clccontrolapiv2
 cldr
 clean
 clean-architecture
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1608,7 +1610,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compressedguid
 compression
@@ -1904,6 +1905,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 cursor
 custom
 customchecks
@@ -2119,7 +2121,6 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
-defenderxdr
 defense
 deferrals
 definition
@@ -2131,7 +2132,6 @@ delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2291,6 +2291,7 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 disposable
 dispose
@@ -2571,7 +2572,6 @@ education
 educational
 eduprom
 effectiveroutes
-effects
 efficiency
 efficientether
 efi
@@ -2593,7 +2593,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -2700,7 +2699,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2730,6 +2728,7 @@ español
 espressif
 espresso
 esri
+essbase
 est
 estimate
 estimation
@@ -2858,6 +2857,7 @@ extend
 extended
 extendedattributes
 extendedevents
+extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
@@ -4007,7 +4007,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 iotoperationsservice
 ip
 ip_cameras
@@ -4070,10 +4069,7 @@ it-tools
 itadministration
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itg
@@ -4303,6 +4299,7 @@ landingzones
 language
 language-model
 languageai
+languagedsc
 languageexperiencepack
 languagemodels
 languagepack
@@ -4455,6 +4452,7 @@ localization
 localpolicy
 localrepo
 localrepository
+localuser
 location
 locationbasedservices
 locations
@@ -4707,7 +4705,6 @@ mcsb
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
-mda
 mdatp
 mdb
 mdbc
@@ -4715,7 +4712,6 @@ mde
 mdep
 mdi
 mdm
-mdo
 mdop
 mdp
 mdt
@@ -4906,11 +4902,6 @@ modern
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5009,7 +5000,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -5181,7 +5171,6 @@ networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
-networkdrive
 networkdrives
 networkfirewall
 networkfunction
@@ -5205,7 +5194,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5682,7 +5670,6 @@ password_generation
 password-generator
 password-less
 password-manager
-password.ninja
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -6055,8 +6042,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -9238,7 +9223,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -9276,7 +9260,6 @@ pvs
 pwa
 pwned
 pwpush
-pwpush.com
 pwsafe
 pwsh
 pwsh.fw
@@ -9419,7 +9402,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -9566,6 +9548,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 reonboarding
 repair
 repair-msauth
@@ -9895,7 +9878,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-signing
 script-to-assembly
 script-to-executable
@@ -9939,6 +9921,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -10016,7 +9999,6 @@ selfsigned
 semantic
 semantic-versioning
 semanticversioning
-semaphore
 semver
 senat
 senateur
@@ -10135,6 +10117,7 @@ shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -10161,7 +10144,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10350,6 +10332,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 sound
 sounds
@@ -10655,6 +10638,7 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
+subtitles
 subversion
 success
 successfactors
@@ -10898,7 +10882,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -11096,7 +11079,6 @@ translator
 translit
 transliteration
 transmission
-transparancy
 transparency
 transpilation
 trap
@@ -11322,7 +11304,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11650,7 +11631,6 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
@@ -11989,7 +11969,6 @@ write-wansi
 writeaccess
 writelog
 writeprogress
-writer
 writing
 ws-federation
 wsapi
@@ -12036,7 +12015,6 @@ xbox
 xclarity
 xconvert
 xdr
-xdrinternals
 xdschelper
 xdscresources
 xdt
