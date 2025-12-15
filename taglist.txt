@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 December 2025 09:56:55 UTC
+Updated: Monday, 15 December 2025 21:52:39 UTC
 
 .bat
 .env
@@ -1112,6 +1112,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1308,7 +1309,6 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
-cherwell
 chfs
 chi
 china
@@ -1382,8 +1382,10 @@ clccontrolapiv2
 cldr
 clean
 clean-architecture
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1610,6 +1612,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compressedguid
 compression
@@ -1636,7 +1639,6 @@ condition
 conditional
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -2121,6 +2123,7 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
+defenderxdr
 defense
 deferrals
 definition
@@ -2132,6 +2135,7 @@ delegated
 delegation
 delegationmodel
 delete
+delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2550,6 +2554,8 @@ ebooks
 ebur128
 ec2
 echo
+ecma2
+ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -2572,6 +2578,7 @@ education
 educational
 eduprom
 effectiveroutes
+effects
 efficiency
 efficientether
 efi
@@ -2593,6 +2600,7 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
+elevenlabs
 elgato
 eli5
 elitism
@@ -2699,6 +2707,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -3011,7 +3020,6 @@ finance
 finance&operations
 financeandoperations
 financeoperations
-finances
 financial
 financialedge
 financialmodeling
@@ -3191,6 +3199,7 @@ functionality
 functionalprogramming
 functionapp
 functions
+fundamentals
 funds
 funny
 fusion
@@ -3415,6 +3424,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -4007,6 +4018,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 iotoperationsservice
 ip
 ip_cameras
@@ -4069,7 +4081,10 @@ it-tools
 itadministration
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -4216,7 +4231,6 @@ keyring
 keysms
 keytab
 keyusage
-keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4705,6 +4719,7 @@ mcsb
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
+mda
 mdatp
 mdb
 mdbc
@@ -4712,6 +4727,7 @@ mde
 mdep
 mdi
 mdm
+mdo
 mdop
 mdp
 mdt
@@ -4902,6 +4918,11 @@ modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5000,6 +5021,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -5171,6 +5193,7 @@ networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
+networkdrive
 networkdrives
 networkfirewall
 networkfunction
@@ -5194,6 +5217,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5670,6 +5694,7 @@ password_generation
 password-generator
 password-less
 password-manager
+password.ninja
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -5798,7 +5823,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -6042,6 +6066,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -6103,7 +6129,6 @@ prepend
 preprocessing
 preprocessor
 prerequisites
-presentation
 presentationframework
 presenter
 presto
@@ -9223,6 +9248,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9260,6 +9286,7 @@ pvs
 pwa
 pwned
 pwpush
+pwpush.com
 pwsafe
 pwsh
 pwsh.fw
@@ -9402,6 +9429,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -9766,6 +9794,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -9878,6 +9907,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-signing
 script-to-assembly
 script-to-executable
@@ -9999,6 +10029,7 @@ selfsigned
 semantic
 semantic-versioning
 semanticversioning
+semaphore
 semver
 senat
 senateur
@@ -10139,11 +10170,11 @@ shell
 shell-art
 shell-integration
 shells
-sherweb
 shieldedvm
 ships
 shipsprovider
 shipstation
+shitpost
 shlink
 shodan
 shodanps
@@ -10364,7 +10395,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -10423,7 +10453,6 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10882,6 +10911,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10917,7 +10947,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 textfile
 textgeneration
@@ -11079,6 +11108,7 @@ translator
 translit
 transliteration
 transmission
+transparancy
 transparency
 transpilation
 trap
@@ -11296,7 +11326,6 @@ unix
 unlinked
 unlock
 unprotect
-unraid
 unsigned
 unsupported
 untis
@@ -11304,6 +11333,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11631,6 +11661,7 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -11969,6 +12000,7 @@ write-wansi
 writeaccess
 writelog
 writeprogress
+writer
 writing
 ws-federation
 wsapi
@@ -12015,6 +12047,7 @@ xbox
 xclarity
 xconvert
 xdr
+xdrinternals
 xdschelper
 xdscresources
 xdt
