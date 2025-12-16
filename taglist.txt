@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 December 2025 21:52:39 UTC
+Updated: Tuesday, 16 December 2025 09:54:36 UTC
 
 .bat
 .env
@@ -823,7 +823,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1037,7 +1036,6 @@ bluetraitio
 bluetuxedo
 bmc
 bms
-bnm
 boards
 bofh
 boilerplate
@@ -1294,7 +1292,6 @@ chatroom
 chatter
 cheat
 check
-checkdb
 checker
 checklist
 checklists
@@ -1309,6 +1306,7 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
+cherwell
 chfs
 chi
 china
@@ -1473,7 +1471,6 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1639,6 +1636,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1994,7 +1992,6 @@ databaseautomation
 databasefirst
 databasemanagement
 databasemigration
-databaserecovery
 databases
 databasetools
 databooster
@@ -3020,6 +3017,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financialmodeling
@@ -3133,7 +3131,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortra
 fortune
 forum
 forwardcompatibility
@@ -3191,7 +3188,6 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
-fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3274,7 +3270,6 @@ geoencoding
 geoip
 geolocation
 geosearching
-geospatial
 geotagging
 get
 get_random_password
@@ -3389,7 +3384,6 @@ gnome
 gnucash
 gnuwin32
 go
-goanywhere
 gobright
 godaddy
 golang
@@ -3766,7 +3760,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icann
 icinga
 icinga2
@@ -3878,7 +3871,6 @@ incontact
 indents
 index
 indexdb
-indexmaintenance
 indicator
 indicators
 inedo
@@ -4134,6 +4126,7 @@ jobcan
 jobs
 jobscheduler
 johnshopkins
+johntheripper
 join
 join-object
 jojoba
@@ -4231,6 +4224,7 @@ keyring
 keysms
 keytab
 keyusage
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4534,7 +4528,6 @@ logparser
 logrotate
 logrotation
 logs
-logshipping
 logstash
 logtools
 logz
@@ -4933,7 +4926,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -5462,7 +5454,6 @@ onlinebackup
 onnx
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.17.1
@@ -5484,7 +5475,6 @@ openai
 openaiclient
 openamt
 openapi
-opencage
 opendata
 openedge
 openfiles
@@ -5695,11 +5685,13 @@ password-generator
 password-less
 password-manager
 password.ninja
+passwordcrack
 passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
+passwordhash
 passwordhashing
 passwordless
 passwordlock
@@ -5823,6 +5815,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -6033,7 +6026,6 @@ powergraph
 powergui
 powermanagement
 powermax
-powernetbox
 powerpack
 powerplan
 powerplateform
@@ -6129,6 +6121,7 @@ prepend
 preprocessing
 preprocessor
 prerequisites
+presentation
 presentationframework
 presenter
 presto
@@ -10170,6 +10163,7 @@ shell
 shell-art
 shell-integration
 shells
+sherweb
 shieldedvm
 ships
 shipsprovider
@@ -10395,6 +10389,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -10450,9 +10445,9 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbackup
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10560,7 +10555,6 @@ statichtmlsites
 staticip
 staticsite
 statistical
-statisticmaintenance
 statistics
 stats
 statsd
@@ -10947,6 +10941,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 textfile
 textgeneration
@@ -11251,7 +11246,6 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -11326,6 +11320,7 @@ unix
 unlinked
 unlock
 unprotect
+unraid
 unsigned
 unsupported
 untis
