@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 December 2025 09:54:23 UTC
+Updated: Wednesday, 17 December 2025 21:52:50 UTC
 
 .bat
 .env
@@ -48,6 +48,7 @@ Updated: Wednesday, 17 December 2025 09:54:23 UTC
 21vianet
 24-bit
 2fa
+300
 365
 36867
 3cx
@@ -130,6 +131,7 @@ active
 active_directory
 active-directory
 active-plug
+activecampaign
 activedirectory
 activedirectory_delegation
 activedirectory_over_html
@@ -282,6 +284,7 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aicontext
 aid
 aidataplatform
 aider
@@ -422,6 +425,7 @@ apache_maven
 apachekafka
 apexlegends
 api
+api-client
 api-gateway
 api-generation
 api-rest
@@ -566,7 +570,6 @@ asigra
 asjob
 ask-gpt
 askgpt
-asm
 asn
 asn.1
 asn1
@@ -1141,7 +1144,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byte
 bytearray
 bzip2
@@ -1380,8 +1382,10 @@ clccontrolapiv2
 cldr
 clean
 clean-architecture
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1526,6 +1530,7 @@ cognitiveservices
 cohere
 cohesity
 coinbase
+coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1752,6 +1757,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -1902,7 +1908,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 cursor
 custom
 customchecks
@@ -2004,7 +2009,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2130,6 +2134,7 @@ delegated
 delegation
 delegationmodel
 delete
+delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -3129,7 +3134,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortra
 fortune
 forum
 forwardcompatibility
@@ -3212,6 +3216,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3384,7 +3389,6 @@ gnome
 gnucash
 gnuwin32
 go
-goanywhere
 gobright
 godaddy
 golang
@@ -3411,6 +3415,7 @@ gopher+
 gopherplus
 gophers
 governance
+governancerulescontrolplane
 gp
 gpedit
 gpg
@@ -3980,7 +3985,6 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
-intunewinapputil
 inventory
 investigation
 investing
@@ -4681,6 +4685,7 @@ marvellqlogicfcpowerkit
 mas
 mask
 mass
+massmail
 masstransit
 masterconfiguration
 match
@@ -4984,6 +4989,7 @@ msal
 msaltoken
 msauth
 msband
+msbi
 msbuild
 msdeploy
 msdn
@@ -5457,6 +5463,7 @@ onlinebackup
 onnx
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.17.1
@@ -5513,6 +5520,7 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -5608,6 +5616,7 @@ owner
 oxygen
 oxyplot
 p2000
+p2p
 p2s
 pa1reg
 paas
@@ -8103,6 +8112,7 @@ psfive9
 psfive9admin
 psflurl
 psfoldersize
+psframework
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
@@ -9175,6 +9185,7 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
+psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -9792,6 +9803,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -9943,6 +9955,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -10208,6 +10221,7 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
+simulation
 sin
 single
 singlesignon
@@ -10640,7 +10654,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subdirectory
 subject
 subjectname
 sublimetext
@@ -10669,6 +10682,7 @@ sudo
 sugar
 sugarcrm
 suggestion
+suitecrm
 sullivan
 summary
 summit
@@ -11034,6 +11048,7 @@ toggl-api-powershell
 toggl-api-ps
 toggle
 token
+tokencounter
 tokenlifetime
 tokens
 tombstone
@@ -11503,6 +11518,7 @@ videos
 vie
 view
 viewer
+vigenere
 vim
 vimode
 virole
