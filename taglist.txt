@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 December 2025 09:54:47 UTC
+Updated: Thursday, 18 December 2025 21:52:22 UTC
 
 .bat
 .env
@@ -425,7 +425,6 @@ apache_maven
 apachekafka
 apexlegends
 api
-api-client
 api-gateway
 api-generation
 api-rest
@@ -824,6 +823,7 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
+azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1376,7 +1376,6 @@ classification
 classified
 claude
 claude3
-claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1531,7 +1530,6 @@ cognitiveservices
 cohere
 cohesity
 coinbase
-coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1569,7 +1567,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1580,7 +1577,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1769,7 +1765,6 @@ copy
 copy-item
 copyfileex
 copypaste
-copyright
 core
 coreposh
 coreutils
@@ -3043,7 +3038,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -3137,7 +3131,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortra
 fortune
 forum
 forwardcompatibility
@@ -3153,7 +3146,6 @@ fox
 foxpro
 fqdn
 fractal
-frame
 framework
 france
 free
@@ -3393,7 +3385,6 @@ gnome
 gnucash
 gnuwin32
 go
-goanywhere
 gobright
 godaddy
 golang
@@ -3543,6 +3534,8 @@ hardmatch
 hardware
 harperdb
 hartokens
+harvest
+harvestforecast
 hash
 hash-verification
 hashcat
@@ -3739,6 +3732,7 @@ humour
 hunter
 hunting
 hwid
+hwinfo64
 hybrid
 hybridrunbookworker
 hyper-v
@@ -4527,6 +4521,7 @@ logitech
 logmail
 logmails
 logman
+logo
 logoff
 logon
 logonright
@@ -4595,6 +4590,7 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
+macos-powershell
 macosx
 macro
 macros
@@ -4677,7 +4673,6 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -6138,7 +6133,6 @@ prerequisites
 presentation
 presentationframework
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -6196,7 +6190,6 @@ profilemanagement
 profilemigration
 profiler
 profiles
-profileupdater
 profilevalidation
 proget
 program
@@ -9188,7 +9181,6 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -9364,7 +9356,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qwinsta
 qword
 r
 r53
@@ -9431,6 +9422,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react
 react-stockcharts
 read
 read-slog
@@ -9914,6 +9906,7 @@ screenshot
 script
 script_version
 script-module
+script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9933,6 +9926,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -10706,9 +10700,11 @@ surveymonkey
 sus
 sushi
 suspensive
+svelte
 svesavov
 svetoslav
 svg
+svgl
 svn
 svt
 swagger
@@ -10904,7 +10900,6 @@ terminal-themes
 terminal-visuals
 terminal.gui
 terminalnotifier
-terminalservices
 terminalvelocity
 termset
 terraform
@@ -11652,6 +11647,7 @@ vstest
 vsts
 vsts-cli
 vtt
+vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -12023,7 +12019,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wts
 wtsapi32
 wttr
 wttr.in
