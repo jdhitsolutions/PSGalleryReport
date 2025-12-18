@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 December 2025 21:52:50 UTC
+Updated: Thursday, 18 December 2025 09:54:47 UTC
 
 .bat
 .env
@@ -570,6 +570,7 @@ asigra
 asjob
 ask-gpt
 askgpt
+asm
 asn
 asn.1
 asn1
@@ -823,7 +824,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1144,6 +1144,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byte
 bytearray
 bzip2
@@ -1908,6 +1909,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 cursor
 custom
 customchecks
@@ -2009,6 +2011,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -3134,6 +3137,7 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
+fortra
 fortune
 forum
 forwardcompatibility
@@ -3389,6 +3393,7 @@ gnome
 gnucash
 gnuwin32
 go
+goanywhere
 gobright
 godaddy
 golang
@@ -3538,8 +3543,6 @@ hardmatch
 hardware
 harperdb
 hartokens
-harvest
-harvestforecast
 hash
 hash-verification
 hashcat
@@ -3985,6 +3988,7 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
+intunewinapputil
 inventory
 investigation
 investing
@@ -4523,7 +4527,6 @@ logitech
 logmail
 logmails
 logman
-logo
 logoff
 logon
 logonright
@@ -4592,7 +4595,6 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
-macos-powershell
 macosx
 macro
 macros
@@ -5489,6 +5491,7 @@ opencage
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -9428,7 +9431,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react
 react-stockcharts
 read
 read-slog
@@ -9912,7 +9914,6 @@ screenshot
 script
 script_version
 script-module
-script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9932,7 +9933,6 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -10233,6 +10233,7 @@ sintez.module.rds
 sit
 site
 site_navigation
+site-management
 sitecollection
 siteconfiguration
 sitecore
@@ -10654,6 +10655,7 @@ sub
 sub-directory
 sub-menu
 subatomix
+subdirectory
 subject
 subjectname
 sublimetext
@@ -10704,11 +10706,9 @@ surveymonkey
 sus
 sushi
 suspensive
-svelte
 svesavov
 svetoslav
 svg
-svgl
 svn
 svt
 swagger
@@ -10833,6 +10833,7 @@ tasks
 tasksbyme
 taskscheduler
 tatux
+tauricraft
 taxjar
 taxonomy
 tcg
@@ -11499,6 +11500,7 @@ verbose psmodule
 verification
 verify
 version
+version-management
 versioncontrol
 versioning
 versionmanager
@@ -11650,7 +11652,6 @@ vstest
 vsts
 vsts-cli
 vtt
-vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
