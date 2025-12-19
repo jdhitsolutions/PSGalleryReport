@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 December 2025 09:53:52 UTC
+Updated: Friday, 19 December 2025 21:52:19 UTC
 
 .bat
 .env
@@ -143,6 +143,7 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
+activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -355,6 +356,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amd
@@ -401,7 +404,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -631,7 +633,6 @@ auditad
 auditing
 auditnetlogon
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -702,7 +703,6 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
-av1
 availability
 availabilityset
 avalara
@@ -934,7 +934,6 @@ bearded-avenger
 bearer
 beautifier
 beautiful-terminal
-beautify
 bec
 beckhoff
 bedrock
@@ -1067,8 +1066,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -1202,7 +1199,6 @@ carousel
 carrier
 cartoon
 case
-cassandra
 cat
 cat-names
 catalog
@@ -1683,7 +1679,6 @@ connectionstring
 connectivity
 connector
 connectorcmd
-connectormanagement
 connectsync
 connectwise
 conservation
@@ -1801,7 +1796,6 @@ coveralls
 coveralls.io
 covid
 covid-19
-cpm
 cppm
 cpu
 cpuid
@@ -1848,7 +1842,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-cricket
 crime
 critical
 crlf
@@ -1872,7 +1865,6 @@ crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
-cryptopro
 cs137
 csc
 csharp
@@ -2314,7 +2306,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 diy
@@ -2403,7 +2394,6 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
-dotnet-tool
 dotnettool
 dotps1
 dots
@@ -2522,6 +2512,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2709,7 +2700,6 @@ episode
 epplus
 eprosima
 epub
-epv
 equality
 erb
 erp
@@ -2939,7 +2929,6 @@ featureupdate
 federated
 federateddirectory
 federation
-fedex
 feed
 fermentation
 fetch
@@ -2953,7 +2942,6 @@ fido2
 fieldglass
 fields
 fifa
-figlet
 file
 file-association
 file-copy
@@ -3143,7 +3131,6 @@ forwardedevents
 forwarding
 foudil
 foundationmodels
-foundry
 fount
 fount-pwsh
 fountassist
@@ -3224,7 +3211,6 @@ games
 gameserver
 gaming
 garage
-gas
 gat
 gateway
 gauge
@@ -3406,7 +3392,6 @@ google-histogram
 google-sankey
 google-table
 googleadsv2
-googlecloud
 googlecloudplatform
 googledrive
 googlemap
@@ -3434,6 +3419,7 @@ gpp
 gps
 gpt
 gpx
+gradle
 grafana
 grafanaapi
 granttype
@@ -3458,7 +3444,6 @@ greenplum
 gregorian
 gremlin
 grep
-greynoise
 grid
 gridfs
 gridview
@@ -3798,7 +3783,6 @@ identifier
 identity
 identity-management
 identitycenter
-identitydataplane
 identitydirector
 identitydomains
 identitygovernance
@@ -4072,7 +4056,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-ispss
 issues
 isvalidemail
 isvalidip
@@ -4498,7 +4481,6 @@ log-rotation
 log4net
 loganalytics
 logbook
-logcat
 logentry
 logfile
 logfilearchivearchive
@@ -4527,7 +4509,6 @@ logitech
 logmail
 logmails
 logman
-logo
 logoff
 logon
 logonright
@@ -4596,7 +4577,6 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
-macos-powershell
 macosx
 macro
 macros
@@ -4755,7 +4735,6 @@ meetup
 meetup.com
 meewind
 megabyte
-melamed
 meltdown
 mem
 member
@@ -4798,6 +4777,7 @@ metropolis
 mfa
 mft
 mga
+mgn
 mi
 micro
 micro-framework
@@ -5259,7 +5239,6 @@ ninjarmm
 nios
 nipkg
 nist
-nitrox
 nixos
 njclipsh
 nl
@@ -5617,7 +5596,6 @@ ovh
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2p
@@ -5682,7 +5660,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pas
 pass
 pass-the-hash
 pass-the-ticket
@@ -5743,7 +5720,6 @@ pbixtopbit
 pc
 pcapng
 pci-dss
-pcloud
 pcsetup
 pcsv
 pdb
@@ -5947,7 +5923,6 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
-poshprtg
 poshrest
 poshrsjob
 poshtemplate
@@ -6005,7 +5980,6 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
-poshy-wrap-zypper
 position
 post
 postcode
@@ -6170,7 +6144,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegecloud
 privileged
 privilegedidentitymanagement
 privileges
@@ -6182,7 +6155,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -6249,8 +6221,6 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
-prtg_network_monitor
-prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -7487,52 +7457,6 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
-pscommand_invoke-zypper
-pscommand_invoke-zypperaddlock
-pscommand_invoke-zypperaddservice
-pscommand_invoke-zypperadrepo
-pscommand_invoke-zypperclean
-pscommand_invoke-zyppercleanlocks
-pscommand_invoke-zypperdistupgrade
-pscommand_invoke-zypperhelp
-pscommand_invoke-zypperhelpsearch
-pscommand_invoke-zypperif
-pscommand_invoke-zypperin
-pscommand_invoke-zypperinstallnewrecommends
-pscommand_invoke-zypperlicenses
-pscommand_invoke-zypperlistlocks
-pscommand_invoke-zypperlistpackages
-pscommand_invoke-zypperlistprocesseslockingpackages
-pscommand_invoke-zypperlistrepos
-pscommand_invoke-zypperlistservices
-pscommand_invoke-zypperlistupdates
-pscommand_invoke-zyppermodifyrepo
-pscommand_invoke-zyppermodifyservice
-pscommand_invoke-zypperpackages
-pscommand_invoke-zypperpatch
-pscommand_invoke-zypperpatchcheck
-pscommand_invoke-zypperpatches
-pscommand_invoke-zypperpatchinfo
-pscommand_invoke-zypperpatterninfo
-pscommand_invoke-zypperpatterns
-pscommand_invoke-zypperproductinfo
-pscommand_invoke-zypperproducts
-pscommand_invoke-zypperrefresh
-pscommand_invoke-zypperrefreshservices
-pscommand_invoke-zypperremove
-pscommand_invoke-zypperremovelock
-pscommand_invoke-zypperremoverepo
-pscommand_invoke-zypperremoveservice
-pscommand_invoke-zypperrenamerepo
-pscommand_invoke-zyppersearch
-pscommand_invoke-zyppershell
-pscommand_invoke-zyppersourcedownload
-pscommand_invoke-zyppersourceinstall
-pscommand_invoke-zyppertargetos
-pscommand_invoke-zypperupdate
-pscommand_invoke-zypperverify
-pscommand_invoke-zypperversioncompare
-pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -8019,51 +7943,6 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
-pscommand_z
-pscommand_zal
-pscommand_zar
-pscommand_zas
-pscommand_zcl
-pscommand_zdup
-pscommand_zh
-pscommand_zhse
-pscommand_zif
-pscommand_zin
-pscommand_zinr
-pscommand_zlicenses
-pscommand_zll
-pscommand_zlp
-pscommand_zlr
-pscommand_zls
-pscommand_zlu
-pscommand_zmr
-pscommand_zms
-pscommand_znr
-pscommand_zpa
-pscommand_zpatch
-pscommand_zpatch-info
-pscommand_zpattern-info
-pscommand_zpch
-pscommand_zpchk
-pscommand_zpd
-pscommand_zproduct-info
-pscommand_zps
-pscommand_zpt
-pscommand_zref
-pscommand_zrefs
-pscommand_zrl
-pscommand_zrm
-pscommand_zrr
-pscommand_zrs
-pscommand_zse
-pscommand_zshell
-pscommand_zsi
-pscommand_zsource-download
-pscommand_ztos
-pscommand_zup
-pscommand_zvcmp
-pscommand_zve
-pscommand_zwp
 pscommander
 psconfasia
 psconfeu
@@ -8903,52 +8782,6 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
-psfunction_invoke-zypper
-psfunction_invoke-zypperaddlock
-psfunction_invoke-zypperaddservice
-psfunction_invoke-zypperadrepo
-psfunction_invoke-zypperclean
-psfunction_invoke-zyppercleanlocks
-psfunction_invoke-zypperdistupgrade
-psfunction_invoke-zypperhelp
-psfunction_invoke-zypperhelpsearch
-psfunction_invoke-zypperif
-psfunction_invoke-zypperin
-psfunction_invoke-zypperinstallnewrecommends
-psfunction_invoke-zypperlicenses
-psfunction_invoke-zypperlistlocks
-psfunction_invoke-zypperlistpackages
-psfunction_invoke-zypperlistprocesseslockingpackages
-psfunction_invoke-zypperlistrepos
-psfunction_invoke-zypperlistservices
-psfunction_invoke-zypperlistupdates
-psfunction_invoke-zyppermodifyrepo
-psfunction_invoke-zyppermodifyservice
-psfunction_invoke-zypperpackages
-psfunction_invoke-zypperpatch
-psfunction_invoke-zypperpatchcheck
-psfunction_invoke-zypperpatches
-psfunction_invoke-zypperpatchinfo
-psfunction_invoke-zypperpatterninfo
-psfunction_invoke-zypperpatterns
-psfunction_invoke-zypperproductinfo
-psfunction_invoke-zypperproducts
-psfunction_invoke-zypperrefresh
-psfunction_invoke-zypperrefreshservices
-psfunction_invoke-zypperremove
-psfunction_invoke-zypperremovelock
-psfunction_invoke-zypperremoverepo
-psfunction_invoke-zypperremoveservice
-psfunction_invoke-zypperrenamerepo
-psfunction_invoke-zyppersearch
-psfunction_invoke-zyppershell
-psfunction_invoke-zyppersourcedownload
-psfunction_invoke-zyppersourceinstall
-psfunction_invoke-zyppertargetos
-psfunction_invoke-zypperupdate
-psfunction_invoke-zypperverify
-psfunction_invoke-zypperversioncompare
-psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -9174,7 +9007,6 @@ pskeepass
 psllm
 pslocalgallery
 psloganalytics
-psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -9201,7 +9033,6 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
-psprtg
 pspublicapi
 psql
 psraw
@@ -9313,7 +9144,6 @@ python-for-dotnet
 python3
 qatam
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -9432,7 +9262,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react
 react-stockcharts
 read
 read-slog
@@ -9799,7 +9628,6 @@ sabnzbd
 sabnzbd+
 sacl
 safari
-safe
 safeguard
 sage
 saggiehaim
@@ -9916,7 +9744,6 @@ screenshot
 script
 script_version
 script-module
-script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9936,13 +9763,11 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
 scrubber
 scsm
-scuba
 scvmm
 sd
 sddl
@@ -9972,7 +9797,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -10453,6 +10277,8 @@ spp
 spread
 spreadsheet
 spreadsheets
+spring
+spring-boot
 springcloud
 sql
 sql-database
@@ -10546,8 +10372,6 @@ stale
 stan
 stanc
 standard
-standarderror
-standardoutput
 standards
 standbypool
 stansummary
@@ -10583,7 +10407,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -10691,7 +10514,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -10708,11 +10530,9 @@ surveymonkey
 sus
 sushi
 suspensive
-svelte
 svesavov
 svetoslav
 svg
-svgl
 svn
 svt
 swagger
@@ -10826,7 +10646,6 @@ tar
 tar-compression
 target
 task
-task_automation
 task-runner
 task-scheduler
 taskbar
@@ -11131,6 +10950,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -11182,7 +11002,6 @@ tui
 tulpep
 tuner
 tuning
-tunnel
 turtle
 turtlegraphics
 tutorial
@@ -11304,7 +11123,6 @@ unblock
 unc
 uncpaths
 underlined-text
-undo
 unhide
 unicode
 unicode-emoji
@@ -11438,7 +11256,6 @@ uw
 uwp
 ux
 v20
-vadim
 vagrant
 vale
 validate
@@ -11502,7 +11319,6 @@ vera
 veracrypt
 verbose psmodule
 verification
-verify
 version
 version-management
 versioncontrol
@@ -11571,7 +11387,6 @@ vlsm
 vm
 vmc
 vmconnect
-vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -11613,9 +11428,6 @@ voperator
 vorbis
 voting
 vovin
-vp9
-vpas
-vpasmodule
 vpc
 vpg
 vplex
@@ -11655,8 +11467,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtt
-vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -11733,10 +11543,8 @@ webhistory
 webhook
 webinspect
 webjea
-webm
 webmanagement
 webmanagementservice
-webp
 webpage
 webpi
 webreport
@@ -11864,7 +11672,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -12166,7 +11973,6 @@ zuora
 zvm
 zvml
 zvmlinux
-zypper
 カタカナ
 ひらがな
 ローマ字
