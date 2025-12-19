@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 December 2025 21:52:22 UTC
+Updated: Friday, 19 December 2025 09:53:52 UTC
 
 .bat
 .env
@@ -143,7 +143,6 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
-activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -356,8 +355,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amd
@@ -425,6 +422,7 @@ apache_maven
 apachekafka
 apexlegends
 api
+api-client
 api-gateway
 api-generation
 api-rest
@@ -1129,6 +1127,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bundler
 bup
 burnttoast
 burpsuite
@@ -1376,6 +1375,7 @@ classification
 classified
 claude
 claude3
+claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1530,6 +1530,7 @@ cognitiveservices
 cohere
 cohesity
 coinbase
+coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1567,6 +1568,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1577,6 +1579,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1765,6 +1768,7 @@ copy
 copy-item
 copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -2518,7 +2522,6 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
-dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -3038,6 +3041,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -3131,6 +3135,7 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
+fortra
 fortune
 forum
 forwardcompatibility
@@ -3146,6 +3151,7 @@ fox
 foxpro
 fqdn
 fractal
+frame
 framework
 france
 free
@@ -3385,6 +3391,7 @@ gnome
 gnucash
 gnuwin32
 go
+goanywhere
 gobright
 godaddy
 golang
@@ -3427,7 +3434,6 @@ gpp
 gps
 gpt
 gpx
-gradle
 grafana
 grafanaapi
 granttype
@@ -4673,6 +4679,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4791,7 +4798,6 @@ metropolis
 mfa
 mft
 mga
-mgn
 mi
 micro
 micro-framework
@@ -6133,6 +6139,7 @@ prerequisites
 presentation
 presentationframework
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -6190,6 +6197,7 @@ profilemanagement
 profilemigration
 profiler
 profiles
+profileupdater
 profilevalidation
 proget
 program
@@ -9181,6 +9189,7 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
+psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -9356,6 +9365,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qwinsta
 qword
 r
 r53
@@ -10443,8 +10453,6 @@ spp
 spread
 spreadsheet
 spreadsheets
-spring
-spring-boot
 springcloud
 sql
 sql-database
@@ -10900,6 +10908,7 @@ terminal-themes
 terminal-visuals
 terminal.gui
 terminalnotifier
+terminalservices
 terminalvelocity
 termset
 terraform
@@ -11054,6 +11063,7 @@ tookit
 tool
 toolbox
 toolcraft
+tooling
 toolkit
 toolmaking
 tools
@@ -11121,7 +11131,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -12019,6 +12028,7 @@ wsmanlistener
 wso2
 wsus
 wt
+wts
 wtsapi32
 wttr
 wttr.in
