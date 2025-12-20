@@ -3,33 +3,49 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.78) | 1.0.21.78
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.148.0) | 1.148.0
 
-### Published: 12/20/2025 06:25:09 by Quandis Inc.
+### Published: 12/20/2025 20:47:51 by Chris Peterson
 
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
+Interact with GitLab via PowerShell
 
-__Downloads__: 1,795 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+__Downloads__: 28,006 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
-## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.9) | 1.3.9
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.14.20251215) | 1.14.20251215
 
-### Published: 12/20/2025 05:57:45 by Yoshifumi Tsuda
+### Published: 12/20/2025 19:38:34 by Rubrik
 
-Enables PowerShell console to function as an MCP server for Claude Desktop.
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20251215-36 .
 
-__Downloads__: 624 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+__Downloads__: 86,236 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.20.1) | 25.12.20.1
+## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2025.12.20.1734) | 2025.12.20.1734
 
-### Published: 12/20/2025 05:09:38 by David Segura . Gary Blok . Michael Escamilla
+### Published: 12/20/2025 17:35:09 by Jake Hildreth
+
+A PowerShell module for creating resumable, step-by-step automation scripts with automatic state persistence and cross-platform support.
+
+__Downloads__: 53 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.20.3) | 25.12.20.3
+
+### Published: 12/20/2025 17:08:02 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,853,183 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,853,199 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.167) | 2.1.167
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.11.0) | 2.11.0
 
-### Published: 12/20/2025 04:06:03 by devizer
+### Published: 12/20/2025 17:06:43 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 10,601 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.169) | 2.1.169
+
+### Published: 12/20/2025 16:59:18 by devizer
 
 SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
 
@@ -42,13 +58,37 @@ By default it installs SQL Engine and full text search, adds built-in Administra
 
 __Downloads__: 58,302 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
 
-## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2025.12.20.331) | 2025.12.20.331
+## [Lcov](https://www.powershellgallery.com/Packages/Lcov/2.1.0) | 2.1.0
 
-### Published: 12/20/2025 03:31:54 by Jake Hildreth
+### Published: 12/20/2025 12:17:25 by Cédric Belin <cedx@outlook.com>
 
-A PowerShell module for creating resumable, step-by-step automation scripts with automatic state persistence and cross-platform support.
+Parse and format to LCOV your code coverage reports.
 
-__Downloads__: 53 | __Repository__: 
+__Downloads__: 2 | __Repository__: https://github.com/cedx/lcov.net
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.596.0) | 1.596.0
+
+### Published: 12/20/2025 10:05:34 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 12,789 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.78) | 1.0.21.78
+
+### Published: 12/20/2025 06:25:09 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,796 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.9) | 1.3.9
+
+### Published: 12/20/2025 05:57:45 by Yoshifumi Tsuda
+
+Enables PowerShell console to function as an MCP server for Claude Desktop.
+
+__Downloads__: 623 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/6.2.1) | 6.2.1
 
@@ -60,7 +100,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 88,093 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 88,090 | __Repository__: https://pscompletions.abgox.com/
 
 ## [LeastPrivilegedMSGraph](https://www.powershellgallery.com/Packages/LeastPrivilegedMSGraph/1.1.0) | 1.1.0
 
@@ -85,14 +125,6 @@ __Downloads__: 2,446 | __Repository__: https://github.com/PowerShell/command-not
 Powershell Wrapper for Dune API (duneframework.com)
 
 __Downloads__: 4 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.595.0) | 1.595.0
-
-### Published: 12/19/2025 21:12:36 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 12,789 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.24.5) | 0.24.5
 
@@ -132,7 +164,7 @@ __Downloads__: 1,104 | __Repository__: https://github.com/LindnerBrewery/Octopus
 
 A package manager and environment to provide consistent tooling for software teams.
 
-__Downloads__: 16,728 | __Repository__: https://github.com/airpwr/airpwr
+__Downloads__: 16,729 | __Repository__: https://github.com/airpwr/airpwr
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.46.0) | 4.46.0
 
@@ -156,7 +188,7 @@ __Downloads__: 8 | __Repository__: https://github.com/Krinopotam/PsBundler
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 64,404 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 64,393 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.5.1.0) | 1.5.1.0
 
@@ -294,14 +326,6 @@ PowerShell module for creating beautiful interactive command-line menus with key
 
 __Downloads__: 29 | __Repository__: https://github.com/krzgvfs/promptly_pwsh
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.147.0) | 1.147.0
-
-### Published: 12/18/2025 01:49:54 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 28,006 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
 ## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/1.0) | 1.0
 
 ### Published: 12/18/2025 00:46:17 by Kyle Vanderstoep
@@ -317,14 +341,6 @@ __Downloads__: 312 | __Repository__: https://github.com/lekker-solutions/acumati
 A simple micro-ORM, based on ADO.NET and data annotations.
 
 __Downloads__: 202 | __Repository__: https://github.com/cedx/sql.net
-
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.9.1) | 2.9.1
-
-### Published: 12/17/2025 22:34:50 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 10,602 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2025.3.3) | 2025.3.3
 
@@ -356,7 +372,7 @@ __Downloads__: 70 | __Repository__: https://github.com/TheOnliestMattastic/Power
 
 Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
-__Downloads__: 569,088 | __Repository__: https://github.com/f-bader/SentinelARConverter
+__Downloads__: 569,089 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
 ## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.12) | 1.0.12
 
@@ -451,7 +467,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Gijsreyn/DscSchemaGenerat
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 288,346 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 288,340 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.9) | 2.7.9
 
@@ -1804,7 +1820,7 @@ __Downloads__: 3,089,780 | __Repository__: https://github.com/logicmonitor/lm-po
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 1,366,248 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 1,366,218 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.1.2) | 0.1.2
 
@@ -1812,7 +1828,7 @@ __Downloads__: 1,366,248 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 1,368,812 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 1,368,782 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [PSCompression](https://www.powershellgallery.com/Packages/PSCompression/3.1.0) | 3.1.0
 
@@ -2090,20 +2106,4 @@ A module to be able to do more with Microsoft Fabric.
 
 __Downloads__: 1,563 | __Repository__: 
 
-## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.10.1) | 2.10.1
-
-### Published: 12/15/2025 20:51:11 by JumpCloud Customer Tools Team
-
-Powershell Module to run JumpCloud Active Directory Migration Utility.
-
-__Downloads__: 22,008 | __Repository__: 
-
-## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/1.5) | 1.5
-
-### Published: 12/15/2025 20:21:29 by Dan Madsen
-
-Creates a diagram of your Azure infrastructure.
-
-__Downloads__: 291 | __Repository__: https://github.com/dan-madsen/AzNetworkDiagram
-
-*Updated: Saturday, 20 December 2025 09:51:54 UTC*
+*Updated: Saturday, 20 December 2025 21:52:13 UTC*

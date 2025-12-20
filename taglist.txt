@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 December 2025 09:52:04 UTC
+Updated: Saturday, 20 December 2025 21:52:23 UTC
 
 .bat
 .env
@@ -361,7 +361,6 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
-amend
 ami
 amiga
 amp
@@ -783,7 +782,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -936,7 +934,6 @@ bearded-avenger
 bearer
 beautifier
 beautiful-terminal
-beautify
 bec
 beckhoff
 bedrock
@@ -1093,6 +1090,7 @@ broadcom
 broot
 brotli
 brotli-compression
+brownserve-uk
 browser
 browserbox
 browserextension
@@ -1849,6 +1847,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+cricket
 crime
 critical
 crlf
@@ -2582,6 +2581,7 @@ educational
 eduprom
 effectiveroutes
 effects
+efficiency
 efficientether
 efi
 egrep
@@ -3406,6 +3406,7 @@ google-histogram
 google-sankey
 google-table
 googleadsv2
+googlecloud
 googlecloudplatform
 googledrive
 googlemap
@@ -4287,7 +4288,6 @@ kurukuru
 kusto
 kusto.data
 kusto.ingest
-kvm
 kvp
 l-system
 l1tf
@@ -4347,6 +4347,7 @@ lbs
 lccn
 lcm
 lcminternals
+lcov
 lcs
 ldap
 leaflet
@@ -4382,7 +4383,6 @@ libmagic
 libraries
 library
 libsecret
-libvirt
 licence
 license
 license-generator
@@ -4498,7 +4498,6 @@ log-rotation
 log4net
 loganalytics
 logbook
-logcat
 logentry
 logfile
 logfilearchivearchive
@@ -5412,6 +5411,7 @@ office2016
 office2019
 office365
 office365managementapi
+officedev
 officegraph
 officemessageencryption
 officeopenxml
@@ -5492,7 +5492,6 @@ opencage
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -6137,7 +6136,6 @@ preprocessing
 preprocessor
 prerequisites
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -6197,6 +6195,7 @@ profilemanagement
 profilemigration
 profiler
 profiles
+profileupdater
 profilevalidation
 proget
 program
@@ -9177,7 +9176,6 @@ psm
 psm1
 psmodule
 psmodule psedition_desktop
-psmodulebase
 psmodulepath
 psmodules
 psmp
@@ -9313,7 +9311,6 @@ python3
 qatam
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9446,7 +9443,6 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 recent
@@ -9667,8 +9663,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -10340,7 +10334,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -11142,7 +11135,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -11184,6 +11176,7 @@ tui
 tulpep
 tuner
 tuning
+tunnel
 turtle
 turtlegraphics
 tutorial
@@ -11528,7 +11521,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
