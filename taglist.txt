@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 December 2025 21:52:07 UTC
+Updated: Monday, 22 December 2025 09:54:53 UTC
 
 .bat
 .env
@@ -748,6 +748,7 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
+azaitranslate
 azautomation
 azcli
 azcompute
@@ -792,6 +793,7 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
+azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
@@ -935,6 +937,7 @@ bec
 beckhoff
 bedrock
 beep
+beer
 behavior
 behavioralanalytics
 benchmark
@@ -1070,6 +1073,8 @@ break
 breakpoint
 brevo
 brew
+brewing
+brewzilla
 brickset
 brickstore
 bridge
@@ -1176,7 +1181,6 @@ capability
 capacity
 capacitymanagement
 capainstaller
-capaone
 capasystems
 capgemini
 capslock
@@ -1251,6 +1255,7 @@ cert
 certbasedauth
 certera
 certes
+certificat
 certificate
 certificateauthority
 certificatechain
@@ -1493,7 +1498,6 @@ code-completion
 code-generation
 code-page
 code365
-codeagent
 codeanalysis
 codebeamer
 codebuild
@@ -2424,7 +2428,9 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
 drift-detection
+driftmonitor
 drink
 drive
 drive letter
@@ -2460,6 +2466,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2512,6 +2519,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2538,7 +2546,6 @@ easy
 easy-to-use
 easylife365
 easypim
-easyvista
 eaton
 ebay
 ebooks
@@ -2655,7 +2662,6 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
-enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2831,7 +2837,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2931,6 +2936,7 @@ federateddirectory
 federation
 fedex
 feed
+fermentation
 fetch
 ffmpeg
 ffprobe
@@ -2967,7 +2973,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -3115,6 +3120,7 @@ formatting
 formdata
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -3648,6 +3654,7 @@ holiday
 home
 home_automation
 homebrew
+homebrewing
 homelab
 homelandsecurity
 homeschooling
@@ -3697,6 +3704,7 @@ hsdp
 hsl
 html
 html-templates
+htmlentity
 http
 http_proxy
 http-listener
@@ -3864,6 +3872,7 @@ incident_response
 incident-response
 incidentresponse
 incidents
+includeif
 incontact
 indents
 index
@@ -4586,6 +4595,7 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
+macos-powershell
 macosx
 macro
 macros
@@ -4738,6 +4748,7 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
+meesman
 meeting
 meetup
 meetup.com
@@ -5063,6 +5074,7 @@ multithread
 multithreaded
 multithreaded-helpers
 multithreading
+multiuser
 music
 musiccast
 mustache
@@ -5417,6 +5429,7 @@ oidc
 okta
 old
 older
+ole
 oledb
 ollama
 omada
@@ -5475,6 +5488,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opencage
@@ -5513,7 +5527,6 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5997,7 +6010,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -9347,6 +9359,7 @@ quiz
 qumulo
 quota
 quote
+quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9384,6 +9397,7 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
+rapt
 ras
 raspberry-pi
 raspberrypi
@@ -9903,6 +9917,7 @@ screenshot
 script
 script_version
 script-module
+script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9922,6 +9937,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -10384,7 +10400,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -11103,6 +11118,7 @@ transforms
 transitionmanager
 translate
 translation
+translator
 translit
 transliteration
 transmission
@@ -11184,6 +11200,7 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -11290,7 +11307,6 @@ unc
 uncpaths
 underlined-text
 undo
-unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -11613,7 +11629,6 @@ vrchat
 vrealize
 vrising
 vro
-vrops
 vrsns
 vrtu
 vs

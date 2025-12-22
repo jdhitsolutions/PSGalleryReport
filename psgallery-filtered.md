@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.22.4) | 25.12.22.4
+
+### Published: 12/22/2025 07:13:02 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,855,483 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [GitIdentities](https://www.powershellgallery.com/Packages/GitIdentities/0.1.0.17) | 0.1.0.17
+
+### Published: 12/22/2025 05:03:50 by hfrances
+
+PowerShell module for managing multiple Git/SSH identities with automatic per-repository configuration using Git includeIf feature.
+
+__Downloads__: 0 | __Repository__: https://github.com/hfrances/pwsh-gitidentities
+
+## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.2.6) | 0.2.6
+
+### Published: 12/22/2025 01:40:10 by Jorgeasaurus
+
+Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
+
+__Downloads__: 216 | __Repository__: https://intunehydrationkit.com/
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.150.0) | 1.150.0
+
+### Published: 12/22/2025 00:33:24 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 28,026 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.14) | 2.7.14
+
+### Published: 12/21/2025 23:55:23 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 7,897,048 | __Repository__: https://dbatools.io/
+
+## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.21) | 2025.12.21
+
+### Published: 12/21/2025 23:54:35 by the dbatools team
+
+The library that powers dbatools, the community module for SQL Server Pros
+
+__Downloads__: 4,211,318 | __Repository__: https://dbatools.io/
+
 ## [FastPing](https://www.powershellgallery.com/Packages/FastPing/0.7.0) | 0.7.0
 
 ### Published: 12/21/2025 21:18:49 by Andrew Pearce
@@ -27,14 +75,6 @@ A tool no one asked for, nor wanted: Injecting a DLL/arbitrary code into a targe
 
 __Downloads__: 0 | __Repository__: https://github.com/christopher-conley/PSPhlebotomist
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.12.21.3) | 25.12.21.3
-
-### Published: 12/21/2025 17:08:27 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,855,501 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2025.12.21.1435) | 2025.12.21.1435
 
 ### Published: 12/21/2025 14:36:13 by Jake Hildreth
@@ -49,7 +89,7 @@ __Downloads__: 69 | __Repository__:
 
 Dataverse data manipulation cmdlets
 
-__Downloads__: 10,669 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+__Downloads__: 10,662 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
 
 ## [powerCat](https://www.powershellgallery.com/Packages/powerCat/2.0.0) | 2.0.0
 
@@ -73,7 +113,7 @@ __Downloads__: 1,802 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/q
 
 Various functions working with DevExpress XAF, eXpandFramework and not only
 
-__Downloads__: 42,122 | __Repository__: http://xpandpwsh.expandframework.com/
+__Downloads__: 42,121 | __Repository__: http://xpandpwsh.expandframework.com/
 
 ## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.171) | 2.1.171
 
@@ -108,15 +148,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 88,280 | __Repository__: https://pscompletions.abgox.com/
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.149.0) | 1.149.0
-
-### Published: 12/21/2025 00:25:33 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 28,026 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 88,275 | __Repository__: https://pscompletions.abgox.com/
 
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.3.0) | 1.3.0
 
@@ -148,7 +180,7 @@ __Downloads__: 8 | __Repository__: https://github.com/cedx/lcov.net
 
 Client for the Windmill platform.
 
-__Downloads__: 12,818 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 12,815 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.9) | 1.3.9
 
@@ -220,7 +252,7 @@ __Downloads__: 16,784 | __Repository__: https://github.com/airpwr/airpwr
 
 PowerShell module for OpenAI API
 
-__Downloads__: 40,513 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 40,512 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [PsBundler](https://www.powershellgallery.com/Packages/PsBundler/2.1.7) | 2.1.7
 
@@ -236,7 +268,7 @@ __Downloads__: 9 | __Repository__: https://github.com/Krinopotam/PsBundler
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 65,858 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 65,857 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.5.1.0) | 1.5.1.0
 
@@ -277,14 +309,6 @@ __Downloads__: 62 | __Repository__:
 Displays a professional hardware info dashboard in the terminal, inspired by HWinfo64. Shows CPU, motherboard, BIOS, GPU, monitor, memory, and hard drive info in a compact Format-Table layout.
 
 __Downloads__: 14 | __Repository__: https://github.com/jaredheinrichs/PS_HWinfo
-
-## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.2.5) | 0.2.5
-
-### Published: 12/18/2025 17:10:47 by Jorgeasaurus
-
-Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
-
-__Downloads__: 216 | __Repository__: https://github.com/jorgeasaurus/Intune-Hydration-Kit
 
 ## [Broadcom.Community.VCFLicensing](https://www.powershellgallery.com/Packages/Broadcom.Community.VCFLicensing/1.0.0) | 1.0.0
 
@@ -396,7 +420,7 @@ __Downloads__: 202 | __Repository__: https://github.com/cedx/sql.net
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 466,617 | __Repository__: https://devolutions.net/
+__Downloads__: 466,612 | __Repository__: https://devolutions.net/
 
 ## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.12) | 1.0.12
 
@@ -412,7 +436,7 @@ __Downloads__: 437 | __Repository__: https://github.com/potatoqualitee/aitools
 
 Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
-__Downloads__: 569,836 | __Repository__: https://github.com/f-bader/SentinelARConverter
+__Downloads__: 569,834 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
 ## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.12) | 1.0.12
 
@@ -507,7 +531,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Gijsreyn/DscSchemaGenerat
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 289,376 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 289,364 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.9) | 2.7.9
 
@@ -515,7 +539,7 @@ __Downloads__: 289,376 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 886,827 | __Repository__: 
+__Downloads__: 886,824 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/120.2.0) | 120.2.0
 
@@ -1102,14 +1126,6 @@ This modules provides Cmdlets for OCI Loadbalancer Service
 
 __Downloads__: 13,544 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:32:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 13,701 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [PPDS.Tools](https://www.powershellgallery.com/Packages/PPDS.Tools/1.1.0) | 1.1.0
 
 ### Published: 12/17/2025 00:32:43 by Josh Smith
@@ -1117,6 +1133,14 @@ __Downloads__: 13,701 | __Repository__: https://github.com/oracle/oci-powershell
 PowerShell tools for Dataverse plugin deployment, drift detection, and CI/CD automation. Part of the Power Platform Developer Suite.
 
 __Downloads__: 14 | __Repository__: https://github.com/joshsmithxrm/ppds-tools
+
+## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/120.2.0) | 120.2.0
+
+### Published: 12/17/2025 00:32:43 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Limits Service
+
+__Downloads__: 13,701 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/120.2.0) | 120.2.0
 
@@ -1836,7 +1860,7 @@ __Downloads__: 336,330 | __Repository__: https://github.com/oracle/oci-powershel
 
 PowerShell integration for the Frigate API
 
-__Downloads__: 8 | __Repository__: https://github.com/joshooaj/joshooaj.frigate
+__Downloads__: 9 | __Repository__: https://github.com/joshooaj/joshooaj.frigate
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.4.16) | 1.4.16
 
@@ -1860,7 +1884,7 @@ __Downloads__: 3,089,791 | __Repository__: https://github.com/logicmonitor/lm-po
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 1,367,518 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 1,367,517 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.1.2) | 0.1.2
 
@@ -1868,7 +1892,7 @@ __Downloads__: 1,367,518 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 1,370,085 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 1,370,084 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [PSCompression](https://www.powershellgallery.com/Packages/PSCompression/3.1.0) | 3.1.0
 
@@ -1908,7 +1932,7 @@ __Downloads__: 18 | __Repository__: https://github.com/gioxx/Nebula.Core
 
 A PowerShell module leveraging DnsClient.NET - allowing for true cross-platform DNS in PowerShell
 
-__Downloads__: 8 | __Repository__: https://github.com/adrian-andersson/PSDnsClient
+__Downloads__: 9 | __Repository__: https://github.com/adrian-andersson/PSDnsClient
 
 ## [IntuneBackupAndRestore](https://www.powershellgallery.com/Packages/IntuneBackupAndRestore/4.0.1) | 4.0.1
 
@@ -2030,28 +2054,4 @@ Functions that have no purpose
 
 __Downloads__: 126,930 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.19.0.6) | 1.19.0.6
-
-### Published: 12/16/2025 03:31:31 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 159,495 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.98) | 4.17.0.98
-
-### Published: 12/16/2025 03:31:27 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 231,940 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.98) | 1.10.0.98
-
-### Published: 12/16/2025 03:31:22 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 191,448 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 21 December 2025 21:51:58 UTC*
+*Updated: Monday, 22 December 2025 09:54:43 UTC*
