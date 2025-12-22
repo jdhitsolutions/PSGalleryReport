@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 December 2025 09:54:53 UTC
+Updated: Monday, 22 December 2025 21:52:28 UTC
 
 .bat
 .env
@@ -320,7 +320,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmanagement
 alerts
 alertsmanagement
@@ -405,7 +404,6 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
-ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -736,7 +734,6 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
-awx
 axapta
 axcient
 axcient_x360recover
@@ -756,6 +753,7 @@ azd
 azdisk
 azdo
 azereo
+azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -781,6 +779,7 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
+azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
@@ -847,6 +846,7 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
+azuresearcher
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -905,7 +905,6 @@ bastion
 bat
 batcat
 batch
-batch-install
 batchclass
 batching
 batman
@@ -1063,7 +1062,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1181,6 +1179,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1442,6 +1441,7 @@ cloudbridge
 cloudendure
 cloudevents
 cloudflare
+cloudforensics
 cloudformation
 cloudfoundation
 cloudfront
@@ -1498,6 +1498,7 @@ code-completion
 code-generation
 code-page
 code365
+codeagent
 codeanalysis
 codebeamer
 codebuild
@@ -2232,6 +2233,7 @@ dify
 dig
 digikam
 digital
+digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -2279,7 +2281,6 @@ discovery
 discutils
 disk
 disk_to_disk
-diskcleanup
 diskfree
 diskimage
 diskpart
@@ -2546,6 +2547,7 @@ easy
 easy-to-use
 easylife365
 easypim
+easyvista
 eaton
 ebay
 ebooks
@@ -2662,6 +2664,7 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
+enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2683,7 +2686,6 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
-entrust
 enum
 enumerable
 env
@@ -3340,7 +3342,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3349,7 +3350,6 @@ gitflow
 gitforwindows
 github
 github-actions
-github-api
 githubaction
 githubactions
 githubcopilot
@@ -3872,7 +3872,6 @@ incident_response
 incident-response
 incidentresponse
 incidents
-includeif
 incontact
 indents
 index
@@ -4222,7 +4221,6 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
-keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -5074,7 +5072,6 @@ multithread
 multithreaded
 multithreaded-helpers
 multithreading
-multiuser
 music
 musiccast
 mustache
@@ -5415,6 +5412,7 @@ office2016
 office2019
 office365
 office365managementapi
+officedev
 officegraph
 officemessageencryption
 officeopenxml
@@ -5527,6 +5525,7 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -6010,6 +6009,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -6105,6 +6105,7 @@ powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
+powershellv5
 powershellweb
 powerstig
 powerstore
@@ -6137,7 +6138,6 @@ preprocessing
 preprocessor
 prerequisites
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -9301,7 +9301,6 @@ pwsh.fw
 pwshake
 pwshfw
 pwshrc
-pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9581,9 +9580,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -10760,7 +10756,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -10998,7 +10993,9 @@ threads
 threadsafe
 threadsanitizer
 threat
+threat-hunting
 threatdefense
+threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
@@ -11307,6 +11304,7 @@ unc
 uncpaths
 underlined-text
 undo
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -11629,6 +11627,7 @@ vrchat
 vrealize
 vrising
 vro
+vrops
 vrsns
 vrtu
 vs
@@ -11875,7 +11874,6 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
-windowsdiskcleanup
 windowsdomain
 windowsevent
 windowseventlog
