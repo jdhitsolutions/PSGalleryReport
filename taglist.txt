@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 December 2025 21:52:28 UTC
+Updated: Tuesday, 23 December 2025 09:53:58 UTC
 
 .bat
 .env
@@ -95,6 +95,7 @@ access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
+accessibility
 accesspoint
 accessrights
 accesstoken
@@ -320,6 +321,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmanagement
 alerts
 alertsmanagement
@@ -404,6 +406,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
+ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -544,8 +547,6 @@ armtemplates
 arp
 array
 arrays
-arrow
-arrow-key
 art
 artefactual
 artifact
@@ -708,7 +709,6 @@ availability
 availabilityset
 avalara
 avatar
-avatax
 avd
 ave
 avepoint
@@ -734,6 +734,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -808,6 +809,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1062,6 +1065,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1444,7 +1448,6 @@ cloudflare
 cloudforensics
 cloudformation
 cloudfoundation
-cloudfront
 cloudgovernance
 cloudguard
 cloudhsm
@@ -2191,7 +2194,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 devicemanagement
 deviceprovisioningservice
 deviceregistry
@@ -2281,6 +2283,7 @@ discovery
 discutils
 disk
 disk_to_disk
+diskcleanup
 diskfree
 diskimage
 diskpart
@@ -2437,7 +2440,6 @@ drive
 drive letter
 drivemap
 drivemapping
-driven
 driver
 driverpacks
 drivers
@@ -2686,6 +2688,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -2839,6 +2842,7 @@ expand
 expand-string
 expand-tab
 expandframework
+expect
 experience
 experiments
 expiration
@@ -2975,6 +2979,7 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
+filelist
 filelog
 filelogger
 filemaintenance
@@ -3342,6 +3347,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3704,7 +3710,6 @@ hsdp
 hsl
 html
 html-templates
-htmlentity
 http
 http_proxy
 http-listener
@@ -3872,6 +3877,7 @@ incident_response
 incident-response
 incidentresponse
 incidents
+includeif
 incontact
 indents
 index
@@ -4221,6 +4227,7 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4237,7 +4244,6 @@ keywords
 kfum-spejderne
 kibana
 kickstart
-kidrsa
 kill
 kindle
 kinetic
@@ -4746,7 +4752,6 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
-meesman
 meeting
 meetup
 meetup.com
@@ -5072,6 +5077,7 @@ multithread
 multithreaded
 multithreaded-helpers
 multithreading
+multiuser
 music
 musiccast
 mustache
@@ -6077,7 +6083,6 @@ powershell-modules
 powershell-modules-convention
 powershell-project-convention
 powershell-releases-api
-powershell-remoting
 powershell-scripts
 powershell-terminal
 powershell-terminal-copilot
@@ -6138,6 +6143,7 @@ preprocessing
 preprocessor
 prerequisites
 presentation
+presentationframework
 presenter
 presto
 preston-k-parsard
@@ -8067,7 +8073,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -9358,7 +9363,6 @@ quiz
 qumulo
 quota
 quote
-quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9580,6 +9584,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -9731,7 +9738,6 @@ rotation
 round
 roundrobindatabase
 route
-route53
 routeconfig
 router
 routeros
@@ -10162,9 +10168,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10390,12 +10394,12 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanish
 spanner
 spark
 sparkline
 sparklines
+spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10756,6 +10760,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -10946,7 +10951,6 @@ testtool
 testusers
 text
 text_to_speech
-text-based
 text-emoji
 text-emojis
 text-menu
@@ -11027,7 +11031,6 @@ tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
@@ -11134,7 +11137,6 @@ trello
 trellops
 trend
 trend-micro
-trendmicro
 trevor
 trevorsullivan
 triangle
@@ -11627,7 +11629,6 @@ vrchat
 vrealize
 vrising
 vro
-vrops
 vrsns
 vrtu
 vs
@@ -11874,6 +11875,7 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
+windowsdiskcleanup
 windowsdomain
 windowsevent
 windowseventlog
@@ -11986,7 +11988,6 @@ workspaces
 workstation
 world
 worldcup
-worryfreebusinesssecurity
 wow
 wpad
 wpf

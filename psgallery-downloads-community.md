@@ -1429,7 +1429,7 @@ __Downloads__: 3,691,467 | __Repository__: http://dotps1.github.io/HPWarranty
 
 PowerShell cmdlets for the Google Cloud Platform.
 
-__Downloads__: 3,605,116 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
+__Downloads__: 3,605,193 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
@@ -1437,7 +1437,7 @@ __Downloads__: 3,605,116 | __Repository__: https://github.com/GoogleCloudPlatfor
 
 Allows for an image to be dynamically set as the lockscreen image based off of the resolution of the primary monitor.
 
-__Downloads__: 3,603,828 | __Repository__: 
+__Downloads__: 3,603,829 | __Repository__: 
 
 ## [PSFolderSize](https://www.powershellgallery.com/Packages/PSFolderSize/1.7.1) | 1.7.1
 
@@ -1445,7 +1445,7 @@ __Downloads__: 3,603,828 | __Repository__:
 
 This module enables you to gather folder size information, and output the results easily in various ways. GitHub Repo: https://github.com/gngrninja/PSFolderSize
 
-__Downloads__: 3,542,543 | __Repository__: https://github.com/gngrninja/PSFolderSize/
+__Downloads__: 3,542,571 | __Repository__: https://github.com/gngrninja/PSFolderSize/
 
 ## [Pode](https://www.powershellgallery.com/Packages/Pode/2.12.1) | 2.12.1
 
@@ -1469,7 +1469,7 @@ __Downloads__: 3,419,917 | __Repository__: https://github.com/masters274/core
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 3,231,348 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 3,231,353 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.30.1) | 4.30.1
 
@@ -1477,7 +1477,7 @@ __Downloads__: 3,231,348 | __Repository__: https://github.com/ethanbergstrom/Cob
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,191,383 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,191,389 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [SetBIOS](https://www.powershellgallery.com/Packages/SetBIOS/1.0) | 1.0
 
@@ -1485,7 +1485,7 @@ __Downloads__: 3,191,383 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 Set, change BIOS settings on local or remote computer (one or multiple). Works for Lenovo, Dell, HP
 
-__Downloads__: 3,165,488 | __Repository__: http://www.systanddeploy.com/2019/02/psgallery-change-bios-settings-from.html
+__Downloads__: 3,165,550 | __Repository__: http://www.systanddeploy.com/2019/02/psgallery-change-bios-settings-from.html
 
 ## [DisplaySettings](https://www.powershellgallery.com/Packages/DisplaySettings/0.0.2) | 0.0.2
 
@@ -1493,7 +1493,7 @@ __Downloads__: 3,165,488 | __Repository__: http://www.systanddeploy.com/2019/02/
 
 get/set display resolution info on windows
 
-__Downloads__: 3,140,605 | __Repository__: https://github.com/lust4life/display-resolution
+__Downloads__: 3,140,611 | __Repository__: https://github.com/lust4life/display-resolution
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.7.5) | 7.7.5
 
@@ -1509,7 +1509,7 @@ __Downloads__: 3,089,800 | __Repository__: https://github.com/logicmonitor/lm-po
 
 SNMP Functions for Get and Walk both pipeline aware
 
-__Downloads__: 3,061,557 | __Repository__: http://www.proxx.nl/Module/SNMP/
+__Downloads__: 3,061,561 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
 ## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.8.5) | 1.8.5
 
@@ -1517,7 +1517,7 @@ __Downloads__: 3,061,557 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
 PowerShell module to assist with Sale Engineering activities.
 
-__Downloads__: 3,049,804 | __Repository__: https://github.com/logicmonitor/Logic.Monitor.SE
+__Downloads__: 3,049,805 | __Repository__: https://github.com/logicmonitor/Logic.Monitor.SE
 
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.1.0.96) | 2.1.0.96
 
@@ -1533,7 +1533,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 3,021,240 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 3,021,283 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [Invoke-SqlCmd2](https://www.powershellgallery.com/Packages/Invoke-SqlCmd2/1.6.4) | 1.6.4
 
@@ -1541,7 +1541,7 @@ __Downloads__: 3,021,240 | __Repository__: https://github.com/mithrandyr/SimplyS
 
 Invoke-SqlCmd2
 
-__Downloads__: 3,008,140 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
+__Downloads__: 3,008,162 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
 
 ## [WifiTools](https://www.powershellgallery.com/Packages/WifiTools/1.8.4) | 1.8.4
 
@@ -1549,7 +1549,7 @@ __Downloads__: 3,008,140 | __Repository__: https://github.com/RamblingCookieMons
 
 A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
 
-__Downloads__: 2,911,745 | __Repository__: https://github.com/buscseik/WifiTools/
+__Downloads__: 2,911,757 | __Repository__: https://github.com/buscseik/WifiTools/
 
 ## [WinSCP](https://www.powershellgallery.com/Packages/WinSCP/6.3.6.0) | 6.3.6.0
 
@@ -1557,7 +1557,7 @@ __Downloads__: 2,911,745 | __Repository__: https://github.com/buscseik/WifiTools
 
 PowerShell Module Wrapper for WinSCP.
 
-__Downloads__: 2,764,782 | __Repository__: https://github.com/tomohulk/WinSCP
+__Downloads__: 2,764,794 | __Repository__: https://github.com/tomohulk/WinSCP
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -1565,7 +1565,7 @@ __Downloads__: 2,764,782 | __Repository__: https://github.com/tomohulk/WinSCP
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 2,747,334 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 2,747,339 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/2.8.5) | 2.8.5
 
@@ -1581,7 +1581,7 @@ __Downloads__: 2,713,796 | __Repository__: https://github.com/Azure/AzOps
 
 Useful functions for use from PowerShell
 
-__Downloads__: 2,690,382 | __Repository__: http://donovanbrown.com/
+__Downloads__: 2,690,377 | __Repository__: http://donovanbrown.com/
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.24) | 1.0.24
 
@@ -1613,7 +1613,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Send-EmailViaSendGrid - send email using SendGrid (supports api token retrieval from Azure Keyvault or credentials object)
     - ...
 
-__Downloads__: 2,669,247 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 2,669,237 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.14.22) | 5.14.22
 
@@ -1621,7 +1621,7 @@ __Downloads__: 2,669,247 | __Repository__: https://github.com/ztrhgf/useful_powe
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,664,185 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,664,173 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [NinjaRmmApi](https://www.powershellgallery.com/Packages/NinjaRmmApi/1.0.2) | 1.0.2
 
@@ -1629,7 +1629,7 @@ __Downloads__: 2,664,185 | __Repository__: https://github.com/nightroman/Invoke-
 
 An unofficial PowerShell module to interact with NinjaRMM.
 
-__Downloads__: 2,659,492 | __Repository__: https://github.com/rhymeswithmogul/NinjaRMM-PowerShell/
+__Downloads__: 2,659,423 | __Repository__: https://github.com/rhymeswithmogul/NinjaRMM-PowerShell/
 
 ## [JiraPS](https://www.powershellgallery.com/Packages/JiraPS/2.14.7) | 2.14.7
 
@@ -1637,7 +1637,7 @@ __Downloads__: 2,659,492 | __Repository__: https://github.com/rhymeswithmogul/Ni
 
 Windows PowerShell module to interact with Atlassian JIRA
 
-__Downloads__: 2,607,757 | __Repository__: https://atlassianps.org/module/JiraPS
+__Downloads__: 2,607,755 | __Repository__: https://atlassianps.org/module/JiraPS
 
 ## [FileContentDsc](https://www.powershellgallery.com/Packages/FileContentDsc/1.3.0.151) | 1.3.0.151
 
@@ -1655,7 +1655,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 2,582,547 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 2,582,538 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [JWTDetails](https://www.powershellgallery.com/Packages/JWTDetails/1.0.3) | 1.0.3
 
@@ -1663,7 +1663,7 @@ __Downloads__: 2,582,547 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 Decode a JWT Access Token and convert to a PowerShell Object. JWT Access Token updated to include the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry).
 
-__Downloads__: 2,580,850 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
+__Downloads__: 2,580,841 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
 
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/5.1.0.0) | 5.1.0.0
 
@@ -1671,7 +1671,7 @@ __Downloads__: 2,580,850 | __Repository__: https://github.com/darrenjrobinson/JW
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen10, Gen10 Plus, Gen11 or Gen12 servers.
 
-__Downloads__: 2,551,864 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 2,551,845 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [SQLite](https://www.powershellgallery.com/Packages/SQLite/2.0) | 2.0
 
@@ -1679,7 +1679,7 @@ __Downloads__: 2,551,864 | __Repository__: https://www.hpe.com/servers/powershel
 
 The SQLite PowerShell Provider allows PowerShell to interact with SQLite databases if they are drives on your system.
 
-__Downloads__: 2,412,873 | __Repository__: 
+__Downloads__: 2,412,861 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Tls](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Tls/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1687,7 +1687,7 @@ __Downloads__: 2,412,873 | __Repository__:
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 2,350,180 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 2,350,152 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.SnapService](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.SnapService/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1852,7 +1852,7 @@ __Downloads__: 1,736,252 | __Repository__:
 This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same.
 
-__Downloads__: 1,730,436 | __Repository__: https://github.com/adbertram/PSSoftware
+__Downloads__: 1,730,434 | __Repository__: https://github.com/adbertram/PSSoftware
 
 ## [ConnectWiseControlAPI](https://www.powershellgallery.com/Packages/ConnectWiseControlAPI/0.4.0.0) | 0.4.0.0
 
@@ -2128,7 +2128,7 @@ __Downloads__: 1,131,315 | __Repository__: https://github.com/KelvinTegelaar/Aut
 
 KVA Module
 
-__Downloads__: 1,120,283 | __Repository__: 
+__Downloads__: 1,120,285 | __Repository__: 
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.2.41) | 1.2.41
 
@@ -2136,6 +2136,6 @@ __Downloads__: 1,120,283 | __Repository__:
 
 AKS HCI Module
 
-__Downloads__: 1,119,651 | __Repository__: 
+__Downloads__: 1,119,653 | __Repository__: 
 
-*Updated: Monday, 22 December 2025 21:52:25 UTC*
+*Updated: Tuesday, 23 December 2025 09:53:55 UTC*
