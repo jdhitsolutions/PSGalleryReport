@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 December 2025 09:53:58 UTC
+Updated: Tuesday, 23 December 2025 21:51:42 UTC
 
 .bat
 .env
@@ -547,6 +547,8 @@ armtemplates
 arp
 array
 arrays
+arrow
+arrow-key
 art
 artefactual
 artifact
@@ -709,6 +711,7 @@ availability
 availabilityset
 avalara
 avatar
+avatax
 avd
 ave
 avepoint
@@ -730,7 +733,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -847,7 +849,6 @@ azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
-azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
@@ -908,6 +909,7 @@ bastion
 bat
 batcat
 batch
+batch-install
 batchclass
 batching
 batman
@@ -1448,6 +1450,7 @@ cloudflare
 cloudforensics
 cloudformation
 cloudfoundation
+cloudfront
 cloudgovernance
 cloudguard
 cloudhsm
@@ -2009,7 +2012,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2194,6 +2196,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 devicemanagement
 deviceprovisioningservice
 deviceregistry
@@ -2440,6 +2443,7 @@ drive
 drive letter
 drivemap
 drivemapping
+driven
 driver
 driverpacks
 drivers
@@ -2458,7 +2462,6 @@ drsrule
 drupal
 drush
 dry
-drydock
 ds
 ds-client
 ds-utils
@@ -2587,7 +2590,6 @@ efi
 egrep
 eid
 eigencontroles
-eigenverft
 einstein
 eklient psedition_core psedition_desktop
 eku
@@ -2940,7 +2942,6 @@ featureupdate
 federated
 federateddirectory
 federation
-fedex
 feed
 fermentation
 fetch
@@ -3356,6 +3357,7 @@ gitflow
 gitforwindows
 github
 github-actions
+github-api
 githubaction
 githubactions
 githubcopilot
@@ -3710,6 +3712,7 @@ hsdp
 hsl
 html
 html-templates
+htmlentity
 http
 http_proxy
 http-listener
@@ -3810,7 +3813,6 @@ idm
 idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -3895,11 +3897,8 @@ info
 infoblox
 informatica
 information
-information-technology
 informationbarriers
 informationprotection
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -4112,7 +4111,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -4244,6 +4242,7 @@ keywords
 kfum-spejderne
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -4641,7 +4640,6 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
-managedkafka
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4752,6 +4750,7 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
+meesman
 meeting
 meetup
 meetup.com
@@ -4915,7 +4914,6 @@ mobilitycontroller
 mock
 mocking
 mod
-modding
 model
 model-management
 modelcontextprotocol
@@ -5404,7 +5402,6 @@ odata
 odbc
 odfb
 odin
-odoo
 oem-charset
 oembed
 offboarding
@@ -5548,6 +5545,7 @@ opus
 oracle
 oraclecloudinfrastructure
 oraculum
+orbit
 orbital
 orchestrate
 orchestration
@@ -6083,6 +6081,7 @@ powershell-modules
 powershell-modules-convention
 powershell-project-convention
 powershell-releases-api
+powershell-remoting
 powershell-scripts
 powershell-terminal
 powershell-terminal-copilot
@@ -8073,6 +8072,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -9159,7 +9159,6 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
-pshost
 pshtml
 psidoit
 psidoitng
@@ -9302,10 +9301,12 @@ pwpush
 pwpush.com
 pwsafe
 pwsh
+pwsh-module
 pwsh.fw
 pwshake
 pwshfw
 pwshrc
+pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9317,7 +9318,6 @@ python-for-dotnet
 python3
 qatam
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -9363,6 +9363,7 @@ quiz
 qumulo
 quota
 quote
+quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9738,6 +9739,7 @@ rotation
 round
 roundrobindatabase
 route
+route53
 routeconfig
 router
 routeros
@@ -10168,7 +10170,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10394,6 +10398,7 @@ space
 spaces
 spacex
 spam
+spamtitan
 spanish
 spanner
 spark
@@ -10871,7 +10876,6 @@ techdirect
 techedna2014
 techlog
 technicalanalysis
-technology
 techsmith
 tel
 telegram
@@ -10951,6 +10955,7 @@ testtool
 testusers
 text
 text_to_speech
+text-based
 text-emoji
 text-emojis
 text-menu
@@ -11031,6 +11036,7 @@ tinymce
 tip
 tips
 titan
+titanhq
 title
 tld
 tls
@@ -11137,6 +11143,7 @@ trello
 trellops
 trend
 trend-micro
+trendmicro
 trevor
 trevorsullivan
 triangle
@@ -11629,6 +11636,7 @@ vrchat
 vrealize
 vrising
 vro
+vrops
 vrsns
 vrtu
 vs
@@ -11819,7 +11827,6 @@ wifi
 wiki
 wildcard
 wildfire
-wildfly
 wim
 wim2vhd
 wimwitch
@@ -11988,6 +11995,7 @@ workspaces
 workstation
 world
 worldcup
+worryfreebusinesssecurity
 wow
 wpad
 wpf
