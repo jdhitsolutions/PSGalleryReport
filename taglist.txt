@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 December 2025 21:51:42 UTC
+Updated: Wednesday, 24 December 2025 09:53:22 UTC
 
 .bat
 .env
@@ -374,7 +374,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyticsrules
 analyze
@@ -733,6 +732,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -849,6 +849,7 @@ azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
+azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
@@ -1110,7 +1111,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1385,7 +1385,6 @@ cldr
 clean
 clean-architecture
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -2012,6 +2011,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2244,7 +2244,6 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
-dir
 dircolors
 direct_send
 director
@@ -2785,7 +2784,6 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 everix
@@ -2942,6 +2940,7 @@ featureupdate
 federated
 federateddirectory
 federation
+fedex
 feed
 fermentation
 fetch
@@ -3754,7 +3753,6 @@ hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypoglycemia
 hypothesis
 hysolate
@@ -3813,6 +3811,7 @@ idm
 idn
 idna
 idoit
+idp
 idrac
 ids
 ie
@@ -3825,7 +3824,6 @@ ihs
 iiittttt
 iis
 iisadministration
-iiscrypto
 ikev2
 il
 illinois
@@ -3897,8 +3895,11 @@ info
 infoblox
 informatica
 information
+information-technology
 informationbarriers
 informationprotection
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -4111,6 +4112,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -4399,8 +4401,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit
 limit-job
 limits
@@ -4481,7 +4481,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4640,6 +4639,7 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
+managedkafka
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4914,6 +4914,7 @@ mobilitycontroller
 mock
 mocking
 mod
+modding
 model
 model-management
 modelcontextprotocol
@@ -5124,7 +5125,6 @@ naming
 nana
 nano
 nanoleaf
-nartac
 nasdaq
 nationalinstruments
 native
@@ -5402,6 +5402,7 @@ odata
 odbc
 odfb
 odin
+odoo
 oem-charset
 oembed
 offboarding
@@ -5598,8 +5599,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-file
@@ -9185,7 +9184,6 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -9318,6 +9316,7 @@ python-for-dotnet
 python3
 qatam
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -9589,7 +9588,6 @@ rename-git
 rename-git-branch
 rename-gitbranch
 render
-reonboarding
 repair
 repair-msauth
 reparse
@@ -9698,7 +9696,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -10089,7 +10086,6 @@ serverprotection
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10575,7 +10571,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statisticmaintenance
@@ -10710,7 +10705,6 @@ supress-reboot
 surestacks
 surround
 surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10876,6 +10870,7 @@ techdirect
 techedna2014
 techlog
 technicalanalysis
+technology
 techsmith
 tel
 telegram
@@ -11540,7 +11535,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -11827,6 +11821,7 @@ wifi
 wiki
 wildcard
 wildfire
+wildfly
 wim
 wim2vhd
 wimwitch

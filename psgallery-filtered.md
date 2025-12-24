@@ -17,7 +17,7 @@ __Downloads__: 8 | __Repository__: https://github.com/cedx/lcov.net
 
 Client for the Windmill platform.
 
-__Downloads__: 12,967 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 12,966 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [XDRInternals](https://www.powershellgallery.com/Packages/XDRInternals/1.0.3) | 1.0.3
 
@@ -41,7 +41,7 @@ __Downloads__: 28,066 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Interact with Azure DevOps APIs, pipelines, repos, and work items.
 
-__Downloads__: 1,104 | __Repository__: 
+__Downloads__: 1,103 | __Repository__: 
 
 ## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.37) | 1.0.37
 
@@ -49,7 +49,7 @@ __Downloads__: 1,104 | __Repository__:
 
 AI-powered scripting tools, including chat, summarization, and generation.
 
-__Downloads__: 2,307 | __Repository__: 
+__Downloads__: 2,306 | __Repository__: 
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.40.0) | 0.0.40.0
 
@@ -57,7 +57,7 @@ __Downloads__: 2,307 | __Repository__:
 
 PowerShell module for listing Trouw articles
 
-__Downloads__: 1,926 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
+__Downloads__: 1,925 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
 
 ## [IntuneToFleetMDM](https://www.powershellgallery.com/Packages/IntuneToFleetMDM/0.1.0) | 0.1.0
 
@@ -205,7 +205,7 @@ __Downloads__: 6,541 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 117,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 117,650 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.99) | 4.9.0.99
 
@@ -261,7 +261,7 @@ __Downloads__: 126,963 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 File Management Functions
 
-__Downloads__: 159,530 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 159,529 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.99) | 4.17.0.99
 
@@ -357,7 +357,7 @@ __Downloads__: 863 | __Repository__: https://www.csolve.ca/
 
 PowerShell for Proxmox VE
 
-__Downloads__: 276,441 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 276,429 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.4.0) | 1.4.0
 
@@ -397,7 +397,7 @@ __Downloads__: 19,890 | __Repository__: https://github.com/Marco-online/MSCatalo
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,873,929 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,873,863 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.2.6) | 0.2.6
 
@@ -528,7 +528,7 @@ __Downloads__: 9 | __Repository__:
 
 Common functions used in DSC Resources
 
-__Downloads__: 42,778 | __Repository__: https://github.com/dsccommunity/DscResource.Common
+__Downloads__: 42,777 | __Repository__: https://github.com/dsccommunity/DscResource.Common
 
 ## [IntegrisPowerShell](https://www.powershellgallery.com/Packages/IntegrisPowerShell/2.0.84) | 2.0.84
 
@@ -839,7 +839,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Gijsreyn/DscSchemaGenerat
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 291,412 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 291,420 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.9) | 2.7.9
 
@@ -1370,6 +1370,14 @@ This modules provides Cmdlets for OCI Managementagent Service
 
 __Downloads__: 13,219 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Managedkafka](https://www.powershellgallery.com/Packages/OCI.PSModules.Managedkafka/120.2.0) | 120.2.0
+
+### Published: 12/17/2025 00:33:26 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Managedkafka Service
+
+__Downloads__: 818 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Lustrefilestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Lustrefilestorage/120.2.0) | 120.2.0
 
 ### Published: 12/17/2025 00:33:21 by Oracle Cloud Infrastructure
@@ -1426,14 +1434,6 @@ This modules provides Cmdlets for OCI Loadbalancer Service
 
 __Downloads__: 13,561 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:32:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 13,718 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [PPDS.Tools](https://www.powershellgallery.com/Packages/PPDS.Tools/1.1.0) | 1.1.0
 
 ### Published: 12/17/2025 00:32:43 by Josh Smith
@@ -1441,6 +1441,14 @@ __Downloads__: 13,718 | __Repository__: https://github.com/oracle/oci-powershell
 PowerShell tools for Dataverse plugin deployment, drift detection, and CI/CD automation. Part of the Power Platform Developer Suite.
 
 __Downloads__: 15 | __Repository__: https://github.com/joshsmithxrm/ppds-tools
+
+## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/120.2.0) | 120.2.0
+
+### Published: 12/17/2025 00:32:43 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Limits Service
+
+__Downloads__: 13,718 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/120.2.0) | 120.2.0
 
@@ -2050,12 +2058,4 @@ This modules provides Cmdlets for OCI Apmconfig Service
 
 __Downloads__: 12,860 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apiplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiplatform/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:24:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiplatform Service
-
-__Downloads__: 993 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 23 December 2025 21:51:32 UTC*
+*Updated: Wednesday, 24 December 2025 09:53:13 UTC*
