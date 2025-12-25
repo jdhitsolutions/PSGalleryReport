@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 December 2025 09:52:46 UTC
+Updated: Thursday, 25 December 2025 21:52:03 UTC
 
 .bat
 .env
@@ -147,7 +147,6 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
-activerecord
 activeresponse
 activesession
 activiti
@@ -276,7 +275,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 ai-development
 ai-server
@@ -338,6 +336,7 @@ alignment
 alive
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -360,6 +359,7 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
+amd
 amend
 ami
 amiga
@@ -669,7 +669,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autolabeling
 autoload
 autologon
@@ -686,7 +685,6 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -836,7 +834,6 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
-azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -936,6 +933,7 @@ bearded-avenger
 bearer
 beautifier
 beautiful-terminal
+beautify
 bec
 beckhoff
 bedrock
@@ -1066,7 +1064,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1156,7 +1153,6 @@ c2r
 ca
 cache
 cachedroles
-cacherecovery
 caf
 caffeine
 cal
@@ -1515,7 +1511,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codellama
 codemetrics
 codepoint
 codequality
@@ -2017,7 +2012,6 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
-dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2100,6 +2094,7 @@ decoding
 decompiler
 decompression
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -2187,7 +2182,6 @@ devdirmanager
 devdrive
 developer
 developer_command_prompt
-developercommandprompt
 developermode
 development
 devenv
@@ -2558,8 +2552,6 @@ ebooks
 ebur128
 ec2
 echo
-ecma2
-ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -2919,7 +2911,6 @@ fast
 fast-dds
 fast-ping
 fastdata
-faster
 fastfilepub
 fastgit
 fastlinq
@@ -3063,7 +3054,6 @@ five9
 fix-log
 fix-protocol
 fixlet
-fixmissingmsi
 fixpack
 flac
 flag
@@ -3260,7 +3250,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3348,7 +3337,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3451,6 +3439,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3806,11 +3795,12 @@ identitydirector
 identitydomains
 identitygovernance
 identitynow
+identitysecuritycloud
 idf
 idm
+idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -3942,7 +3932,6 @@ installation
 installationmanager
 installedapplications
 installer
-installercache
 installers
 installoffice
 installofficertool
@@ -4372,7 +4361,6 @@ legends
 lego
 lein
 leiningnen
-lemonai
 lenel
 length
 lenovo
@@ -4502,6 +4490,7 @@ log-rotation
 log4net
 loganalytics
 logbook
+logcat
 logentry
 logfile
 logfilearchivearchive
@@ -5602,8 +5591,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-file
@@ -6017,7 +6004,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -6085,7 +6071,6 @@ powershell-modules
 powershell-modules-convention
 powershell-project-convention
 powershell-releases-api
-powershell-remoting
 powershell-scripts
 powershell-terminal
 powershell-terminal-copilot
@@ -9353,8 +9338,6 @@ quantum
 quarantine
 queries
 query
-querybuilder
-queryexcel
 querystring
 question
 queue
@@ -9383,6 +9366,7 @@ rabbit
 rabbitmq
 rackspace
 radarr
+radeon
 radio
 rag
 raidcontrollercmdlets
@@ -9590,9 +9574,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -9703,7 +9684,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -9728,6 +9708,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -10060,6 +10042,7 @@ sendgrid
 sendkeys
 sendmail
 sense
+sensitive
 sensitivity
 sensitivitylabels
 sensor
@@ -10259,7 +10242,6 @@ sixel
 size
 skatterbrainz
 skeet
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -10577,7 +10559,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statisticmaintenance
@@ -10926,6 +10907,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -11305,7 +11287,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattended
@@ -11735,6 +11716,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -12119,7 +12101,6 @@ yahw
 yamaha
 yaml
 yandex
-yandexdisk
 yapg
 yarn
 yaugeraio
