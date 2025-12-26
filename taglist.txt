@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 December 2025 21:52:03 UTC
+Updated: Friday, 26 December 2025 09:53:00 UTC
 
 .bat
 .env
@@ -147,6 +147,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -275,6 +276,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 ai-development
 ai-server
@@ -669,6 +671,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autolabeling
 autoload
 autologon
@@ -685,6 +688,7 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -761,7 +765,6 @@ aznicdetails
 azops
 azpipelines
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
@@ -834,13 +837,13 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
+azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
 azureresourceinventory
 azureresourcemanager
-azureresources
 azureresourcestuff
 azurerestapispecs
 azurerm
@@ -1064,6 +1067,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1109,7 +1113,6 @@ build
 build-log
 build-scripts
 build-test-publish
-buildautomation
 builddefinition
 builder
 buildhelpers
@@ -1153,6 +1156,7 @@ c2r
 ca
 cache
 cachedroles
+cacherecovery
 caf
 caffeine
 cal
@@ -1511,6 +1515,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codellama
 codemetrics
 codepoint
 codequality
@@ -2012,6 +2017,7 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2182,6 +2188,7 @@ devdirmanager
 devdrive
 developer
 developer_command_prompt
+developercommandprompt
 developermode
 development
 devenv
@@ -2212,7 +2219,6 @@ dfw
 dg
 dhash
 dhcp
-di
 diabetes
 diagnostic
 diagnostics
@@ -2552,6 +2558,8 @@ ebooks
 ebur128
 ec2
 echo
+ecma2
+ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -3054,6 +3062,7 @@ five9
 fix-log
 fix-protocol
 fixlet
+fixmissingmsi
 fixpack
 flac
 flag
@@ -3337,6 +3346,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3439,7 +3449,6 @@ graphic
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3801,6 +3810,7 @@ idm
 idn
 idna
 idoit
+idp
 idrac
 ids
 ie
@@ -3932,6 +3942,7 @@ installation
 installationmanager
 installedapplications
 installer
+installercache
 installers
 installoffice
 installofficertool
@@ -4361,6 +4372,7 @@ legends
 lego
 lein
 leiningnen
+lemonai
 lenel
 length
 lenovo
@@ -5591,6 +5603,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-file
@@ -6004,6 +6018,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -6071,6 +6086,7 @@ powershell-modules
 powershell-modules-convention
 powershell-project-convention
 powershell-releases-api
+powershell-remoting
 powershell-scripts
 powershell-terminal
 powershell-terminal-copilot
@@ -6131,7 +6147,6 @@ preprocessing
 preprocessor
 prerequisites
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -9338,6 +9353,8 @@ quantum
 quarantine
 queries
 query
+querybuilder
+queryexcel
 querystring
 question
 queue
@@ -9574,6 +9591,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -9625,7 +9645,6 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
-resourceid
 resourceinventory
 resourcekit
 resourcemanager
@@ -9684,6 +9703,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9767,7 +9787,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -9949,7 +9968,6 @@ searching
 searchmanager
 searchplace
 searchquery
-searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -10126,7 +10144,6 @@ settings
 setup
 setupdiag
 sevenzip
-sf
 sfb
 sfc
 sftp
@@ -10242,6 +10259,7 @@ sixel
 size
 skatterbrainz
 skeet
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -10559,6 +10577,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticip
 staticsite
 statistical
 statisticmaintenance
@@ -11287,6 +11306,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattended
@@ -11716,7 +11736,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -12088,7 +12107,6 @@ xql
 xrm
 xsa
 xsiam
-xsl
 xtremio
 xtrude
 xunit
@@ -12101,6 +12119,7 @@ yahw
 yamaha
 yaml
 yandex
+yandexdisk
 yapg
 yarn
 yaugeraio
