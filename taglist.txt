@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 December 2025 09:53:00 UTC
+Updated: Friday, 26 December 2025 21:52:07 UTC
 
 .bat
 .env
@@ -688,7 +688,6 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -765,6 +764,7 @@ aznicdetails
 azops
 azpipelines
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -844,6 +844,7 @@ azurepowershell
 azurerepos
 azureresourceinventory
 azureresourcemanager
+azureresources
 azureresourcestuff
 azurerestapispecs
 azurerm
@@ -1113,6 +1114,7 @@ build
 build-log
 build-scripts
 build-test-publish
+buildautomation
 builddefinition
 builder
 buildhelpers
@@ -2219,6 +2221,7 @@ dfw
 dg
 dhash
 dhcp
+di
 diabetes
 diagnostic
 diagnostics
@@ -2919,6 +2922,7 @@ fast
 fast-dds
 fast-ping
 fastdata
+faster
 fastfilepub
 fastgit
 fastlinq
@@ -3259,6 +3263,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3449,6 +3454,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3601,7 +3607,6 @@ helpdesk
 helpdoc
 helper
 helper-functions
-helperfunctions
 helpers
 helpfile
 helpful
@@ -4749,6 +4754,7 @@ mecm
 media
 mediant
 mediaplayer
+mediaserver
 mediaservices
 mediawiki
 meditation
@@ -5487,7 +5493,6 @@ onyphe.io
 oob
 oop
 ooxml
-op
 opa
 opc
 open
@@ -5549,7 +5554,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbit
 orbital
 orchestrate
@@ -5603,8 +5607,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-file
@@ -5898,7 +5900,6 @@ poc
 podcast
 pode
 podman
-poe
 poem
 poetry
 point
@@ -6147,6 +6148,7 @@ preprocessing
 preprocessor
 prerequisites
 presentation
+presentationframework
 presenter
 presto
 preston-k-parsard
@@ -8111,7 +8113,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psengine
 psenv
 pses
@@ -9645,6 +9646,7 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
+resourceid
 resourceinventory
 resourcekit
 resourcemanager
@@ -9703,7 +9705,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -9787,6 +9788,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -9968,6 +9970,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -10144,6 +10147,7 @@ settings
 setup
 setupdiag
 sevenzip
+sf
 sfb
 sfc
 sftp
@@ -10577,7 +10581,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statisticmaintenance
@@ -11270,7 +11273,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11306,7 +11308,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattended
@@ -11717,7 +11718,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-browser
 web-framework
@@ -11736,6 +11736,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -12006,7 +12007,6 @@ wql
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
@@ -12107,6 +12107,7 @@ xql
 xrm
 xsa
 xsiam
+xsl
 xtremio
 xtrude
 xunit

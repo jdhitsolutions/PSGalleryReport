@@ -3,9 +3,65 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [WinPath-Clean](https://www.powershellgallery.com/Packages/WinPath-Clean/0.2.1) | 0.2.1
+## [PlexAutomationToolkit](https://www.powershellgallery.com/Packages/PlexAutomationToolkit/0.2.0) | 0.2.0
 
-### Published: 12/26/2025 08:52:31 by Ignacio de Miguel Diaz
+### Published: 12/26/2025 20:15:43 by Trent Blackburn
+
+A PowerShell module for managing Plex servers
+
+__Downloads__: 0 | __Repository__: https://github.com/tablackburn/PlexAutomationToolkit
+
+## [DriverManagement](https://www.powershellgallery.com/Packages/DriverManagement/1.5.7) | 1.5.7
+
+### Published: 12/26/2025 18:14:30 by Thomas Tyson
+
+Enterprise driver and Windows update management for Dell, Lenovo, and Intel endpoints. Supports individual driver updates, full pack reinstalls, Windows cumulative updates, update blocking/approval workflows, driver rollback, and offline catalog support.
+
+__Downloads__: 165 | __Repository__: https://github.com/thomastysong/PSDriverManagement
+
+## [PSSonarr](https://www.powershellgallery.com/Packages/PSSonarr/0.0.6) | 0.0.6
+
+### Published: 12/26/2025 18:09:30 by Robin Malik
+
+Sonarr helper module
+
+__Downloads__: 103 | __Repository__: 
+
+## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.43) | 1.0.43
+
+### Published: 12/26/2025 17:56:53 by Leif Almberg
+
+AB Lindex Powershell Hyper-V Module
+
+__Downloads__: 289 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.600.1) | 1.600.1
+
+### Published: 12/26/2025 17:42:11 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 13,035 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.38) | 1.0.38
+
+### Published: 12/26/2025 16:47:40 by Lakshmanachari Panuganti
+
+AI-powered scripting tools, including chat, summarization, and generation.
+
+__Downloads__: 2,311 | __Repository__: 
+
+## [PowerNetbox](https://www.powershellgallery.com/Packages/PowerNetbox/4.4.9.1) | 4.4.9.1
+
+### Published: 12/26/2025 12:30:49 by Ben Claussen ctrl-alt-automate
+
+PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
+
+__Downloads__: 23 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
+
+## [WinPath-Clean](https://www.powershellgallery.com/Packages/WinPath-Clean/0.3.1) | 0.3.1
+
+### Published: 12/26/2025 11:08:28 by Ignacio de Miguel Diaz
 
 A PowerShell 7 TUI tool to analyze, clean, and optimize your Windows PATH environment variable. Detects duplicates, obsolete paths, and bypasses the 2047 character GUI limit.
 
@@ -18,14 +74,6 @@ __Downloads__: 8 | __Repository__: https://codeberg.org/imigueldiaz/winpath-clea
 SharePoint Service Module for PowerShell
 
 __Downloads__: 3,372 | __Repository__: https://github.com/karamem0/sp-client-core
-
-## [PowerNetbox](https://www.powershellgallery.com/Packages/PowerNetbox/4.4.9.0) | 4.4.9.0
-
-### Published: 12/26/2025 07:38:48 by Ben Claussen ctrl-alt-automate
-
-PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
-
-__Downloads__: 23 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.82) | 1.0.21.82
 
@@ -41,7 +89,7 @@ __Downloads__: 1,813 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/q
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,931,835 | __Repository__: https://dbatools.io/
+__Downloads__: 7,931,878 | __Repository__: https://dbatools.io/
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.26) | 2025.12.26
 
@@ -66,22 +114,6 @@ __Downloads__: 28,108 | __Repository__: https://github.com/chris-peterson/pwsh-g
 This module will help to validate only Azure Active Directory access tokens.
 
 __Downloads__: 265 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.599.3) | 1.599.3
-
-### Published: 12/25/2025 16:47:36 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 13,035 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [DriverManagement](https://www.powershellgallery.com/Packages/DriverManagement/1.5.6) | 1.5.6
-
-### Published: 12/25/2025 14:01:24 by Thomas Tyson
-
-Enterprise driver and Windows update management for Dell, Lenovo, and Intel endpoints. Supports individual driver updates, full pack reinstalls, Windows cumulative updates, update blocking/approval workflows, driver rollback, and offline catalog support.
-
-__Downloads__: 165 | __Repository__: https://github.com/thomastysong/PSDriverManagement
 
 ## [NativeCommandCompleter.psm](https://www.powershellgallery.com/Packages/NativeCommandCompleter.psm/0.0.1) | 0.0.1
 
@@ -178,14 +210,6 @@ __Downloads__: 50 | __Repository__: https://github.com/MSCloudInternals/XDRInter
 Interact with Azure DevOps APIs, pipelines, repos, and work items.
 
 __Downloads__: 1,107 | __Repository__: 
-
-## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.37) | 1.0.37
-
-### Published: 12/23/2025 18:53:45 by Lakshmanachari Panuganti
-
-AI-powered scripting tools, including chat, summarization, and generation.
-
-__Downloads__: 2,311 | __Repository__: 
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.40.0) | 0.0.40.0
 
@@ -453,7 +477,7 @@ __Downloads__: 867 | __Repository__: https://www.csolve.ca/
 
 PowerShell for Proxmox VE
 
-__Downloads__: 280,113 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 280,101 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.252.0.6) | 1.252.0.6
 
@@ -485,7 +509,7 @@ __Downloads__: 21,009 | __Repository__: https://github.com/Marco-online/MSCatalo
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,878,936 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,878,941 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.2.6) | 0.2.6
 
@@ -544,7 +568,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 88,801 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 88,800 | __Repository__: https://pscompletions.abgox.com/
 
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.3.0) | 1.3.0
 
@@ -640,7 +664,7 @@ __Downloads__: 9 | __Repository__: https://github.com/Krinopotam/PsBundler
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 71,801 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 71,800 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.5.1.0) | 1.5.1.0
 
@@ -895,7 +919,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Gijsreyn/DscSchemaGenerat
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 293,501 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 293,493 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.9) | 2.7.9
 
@@ -903,7 +927,7 @@ __Downloads__: 293,501 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 889,592 | __Repository__: 
+__Downloads__: 889,580 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/120.2.0) | 120.2.0
 
@@ -1642,6 +1666,14 @@ This modules provides Cmdlets for OCI Generativeaiagentruntime Service
 
 __Downloads__: 2,798 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Generativeaiagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagent/120.2.0) | 120.2.0
+
+### Published: 12/17/2025 00:30:25 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeaiagent Service
+
+__Downloads__: 2,800 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/120.2.0) | 120.2.0
 
 ### Published: 12/17/2025 00:30:19 by Oracle Cloud Infrastructure
@@ -2026,36 +2058,4 @@ This modules provides Cmdlets for OCI Bds Service
 
 __Downloads__: 13,706 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Batch](https://www.powershellgallery.com/Packages/OCI.PSModules.Batch/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:25:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Batch Service
-
-__Downloads__: 44 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:25:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 12,831 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:25:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 13,634 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:25:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 14,431 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 26 December 2025 09:52:50 UTC*
+*Updated: Friday, 26 December 2025 21:51:58 UTC*
