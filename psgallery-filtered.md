@@ -3,6 +3,165 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.160.1) | 1.160.1
+
+### Published: 01/01/2026 21:45:44 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 28,264 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [AutoSecure-VPN](https://www.powershellgallery.com/Packages/AutoSecure-VPN/1.0.15) | 1.0.15
+
+### Published: 01/01/2026 20:31:51 by Jente
+
+Automated OpenVPN Setup and Configuration for Windows Servers and Clients. Supports bulk client creation via CSV.
+
+__Downloads__: 101 | __Repository__: https://github.com/jente01t/AutoSecure-VPN
+
+## [PowerShellUniversal.Apps.Cookbook](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.Cookbook/1.5.0) | 1.5.0
+
+### Published: 01/01/2026 20:29:31 by Stephen Valdinger
+
+A cookbook app for PowerShell Universal
+
+__Downloads__: 52 | __Repository__: https://github.com/steviecoaster/PowerShellUniversal.Apps.Cookbook
+
+## [PSBITE](https://www.powershellgallery.com/Packages/PSBITE/1.2.0) | 1.2.0
+
+### Published: 01/01/2026 20:02:28 by arnaudcharles
+
+Powershell Buffer Insert Text Editor
+
+__Downloads__: 35 | __Repository__: https://github.com/arnaudcharles/PSBITE
+
+## [PSWEE](https://www.powershellgallery.com/Packages/PSWEE/1.3.0) | 1.3.0
+
+### Published: 01/01/2026 19:28:31 by arnaudcharles
+
+PowerShell WinRM Exmulated Explorer Module
+
+__Downloads__: 35 | __Repository__: https://github.com/arnaudcharles/PSWEE
+
+## [SmartAceDesigns.ScriptoFormTemplates](https://www.powershellgallery.com/Packages/SmartAceDesigns.ScriptoFormTemplates/2026.1.0) | 2026.1.0
+
+### Published: 01/01/2026 17:41:57 by Smart Ace Designs
+
+Smart Ace Designs ScriptoForm Templates Module. This module contains a Plaster template and functions used for scaffolding a basic starter ScriptoForm project that a script developer can use to create complex management tools.
+
+A ScriptoForm is a PowerShell script that generates and displays a Microsoft Windows Forms application that can be used for a specific management or system administration task in a computer network environment.
+Typically, a ScriptoForm is compiled into an executable file which hides the PowerShell console window during execution and provides a more seamless and familiar experience to the user.
+
+A ScriptoForm project is the set of files and folders, including the PowerShell script, that can be compiled into an executable file using the Microsoft .NET CLI utility (dotnet.exe) which is available with any Microsoft .NET SDK.
+
+__Downloads__: 103 | __Repository__: https://github.com/Smart-Ace-Designs/SmartAceDesigns.ScriptoFormTemplates
+
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2026.1.1.1651) | 2026.1.1.1651
+
+### Published: 01/01/2026 17:00:48 by Nick2bad4u
+
+🎨 ColorScripts-Enhanced: Professional ANSI Art Terminal Experience
+
+![ColorScripts Mascot](https://raw.githubusercontent.com/Nick2bad4u/ps-color-scripts-enhanced/main/assets/ColorScripts-Mascot-Dark.jpeg)
+
+A powerful PowerShell module that brings beautiful ANSI art colorscripts to your terminal with enterprise-grade performance. Choose from 3156 stunning visual scripts and enjoy lightning-fast loading with intelligent caching.
+
+⚡ PERFORMANCE BOOST
+• 6-19x faster performance with smart caching
+• 5-20ms average load time (cached)
+• OS-wide cache across all terminal sessions
+• Automatic cache invalidation on script updates
+
+✨ FEATURES
+• 3156 beautiful colorscripts included
+• Professional-grade ANSI art collection
+• Cross-platform support (Windows, macOS, Linux)
+• PowerShell 5.1+ and PowerShell 7+ compatible
+• Tab completion and intelligent parameter handling
+• Centralized cache in AppData/ColorScripts-Enhanced
+• Configuration persistence for user preferences
+• Rich metadata and script discovery
+
+🚀 QUICK START
+Display random art: Show-ColorScript (or use alias: scs)
+List available scripts: Get-ColorScriptList
+Pre-build cache: New-ColorScriptCache
+
+📖 DOCUMENTATION
+Full guide: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+Issues & Discussions: https://github.com/Nick2bad4u/ps-color-scripts-enhanced/issues
+
+COMMANDS INCLUDED
+• Show-ColorScript - Display colorscripts with caching
+• Get-ColorScriptList - Browse available scripts
+• New-ColorScriptCache - Pre-generate cache for speed
+• Clear-ColorScriptCache - Manage cache storage
+• Add-ColorScriptProfile - Integrate into PowerShell profile
+• Get-ColorScriptConfiguration - View settings
+• Set-ColorScriptConfiguration - Persist preferences
+• Export-ColorScriptMetadata - Export script metadata
+• New-ColorScript - Create new colorscripts
+
+PERFECT FOR
+✓ Making your terminal visually stunning
+✓ Terminal startup customization
+✓ System administration dashboards
+✓ Development environments
+✓ DevOps automation
+✓ Learning ANSI art and terminal graphics
+
+__Downloads__: 312 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.14.0) | 2.14.0
+
+### Published: 01/01/2026 16:11:37 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 11,062 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [PSScriptModule](https://www.powershellgallery.com/Packages/PSScriptModule/0.9.10) | 0.9.10
+
+### Published: 01/01/2026 15:39:34 by Marko Stanojevic
+
+A production-ready PowerShell script module template designed to streamline the creation, testing, and delivery of PowerShell modules.
+
+__Downloads__: 4 | __Repository__: https://github.com/warehousefinds/PSScriptModule.Template
+
+## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.1.1) | 2026.1.1
+
+### Published: 01/01/2026 15:05:42 by Jake Hildreth
+
+An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
+
+__Downloads__: 4 | __Repository__: https://github.com/jakehildreth/Locksmith2
+
+## [ModernMailTools](https://www.powershellgallery.com/Packages/ModernMailTools/0.1.8) | 0.1.8
+
+### Published: 01/01/2026 15:00:00 by Stefan Wey
+
+Send emails in PowerShell via Graph API, or SMTP (MailKit) with Modern Auth (OAuth) support.
+
+__Downloads__: 197 | __Repository__: https://exchangepermissions.alweys.ch/modernmailtools
+
+## [OneNoteAutomation](https://www.powershellgallery.com/Packages/OneNoteAutomation/1.0.0) | 1.0.0
+
+### Published: 01/01/2026 13:18:08 by Knut Kristian Johansen
+
+PowerShell module for automating Microsoft OneNote using the COM API.
+    
+See https://github.com/knutkj/OneNoteAutomation for more information.
+
+__Downloads__: 24 | __Repository__: https://github.com/knutkj/OneNoteAutomation
+
+## [Sql](https://www.powershellgallery.com/Packages/Sql/1.0.0) | 1.0.0
+
+### Published: 01/01/2026 11:21:47 by Cédric Belin <cedx@outlook.com>
+
+A simple micro-ORM, based on ADO.NET and data annotations.
+
+__Downloads__: 211 | __Repository__: https://github.com/cedx/sql.net
+
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/6.2.3) | 6.2.3
 
 ### Published: 01/01/2026 08:41:17 by abgox
@@ -39,14 +198,6 @@ A PowerShell module to interact with various Forem communities like Dev.To, Cryp
 
 __Downloads__: 3 | __Repository__: https://github.com/ITNinja01/Forem
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.157.1) | 1.157.1
-
-### Published: 12/31/2025 18:28:27 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 28,264 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
 ## [PSBlogger](https://www.powershellgallery.com/Packages/PSBlogger/1.0.0) | 1.0.0
 
 ### Published: 12/31/2025 18:02:20 by Bryan Cook
@@ -70,24 +221,6 @@ __Downloads__: 6 | __Repository__:
 PowerShell cmdlet to quickly create minimal WSL distributions from various Linux distributions
 
 __Downloads__: 3,334 | __Repository__: https://github.com/antoinemartin/PowerShell-Wsl-Manager
-
-## [AutoSecure-VPN](https://www.powershellgallery.com/Packages/AutoSecure-VPN/1.0.14) | 1.0.14
-
-### Published: 12/31/2025 14:50:24 by Jente
-
-Automated OpenVPN Setup and Configuration for Windows Servers and Clients. Supports bulk client creation via CSV.
-
-__Downloads__: 101 | __Repository__: https://github.com/jente01t/AutoSecure-VPN
-
-## [OneNoteAutomation](https://www.powershellgallery.com/Packages/OneNoteAutomation/0.1.1) | 0.1.1
-
-### Published: 12/31/2025 13:32:15 by Knut Kristian Johansen
-
-PowerShell module for automating Microsoft OneNote using the COM API.
-    
-See https://github.com/knutkj/OneNoteAutomation for more information.
-
-__Downloads__: 24 | __Repository__: https://github.com/knutkj/OneNoteAutomation
 
 ## [PowerFGT](https://www.powershellgallery.com/Packages/PowerFGT/0.10.1) | 0.10.1
 
@@ -169,14 +302,6 @@ Scripts related to Azure Storage
 
 __Downloads__: 2,325 | __Repository__: https://scripting.arcus-azure.net/
 
-## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.6.0) | 1.6.0
-
-### Published: 12/31/2025 08:17:52 by Arcus
-
-Scripts related to Azure security
-
-__Downloads__: 20,666 | __Repository__: https://scripting.arcus-azure.net/
-
 ## [Arcus.Scripting.Sql](https://www.powershellgallery.com/Packages/Arcus.Scripting.Sql/1.6.0) | 1.6.0
 
 ### Published: 12/31/2025 08:17:52 by Arcus
@@ -184,6 +309,14 @@ __Downloads__: 20,666 | __Repository__: https://scripting.arcus-azure.net/
 Scripts related to Azure SQL Database Migrations
 
 __Downloads__: 10,214 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.6.0) | 1.6.0
+
+### Published: 12/31/2025 08:17:52 by Arcus
+
+Scripts related to Azure security
+
+__Downloads__: 20,666 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.6.0) | 1.6.0
 
@@ -305,14 +438,6 @@ A PowerShell module for creating resumable, step-by-step automation scripts with
 
 __Downloads__: 117 | __Repository__: 
 
-## [PSScriptModule](https://www.powershellgallery.com/Packages/PSScriptModule/0.9.9) | 0.9.9
-
-### Published: 12/30/2025 20:24:09 by Marko Stanojevic
-
-A production-ready PowerShell script module template designed to streamline the creation, testing, and delivery of PowerShell modules.
-
-__Downloads__: 4 | __Repository__: https://github.com/warehousefinds/PSScriptModule.Template
-
 ## [SKYAPI](https://www.powershellgallery.com/Packages/SKYAPI/0.4.4) | 0.4.4
 
 ### Published: 12/30/2025 18:51:02 by Michael Panagos
@@ -344,14 +469,6 @@ __Downloads__: 4 | __Repository__: https://github.com/darkoperator/KlippyCLI
 Converts Pixquare .px files to terminal pixel graphics using ANSI True Color
 
 __Downloads__: 4 | __Repository__: https://github.com/jakehildreth/PX2PS
-
-## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2025.12.30.957) | 2025.12.30.957
-
-### Published: 12/30/2025 14:57:53 by Jake Hildreth
-
-An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
-
-__Downloads__: 4 | __Repository__: https://github.com/jakehildreth/Locksmith2
 
 ## [ScheduledTasksManager](https://www.powershellgallery.com/Packages/ScheduledTasksManager/0.10.1) | 0.10.1
 
@@ -514,14 +631,6 @@ A command-line predictor written in F# that suggests code snippets based on the 
 
 __Downloads__: 111 | __Repository__: https://github.com/krymtkts/SnippetPredictor/
 
-## [PowerShellUniversal.Apps.Cookbook](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.Cookbook/1.4.3) | 1.4.3
-
-### Published: 12/29/2025 22:57:58 by Stephen Valdinger
-
-A cookbook app for PowerShell Universal
-
-__Downloads__: 52 | __Repository__: 
-
 ## [Gradient](https://www.powershellgallery.com/Packages/Gradient/0.1) | 0.1
 
 ### Published: 12/29/2025 22:11:31 by James Brundage
@@ -529,6 +638,14 @@ __Downloads__: 52 | __Repository__:
 CSS and SVG Gradient Generator
 
 __Downloads__: 3 | __Repository__: https://github.com/PowerShellWeb/Gradient
+
+## [Compare-MeFileHash](https://www.powershellgallery.com/Packages/Compare-MeFileHash/1.0) | 1.0
+
+### Published: 12/29/2025 19:43:10 by Ian McHale
+
+A super simple file hash verification script I wrote for myself in about 10 minutes on a rainy December afternoon. I just slapped this together for myself to use and am really only publishing it to PSGallery for the purposes of easily pushing it to domain-connected PCs in my network. Anyone is welcome to use it but it should be expected that ZERO SUPPORT, modifications, fixes, or updates will ever be provided by me in the future for any reason. This script is ENTIRELY unmaintained by the author, and you use it at your own risk. That being said, if anyone wants to modify it, reuse it, or improve it themselves for their own use, they are more than welcome to and are more than welcome to re-publish it or re-share it including without crediting me if you don't feel like it.
+
+__Downloads__: 5 | __Repository__: 
 
 ## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.5.1) | 0.5.1
 
@@ -560,7 +677,7 @@ __Downloads__: 103,976 | __Repository__:
 
 Manages etl2pcapng.exe and provides a PowerShell wrapper for the executable.
 
-__Downloads__: 14,177 | __Repository__: https://github.com/microsoft/Convert-Etl2Pcapng
+__Downloads__: 14,178 | __Repository__: https://github.com/microsoft/Convert-Etl2Pcapng
 
 ## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.9.2) | 0.9.2
 
@@ -576,7 +693,7 @@ __Downloads__: 154 | __Repository__: https://github.com/kurokobo/psdify
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,975,767 | __Repository__: https://dbatools.io/
+__Downloads__: 7,975,822 | __Repository__: https://dbatools.io/
 
 ## [WinPath-Clean](https://www.powershellgallery.com/Packages/WinPath-Clean/0.4.0) | 0.4.0
 
@@ -635,6 +752,14 @@ It returns the configured current-context and the path to the updated file, simp
 
 __Downloads__: 71 | __Repository__: https://github.com/aberus/aws-eks-kubeconfig-powershell
 
+## [PSMidi](https://www.powershellgallery.com/Packages/PSMidi/0.0.1) | 0.0.1
+
+### Published: 12/28/2025 21:11:22 by Björn 'Bjompen' Sundling
+
+Toys and things for Midi 2.0 in Windows 11
+
+__Downloads__: 5 | __Repository__: 
+
 ## [DscResource.Base](https://www.powershellgallery.com/Packages/DscResource.Base/2.0.0) | 2.0.0
 
 ### Published: 12/28/2025 20:57:03 by DSC Community
@@ -649,7 +774,7 @@ __Downloads__: 71,088 | __Repository__: https://github.com/dsccommunity/DscResou
 
 EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
 
-__Downloads__: 66,714 | __Repository__: https://kayasax.github.io/EasyPIM/
+__Downloads__: 66,715 | __Repository__: https://kayasax.github.io/EasyPIM/
 
 ## [SlnLauncher](https://www.powershellgallery.com/Packages/SlnLauncher/0.1.0) | 0.1.0
 
@@ -683,21 +808,13 @@ PowerShell module for listing Volkskrant articles
 
 __Downloads__: 7,548 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.12.1) | 2.12.1
-
-### Published: 12/28/2025 10:21:36 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 11,062 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
-
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.28) | 2025.12.28
 
 ### Published: 12/28/2025 10:18:23 by the dbatools team
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,286,962 | __Repository__: https://dbatools.io/
+__Downloads__: 4,287,013 | __Repository__: https://dbatools.io/
 
 ## [LoraxMod](https://www.powershellgallery.com/Packages/LoraxMod/1.0.2) | 1.0.2
 
@@ -883,7 +1000,7 @@ __Downloads__: 1,109 | __Repository__:
 
 PowerShell module for listing Trouw articles
 
-__Downloads__: 1,955 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
+__Downloads__: 1,956 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
 
 ## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.51) | 1.51
 
@@ -960,14 +1077,6 @@ __Downloads__: 8 | __Repository__:
 A tool no one asked for, nor wanted: Injecting a DLL/arbitrary code into a target process via PowerShell!
 
 __Downloads__: 28 | __Repository__: https://github.com/christopher-conley/PSPhlebotomist
-
-## [Subtitles](https://www.powershellgallery.com/Packages/Subtitles/0.1) | 0.1
-
-### Published: 12/23/2025 05:04:01 by James Brundage
-
-Simple Subtitle Scripts
-
-__Downloads__: 5 | __Repository__: https://github.com/StartAutomating/Subtitles/
 
 ## [ClassExplorer](https://www.powershellgallery.com/Packages/ClassExplorer/2.4.0) | 2.4.0
 
@@ -1047,7 +1156,7 @@ __Downloads__: 22,103 | __Repository__: https://github.com/Marco-online/MSCatalo
 
 Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
 
-__Downloads__: 262 | __Repository__: https://intunehydrationkit.com/
+__Downloads__: 261 | __Repository__: https://intunehydrationkit.com/
 
 ## [FastPing](https://www.powershellgallery.com/Packages/FastPing/0.7.0) | 0.7.0
 
@@ -1304,14 +1413,6 @@ PowerShell module for managing Acumatica ERP installations, sites, versions, and
 
 __Downloads__: 317 | __Repository__: https://github.com/lekker-solutions/acumatica-installerHelper
 
-## [Sql](https://www.powershellgallery.com/Packages/Sql/0.17.0) | 0.17.0
-
-### Published: 12/17/2025 22:43:21 by Cédric Belin <cedx@outlook.com>
-
-A simple micro-ORM, based on ADO.NET and data annotations.
-
-__Downloads__: 211 | __Repository__: https://github.com/cedx/sql.net
-
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2025.3.3) | 2025.3.3
 
 ### Published: 12/17/2025 19:59:27 by Devolutions
@@ -1437,7 +1538,7 @@ __Downloads__: 298,632 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 892,703 | __Repository__: 
+__Downloads__: 892,702 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/120.2.0) | 120.2.0
 
@@ -2016,52 +2117,4 @@ This modules provides Cmdlets for OCI Lockbox Service
 
 __Downloads__: 10,634 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:32:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loadbalancer Service
-
-__Downloads__: 13,574 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:32:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 13,730 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [PPDS.Tools](https://www.powershellgallery.com/Packages/PPDS.Tools/1.1.0) | 1.1.0
-
-### Published: 12/17/2025 00:32:43 by Josh Smith
-
-PowerShell tools for Dataverse plugin deployment, drift detection, and CI/CD automation. Part of the Power Platform Developer Suite.
-
-__Downloads__: 21 | __Repository__: https://github.com/joshsmithxrm/ppds-tools
-
-## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:32:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Licensemanager Service
-
-__Downloads__: 10,858 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:31:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Keymanagement Service
-
-__Downloads__: 13,503 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jmsutils](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsutils/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:31:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsutils Service
-
-__Downloads__: 575 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Thursday, 01 January 2026 09:53:24 UTC*
+*Updated: Thursday, 01 January 2026 21:51:52 UTC*
