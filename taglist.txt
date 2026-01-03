@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 January 2026 09:52:30 UTC
+Updated: Saturday, 03 January 2026 21:52:10 UTC
 
 .bat
 .env
@@ -912,7 +912,6 @@ bastion
 bat
 batcat
 batch
-batch-install
 batchclass
 batching
 batchprocessing
@@ -1326,6 +1325,7 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1653,6 +1653,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -1730,7 +1731,6 @@ control
 controller
 controlroom
 controlup
-convention
 conventional
 conventional-commits
 convereter
@@ -2133,7 +2133,6 @@ defenderforservers
 defenderxdr
 defense
 deferrals
-definition
 deflate
 deflate-compression
 defrag
@@ -2867,7 +2866,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -3366,7 +3364,6 @@ gitflow
 gitforwindows
 github
 github-actions
-github-api
 githubaction
 githubactions
 githubcopilot
@@ -4534,6 +4531,7 @@ loggingingestion
 loggingsearch
 loggly
 logic
+logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -5121,7 +5119,6 @@ mwsqlserver
 mx
 mxlookup
 mycloudrevolution
-mycorp
 myget
 myhub
 myip
@@ -5210,8 +5207,6 @@ netextender
 netfirewallrule
 netherlands
 netmask
-netpdf
-netpdfps
 nets
 netsapiens
 netscaler
@@ -5705,7 +5700,6 @@ parallel-processing
 parameter
 parameterinfo
 parameters
-params
 parclient
 parenting
 parititions
@@ -5790,7 +5784,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pdfbox
 pdq
 pe
 peachsecurity
@@ -6040,7 +6033,6 @@ poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
-poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
@@ -7475,22 +7467,6 @@ pscommand_invoke-tmuxkillserver
 pscommand_invoke-tmuxkillsessionforterminal
 pscommand_invoke-tmuxlistsessions
 pscommand_invoke-tmuxnewsessionfromsource
-pscommand_invoke-vagrantdestroy
-pscommand_invoke-vagranthalt
-pscommand_invoke-vagranthostmanager
-pscommand_invoke-vagranthostslist
-pscommand_invoke-vagrantlist
-pscommand_invoke-vagrantprovision
-pscommand_invoke-vagrantreload
-pscommand_invoke-vagrantresume
-pscommand_invoke-vagrantscp
-pscommand_invoke-vagrantsnapshotlist
-pscommand_invoke-vagrantsnapshottake
-pscommand_invoke-vagrantssh
-pscommand_invoke-vagrantstatus
-pscommand_invoke-vagrantsuspend
-pscommand_invoke-vagrantup
-pscommand_invoke-vagrantuplogged
 pscommand_invoke-vaultdelete
 pscommand_invoke-vaultlist
 pscommand_invoke-vaultloginviagithub
@@ -8004,15 +7980,6 @@ pscommand_vas
 pscommand_vasrv
 pscommand_vav
 pscommand_vaw
-pscommand_vdstr
-pscommand_vh
-pscommand_vhl
-pscommand_vhst
-pscommand_vl
-pscommand_vp
-pscommand_vr
-pscommand_vrl
-pscommand_vs
 pscommand_vsc
 pscommand_vsca
 pscommand_vscd
@@ -8022,17 +7989,11 @@ pscommand_vscg
 pscommand_vscie
 pscommand_vscl
 pscommand_vscn
-pscommand_vscp
 pscommand_vscr
 pscommand_vscu
 pscommand_vscue
 pscommand_vscv
 pscommand_vscw
-pscommand_vsl
-pscommand_vssh
-pscommand_vst
-pscommand_vup
-pscommand_vupl
 pscommand_write-gitcommit
 pscommand_write-gitcommitall
 pscommand_write-gitcommitallasupdate
@@ -8891,22 +8852,6 @@ psfunction_invoke-tmuxkillserver
 psfunction_invoke-tmuxkillsessionforterminal
 psfunction_invoke-tmuxlistsessions
 psfunction_invoke-tmuxnewsessionfromsource
-psfunction_invoke-vagrantdestroy
-psfunction_invoke-vagranthalt
-psfunction_invoke-vagranthostmanager
-psfunction_invoke-vagranthostslist
-psfunction_invoke-vagrantlist
-psfunction_invoke-vagrantprovision
-psfunction_invoke-vagrantreload
-psfunction_invoke-vagrantresume
-psfunction_invoke-vagrantscp
-psfunction_invoke-vagrantsnapshotlist
-psfunction_invoke-vagrantsnapshottake
-psfunction_invoke-vagrantssh
-psfunction_invoke-vagrantstatus
-psfunction_invoke-vagrantsuspend
-psfunction_invoke-vagrantup
-psfunction_invoke-vagrantuplogged
 psfunction_invoke-vaultdelete
 psfunction_invoke-vaultlist
 psfunction_invoke-vaultloginviagithub
@@ -9303,6 +9248,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pull
@@ -9340,9 +9286,9 @@ pwsafe
 pwsh
 pwsh-module
 pwsh.fw
+pwshake
 pwshfw
 pwshrc
-pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9418,6 +9364,7 @@ radeon
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9590,7 +9537,6 @@ remote-desktop
 remote'
 remoteaccess
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -10010,7 +9956,6 @@ searchmanager
 searchplace
 searchquery
 searchscript
-searchstring
 searchsuffixlist
 secaas
 secedit
@@ -10666,7 +10611,6 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -10681,6 +10625,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strangeloop
 strava
 streak
 stream
@@ -11081,6 +11026,7 @@ timeseriesinsights
 timesheet
 timesheets
 timespan
+timestamp
 timezone
 tinkerpop
 tinymce
@@ -11271,6 +11217,7 @@ typeextension
 types
 types.ps1xml
 typescript
+typing
 tzutil
 uac
 uag
@@ -11829,7 +11776,6 @@ well-known
 wem
 wemsdk
 wer
-wfp
 wget
 what3words
 whatif
