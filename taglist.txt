@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 02 January 2026 21:52:13 UTC
+Updated: Saturday, 03 January 2026 09:52:30 UTC
 
 .bat
 .env
@@ -288,6 +288,7 @@ aiautomation
 aicontext
 aid
 aidataplatform
+aider
 aidocument
 aiintegration
 ailanguage
@@ -461,6 +462,7 @@ appdeploytoolkit
 appdynamics
 appearance
 appender
+appexecutionalias
 appian
 appinsights
 applayering
@@ -1324,7 +1326,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1498,7 +1499,6 @@ cmtrace
 cmwt
 cnc
 cns
-co-writer
 coa
 cockroachdb
 codaamok
@@ -1653,7 +1653,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2837,6 +2836,7 @@ exec
 executable
 executables
 execute
+executionalias
 exexml
 exif
 exiftool
@@ -3680,6 +3680,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -3926,6 +3927,7 @@ ini
 inifile
 initialization
 initials-avatar
+initiative
 initiator
 injection
 injector
@@ -4149,6 +4151,7 @@ jmsjavadownloads
 jmsutils
 jnet
 jnetps
+joat
 job
 jobcan
 jobs
@@ -4531,7 +4534,6 @@ loggingingestion
 loggingsearch
 loggly
 logic
-logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -9301,7 +9303,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pull
@@ -9339,7 +9340,6 @@ pwsafe
 pwsh
 pwsh-module
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pwshspectreconsole
@@ -9418,7 +9418,6 @@ radeon
 radio
 rag
 raidcontrollercmdlets
-railways
 rainbow
 raindrop
 raindrop.io
@@ -9631,6 +9630,7 @@ render
 reonboarding
 repair
 repair-msauth
+reparse
 reparsepoint
 repeat
 repl
@@ -10067,6 +10067,7 @@ securitytxt
 sed
 seed
 seek
+seekatar
 seeshell
 select
 select-item
@@ -10426,6 +10427,7 @@ sophos
 sort
 sort-json
 sorting
+sound
 sounds
 source
 source-dedicated-server
@@ -10664,6 +10666,7 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storageaccount
@@ -10678,7 +10681,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strangeloop
 strava
 streak
 stream
@@ -11079,7 +11081,6 @@ timeseriesinsights
 timesheet
 timesheets
 timespan
-timestamp
 timezone
 tinkerpop
 tinymce
@@ -11118,6 +11119,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 tooling
 toolkit
 toolmaking
@@ -11269,7 +11271,6 @@ typeextension
 types
 types.ps1xml
 typescript
-typing
 tzutil
 uac
 uag
@@ -11304,6 +11305,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -12073,7 +12075,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writing
 ws-federation
 wsapi
 wsb
