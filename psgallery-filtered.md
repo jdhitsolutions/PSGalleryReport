@@ -3,13 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PowerCrate](https://www.powershellgallery.com/Packages/PowerCrate/0.1.0) | 0.1.0
+## [PowerCrate](https://www.powershellgallery.com/Packages/PowerCrate/0.2.0) | 0.2.0
 
-### Published: 01/03/2026 21:09:40 by pasta0126
+### Published: 01/04/2026 08:27:13 by pasta0126
 
 A lightweight PowerShell toolbox for developers and power users.
 
 __Downloads__: 0 | __Repository__: https://github.com/pasta0126/PowerCrate
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.90) | 1.0.21.90
+
+### Published: 01/04/2026 06:24:45 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,847 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.8.70) | 0.8.70
+
+### Published: 01/04/2026 03:39:50 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 3,059 | __Repository__: 
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.23.0) | 0.23.0
+
+### Published: 01/04/2026 03:14:27 by DEVDEER
+
+This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 3,840 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
+
+## [PDS](https://www.powershellgallery.com/Packages/PDS/0.9.0) | 0.9.0
+
+### Published: 01/04/2026 02:37:58 by itmvha
+
+Personal Deploy Script
+
+__Downloads__: 833 | __Repository__: 
+
+## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.19) | 0.2.19
+
+### Published: 01/04/2026 01:05:38 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+
+__Downloads__: 59,956 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+
+## [Diagrammer.Core](https://www.powershellgallery.com/Packages/Diagrammer.Core/0.2.36) | 0.2.36
+
+### Published: 01/04/2026 01:02:46 by Jonathan Colon
+
+A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
+
+__Downloads__: 91,423 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+
+## [Set-ClipboardFile](https://www.powershellgallery.com/Packages/Set-ClipboardFile/1.0.1) | 1.0.1
+
+### Published: 01/03/2026 23:10:22 by Atef
+
+Sets actual files to the Windows clipboard (FileDropList) for pasting into Explorer, emails, or other apps. Unlike Set-Clipboard, this handles the files themselves, not just their text paths.
+
+__Downloads__: 0 | __Repository__: https://github.com/santarl/pwsh-modules
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.161.2) | 1.161.2
+
+### Published: 01/03/2026 22:25:23 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 28,334 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
 
 ## [PowerNetbox](https://www.powershellgallery.com/Packages/PowerNetbox/4.4.9.3) | 4.4.9.3
 
@@ -25,7 +89,7 @@ __Downloads__: 47 | __Repository__: https://github.com/ctrl-alt-automate/PowerNe
 
 My private collection of PowerShell tools.
 
-__Downloads__: 14 | __Repository__: https://github.com/supersej/Dark-Tools
+__Downloads__: 16 | __Repository__: https://github.com/supersej/Dark-Tools
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.41.0) | 0.0.41.0
 
@@ -51,22 +115,6 @@ Tree-sitter AST parsing and analysis via PowerShell. Native C# implementation wi
 
 __Downloads__: 23 | __Repository__: https://github.com/jackyHardDisk/loraxMod
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.89) | 1.0.21.89
-
-### Published: 01/03/2026 06:31:59 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,847 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.8.61) | 0.8.61
-
-### Published: 01/03/2026 05:02:02 by David McVicker
-
-Integris Deployment Tool
-
-__Downloads__: 3,059 | __Repository__: 
-
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.2.8) | 0.2.8
 
 ### Published: 01/03/2026 04:49:06 by Jorgeasaurus
@@ -85,7 +133,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 89,486 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 89,485 | __Repository__: https://pscompletions.abgox.com/
 
 ## [AzRetirementMonitor](https://www.powershellgallery.com/Packages/AzRetirementMonitor/1.1.0) | 1.1.0
 
@@ -118,14 +166,6 @@ __Downloads__: 37,093 | __Repository__: https://github.com/mdgrs-mei/PowerShellR
 A production-ready PowerShell script module template designed to streamline the creation, testing, and delivery of PowerShell modules.
 
 __Downloads__: 71 | __Repository__: https://github.com/warehousefinds/PSScriptModule
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.161.1) | 1.161.1
-
-### Published: 01/02/2026 21:23:40 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 28,334 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
 
 ## [OneNoteAutomation](https://www.powershellgallery.com/Packages/OneNoteAutomation/1.0.2) | 1.0.2
 
@@ -239,7 +279,7 @@ __Downloads__: 11 | __Repository__: https://github.com/yotsuda/ScreenRecorder
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,994,289 | __Repository__: https://dbatools.io/
+__Downloads__: 7,994,334 | __Repository__: https://dbatools.io/
 
 ## [Ask-GPT](https://www.powershellgallery.com/Packages/Ask-GPT/1.0.9) | 1.0.9
 
@@ -382,14 +422,6 @@ PERFECT FOR
 
 __Downloads__: 323 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
 
-## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.1.1) | 2026.1.1
-
-### Published: 01/01/2026 15:05:42 by Jake Hildreth
-
-An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
-
-__Downloads__: 9 | __Repository__: https://github.com/jakehildreth/Locksmith2
-
 ## [ModernMailTools](https://www.powershellgallery.com/Packages/ModernMailTools/0.1.8) | 0.1.8
 
 ### Published: 01/01/2026 15:00:00 by Stefan Wey
@@ -404,7 +436,7 @@ __Downloads__: 203 | __Repository__: https://exchangepermissions.alweys.ch/moder
 
 A simple micro-ORM, based on ADO.NET and data annotations.
 
-__Downloads__: 224 | __Repository__: https://github.com/cedx/sql.net
+__Downloads__: 225 | __Repository__: https://github.com/cedx/sql.net
 
 ## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.42) | 1.0.42
 
@@ -510,14 +542,6 @@ Scripts related to Azure Storage
 
 __Downloads__: 2,325 | __Repository__: https://scripting.arcus-azure.net/
 
-## [Arcus.Scripting.Sql](https://www.powershellgallery.com/Packages/Arcus.Scripting.Sql/1.6.0) | 1.6.0
-
-### Published: 12/31/2025 08:17:52 by Arcus
-
-Scripts related to Azure SQL Database Migrations
-
-__Downloads__: 10,214 | __Repository__: https://scripting.arcus-azure.net/
-
 ## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.6.0) | 1.6.0
 
 ### Published: 12/31/2025 08:17:52 by Arcus
@@ -525,6 +549,14 @@ __Downloads__: 10,214 | __Repository__: https://scripting.arcus-azure.net/
 Scripts related to Azure security
 
 __Downloads__: 20,666 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Sql](https://www.powershellgallery.com/Packages/Arcus.Scripting.Sql/1.6.0) | 1.6.0
+
+### Published: 12/31/2025 08:17:52 by Arcus
+
+Scripts related to Azure SQL Database Migrations
+
+__Downloads__: 10,214 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.6.0) | 1.6.0
 
@@ -677,7 +709,7 @@ __Downloads__: 97 | __Repository__: https://github.com/tablackburn/ScheduledTask
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,903,373 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,903,416 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.23.0) | 0.23.0
 
@@ -958,7 +990,7 @@ __Downloads__: 71,221 | __Repository__: https://github.com/dsccommunity/DscResou
 
 EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
 
-__Downloads__: 66,975 | __Repository__: https://kayasax.github.io/EasyPIM/
+__Downloads__: 66,976 | __Repository__: https://kayasax.github.io/EasyPIM/
 
 ## [SlnLauncher](https://www.powershellgallery.com/Packages/SlnLauncher/0.1.0) | 0.1.0
 
@@ -1014,7 +1046,7 @@ __Downloads__: 4 | __Repository__: https://github.com/EvotecIT/FileInspectorX
 
 Client for the Windmill platform.
 
-__Downloads__: 13,190 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 13,191 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [DevDirManager](https://www.powershellgallery.com/Packages/DevDirManager/1.4.2) | 1.4.2
 
@@ -1080,7 +1112,7 @@ __Downloads__: 3,376 | __Repository__: https://github.com/karamem0/sp-client-cor
 
 This module will help to validate only Azure Active Directory access tokens.
 
-__Downloads__: 326 | __Repository__: 
+__Downloads__: 329 | __Repository__: 
 
 ## [NativeCommandCompleter.psm](https://www.powershellgallery.com/Packages/NativeCommandCompleter.psm/0.0.1) | 0.0.1
 
@@ -1105,6 +1137,14 @@ __Downloads__: 40 | __Repository__: https://github.com/thomastysong/IntuneToFlee
 Enables AI assistants (such as Claude Desktop) to execute PowerShell commands and CLI tools within a persistent PowerShell console. Supports Windows, Linux, and macOS.
 
 __Downloads__: 722 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+
+## [PowerShellAstSearch](https://www.powershellgallery.com/Packages/PowerShellAstSearch/0.1.4) | 0.1.4
+
+### Published: 12/25/2025 01:02:38 by Doug Finke
+
+Search PowerShell files fast for function definitions, params, variables, using AST.
+
+__Downloads__: 43 | __Repository__: https://github.com/dfinke/PowerShellAstSearch
 
 ## [PsPatchMyPC](https://www.powershellgallery.com/Packages/PsPatchMyPC/1.1.8) | 1.1.8
 
@@ -1563,7 +1603,7 @@ __Downloads__: 317 | __Repository__: https://github.com/lekker-solutions/acumati
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 470,236 | __Repository__: https://devolutions.net/
+__Downloads__: 470,240 | __Repository__: https://devolutions.net/
 
 ## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.12) | 1.0.12
 
@@ -2077,44 +2117,4 @@ This modules provides Cmdlets for OCI Ocicontrolcenter Service
 
 __Downloads__: 8,973 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:37:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oce Service
-
-__Downloads__: 13,269 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:37:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Objectstorage Service
-
-__Downloads__: 23,897 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:37:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Nosql Service
-
-__Downloads__: 15,631 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkloadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkloadbalancer/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:37:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkloadbalancer Service
-
-__Downloads__: 13,013 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkfirewall](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkfirewall/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:36:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkfirewall Service
-
-__Downloads__: 10,752 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 03 January 2026 21:52:00 UTC*
+*Updated: Sunday, 04 January 2026 09:52:02 UTC*
