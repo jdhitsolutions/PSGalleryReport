@@ -3,6 +3,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSSemanticRelease](https://www.powershellgallery.com/Packages/PSSemanticRelease/1.1.1) | 1.1.1
+
+### Published: 01/06/2026 21:39:58 by rhahao
+
+A PowerShell module for automated release using semantic versioning
+
+__Downloads__: 1 | __Repository__: 
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2026.1.394) | 2026.1.394
+
+### Published: 01/06/2026 21:31:25 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 925 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [CWJMPIP](https://www.powershellgallery.com/Packages/CWJMPIP/0.0.30) | 0.0.30
+
+### Published: 01/06/2026 20:46:40 by Charles W. Jones
+
+PowerShell cmdlet to extract label information from files (maybe more later)
+
+__Downloads__: 0 | __Repository__: https://github.com/charleswj/CWJMPIP
+
+## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.1.6.1515) | 2026.1.6.1515
+
+### Published: 01/06/2026 20:16:36 by Jake Hildreth
+
+An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
+
+__Downloads__: 13 | __Repository__: https://github.com/jakehildreth/Locksmith2
+
+## [PowerShellUniversal.Apps.HerdManager](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.HerdManager/2.0.0) | 2.0.0
+
+### Published: 01/06/2026 19:05:13 by Stephen Valdinger
+
+PowerShell Universal dashboard application for cattle herd management, including weight tracking, rate of gain calculations, health records, feed records with dynamic recipe management, and invoicing capabilities.
+
+__Downloads__: 10 | __Repository__: https://github.com/steviecoaster/PowerShellUniversal.Apps.HerdMgr
+
+## [Fortytwo.ByttEmail.Installation](https://www.powershellgallery.com/Packages/Fortytwo.ByttEmail.Installation/0.5.0) | 0.5.0
+
+### Published: 01/06/2026 18:40:27 by Marius Solbakken Mellum
+
+A module for installing Bytt.Email
+
+__Downloads__: 43 | __Repository__: 
+
+## [DriverManagement](https://www.powershellgallery.com/Packages/DriverManagement/1.5.8) | 1.5.8
+
+### Published: 01/06/2026 17:26:37 by Thomas Tyson
+
+Enterprise driver and Windows update management for Dell, Lenovo, and Intel endpoints. Supports individual driver updates, full pack reinstalls, Windows cumulative updates, update blocking/approval workflows, driver rollback, and offline catalog support.
+
+__Downloads__: 494 | __Repository__: https://github.com/thomastysong/PSDriverManagement
+
+## [ProxmoxPVE](https://www.powershellgallery.com/Packages/ProxmoxPVE/9.1.2) | 9.1.2
+
+### Published: 01/06/2026 17:13:21 by Timo Wolf
+
+ProxmoxPVE - the PowerShell module for Proxmox VE
+
+__Downloads__: 173 | __Repository__: https://github.com/EldoBam/pve-powershell-module
+
+## [Nexthink-vSphere-Connector](https://www.powershellgallery.com/Packages/Nexthink-vSphere-Connector/0.0.2) | 0.0.2
+
+### Published: 01/06/2026 15:29:08 by Nexthink
+
+Nexthink vSphere Hypervisor Connector Module for PowerShell
+
+__Downloads__: 8 | __Repository__: 
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.24.1) | 0.24.1
+
+### Published: 01/06/2026 13:48:46 by DEVDEER
+
+This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 3,856 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
+
+## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.16.0) | 1.16.0
+
+### Published: 01/06/2026 11:12:31 by Fortytwo
+
+Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
+
+__Downloads__: 41 | __Repository__: 
+
 ## [OpenCloud](https://www.powershellgallery.com/Packages/OpenCloud/1.0.0) | 1.0.0
 
 ### Published: 01/06/2026 06:44:38 by Lazuardi
@@ -41,7 +129,7 @@ __Downloads__: 132,105 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Security Operations and Investigations
 
-__Downloads__: 6,695 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 6,694 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.72) | 2.22.0.72
 
@@ -105,7 +193,7 @@ __Downloads__: 127,140 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 File Management Functions
 
-__Downloads__: 159,699 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 159,698 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.101) | 4.17.0.101
 
@@ -113,7 +201,7 @@ __Downloads__: 159,699 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 232,154 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 232,155 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.101) | 1.10.0.101
 
@@ -121,7 +209,7 @@ __Downloads__: 232,154 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 191,655 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 191,656 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.28) | 4.15.1.28
 
@@ -129,7 +217,7 @@ __Downloads__: 191,655 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for management of endpoints
 
-__Downloads__: 179,842 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 179,841 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.63) | 1.12.0.63
 
@@ -137,15 +225,7 @@ __Downloads__: 179,842 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 197,048 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [PowerShellUniversal.Apps.HerdManager](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.HerdManager/1.2.0) | 1.2.0
-
-### Published: 01/06/2026 01:51:10 by Stephen Valdinger
-
-PowerShell Universal dashboard application for cattle herd management, including weight tracking, rate of gain calculations, health records, feed records with dynamic recipe management, and invoicing capabilities.
-
-__Downloads__: 10 | __Repository__: https://github.com/steviecoaster/PowerShellUniversal.Apps.HerdMgr
+__Downloads__: 197,049 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Convert-DockerInspectToCompose](https://www.powershellgallery.com/Packages/Convert-DockerInspectToCompose/1.0.1) | 1.0.1
 
@@ -169,7 +249,7 @@ __Downloads__: 2 | __Repository__:
 
 Integris Deployment Tool
 
-__Downloads__: 3,380 | __Repository__: 
+__Downloads__: 3,377 | __Repository__: 
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.161.4) | 1.161.4
 
@@ -193,7 +273,7 @@ __Downloads__: 2 | __Repository__: https://github.com/StartAutomating/Organize
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 594,860 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 594,858 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.8.1) | 6.8.1
 
@@ -267,14 +347,6 @@ Cmdlets to provide and manage SQL servers for tests.
 
 __Downloads__: 20,202 | __Repository__: https://github.com/abbgrade/PsSqlTestServer
 
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.23.2) | 0.23.2
-
-### Published: 01/05/2026 12:49:18 by DEVDEER
-
-This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 3,856 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
-
 ## [DevDirManager](https://www.powershellgallery.com/Packages/DevDirManager/1.5.1) | 1.5.1
 
 ### Published: 01/05/2026 12:37:57 by Andi Bellstedt
@@ -345,7 +417,7 @@ __Downloads__: 66 | __Repository__: https://github.com/MSCloudInternals/XDRInter
 
 Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
 
-__Downloads__: 309 | __Repository__: https://intunehydrationkit.com/
+__Downloads__: 308 | __Repository__: https://intunehydrationkit.com/
 
 ## [Shape](https://www.powershellgallery.com/Packages/Shape/0.1) | 0.1
 
@@ -369,7 +441,7 @@ __Downloads__: 867 | __Repository__:
 
 Dataverse data manipulation cmdlets
 
-__Downloads__: 11,181 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+__Downloads__: 11,180 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
 
 ## [Lcov](https://www.powershellgallery.com/Packages/Lcov/2.3.0) | 2.3.0
 
@@ -386,14 +458,6 @@ __Downloads__: 28 | __Repository__: https://github.com/cedx/lcov.net
 A small tool to find and fix common misconfigurations in Active Directory Certificate Services.
 
 __Downloads__: 15,491 | __Repository__: https://github.com/jakehildreth/Locksmith
-
-## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.1.4.1152) | 2026.1.4.1152
-
-### Published: 01/04/2026 16:53:02 by Jake Hildreth
-
-An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
-
-__Downloads__: 13 | __Repository__: https://github.com/jakehildreth/Locksmith2
 
 ## [Gucu112.Powershell.Utility](https://www.powershellgallery.com/Packages/Gucu112.Powershell.Utility/0.1.2601.40) | 0.1.2601.40
 
@@ -493,7 +557,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 89,786 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 89,787 | __Repository__: https://pscompletions.abgox.com/
 
 ## [PSScriptModule](https://www.powershellgallery.com/Packages/PSScriptModule/0.12.2) | 0.12.2
 
@@ -527,7 +591,7 @@ __Downloads__: 30 | __Repository__: https://github.com/walliba/PSUserContext
 
 PowerShell DHCP Client module
 
-__Downloads__: 6,273 | __Repository__: https://github.com/mkht/DHCPClient-PS
+__Downloads__: 6,274 | __Repository__: https://github.com/mkht/DHCPClient-PS
 
 ## [swiftLogger](https://www.powershellgallery.com/Packages/swiftLogger/1.0.0.5) | 1.0.0.5
 
@@ -559,7 +623,7 @@ __Downloads__: 278 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
 PowerShell DSC Resource to Install / Uninstall Windows Desktop Applications.
 
-__Downloads__: 23,232 | __Repository__: https://github.com/mkht/DSCR_Application
+__Downloads__: 23,230 | __Repository__: https://github.com/mkht/DSCR_Application
 
 ## [slmgr-ps](https://www.powershellgallery.com/Packages/slmgr-ps/0.4.0) | 0.4.0
 
@@ -972,7 +1036,7 @@ __Downloads__: 26 | __Repository__: https://github.com/dkattan/GitSplit
 
 Windows PowerShell module to interact with Atlassian JIRA
 
-__Downloads__: 2,617,804 | __Repository__: https://atlassianps.org/module/JiraPS
+__Downloads__: 2,617,803 | __Repository__: https://atlassianps.org/module/JiraPS
 
 ## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/1.6.2) | 1.6.2
 
@@ -1029,7 +1093,7 @@ __Downloads__: 97 | __Repository__: https://github.com/tablackburn/ScheduledTask
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,915,182 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,915,121 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.23.0) | 0.23.0
 
@@ -1101,7 +1165,7 @@ __Downloads__: 9 | __Repository__:
 
 Common execution and self elevation
 
-__Downloads__: 104,052 | __Repository__: 
+__Downloads__: 104,050 | __Repository__: 
 
 ## [Convert-Etl2Pcapng](https://www.powershellgallery.com/Packages/Convert-Etl2Pcapng/2025.12.3) | 2025.12.3
 
@@ -1182,7 +1246,7 @@ __Downloads__: 5 | __Repository__:
 
 This module contains common classes that can be used for class-based DSC resources development.
 
-__Downloads__: 71,747 | __Repository__: https://github.com/dsccommunity/DscResource.Base
+__Downloads__: 71,746 | __Repository__: https://github.com/dsccommunity/DscResource.Base
 
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/2.2.1) | 2.2.1
 
@@ -1273,14 +1337,6 @@ __Downloads__: 3,264 | __Repository__: https://github.com/steve02081504/fount-pw
 A PowerShell port of the Python Rich library.
 
 __Downloads__: 6 | __Repository__: https://github.com/dfinke/PowerShellRich
-
-## [DriverManagement](https://www.powershellgallery.com/Packages/DriverManagement/1.5.7) | 1.5.7
-
-### Published: 12/26/2025 18:14:30 by Thomas Tyson
-
-Enterprise driver and Windows update management for Dell, Lenovo, and Intel endpoints. Supports individual driver updates, full pack reinstalls, Windows cumulative updates, update blocking/approval workflows, driver rollback, and offline catalog support.
-
-__Downloads__: 494 | __Repository__: https://github.com/thomastysong/PSDriverManagement
 
 ## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.43) | 1.0.43
 
@@ -1430,14 +1486,6 @@ Hook Win32 APIs in PowerShell.`nSee https://github.com/jborean93/PSDetour for mo
 
 __Downloads__: 1,440 | __Repository__: https://github.com/jborean93/PSDetour
 
-## [Nexthink-vSphere-Connector](https://www.powershellgallery.com/Packages/Nexthink-vSphere-Connector/0.0.1) | 0.0.1
-
-### Published: 12/23/2025 11:13:10 by Nexthink
-
-Nexthink vSphere Hypervisor Connector Module for PowerShell
-
-__Downloads__: 8 | __Repository__: 
-
 ## [PSPhlebotomist](https://www.powershellgallery.com/Packages/PSPhlebotomist/2025.12.23.508) | 2025.12.23.508
 
 ### Published: 12/23/2025 10:17:18 by Christopher Conley
@@ -1524,7 +1572,7 @@ __Downloads__: 1,729 | __Repository__: https://github.com/daoradmin/Az.RuntimeEn
 
 MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
 
-__Downloads__: 22,335 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+__Downloads__: 22,334 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
 
 ## [FastPing](https://www.powershellgallery.com/Packages/FastPing/0.7.0) | 0.7.0
 
@@ -1571,7 +1619,7 @@ __Downloads__: 1,072 | __Repository__: https://github.com/Skatterbrainz/helium
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20251215-36 .
 
-__Downloads__: 88,955 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 88,956 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [LeastPrivilegedMSGraph](https://www.powershellgallery.com/Packages/LeastPrivilegedMSGraph/1.1.0) | 1.1.0
 
@@ -1651,7 +1699,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Krinopotam/PsBundler
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 84,945 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 84,952 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.5.1.0) | 1.5.1.0
 
@@ -1779,7 +1827,7 @@ __Downloads__: 317 | __Repository__: https://github.com/lekker-solutions/acumati
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 471,050 | __Repository__: https://devolutions.net/
+__Downloads__: 471,044 | __Repository__: https://devolutions.net/
 
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.7) | 2.4.7
 
@@ -1828,7 +1876,7 @@ This is improved version of the official EntraExporter module.
 - there are new backup options (like "IAM", "AccessPolicies", ...)
 - and fixes (like "PIM" data export).
 
-__Downloads__: 2,327 | __Repository__: https://github.com/ztrhgf/EntraExporterFast
+__Downloads__: 2,328 | __Repository__: https://github.com/ztrhgf/EntraExporterFast
 
 ## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.3.0) | 1.3.0
 
@@ -1995,7 +2043,7 @@ __Downloads__: 14,302 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Usageapi Service
 
-__Downloads__: 16,513 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 16,511 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/120.2.0) | 120.2.0
 
@@ -2069,52 +2117,4 @@ This modules provides Cmdlets for OCI Secrets Service
 
 __Downloads__: 14,493 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:41:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Sch Service
-
-__Downloads__: 13,106 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:41:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Rover Service
-
-__Downloads__: 12,875 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcesearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcesearch/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:40:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcesearch Service
-
-__Downloads__: 13,796 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcescheduler](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcescheduler/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:40:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcescheduler Service
-
-__Downloads__: 5,706 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:40:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcemanager Service
-
-__Downloads__: 13,197 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourceanalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourceanalytics/120.2.0) | 120.2.0
-
-### Published: 12/17/2025 00:40:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourceanalytics Service
-
-__Downloads__: 571 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 06 January 2026 09:54:10 UTC*
+*Updated: Tuesday, 06 January 2026 21:52:55 UTC*

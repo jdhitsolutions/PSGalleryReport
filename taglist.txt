@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 January 2026 09:54:20 UTC
+Updated: Tuesday, 06 January 2026 21:53:04 UTC
 
 .bat
 .env
@@ -945,6 +945,7 @@ beckhoff
 bedrock
 beep
 beer
+behavior
 behavioralanalytics
 benchmark
 benchmarking
@@ -1234,6 +1235,7 @@ cd+
 cdable_vars
 cdata
 cdb
+cdi
 cdm
 cdn
 cdp
@@ -1287,6 +1289,7 @@ chart
 charting
 charts
 chat
+chatanalysis
 chatbot
 chatgpt
 chatops
@@ -1511,7 +1514,6 @@ codebeamer
 codebuild
 codebundler
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1776,6 +1778,7 @@ core
 coreposh
 coreutils
 corona
+correlation
 cortex
 cos
 cosmos
@@ -2933,6 +2936,7 @@ fasttrack
 fat32
 favorite
 favorites
+favouritedirectory
 fb-pro
 fciv
 fd
@@ -3410,7 +3414,6 @@ golf
 google
 google-chrome
 google-fonts
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3615,6 +3618,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -5117,7 +5121,6 @@ mwsqlserver
 mx
 mxlookup
 mycloudrevolution
-mycorp
 myget
 myhub
 myip
@@ -6282,6 +6285,7 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
+proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -10009,6 +10013,7 @@ searchmanager
 searchplace
 searchquery
 searchscript
+searchstring
 searchsuffixlist
 secaas
 secedit
@@ -10645,7 +10650,6 @@ steam
 steam-games
 steamcmd
 stenography
-stepmanager
 stepper
 steps
 sticker
@@ -11120,6 +11124,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 tooling
 toolkit
 toolmaking
