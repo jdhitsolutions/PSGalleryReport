@@ -9,7 +9,7 @@ These are the most popular 250 modules based on total download count for modules
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 1,826,572,468 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 1,826,580,511 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.19) | 1.0.19
 
@@ -17,7 +17,7 @@ __Downloads__: 1,826,572,468 | __Repository__: https://github.com/mgajda83/PSWin
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 521,720,595 | __Repository__: 
+__Downloads__: 521,720,597 | __Repository__: 
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -26,7 +26,7 @@ __Downloads__: 521,720,595 | __Repository__:
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 188,490,723 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 188,493,404 | __Repository__: https://github.com/jborean93/PSPrivilege
 
 ## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
 
@@ -34,7 +34,7 @@ __Downloads__: 188,490,723 | __Repository__: https://github.com/jborean93/PSPriv
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 151,808,529 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 151,809,233 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.12) | 0.4.12
 
@@ -42,7 +42,7 @@ __Downloads__: 151,808,529 | __Repository__: https://github.com/KelvinTegelaar/R
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 146,050,272 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 146,051,362 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.13) | 0.0.13
 
@@ -205,7 +205,7 @@ __Downloads__: 34,869,906 | __Repository__: https://github.com/Pester/Pester
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 33,241,789 | __Repository__: 
+__Downloads__: 33,241,689 | __Repository__: 
 
 ## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/1.1.0) | 1.1.0
 
@@ -213,7 +213,7 @@ __Downloads__: 33,241,789 | __Repository__:
 
 Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 
-__Downloads__: 30,647,286 | __Repository__: https://github.com/Windos/BurntToast
+__Downloads__: 30,647,145 | __Repository__: https://github.com/Windos/BurntToast
 
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.4.0.24798382) | 13.4.0.24798382
 
@@ -221,7 +221,7 @@ __Downloads__: 30,647,286 | __Repository__: https://github.com/Windos/BurntToast
 
 This PowerShell module contains PowerCLI Sdk.
 
-__Downloads__: 29,446,019 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 29,445,959 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1270,7 +1270,7 @@ __Downloads__: 5,482,966 | __Repository__: https://developer.broadcom.com/powerc
 Module to install and manage the forked WSMan client libraries for Linux and macOS.
 See https://github.com/jborean93/omi for more details.
 
-__Downloads__: 5,208,343 | __Repository__: https://github.com/jborean93/omi
+__Downloads__: 5,208,347 | __Repository__: https://github.com/jborean93/omi
 
 ## [spec.module.loader](https://www.powershellgallery.com/Packages/spec.module.loader/1.0.6) | 1.0.6
 
@@ -1278,7 +1278,7 @@ __Downloads__: 5,208,343 | __Repository__: https://github.com/jborean93/omi
 
 A module to help installing and importing modules
 
-__Downloads__: 4,884,888 | __Repository__: 
+__Downloads__: 4,884,990 | __Repository__: 
 
 ## [0install](https://www.powershellgallery.com/Packages/0install/2.25.12) | 2.25.12
 
@@ -1294,7 +1294,7 @@ __Downloads__: 4,828,275 | __Repository__: https://0install.net/
 
 Get NTP Time from a specified NTP Server
 
-__Downloads__: 4,748,923 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
+__Downloads__: 4,748,924 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
 
 ## [localaccount](https://www.powershellgallery.com/Packages/localaccount/1.6) | 1.6
 
@@ -1318,7 +1318,7 @@ __Downloads__: 4,690,681 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
 
-__Downloads__: 4,561,601 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 4,561,610 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1326,7 +1326,7 @@ __Downloads__: 4,561,601 | __Repository__: https://developer.broadcom.com/powerc
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder API.
 
-__Downloads__: 4,559,430 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 4,559,440 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.9.2) | 2.9.2
 
@@ -1349,7 +1349,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 4,522,723 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 4,522,727 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [CosmosDB](https://www.powershellgallery.com/Packages/CosmosDB/6.1.0) | 6.1.0
 
@@ -1357,7 +1357,7 @@ __Downloads__: 4,522,723 | __Repository__: https://github.com/PSBicep/PSBicep
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 4,396,328 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 4,396,369 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [psyml](https://www.powershellgallery.com/Packages/psyml/1.0.0) | 1.0.0
 
@@ -1365,7 +1365,7 @@ __Downloads__: 4,396,328 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 YAML PowerShell module
 
-__Downloads__: 4,367,288 | __Repository__: https://github.com/bitrut94/psyml
+__Downloads__: 4,367,308 | __Repository__: https://github.com/bitrut94/psyml
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.28) | 2025.12.28
 
@@ -1373,7 +1373,7 @@ __Downloads__: 4,367,288 | __Repository__: https://github.com/bitrut94/psyml
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,332,788 | __Repository__: https://dbatools.io/
+__Downloads__: 4,332,845 | __Repository__: https://dbatools.io/
 
 ## [WingetTools](https://www.powershellgallery.com/Packages/WingetTools/1.7.0) | 1.7.0
 
@@ -1381,7 +1381,7 @@ __Downloads__: 4,332,788 | __Repository__: https://dbatools.io/
 
 A set of PowerShell tools for working with the winget package manager.
 
-__Downloads__: 4,184,374 | __Repository__: https://github.com/jdhitsolutions/WingetTools
+__Downloads__: 4,184,393 | __Repository__: https://github.com/jdhitsolutions/WingetTools
 
 ## [MSI](https://www.powershellgallery.com/Packages/MSI/3.3.4) | 3.3.4
 
@@ -1389,7 +1389,7 @@ __Downloads__: 4,184,374 | __Repository__: https://github.com/jdhitsolutions/Win
 
 Exposes Windows Installer functionality to Windows PowerShell
 
-__Downloads__: 3,975,174 | __Repository__: https://github.com/heaths/psmsi
+__Downloads__: 3,975,179 | __Repository__: https://github.com/heaths/psmsi
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.1.10) | 6.1.10
 
@@ -1397,7 +1397,7 @@ __Downloads__: 3,975,174 | __Repository__: https://github.com/heaths/psmsi
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 3,962,042 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 3,962,047 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [PowerHTML](https://www.powershellgallery.com/Packages/PowerHTML/0.2.0) | 0.2.0
 
@@ -1405,7 +1405,7 @@ __Downloads__: 3,962,042 | __Repository__: https://github.com/microsoft/navconta
 
 Provides a wrapper for HTML Agility Pack for use where the IE HTML DOM from Invoke-WebRequest is not available such as Powershell Core
 
-__Downloads__: 3,960,684 | __Repository__: https://github.com/JustinGrote/PowerHTML
+__Downloads__: 3,960,759 | __Repository__: https://github.com/JustinGrote/PowerHTML
 
 ## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/0.1.13) | 0.1.13
 
@@ -1413,7 +1413,7 @@ __Downloads__: 3,960,684 | __Repository__: https://github.com/JustinGrote/PowerH
 
 PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 
-__Downloads__: 3,794,102 | __Repository__: https://github.com/EvotecIT/PSPGP
+__Downloads__: 3,794,104 | __Repository__: https://github.com/EvotecIT/PSPGP
 
 ## [HPWarranty](https://www.powershellgallery.com/Packages/HPWarranty/2.6.2) | 2.6.2
 
@@ -1429,7 +1429,7 @@ __Downloads__: 3,692,148 | __Repository__: http://dotps1.github.io/HPWarranty
 
 PowerShell cmdlets for the Google Cloud Platform.
 
-__Downloads__: 3,656,878 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
+__Downloads__: 3,656,900 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
@@ -1437,7 +1437,7 @@ __Downloads__: 3,656,878 | __Repository__: https://github.com/GoogleCloudPlatfor
 
 Allows for an image to be dynamically set as the lockscreen image based off of the resolution of the primary monitor.
 
-__Downloads__: 3,616,973 | __Repository__: 
+__Downloads__: 3,616,972 | __Repository__: 
 
 ## [PSFolderSize](https://www.powershellgallery.com/Packages/PSFolderSize/1.7.1) | 1.7.1
 
@@ -1445,7 +1445,7 @@ __Downloads__: 3,616,973 | __Repository__:
 
 This module enables you to gather folder size information, and output the results easily in various ways. GitHub Repo: https://github.com/gngrninja/PSFolderSize
 
-__Downloads__: 3,575,898 | __Repository__: https://github.com/gngrninja/PSFolderSize/
+__Downloads__: 3,575,889 | __Repository__: https://github.com/gngrninja/PSFolderSize/
 
 ## [Pode](https://www.powershellgallery.com/Packages/Pode/2.12.1) | 2.12.1
 
@@ -1469,7 +1469,7 @@ __Downloads__: 3,419,945 | __Repository__: https://github.com/masters274/core
 
 Set, change BIOS settings on local or remote computer (one or multiple). Works for Lenovo, Dell, HP
 
-__Downloads__: 3,304,545 | __Repository__: http://www.systanddeploy.com/2019/02/psgallery-change-bios-settings-from.html
+__Downloads__: 3,304,516 | __Repository__: http://www.systanddeploy.com/2019/02/psgallery-change-bios-settings-from.html
 
 ## [Cobalt](https://www.powershellgallery.com/Packages/Cobalt/0.4.0) | 0.4.0
 
@@ -1477,7 +1477,7 @@ __Downloads__: 3,304,545 | __Repository__: http://www.systanddeploy.com/2019/02/
 
 A PowerShell Crescendo wrapper for WinGet
 
-__Downloads__: 3,234,588 | __Repository__: https://github.com/ethanbergstrom/Cobalt
+__Downloads__: 3,234,587 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
 ## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.30.1) | 4.30.1
 
@@ -1485,7 +1485,7 @@ __Downloads__: 3,234,588 | __Repository__: https://github.com/ethanbergstrom/Cob
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,207,765 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,207,758 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [DisplaySettings](https://www.powershellgallery.com/Packages/DisplaySettings/0.0.2) | 0.0.2
 
@@ -1493,7 +1493,7 @@ __Downloads__: 3,207,765 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 get/set display resolution info on windows
 
-__Downloads__: 3,162,657 | __Repository__: https://github.com/lust4life/display-resolution
+__Downloads__: 3,162,652 | __Repository__: https://github.com/lust4life/display-resolution
 
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.1.0.96) | 2.1.0.96
 
@@ -1509,7 +1509,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 3,120,469 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 3,120,431 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.7.5) | 7.7.5
 
@@ -1525,7 +1525,7 @@ __Downloads__: 3,090,459 | __Repository__: https://github.com/logicmonitor/lm-po
 
 SNMP Functions for Get and Walk both pipeline aware
 
-__Downloads__: 3,069,873 | __Repository__: http://www.proxx.nl/Module/SNMP/
+__Downloads__: 3,069,871 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
 ## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.8.5) | 1.8.5
 
@@ -1541,7 +1541,7 @@ __Downloads__: 3,049,818 | __Repository__: https://github.com/logicmonitor/Logic
 
 Invoke-SqlCmd2
 
-__Downloads__: 3,030,718 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
+__Downloads__: 3,030,697 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
 
 ## [WifiTools](https://www.powershellgallery.com/Packages/WifiTools/1.8.4) | 1.8.4
 
@@ -1557,7 +1557,7 @@ __Downloads__: 2,914,495 | __Repository__: https://github.com/buscseik/WifiTools
 
 An unofficial PowerShell module to interact with NinjaRMM.
 
-__Downloads__: 2,816,833 | __Repository__: https://github.com/rhymeswithmogul/NinjaRMM-PowerShell/
+__Downloads__: 2,816,763 | __Repository__: https://github.com/rhymeswithmogul/NinjaRMM-PowerShell/
 
 ## [WinSCP](https://www.powershellgallery.com/Packages/WinSCP/6.3.6.0) | 6.3.6.0
 
@@ -1565,7 +1565,7 @@ __Downloads__: 2,816,833 | __Repository__: https://github.com/rhymeswithmogul/Ni
 
 PowerShell Module Wrapper for WinSCP.
 
-__Downloads__: 2,783,068 | __Repository__: https://github.com/tomohulk/WinSCP
+__Downloads__: 2,783,061 | __Repository__: https://github.com/tomohulk/WinSCP
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -1573,7 +1573,7 @@ __Downloads__: 2,783,068 | __Repository__: https://github.com/tomohulk/WinSCP
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 2,762,992 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 2,762,988 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/2.8.5) | 2.8.5
 
@@ -2138,4 +2138,4 @@ KVA Module
 
 __Downloads__: 1,123,170 | __Repository__: 
 
-*Updated: Wednesday, 07 January 2026 09:54:56 UTC*
+*Updated: Wednesday, 07 January 2026 21:52:56 UTC*
