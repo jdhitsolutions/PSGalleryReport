@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 January 2026 21:53:04 UTC
+Updated: Wednesday, 07 January 2026 09:55:00 UTC
 
 .bat
 .env
@@ -466,7 +466,6 @@ appian
 appinsights
 applayering
 apple
-applebusinessmanager
 appleevents
 applescript
 applescript_bridge
@@ -546,8 +545,6 @@ armtemplates
 arp
 array
 arrays
-arrow
-arrow-key
 art
 artefactual
 articles
@@ -664,7 +661,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -703,7 +699,6 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 av1
@@ -754,17 +749,14 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
 azpipelines
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -773,7 +765,6 @@ azstackhci
 azstate
 azsubnet
 aztools
-azts
 azuead
 azure
 azure_ad
@@ -914,7 +905,6 @@ batch
 batch-install
 batchclass
 batching
-batchprocessing
 batman
 battery
 bayern
@@ -1024,7 +1014,6 @@ blog
 blogger
 blogs
 bloodglucose
-bloodhound
 bloodsugar
 bloxone
 bloxoneddi
@@ -1335,7 +1324,6 @@ chunk
 chunked
 churchofjesuschrist
 ci
-ci-cd
 ci/cd
 cic
 cicd
@@ -1514,6 +1502,7 @@ codebeamer
 codebuild
 codebundler
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -2031,7 +2020,6 @@ datamodel
 datanorm
 dataplatform
 datapro
-dataprocessing
 dataprotection
 dataquality
 datarow
@@ -2401,7 +2389,6 @@ domainkeys
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2448,7 +2435,6 @@ drive
 drive letter
 drivemap
 drivemapping
-driven
 driver
 driverpacks
 drivers
@@ -2499,7 +2485,6 @@ duck
 duckdb
 duckduckgo
 ducks
-ducktyping
 dudckduckgo
 duf
 dumb
@@ -3339,7 +3324,6 @@ get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -3414,6 +3398,7 @@ golf
 google
 google-chrome
 google-fonts
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3618,7 +3603,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -4124,6 +4108,7 @@ j81-blog
 jamba
 japanese
 jar
+jared
 jav
 java
 javamanager
@@ -4139,6 +4124,7 @@ jea
 jea_module
 jeanalyzer
 jekyll
+jellyfin
 jenkins
 jetbrains
 jiggler
@@ -4625,7 +4611,6 @@ macro
 macros
 madlib
 magazine
-magento
 magic8ball
 magicpacket
 magnet
@@ -5121,6 +5106,7 @@ mwsqlserver
 mx
 mxlookup
 mycloudrevolution
+mycorp
 myget
 myhub
 myip
@@ -6019,7 +6005,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -6149,7 +6134,6 @@ powershellv5
 powershellweb
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 powertree
@@ -7128,12 +7112,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -8544,12 +8522,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -9408,7 +9380,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qwinsta
 qword
 r
 r53
@@ -9560,7 +9531,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -10013,7 +9983,6 @@ searchmanager
 searchplace
 searchquery
 searchscript
-searchstring
 searchsuffixlist
 secaas
 secedit
@@ -10102,7 +10071,6 @@ send-message
 send-mgusermail
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -10650,6 +10618,7 @@ steam
 steam-games
 steamcmd
 stenography
+stepmanager
 stepper
 steps
 sticker
@@ -10969,7 +10938,6 @@ terminal-themes
 terminal-visuals
 terminal.gui
 terminalnotifier
-terminalservices
 terminalvelocity
 termset
 terraform
@@ -11010,7 +10978,6 @@ testtool
 testusers
 text
 text_to_speech
-text-based
 text-emoji
 text-emojis
 text-menu
@@ -12095,7 +12062,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wts
 wtsapi32
 wttr
 wttr.in
