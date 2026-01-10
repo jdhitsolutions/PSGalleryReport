@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 09 January 2026 21:52:36 UTC
+Updated: Saturday, 10 January 2026 09:52:26 UTC
 
 .bat
 .env
@@ -333,8 +333,7 @@ alias-hint
 alias-tips
 aliases
 aliens
-align
-alignment
+alive
 all
 alletra
 alloydb
@@ -416,7 +415,6 @@ antivirus
 anws
 any
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -720,6 +718,7 @@ avro
 avs
 avset
 await
+awake
 awakecoding
 awareness
 awesome
@@ -1109,7 +1108,9 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1156,6 +1157,7 @@ cache
 cachedroles
 cacherecovery
 caf
+caffeine
 cal
 calc
 calculate
@@ -1181,7 +1183,6 @@ capability
 capacity
 capacitymanagement
 capainstaller
-capaone
 capasystems
 capgemini
 capslock
@@ -1241,7 +1242,6 @@ celcat
 celerium
 censor
 center
-centered
 centra
 central
 central-management
@@ -1585,6 +1585,7 @@ commerce
 commfort
 commit
 commit-analysis
+commits
 common
 common-data-service
 commondataservice
@@ -1614,7 +1615,6 @@ composite
 compositeresource
 compoundproperty
 compress
-compressedguid
 compression
 compromised
 compute
@@ -1684,6 +1684,7 @@ connectivity
 connector
 connectorcmd
 connectormanagement
+connectsync
 connectwise
 conservation
 console
@@ -1724,6 +1725,8 @@ controller
 controlroom
 controlup
 convention
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1846,14 +1849,12 @@ cresendo
 crestron
 cricket
 crime
-critical
 crlf
 crm
 crm2016
 cron
 crontab
 cropping
-cross-forest
 cross-platform
 crossjoin
 crossover
@@ -2392,7 +2393,6 @@ domainkeys
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2735,6 +2735,7 @@ esp32
 esp32s2
 español
 espressif
+espresso
 esri
 essbase
 est
@@ -2872,7 +2873,6 @@ extendedproperties
 extendedproperty
 extendscript
 extensibility
-extensible
 extension
 extensionmethods
 extensionrisk
@@ -2906,7 +2906,6 @@ fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
-fancy
 fancy-terminal
 fanuc
 faq
@@ -3156,6 +3155,7 @@ frame
 framework
 france
 free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3184,6 +3184,8 @@ ftp
 ftps
 ftptoday
 fu-msauth
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -4185,7 +4187,6 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
-justification
 jvm
 jwe
 jwk
@@ -4212,8 +4213,10 @@ kdialog
 kebab-case
 keenetic
 keepachangelog
+keepalive
 keepass
 keepasslib
+keepawake
 keeper
 kelverion
 kelvin
@@ -4817,7 +4820,6 @@ micro-framework
 micro-orm
 microfocus
 microk8s
-micropython
 microservices
 microsoft
 microsoft_365
@@ -4873,6 +4875,8 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
+midi
+midi2.0
 midserver
 migrate
 migration
@@ -4938,6 +4942,11 @@ modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5055,13 +5064,9 @@ msu
 msvc
 msword
 mta-sts
-mule
-mulesoft
 multi
 multi-agent
-multi-domain
 multi-factor
-multi-forest
 multi-language
 multi-platform
 multi-tenant
@@ -5236,6 +5241,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5651,6 +5657,7 @@ packagelookup
 packagemanagement
 packagemanager
 packages
+packagesartefact
 packagesregistry
 packaging
 packaging psmodule
@@ -5667,6 +5674,7 @@ pages
 pagination
 paging
 palo
+paloalto
 paloaltonetworks
 pam
 pan
@@ -6073,8 +6081,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-5.1+
-powershell-7+
 powershell-ai
 powershell-art
 powershell-class
@@ -6094,6 +6100,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -9275,6 +9283,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9499,10 +9508,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9713,7 +9719,6 @@ rhapsody
 ribbon
 ribcl
 rich
-richtext
 ricoh
 rightcloud
 rightjoin
@@ -9945,6 +9950,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-signing
 script-to-assembly
 script-to-executable
@@ -10079,7 +10085,6 @@ send-message
 send-mgusermail
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -10114,6 +10119,7 @@ serverprotection
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10406,6 +10412,7 @@ sophos
 sort
 sort-json
 sorting
+sound
 sounds
 source
 source-dedicated-server
@@ -10422,6 +10429,7 @@ space
 spaces
 spacex
 spam
+spamtitan
 spanish
 spanner
 spark
@@ -10527,9 +10535,7 @@ sqlvm
 sqr
 sqrt
 square
-squid
 squire
-squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10617,7 +10623,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -10862,6 +10867,7 @@ tar
 tar-compression
 target
 task
+task_automation
 task-runner
 task-scheduler
 taskbar
@@ -10958,6 +10964,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10987,7 +10994,6 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-menu
 text-templates
 text-to-image
 text-to-speach"
@@ -11029,7 +11035,6 @@ thread
 threading
 threadjob
 threads
-threadsafe
 threadsanitizer
 threat
 threat-hunting
@@ -11066,6 +11071,7 @@ tinymce
 tip
 tips
 titan
+titanhq
 title
 tld
 tls
@@ -11386,6 +11392,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11470,8 +11477,6 @@ utm
 uudecode
 uuencode
 uuid
-uuidv3
-uuidv5
 uw
 uwp
 ux
@@ -11857,6 +11862,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -12077,7 +12083,6 @@ wunderlist
 wus
 wvd
 www
-x-adcommander
 x-cart
 x.509
 x1
@@ -12092,7 +12097,6 @@ x509chain
 x64
 x86
 xa
-xadcommander
 xaf
 xaml
 xbase
@@ -12141,6 +12145,7 @@ xtremio
 xtrude
 xunit
 xurrent
+xwiki
 xwindowsupdate
 xwith
 yahoo

@@ -50,7 +50,7 @@ __Downloads__: 146,487,959 | __Repository__: https://github.com/cloudbase/powers
 
 Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
 
-__Downloads__: 102,020,992 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+__Downloads__: 102,022,229 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
 
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.4.0) | 2.4.0
 
@@ -58,7 +58,7 @@ __Downloads__: 102,020,992 | __Repository__: https://github.com/EvotecIT/Securit
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 90,887,232 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 90,887,297 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
 
@@ -66,7 +66,7 @@ __Downloads__: 90,887,232 | __Repository__: https://github.com/teamviewer/TeamVi
 
 The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join.
 
-__Downloads__: 89,009,418 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
+__Downloads__: 89,010,561 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
 
 ## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
 
@@ -74,7 +74,7 @@ __Downloads__: 89,009,418 | __Repository__: https://github.com/ThomasKur/ModernW
 
 Provides access to credentials in the Windows Credential Manager
 
-__Downloads__: 86,577,680 | __Repository__: 
+__Downloads__: 86,577,728 | __Repository__: 
 
 ## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
 
@@ -82,7 +82,7 @@ __Downloads__: 86,577,680 | __Repository__:
 
 Module to detect Windows OS pending reboots.
 
-__Downloads__: 80,804,942 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+__Downloads__: 80,805,351 | __Repository__: https://github.com/bcwilhite/PendingReboot/
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -107,7 +107,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 80,259,405 | __Repository__: http://get-carbon.org/
+__Downloads__: 80,259,480 | __Repository__: http://get-carbon.org/
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.7) | 3.2.7
 
@@ -115,7 +115,7 @@ __Downloads__: 80,259,405 | __Repository__: http://get-carbon.org/
 
 Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials.
 
-__Downloads__: 62,916,777 | __Repository__: https://github.com/darkoperator/Posh-SSH
+__Downloads__: 62,917,296 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
 ## [PS-SentinelOne](https://www.powershellgallery.com/Packages/PS-SentinelOne/2.1.2) | 2.1.2
 
@@ -123,7 +123,7 @@ __Downloads__: 62,916,777 | __Repository__: https://github.com/darkoperator/Posh
 
 A PowerShell script module that provides command-line interaction and automation for the SentinelOne API.
 
-__Downloads__: 59,147,635 | __Repository__: 
+__Downloads__: 59,150,014 | __Repository__: 
 
 ## [DockerMsftProvider](https://www.powershellgallery.com/Packages/DockerMsftProvider/1.0.0.8) | 1.0.0.8
 
@@ -131,7 +131,7 @@ __Downloads__: 59,147,635 | __Repository__:
 
 PowerShell module with commands for discovering, installing, and updating Docker images.
 
-__Downloads__: 58,018,584 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
+__Downloads__: 58,019,369 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
 
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
@@ -139,7 +139,7 @@ __Downloads__: 58,018,584 | __Repository__: https://github.com/OneGet/MicrosoftD
 
 List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
 
-__Downloads__: 57,002,631 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
+__Downloads__: 57,002,536 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
 
 ## [PSLogging](https://www.powershellgallery.com/Packages/PSLogging/2.5.2) | 2.5.2
 
@@ -147,7 +147,7 @@ __Downloads__: 57,002,631 | __Repository__: https://www.systanddeploy.com/2022/0
 
 Creates and manages log files for your scripts.
 
-__Downloads__: 56,093,582 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
+__Downloads__: 56,093,522 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
 
 ## [SNMP](https://www.powershellgallery.com/Packages/SNMP/1.0.0.1) | 1.0.0.1
 
@@ -155,7 +155,7 @@ __Downloads__: 56,093,582 | __Repository__: http://9to5it.com/powershell-logging
 
 Module to manage systems using SNMP.
 
-__Downloads__: 50,872,912 | __Repository__: 
+__Downloads__: 50,872,539 | __Repository__: 
 
 ## [Invoke-CommandAs](https://www.powershellgallery.com/Packages/Invoke-CommandAs/3.1.9) | 3.1.9
 
@@ -163,7 +163,7 @@ __Downloads__: 50,872,912 | __Repository__:
 
 Invoke Command as System/User on Local/Remote computer using ScheduleTask.
 
-__Downloads__: 49,595,466 | __Repository__: https://github.com/mkellerman/Invoke-CommandAs
+__Downloads__: 49,595,276 | __Repository__: https://github.com/mkellerman/Invoke-CommandAs
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.8.0) | 1.8.0
 
@@ -171,7 +171,7 @@ __Downloads__: 49,595,466 | __Repository__: https://github.com/mkellerman/Invoke
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 40,711,087 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 40,710,754 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [QuserObject](https://www.powershellgallery.com/Packages/QuserObject/1.0.50) | 1.0.50
 
@@ -179,7 +179,7 @@ __Downloads__: 40,711,087 | __Repository__: https://www.github.com/jantari/LSUCl
 
 Query `quser.exe` and return a proper PowerShell Object.
 
-__Downloads__: 38,309,633 | __Repository__: 
+__Downloads__: 38,309,621 | __Repository__: 
 
 ## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
 
@@ -189,7 +189,7 @@ The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-frien
 
 MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
 
-__Downloads__: 35,861,158 | __Repository__: https://github.com/jasoth/MSAL.PS
+__Downloads__: 35,860,807 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 ## [Pester](https://www.powershellgallery.com/Packages/Pester/5.7.1) | 5.7.1
 
@@ -197,7 +197,7 @@ __Downloads__: 35,861,158 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 34,932,384 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 34,932,227 | __Repository__: https://github.com/Pester/Pester
 
 ## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
 
@@ -205,7 +205,7 @@ __Downloads__: 34,932,384 | __Repository__: https://github.com/Pester/Pester
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 33,288,543 | __Repository__: 
+__Downloads__: 33,288,674 | __Repository__: 
 
 ## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/1.1.0) | 1.1.0
 
@@ -213,7 +213,7 @@ __Downloads__: 33,288,543 | __Repository__:
 
 Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 
-__Downloads__: 30,723,764 | __Repository__: https://github.com/Windos/BurntToast
+__Downloads__: 30,723,898 | __Repository__: https://github.com/Windos/BurntToast
 
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.4.0.24798382) | 13.4.0.24798382
 
@@ -221,7 +221,7 @@ __Downloads__: 30,723,764 | __Repository__: https://github.com/Windos/BurntToast
 
 This PowerShell module contains PowerCLI Sdk.
 
-__Downloads__: 29,488,175 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 29,488,274 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.4.0.24798382) | 13.4.0.24798382
 
@@ -229,7 +229,7 @@ __Downloads__: 29,488,175 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
-__Downloads__: 27,992,976 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 27,993,069 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/9.0.0.24798382) | 9.0.0.24798382
 
@@ -237,7 +237,7 @@ __Downloads__: 27,992,976 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI Vim.
 
-__Downloads__: 26,337,336 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 26,337,429 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.4.0.24798382) | 13.4.0.24798382
 
@@ -245,7 +245,7 @@ __Downloads__: 26,337,336 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
-__Downloads__: 24,387,268 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 24,387,340 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [DeviceManagement](https://www.powershellgallery.com/Packages/DeviceManagement/1.3.0) | 1.3.0
 
@@ -253,7 +253,7 @@ __Downloads__: 24,387,268 | __Repository__: https://developer.broadcom.com/power
 
 Windows PowerShell Module for managing devices
 
-__Downloads__: 24,226,447 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
+__Downloads__: 24,226,756 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
 ## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.4.0.24798382) | 13.4.0.24798382
 
@@ -261,7 +261,7 @@ __Downloads__: 24,226,447 | __Repository__: https://github.com/TobiasPSP/Modules
 
 This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
-__Downloads__: 24,079,192 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 24,079,265 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.7) | 5.7
 
@@ -269,7 +269,7 @@ __Downloads__: 24,079,192 | __Repository__: https://developer.broadcom.com/power
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 22,991,825 | __Repository__: 
+__Downloads__: 22,992,102 | __Repository__: 
 
 ## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.526) | 4.1.526
 
@@ -277,7 +277,7 @@ __Downloads__: 22,991,825 | __Repository__:
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 20,287,681 | __Repository__: https://vcredist.com/
+__Downloads__: 20,288,553 | __Repository__: https://vcredist.com/
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.8.0) | 2.8.0
 
@@ -285,7 +285,7 @@ __Downloads__: 20,287,681 | __Repository__: https://vcredist.com/
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 19,837,462 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 19,837,481 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.4.0.24798382) | 13.4.0.24798382
 
@@ -293,7 +293,7 @@ __Downloads__: 19,837,462 | __Repository__: https://github.com/thoemmi/7Zip4Powe
 
 This PowerShell module contains PowerCLI VDS cmdlets.
 
-__Downloads__: 19,527,917 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 19,527,957 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.4.0.24798382) | 13.4.0.24798382
 
@@ -301,7 +301,7 @@ __Downloads__: 19,527,917 | __Repository__: https://developer.broadcom.com/power
 
 This Windows PowerShell module contains PowerCLI storage management cmdlets.
 
-__Downloads__: 18,809,048 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 18,809,088 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [PSAtera](https://www.powershellgallery.com/Packages/PSAtera/1.7.1) | 1.7.1
 
@@ -309,7 +309,7 @@ __Downloads__: 18,809,048 | __Repository__: https://developer.broadcom.com/power
 
 PowerShell Module for interacting with the Atera API
 
-__Downloads__: 18,108,630 | __Repository__: https://github.com/davejlong/PSAtera
+__Downloads__: 18,108,818 | __Repository__: https://github.com/davejlong/PSAtera
 
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.10) | 7.8.10
 
@@ -318,7 +318,7 @@ __Downloads__: 18,108,630 | __Repository__: https://github.com/davejlong/PSAtera
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 17,971,680 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 17,971,903 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/13.4.0.24798382) | 13.4.0.24798382
 
@@ -326,7 +326,7 @@ __Downloads__: 17,971,680 | __Repository__: https://github.com/dfinke/ImportExce
 
 This PowerShell module contains PowerCLI SRM cmdlets.
 
-__Downloads__: 17,485,468 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,485,508 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.License](https://www.powershellgallery.com/Packages/VMware.VimAutomation.License/13.4.0.24798382) | 13.4.0.24798382
 
@@ -334,7 +334,7 @@ __Downloads__: 17,485,468 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI cmdlets for managing VMware product licenses.
 
-__Downloads__: 17,376,021 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,376,061 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Nsxt](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Nsxt/13.4.0.24798382) | 13.4.0.24798382
 
@@ -342,7 +342,7 @@ __Downloads__: 17,376,021 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI NSXT cmdlets.
 
-__Downloads__: 17,072,212 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,072,250 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.4.0.24798382) | 13.4.0.24798382
 
@@ -350,7 +350,7 @@ __Downloads__: 17,072,212 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI VMC cmdlets.
 
-__Downloads__: 17,040,565 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,040,603 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/13.4.0.24798382) | 13.4.0.24798382
 
@@ -358,7 +358,7 @@ __Downloads__: 17,040,565 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI ImageBuilder cmdlets.
 
-__Downloads__: 17,026,937 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,026,973 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.vROps](https://www.powershellgallery.com/Packages/VMware.VimAutomation.vROps/13.4.0.24798382) | 13.4.0.24798382
 
@@ -366,7 +366,7 @@ __Downloads__: 17,026,937 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI vROps cmdlets.
 
-__Downloads__: 17,006,100 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,006,137 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.4.0.24798382) | 13.4.0.24798382
 
@@ -374,7 +374,7 @@ __Downloads__: 17,006,100 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI Cloud cmdlets.
 
-__Downloads__: 17,003,487 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 17,003,524 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/13.4.0.24798382) | 13.4.0.24798382
 
@@ -382,7 +382,7 @@ __Downloads__: 17,003,487 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI Auto Deploy cmdlets.
 
-__Downloads__: 16,737,323 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 16,737,360 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.3.0.24145083) | 13.3.0.24145083
 
@@ -390,7 +390,7 @@ __Downloads__: 16,737,323 | __Repository__: https://developer.broadcom.com/power
 
 This module is deprecated. Please use the module VCF.PowerCLI instead. For more information, see https://developer.broadcom.com/powercli/installation-guide
 
-__Downloads__: 16,610,931 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 16,610,965 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/13.4.0.24798382) | 13.4.0.24798382
 
@@ -398,7 +398,7 @@ __Downloads__: 16,610,931 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI VUM cmdlets.
 
-__Downloads__: 16,555,093 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 16,555,130 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.StorageUtility](https://www.powershellgallery.com/Packages/VMware.VimAutomation.StorageUtility/1.6.1) | 1.6.1
 
@@ -406,7 +406,7 @@ __Downloads__: 16,555,093 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains utility scripts for storage.
 
-__Downloads__: 16,483,249 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 16,483,283 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.4.0.24798382) | 13.4.0.24798382
 
@@ -414,7 +414,7 @@ __Downloads__: 16,483,249 | __Repository__: https://developer.broadcom.com/power
 
 This PowerShell module contains PowerCLI security management cmdlets.
 
-__Downloads__: 16,084,088 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 16,084,123 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/13.4.0.24798382) | 13.4.0.24798382
 
@@ -422,7 +422,7 @@ __Downloads__: 16,084,088 | __Repository__: https://developer.broadcom.com/power
 
 This Windows PowerShell module contains PowerCLI HCX cmdlets.
 
-__Downloads__: 15,981,537 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 15,981,572 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [Get-ActiveSession](https://www.powershellgallery.com/Packages/Get-ActiveSession/1.0.4) | 1.0.4
 
@@ -430,7 +430,7 @@ __Downloads__: 15,981,537 | __Repository__: https://developer.broadcom.com/power
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 15,594,707 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 15,594,801 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/13.4.0.24798382) | 13.4.0.24798382
 
@@ -438,7 +438,7 @@ __Downloads__: 15,594,707 | __Repository__: https://github.com/farismalaeb/Power
 
 PowerShell module that contains command for VMware Cloud Services.
 
-__Downloads__: 15,593,235 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 15,593,273 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [PolicyFileEditor](https://www.powershellgallery.com/Packages/PolicyFileEditor/3.0.1) | 3.0.1
 
@@ -446,7 +446,7 @@ __Downloads__: 15,593,235 | __Repository__: https://developer.broadcom.com/power
 
 Commands and DSC resource for modifying Administrative Templates settings in local GPO registry.pol files.
 
-__Downloads__: 15,128,164 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
+__Downloads__: 15,128,349 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
 ## [spec.file.utilities](https://www.powershellgallery.com/Packages/spec.file.utilities/2.0.12) | 2.0.12
 
@@ -454,7 +454,7 @@ __Downloads__: 15,128,164 | __Repository__: https://github.com/dlwyatt/PolicyFil
 
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
-__Downloads__: 14,807,995 | __Repository__: 
+__Downloads__: 14,808,234 | __Repository__: 
 
 ## [ChocolateyGet](https://www.powershellgallery.com/Packages/ChocolateyGet/4.1.0) | 4.1.0
 
@@ -462,7 +462,7 @@ __Downloads__: 14,807,995 | __Repository__:
 
 Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository.
 
-__Downloads__: 14,611,345 | __Repository__: https://github.com/Jianyunt/ChocolateyGet
+__Downloads__: 14,611,388 | __Repository__: https://github.com/Jianyunt/ChocolateyGet
 
 ## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.4.0.24798382) | 13.4.0.24798382
 
@@ -470,7 +470,7 @@ __Downloads__: 14,611,345 | __Repository__: https://github.com/Jianyunt/Chocolat
 
 PowerShell commands for automation of workloads related functionality in vSphere.
 
-__Downloads__: 14,548,199 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 14,548,234 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [newtonsoft.json](https://www.powershellgallery.com/Packages/newtonsoft.json/1.0.2.201) | 1.0.2.201
 
@@ -1024,7 +1024,7 @@ __Downloads__: 7,823,115 | __Repository__: https://developer.broadcom.com/powerc
 
 Types definitions for the VMware.PowerCLI.VCenter module related to the certificate management feature.
 
-__Downloads__: 7,822,860 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 7,822,879 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.Topology](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Topology/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1032,7 +1032,7 @@ __Downloads__: 7,822,860 | __Repository__: https://developer.vmware.com/powercli
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,820,976 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,820,994 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.TrustedInfrastructure](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.TrustedInfrastructure/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1040,7 +1040,7 @@ __Downloads__: 7,820,976 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,818,938 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,818,956 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.VCHA](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.VCHA/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1048,7 +1048,7 @@ __Downloads__: 7,818,938 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,813,658 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,813,676 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.Vm](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Vm/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1056,7 +1056,7 @@ __Downloads__: 7,813,658 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,809,209 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,809,227 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.VmTemplate](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.VmTemplate/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1064,7 +1064,7 @@ __Downloads__: 7,809,209 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,807,049 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,807,067 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vStats](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vStats/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1072,7 +1072,7 @@ __Downloads__: 7,807,049 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 7,801,140 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,801,158 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [PSWarranty](https://www.powershellgallery.com/Packages/PSWarranty/1.8.0) | 1.8.0
 
@@ -1080,7 +1080,7 @@ __Downloads__: 7,801,140 | __Repository__: https://developer.broadcom.com/powerc
 
 This module allows you to collect warranty information from a myriad of sources
 
-__Downloads__: 7,782,622 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
+__Downloads__: 7,782,928 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.25338.7408) | 5.1.25338.7408
 
@@ -1088,7 +1088,7 @@ __Downloads__: 7,782,622 | __Repository__: https://github.com/KelvinTegelaar/Pow
 
 Automation tools for production quality database deployment
 
-__Downloads__: 7,436,456 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 7,436,489 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VMware.PowerCLI.VCenter.Types.ApplianceService](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter.Types.ApplianceService/13.3.0.24145081) | 13.3.0.24145081
 
@@ -1096,7 +1096,7 @@ __Downloads__: 7,436,456 | __Repository__: https://www.red-gate.com/sca/productp
 
 Types definitions for the VMware.PowerCLI.VCenter module related to the appliance service management feature.
 
-__Downloads__: 7,403,075 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 7,403,094 | __Repository__: https://developer.vmware.com/powercli
 
 ## [PsIni](https://www.powershellgallery.com/Packages/PsIni/4.0.1) | 4.0.1
 
@@ -1104,7 +1104,7 @@ __Downloads__: 7,403,075 | __Repository__: https://developer.vmware.com/powercli
 
 Convert hashtable to INI file and back
 
-__Downloads__: 7,378,508 | __Repository__: https://github.com/lipkau/PSIni
+__Downloads__: 7,378,565 | __Repository__: https://github.com/lipkau/PSIni
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.40.0) | 1.40.0
 
@@ -1112,7 +1112,7 @@ __Downloads__: 7,378,508 | __Repository__: https://github.com/lipkau/PSIni
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 7,321,808 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 7,321,816 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1120,7 +1120,7 @@ __Downloads__: 7,321,808 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
 
-__Downloads__: 7,127,202 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 7,127,233 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [NTFSSecurity](https://www.powershellgallery.com/Packages/NTFSSecurity/4.2.6) | 4.2.6
 
@@ -1128,7 +1128,7 @@ __Downloads__: 7,127,202 | __Repository__: https://developer.broadcom.com/powerc
 
 Windows PowerShell Module for managing file and folder security on NTFS volumes
 
-__Downloads__: 6,949,304 | __Repository__: https://github.com/raandree/NTFSSecurity
+__Downloads__: 6,949,338 | __Repository__: https://github.com/raandree/NTFSSecurity
 
 ## [PSPKI](https://www.powershellgallery.com/Packages/PSPKI/4.3.0) | 4.3.0
 
@@ -1136,7 +1136,7 @@ __Downloads__: 6,949,304 | __Repository__: https://github.com/raandree/NTFSSecur
 
 This module contains public key infrastructure and certificate management functions. Support site: https://www.pkisolutions.com/tools/pspki/
 
-__Downloads__: 6,702,841 | __Repository__: https://www.pkisolutions.com/tools/pspki/
+__Downloads__: 6,702,885 | __Repository__: https://www.pkisolutions.com/tools/pspki/
 
 ## [Terminal-Icons](https://www.powershellgallery.com/Packages/Terminal-Icons/0.11.0) | 0.11.0
 
@@ -1144,7 +1144,7 @@ __Downloads__: 6,702,841 | __Repository__: https://www.pkisolutions.com/tools/ps
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 6,672,144 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 6,672,156 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [ITGlueAPI](https://www.powershellgallery.com/Packages/ITGlueAPI/2.2.0) | 2.2.0
 
@@ -1152,7 +1152,7 @@ __Downloads__: 6,672,144 | __Repository__: https://github.com/devblackops/Termin
 
 This module provides a PowerShell wrapper for the IT Glue API.
 
-__Downloads__: 6,651,904 | __Repository__: https://github.com/itglue/powershellwrapper
+__Downloads__: 6,651,917 | __Repository__: https://github.com/itglue/powershellwrapper
 
 ## [posh-git](https://www.powershellgallery.com/Packages/posh-git/1.1.0) | 1.1.0
 
@@ -1160,7 +1160,7 @@ __Downloads__: 6,651,904 | __Repository__: https://github.com/itglue/powershellw
 
 Provides prompt with Git status summary information and tab completion for Git commands, parameters, remotes and branch names.
 
-__Downloads__: 6,555,558 | __Repository__: https://github.com/dahlbyk/posh-git
+__Downloads__: 6,555,566 | __Repository__: https://github.com/dahlbyk/posh-git
 
 ## [Gac](https://www.powershellgallery.com/Packages/Gac/1.0.1) | 1.0.1
 
@@ -1168,7 +1168,7 @@ __Downloads__: 6,555,558 | __Repository__: https://github.com/dahlbyk/posh-git
 
 View and modify the Global Assembly Cache (GAC)
 
-__Downloads__: 6,487,874 | __Repository__: https://github.com/LTruijens/powershell-gac
+__Downloads__: 6,487,891 | __Repository__: https://github.com/LTruijens/powershell-gac
 
 ## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.21) | 2.8.21
 
@@ -1176,7 +1176,7 @@ __Downloads__: 6,487,874 | __Repository__: https://github.com/LTruijens/powershe
 
 This module applies many helpful functions which use the Microsoft.Xrm.Tooling.CrmConnector.Powershell CrmServiceClient. Functions are included to create, delete, query, and update data as well as functions for common tasks such as publishing, and manipulating System and DataVerse User Settings, etc. The module should function for both Dynamics Customer Engagement Online, DataVerse environments, and On-Premise environments.
 
-__Downloads__: 6,466,651 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
+__Downloads__: 6,466,671 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
 
 ## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/6.2) | 6.2
 
@@ -1186,7 +1186,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 6,421,229 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 6,421,378 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/3.0.0) | 3.0.0
 
@@ -1194,7 +1194,7 @@ __Downloads__: 6,421,229 | __Repository__: https://github.com/MichaelGrafnetter/
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 6,408,918 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 6,408,926 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [WindowsCompatibility](https://www.powershellgallery.com/Packages/WindowsCompatibility/1.0.0) | 1.0.0
 
@@ -1205,15 +1205,15 @@ invoke commands that are only available in Windows PowerShell. These utilities h
 to discover available modules, import those modules through proxies and then use the module
 commands much as if they were native to PowerShell Core.
 
-__Downloads__: 6,225,677 | __Repository__: https://github.com/PowerShell/WindowsCompatibility
+__Downloads__: 6,225,678 | __Repository__: https://github.com/PowerShell/WindowsCompatibility
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.9.3) | 26.1.9.3
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.10.1) | 26.1.10.1
 
-### Published: 01/09/2026 17:08:17 by David Segura . Gary Blok . Michael Escamilla
+### Published: 01/10/2026 05:07:51 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 5,958,130 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 5,958,251 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [VMware.Sdk.vSphere.vCenter.Authorization](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Authorization/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1221,7 +1221,7 @@ __Downloads__: 5,958,130 | __Repository__: https://github.com/OSDeploy/OSD
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 5,683,517 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 5,683,535 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.ConsumptionDomains](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.ConsumptionDomains/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1229,7 +1229,7 @@ __Downloads__: 5,683,517 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 5,675,512 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 5,675,530 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.HVC](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.HVC/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1237,7 +1237,7 @@ __Downloads__: 5,675,512 | __Repository__: https://developer.broadcom.com/powerc
 
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
-__Downloads__: 5,650,280 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 5,650,298 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [SemVerPS](https://www.powershellgallery.com/Packages/SemVerPS/2.1) | 2.1
 
@@ -1245,7 +1245,7 @@ __Downloads__: 5,650,280 | __Repository__: https://developer.broadcom.com/powerc
 
 PowerShell module for Semantic Version
 
-__Downloads__: 5,593,889 | __Repository__: https://github.com/Sarafian/SemVerPS/
+__Downloads__: 5,593,914 | __Repository__: https://github.com/Sarafian/SemVerPS/
 
 ## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1253,7 +1253,7 @@ __Downloads__: 5,593,889 | __Repository__: https://github.com/Sarafian/SemVerPS/
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
 
-__Downloads__: 5,495,014 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 5,495,045 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1261,7 +1261,7 @@ __Downloads__: 5,495,014 | __Repository__: https://developer.broadcom.com/powerc
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
 
-__Downloads__: 5,491,441 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 5,491,472 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [PSWSMan](https://www.powershellgallery.com/Packages/PSWSMan/2.3.1) | 2.3.1
 
@@ -1270,7 +1270,7 @@ __Downloads__: 5,491,441 | __Repository__: https://developer.broadcom.com/powerc
 Module to install and manage the forked WSMan client libraries for Linux and macOS.
 See https://github.com/jborean93/omi for more details.
 
-__Downloads__: 5,213,247 | __Repository__: https://github.com/jborean93/omi
+__Downloads__: 5,213,250 | __Repository__: https://github.com/jborean93/omi
 
 ## [spec.module.loader](https://www.powershellgallery.com/Packages/spec.module.loader/1.0.6) | 1.0.6
 
@@ -1278,7 +1278,7 @@ __Downloads__: 5,213,247 | __Repository__: https://github.com/jborean93/omi
 
 A module to help installing and importing modules
 
-__Downloads__: 4,928,112 | __Repository__: 
+__Downloads__: 4,928,236 | __Repository__: 
 
 ## [0install](https://www.powershellgallery.com/Packages/0install/2.25.12) | 2.25.12
 
@@ -1294,7 +1294,7 @@ __Downloads__: 4,828,275 | __Repository__: https://0install.net/
 
 Get NTP Time from a specified NTP Server
 
-__Downloads__: 4,753,410 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
+__Downloads__: 4,753,415 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
 
 ## [localaccount](https://www.powershellgallery.com/Packages/localaccount/1.6) | 1.6
 
@@ -1302,7 +1302,7 @@ __Downloads__: 4,753,410 | __Repository__: https://github.com/ChrisWarwick/Power
 
 A Simple module to allow the management of local users and groups on a computer
 
-__Downloads__: 4,695,172 | __Repository__: 
+__Downloads__: 4,695,177 | __Repository__: 
 
 ## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.2) | 7.85.2
 
@@ -1318,7 +1318,7 @@ __Downloads__: 4,691,099 | __Repository__: https://github.com/JanDeDobbeleer/oh-
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
 
-__Downloads__: 4,569,973 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 4,570,004 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1326,7 +1326,7 @@ __Downloads__: 4,569,973 | __Repository__: https://developer.broadcom.com/powerc
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder API.
 
-__Downloads__: 4,567,790 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 4,567,821 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.9.2) | 2.9.2
 
@@ -1349,7 +1349,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 4,529,540 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 4,529,545 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [CosmosDB](https://www.powershellgallery.com/Packages/CosmosDB/6.1.0) | 6.1.0
 
@@ -1357,7 +1357,7 @@ __Downloads__: 4,529,540 | __Repository__: https://github.com/PSBicep/PSBicep
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 4,407,173 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 4,407,195 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [psyml](https://www.powershellgallery.com/Packages/psyml/1.0.0) | 1.0.0
 
@@ -1365,7 +1365,7 @@ __Downloads__: 4,407,173 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 YAML PowerShell module
 
-__Downloads__: 4,387,508 | __Repository__: https://github.com/bitrut94/psyml
+__Downloads__: 4,387,614 | __Repository__: https://github.com/bitrut94/psyml
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.28) | 2025.12.28
 
@@ -1373,7 +1373,7 @@ __Downloads__: 4,387,508 | __Repository__: https://github.com/bitrut94/psyml
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,353,286 | __Repository__: https://dbatools.io/
+__Downloads__: 4,353,341 | __Repository__: https://dbatools.io/
 
 ## [WingetTools](https://www.powershellgallery.com/Packages/WingetTools/1.7.0) | 1.7.0
 
@@ -1381,7 +1381,7 @@ __Downloads__: 4,353,286 | __Repository__: https://dbatools.io/
 
 A set of PowerShell tools for working with the winget package manager.
 
-__Downloads__: 4,203,751 | __Repository__: https://github.com/jdhitsolutions/WingetTools
+__Downloads__: 4,203,855 | __Repository__: https://github.com/jdhitsolutions/WingetTools
 
 ## [PowerHTML](https://www.powershellgallery.com/Packages/PowerHTML/0.2.0) | 0.2.0
 
@@ -1389,7 +1389,7 @@ __Downloads__: 4,203,751 | __Repository__: https://github.com/jdhitsolutions/Win
 
 Provides a wrapper for HTML Agility Pack for use where the IE HTML DOM from Invoke-WebRequest is not available such as Powershell Core
 
-__Downloads__: 3,982,706 | __Repository__: https://github.com/JustinGrote/PowerHTML
+__Downloads__: 3,982,762 | __Repository__: https://github.com/JustinGrote/PowerHTML
 
 ## [MSI](https://www.powershellgallery.com/Packages/MSI/3.3.4) | 3.3.4
 
@@ -1397,7 +1397,7 @@ __Downloads__: 3,982,706 | __Repository__: https://github.com/JustinGrote/PowerH
 
 Exposes Windows Installer functionality to Windows PowerShell
 
-__Downloads__: 3,980,442 | __Repository__: https://github.com/heaths/psmsi
+__Downloads__: 3,980,459 | __Repository__: https://github.com/heaths/psmsi
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.1.10) | 6.1.10
 
@@ -1405,7 +1405,7 @@ __Downloads__: 3,980,442 | __Repository__: https://github.com/heaths/psmsi
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 3,972,464 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 3,972,521 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/0.1.13) | 0.1.13
 
@@ -1429,7 +1429,7 @@ __Downloads__: 3,692,398 | __Repository__: http://dotps1.github.io/HPWarranty
 
 PowerShell cmdlets for the Google Cloud Platform.
 
-__Downloads__: 3,666,628 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
+__Downloads__: 3,666,647 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
@@ -1735,7 +1735,7 @@ __Downloads__: 2,182,441 | __Repository__: https://github.com/nightroman/SplitPi
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 2,182,338 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 2,182,382 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [VMware.OpenAPI](https://www.powershellgallery.com/Packages/VMware.OpenAPI/13.4.0.24798382) | 13.4.0.24798382
 
@@ -1743,7 +1743,7 @@ __Downloads__: 2,182,338 | __Repository__: https://github.com/crowdstrike/psfalc
 
 This PowerShell module contains PowerCLI OpenAPI bindings.
 
-__Downloads__: 2,137,060 | __Repository__: https://developer.broadcom.com/powercli
+__Downloads__: 2,137,120 | __Repository__: https://developer.broadcom.com/powercli
 
 ## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/3.1.1) | 3.1.1
 
@@ -1751,7 +1751,7 @@ __Downloads__: 2,137,060 | __Repository__: https://developer.broadcom.com/powerc
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 2,126,644 | __Repository__: 
+__Downloads__: 2,126,649 | __Repository__: 
 
 ## [PowerNSX](https://www.powershellgallery.com/Packages/PowerNSX/3.0.1192) | 3.0.1192
 
@@ -1771,7 +1771,7 @@ __Downloads__: 2,119,473 | __Repository__: https://powernsx.github.io/
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,101,601 | __Repository__: 
+__Downloads__: 2,101,602 | __Repository__: 
 
 ## [AzureRmStorageTable](https://www.powershellgallery.com/Packages/AzureRmStorageTable/2.1.0) | 2.1.0
 
@@ -1779,7 +1779,7 @@ __Downloads__: 2,101,601 | __Repository__:
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 2,060,110 | __Repository__: 
+__Downloads__: 2,060,113 | __Repository__: 
 
 ## [GitHubActions](https://www.powershellgallery.com/Packages/GitHubActions/1.1.0.2) | 1.1.0.2
 
@@ -1787,7 +1787,7 @@ __Downloads__: 2,060,110 | __Repository__:
 
 Supports interacting with Github Actions environment
 
-__Downloads__: 1,912,362 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
+__Downloads__: 1,912,403 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
 
 ## [ConnectWiseManageAPI-Evident](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI-Evident/0.4.7.8) | 0.4.7.8
 
@@ -1795,7 +1795,7 @@ __Downloads__: 1,912,362 | __Repository__: https://github.com/ebekker/pwsh-githu
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 1,905,543 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 1,905,548 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2025.2.26.254) | 2025.2.26.254
 
@@ -1803,7 +1803,7 @@ __Downloads__: 1,905,543 | __Repository__: https://github.com/christaylorcodes/C
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 1,899,475 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 1,899,487 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [PSRedstone](https://www.powershellgallery.com/Packages/PSRedstone/2023.4.25.235) | 2023.4.25.235
 
@@ -1819,7 +1819,7 @@ __Downloads__: 1,864,265 | __Repository__:
 
 This module connects to the Autotask web services API. It downloads information about entities and fields and generates Powershell functions with parameter validation to support Intellisense script editing. To download first all entities and then detailed information about all fields and selection lists is quite time consuming. To speed up module load time and get to coding faster the module caches both script functions and the field info cache to disk.
 
-__Downloads__: 1,857,901 | __Repository__: https://github.com/ecitsolutions/Autotask
+__Downloads__: 1,857,905 | __Repository__: https://github.com/ecitsolutions/Autotask
 
 ## [DownloadSdk](https://www.powershellgallery.com/Packages/DownloadSdk/1.1.16) | 1.1.16
 
@@ -1827,7 +1827,7 @@ __Downloads__: 1,857,901 | __Repository__: https://github.com/ecitsolutions/Auto
 
 Download SDK Module
 
-__Downloads__: 1,830,068 | __Repository__: 
+__Downloads__: 1,830,074 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.2.33) | 1.2.33
 
@@ -1835,7 +1835,7 @@ __Downloads__: 1,830,068 | __Repository__:
 
 MOC Module
 
-__Downloads__: 1,822,144 | __Repository__: 
+__Downloads__: 1,822,150 | __Repository__: 
 
 ## [2atMonitoring](https://www.powershellgallery.com/Packages/2atMonitoring/1.1.4824) | 1.1.4824
 
@@ -1868,7 +1868,7 @@ __Downloads__: 1,728,894 | __Repository__: https://github.com/christaylorcodes/C
 
 A PowerShell wrapper for the dsregcmd executable's output.
 
-__Downloads__: 1,696,629 | __Repository__: https://github.com/Yevrag35/DsRegModule
+__Downloads__: 1,696,630 | __Repository__: https://github.com/Yevrag35/DsRegModule
 
 ## [Zerto.Zvm.Commandlets](https://www.powershellgallery.com/Packages/Zerto.Zvm.Commandlets/1.974.0) | 1.974.0
 
@@ -1896,7 +1896,7 @@ Active Directory Authentication Library for .NET (ADAL.NET) is an easy to use au
 
 Microsoft has stated that "ADAL.NET is in maintenance mode and no new features will be added to ADAL.NET anymore. All our ongoing efforts will be focused on improving the new MSAL.NET." You should consider using the MSAL.PS PowerShell module which uses the new MSAL.NET library.
 
-__Downloads__: 1,634,746 | __Repository__: https://github.com/jasoth/ADAL.PS
+__Downloads__: 1,634,748 | __Repository__: https://github.com/jasoth/ADAL.PS
 
 ## [WinGet](https://www.powershellgallery.com/Packages/WinGet/0.0.8) | 0.0.8
 
@@ -1904,7 +1904,7 @@ __Downloads__: 1,634,746 | __Repository__: https://github.com/jasoth/ADAL.PS
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 1,633,876 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 1,633,878 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [ConnectWiseAutomateAgent](https://www.powershellgallery.com/Packages/ConnectWiseAutomateAgent/0.1.4.0) | 0.1.4.0
 
@@ -1920,7 +1920,7 @@ __Downloads__: 1,623,848 | __Repository__: https://github.com/christaylorcodes/C
 
 Powershell wrapper to interact with Google API
 
-__Downloads__: 1,620,133 | __Repository__: https://github.com/umn-devex-community/UMN-Google
+__Downloads__: 1,620,137 | __Repository__: https://github.com/umn-devex-community/UMN-Google
 
 ## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.3.8) | 0.3.8
 
@@ -1928,7 +1928,7 @@ __Downloads__: 1,620,133 | __Repository__: https://github.com/umn-devex-communit
 
 PowerShell Dependency Handler
 
-__Downloads__: 1,608,633 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
+__Downloads__: 1,608,638 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
 
 ## [testmodule99](https://www.powershellgallery.com/Packages/testmodule99/0.0.93) | 0.0.93
 
@@ -1936,7 +1936,7 @@ __Downloads__: 1,608,633 | __Repository__: https://github.com/RamblingCookieMons
 
 test
 
-__Downloads__: 1,538,279 | __Repository__: 
+__Downloads__: 1,538,285 | __Repository__: 
 
 ## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.1) | 2.5.1
 
@@ -1944,7 +1944,7 @@ __Downloads__: 1,538,279 | __Repository__:
 
 PowerShell module to interact with the Atlassian Confluence REST API
 
-__Downloads__: 1,525,837 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
+__Downloads__: 1,525,840 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
 
 ## [Pscx](https://www.powershellgallery.com/Packages/Pscx/3.3.2) | 3.3.2
 
@@ -1952,7 +1952,7 @@ __Downloads__: 1,525,837 | __Repository__: https://github.com/AtlassianPS/Conflu
 
 PowerShell Community Extensions (PSCX) base module which implements a general purpose set of Cmdlets.
 
-__Downloads__: 1,523,550 | __Repository__: https://github.com/Pscx/Pscx
+__Downloads__: 1,523,556 | __Repository__: https://github.com/Pscx/Pscx
 
 ## [cChoco](https://www.powershellgallery.com/Packages/cChoco/2.6.0.0) | 2.6.0.0
 
@@ -1968,7 +1968,7 @@ __Downloads__: 1,490,809 | __Repository__:
 
 Wrapper cmdlets for OpenSSL command line tool
 
-__Downloads__: 1,473,845 | __Repository__: https://github.com/szeidat/OpenSSL
+__Downloads__: 1,473,847 | __Repository__: https://github.com/szeidat/OpenSSL
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.1.1) | 0.1.1
 
@@ -1976,7 +1976,7 @@ __Downloads__: 1,473,845 | __Repository__: https://github.com/szeidat/OpenSSL
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 1,419,666 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/CUT-4981_v2EUSupport/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 1,419,674 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/CUT-4981_v2EUSupport/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.1.7) | 4.1.7
 
@@ -1984,7 +1984,7 @@ __Downloads__: 1,419,666 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,403,265 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,403,270 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.1.2) | 0.1.2
 
@@ -1992,7 +1992,7 @@ __Downloads__: 1,403,265 | __Repository__: https://psappdeploytoolkit.com/
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 1,391,877 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 1,391,885 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.1.2) | 0.1.2
 
@@ -2000,7 +2000,7 @@ __Downloads__: 1,391,877 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 1,389,179 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 1,389,187 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [Mdbc](https://www.powershellgallery.com/Packages/Mdbc/7.0.1) | 7.0.1
 
@@ -2008,7 +2008,7 @@ __Downloads__: 1,389,179 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,370,702 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,370,710 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [2atCrm](https://www.powershellgallery.com/Packages/2atCrm/1.0.6049) | 1.0.6049
 
@@ -2024,7 +2024,7 @@ __Downloads__: 1,365,070 | __Repository__:
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 1,357,714 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 1,357,715 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [1C.Utils](https://www.powershellgallery.com/Packages/1C.Utils/0.4.0) | 0.4.0
 
@@ -2040,7 +2040,7 @@ __Downloads__: 1,341,619 | __Repository__: https://bitbucket.org/willynilly74/1c
 
 The module provides tools to work with Json Web Tokens.
 
-__Downloads__: 1,315,540 | __Repository__: https://github.com/DigitalAXPP/jwtPS
+__Downloads__: 1,315,550 | __Repository__: https://github.com/DigitalAXPP/jwtPS
 
 ## [AdmPwd.PS](https://www.powershellgallery.com/Packages/AdmPwd.PS/6.3.1.0) | 6.3.1.0
 
@@ -2056,7 +2056,7 @@ __Downloads__: 1,307,466 | __Repository__:
 
 Azure speed test for PowerShell
 
-__Downloads__: 1,306,860 | __Repository__: https://github.com/devblackops/AzSpeedTest
+__Downloads__: 1,307,057 | __Repository__: https://github.com/devblackops/AzSpeedTest
 
 ## [TraceProvider](https://www.powershellgallery.com/Packages/TraceProvider/1.0.27) | 1.0.27
 
@@ -2064,7 +2064,7 @@ __Downloads__: 1,306,860 | __Repository__: https://github.com/devblackops/AzSpee
 
 TraceProvider SDK Module
 
-__Downloads__: 1,296,089 | __Repository__: 
+__Downloads__: 1,296,095 | __Repository__: 
 
 ## [DnsClient-PS](https://www.powershellgallery.com/Packages/DnsClient-PS/1.2.0) | 1.2.0
 
@@ -2072,7 +2072,7 @@ __Downloads__: 1,296,089 | __Repository__:
 
 A cross-platform DNS client for PowerShell utilizing the DnsClient.NET library.
 
-__Downloads__: 1,268,042 | __Repository__: https://github.com/rmbolger/DnsClient-PS
+__Downloads__: 1,268,060 | __Repository__: https://github.com/rmbolger/DnsClient-PS
 
 ## [GoogleCloudBeta](https://www.powershellgallery.com/Packages/GoogleCloudBeta/1.0.1.10) | 1.0.1.10
 
@@ -2080,7 +2080,7 @@ __Downloads__: 1,268,042 | __Repository__: https://github.com/rmbolger/DnsClient
 
 PowerShell cmdlets for the Google Cloud Platform.
 
-__Downloads__: 1,203,823 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
+__Downloads__: 1,203,827 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
 ## [posharm](https://www.powershellgallery.com/Packages/posharm/0.1.0.0) | 0.1.0.0
 
@@ -2096,7 +2096,7 @@ __Downloads__: 1,199,027 | __Repository__: https://github.com/torgro/PoshARM
 
 psake is a build automation tool written in PowerShell.
 
-__Downloads__: 1,195,678 | __Repository__: https://github.com/psake/psake
+__Downloads__: 1,195,690 | __Repository__: https://github.com/psake/psake
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.7) | 1.0.7
 
@@ -2104,7 +2104,7 @@ __Downloads__: 1,195,678 | __Repository__: https://github.com/psake/psake
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 1,183,522 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 1,183,524 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [OSDCloudGUI](https://www.powershellgallery.com/Packages/OSDCloudGUI/22.10.19.1) | 22.10.19.1
 
@@ -2112,7 +2112,7 @@ __Downloads__: 1,183,522 | __Repository__: https://github.com/EvotecIT/MailoZaur
 
 OSDCloudGUI PowerShell Module
 
-__Downloads__: 1,165,348 | __Repository__: https://github.com/OSDeploy/OSDCloudGUI
+__Downloads__: 1,165,385 | __Repository__: https://github.com/OSDeploy/OSDCloudGUI
 
 ## [Selenium](https://www.powershellgallery.com/Packages/Selenium/3.0.1) | 3.0.1
 
@@ -2120,7 +2120,7 @@ __Downloads__: 1,165,348 | __Repository__: https://github.com/OSDeploy/OSDCloudG
 
 Web automation using the Selenium Web Driver
 
-__Downloads__: 1,152,570 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
+__Downloads__: 1,152,618 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
 ## [AutoTaskAPI](https://www.powershellgallery.com/Packages/AutoTaskAPI/1.2.3) | 1.2.3
 
@@ -2138,4 +2138,4 @@ KVA Module
 
 __Downloads__: 1,123,858 | __Repository__: 
 
-*Updated: Friday, 09 January 2026 21:52:33 UTC*
+*Updated: Saturday, 10 January 2026 09:52:23 UTC*

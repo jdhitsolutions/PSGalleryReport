@@ -3,13 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pwsl](https://www.powershellgallery.com/Packages/pwsl/0.2.6) | 0.2.6
+
+### Published: 01/10/2026 07:01:38 by Garvey k. Snow
+
+A wrapper for `wsl.exe`. It parses WSL output into standard PowerShell objects, provides safety checks for destructive operations, and automates the migration of distributions between drives.
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/phellams/pwsl.git
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.95) | 1.0.21.95
+
+### Published: 01/10/2026 06:25:44 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,880 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.6.0.0) | 1.6.0.0
+
+### Published: 01/10/2026 06:08:35 by Shivam Mathur
+
+Build PHP Extension
+
+__Downloads__: 354 | __Repository__: https://github.com/php/php-windows-builder
+
+## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.6.0.0) | 1.6.0.0
+
+### Published: 01/10/2026 06:08:28 by Shivam Mathur
+
+Build PHP
+
+__Downloads__: 604 | __Repository__: https://github.com/php/php-windows-builder
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.10.1) | 26.1.10.1
+
+### Published: 01/10/2026 05:07:51 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,958,251 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PlexAutomationToolkit](https://www.powershellgallery.com/Packages/PlexAutomationToolkit/0.10.0) | 0.10.0
+
+### Published: 01/10/2026 04:13:10 by Trent Blackburn
+
+A PowerShell module for managing Plex servers
+
+__Downloads__: 270 | __Repository__: https://github.com/tablackburn/PlexAutomationToolkit
+
+## [SageTrader](https://www.powershellgallery.com/Packages/SageTrader/1.0.3) | 1.0.3
+
+### Published: 01/10/2026 03:11:06 by MayorAbandoned
+
+Terminal application for trading Chia Blockchain assets using the Sage Wallet.
+
+__Downloads__: 79 | __Repository__: https://github.com/AbandonedLand/PSSageTrader
+
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.14.20260105) | 1.14.20260105
+
+### Published: 01/09/2026 23:02:35 by Rubrik
+
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20260105-21 .
+
+__Downloads__: 89,542 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
 ## [Deck](https://www.powershellgallery.com/Packages/Deck/1.0.0) | 1.0.0
 
 ### Published: 01/09/2026 21:44:40 by Author
 
 Simple project Deck
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [PowerShellUniversal.Apps.Bookworm](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.Bookworm/1.0.1) | 1.0.1
 
@@ -18,14 +82,6 @@ __Downloads__: 1 | __Repository__:
 A personal library application for PowerShell Universal.
 
 __Downloads__: 5 | __Repository__: 
-
-## [SageTrader](https://www.powershellgallery.com/Packages/SageTrader/1.0.1) | 1.0.1
-
-### Published: 01/09/2026 20:55:35 by MayorAbandoned
-
-Terminal application for trading Chia Blockchain assets using the Sage Wallet.
-
-__Downloads__: 79 | __Repository__: https://github.com/AbandonedLand/PSSageTrader
 
 ## [IntegrisWindowsUpdate](https://www.powershellgallery.com/Packages/IntegrisWindowsUpdate/1.2.28) | 1.2.28
 
@@ -50,14 +106,6 @@ __Downloads__: 13,294 | __Repository__: https://github.com/windmill-labs/windmil
 AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
 
 __Downloads__: 7 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.9.3) | 26.1.9.3
-
-### Published: 01/09/2026 17:08:17 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,958,130 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [EasyGUI](https://www.powershellgallery.com/Packages/EasyGUI/1.3.9) | 1.3.9
 
@@ -103,7 +151,7 @@ __Downloads__: 7,255 | __Repository__:
 
 PowerShell module for managing and monitoring Atempo Lina continuous data protection solution
 
-__Downloads__: 2,209 | __Repository__: 
+__Downloads__: 2,210 | __Repository__: 
 
 ## [OctopusDeploy](https://www.powershellgallery.com/Packages/OctopusDeploy/2.2.0) | 2.2.0
 
@@ -335,14 +383,6 @@ A PowerShell module to download and install fonts from GoogleFonts.
 
 __Downloads__: 17,379 | __Repository__: https://github.com/PSModule/GoogleFonts
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.94) | 1.0.21.94
-
-### Published: 01/08/2026 06:25:37 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,879 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.15.3) | 0.9.15.3
 
 ### Published: 01/08/2026 06:01:24 by Yoshifumi Tsuda
@@ -366,14 +406,6 @@ __Downloads__: 16 | __Repository__: https://jaredheinrichs.substack.com/
 Commands for managing RPC filters in the Windows Filtering Platform.
 
 __Downloads__: 31 | __Repository__: https://github.com/MichaelGrafnetter/RPCFilterManager
-
-## [Citrix.AppLayering](https://www.powershellgallery.com/Packages/Citrix.AppLayering/25.11.0.3) | 25.11.0.3
-
-### Published: 01/07/2026 22:29:23 by Citrix
-
-Citrix AppLayering
-
-__Downloads__: 52 | __Repository__: 
 
 ## [DomainHealthChecker](https://www.powershellgallery.com/Packages/DomainHealthChecker/2.0) | 2.0
 
@@ -445,7 +477,7 @@ __Downloads__: 72 | __Repository__: https://github.com/ctrl-alt-automate/PowerNe
 
 Module for PowerShell Universal.
 
-__Downloads__: 359,706 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 359,705 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [OpenCloud](https://www.powershellgallery.com/Packages/OpenCloud/1.1.0) | 1.1.0
 
@@ -501,7 +533,7 @@ __Downloads__: 47 | __Repository__:
 
 Enterprise driver and Windows update management for Dell, Lenovo, and Intel endpoints. Supports individual driver updates, full pack reinstalls, Windows cumulative updates, update blocking/approval workflows, driver rollback, and offline catalog support.
 
-__Downloads__: 782 | __Repository__: https://github.com/thomastysong/PSDriverManagement
+__Downloads__: 781 | __Repository__: https://github.com/thomastysong/PSDriverManagement
 
 ## [ProxmoxPVE](https://www.powershellgallery.com/Packages/ProxmoxPVE/9.1.2) | 9.1.2
 
@@ -677,7 +709,7 @@ __Downloads__: 10 | __Repository__:
 
 Integris Deployment Tool
 
-__Downloads__: 3,408 | __Repository__: 
+__Downloads__: 3,412 | __Repository__: 
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.161.4) | 1.161.4
 
@@ -709,7 +741,7 @@ __Downloads__: 598,047 | __Repository__: https://github.com/PSModule/GitHub
 
 ServiceControl Management
 
-__Downloads__: 6,343 | __Repository__: https://github.com/Particular/ServiceControl
+__Downloads__: 6,341 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [SimplyXD](https://www.powershellgallery.com/Packages/SimplyXD/1.7.79) | 1.7.79
 
@@ -742,14 +774,6 @@ __Downloads__: 22,028 | __Repository__:
 PowerShell module for troubleshooting Azure Local and AKS enabled by Azure Arc issues. Searches known issues and fixes from GitHub supportability content.
 
 __Downloads__: 23 | __Repository__: https://github.com/smitzlroy/azlocaltsgtool
-
-## [PlexAutomationToolkit](https://www.powershellgallery.com/Packages/PlexAutomationToolkit/0.8.3) | 0.8.3
-
-### Published: 01/05/2026 14:08:10 by Trent Blackburn
-
-A PowerShell module for managing Plex servers
-
-__Downloads__: 270 | __Repository__: https://github.com/tablackburn/PlexAutomationToolkit
 
 ## [PsSqlTestServer](https://www.powershellgallery.com/Packages/PsSqlTestServer/1.7.3) | 1.7.3
 
@@ -1280,7 +1304,7 @@ __Downloads__: 13 | __Repository__: https://github.com/someoneelse131/powershell
 
 Scripts related to interacting with Azure Table Storage
 
-__Downloads__: 11,118 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 11,119 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Storage.FileShare](https://www.powershellgallery.com/Packages/Arcus.Scripting.Storage.FileShare/1.6.0) | 1.6.0
 
@@ -1320,7 +1344,7 @@ __Downloads__: 10,273 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure security
 
-__Downloads__: 20,734 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 20,733 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.6.0) | 1.6.0
 
@@ -1336,7 +1360,7 @@ __Downloads__: 370 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Logic Apps
 
-__Downloads__: 19,296 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 19,297 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.KeyVault](https://www.powershellgallery.com/Packages/Arcus.Scripting.KeyVault/1.6.0) | 1.6.0
 
@@ -1360,7 +1384,7 @@ __Downloads__: 3,893 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure DevOps
 
-__Downloads__: 46,748 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 46,749 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.DataFactory](https://www.powershellgallery.com/Packages/Arcus.Scripting.DataFactory/1.6.0) | 1.6.0
 
@@ -1384,7 +1408,7 @@ __Downloads__: 164,204 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure App Service
 
-__Downloads__: 8,537 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 8,538 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.ApiManagement](https://www.powershellgallery.com/Packages/Arcus.Scripting.ApiManagement/1.6.0) | 1.6.0
 
@@ -1457,7 +1481,7 @@ __Downloads__: 6 | __Repository__: https://github.com/jakehildreth/PX2PS
 Manages local and clustered scheduled tasks in standalone or failover cluster environments,
 extending the ScheduledTasks module from Microsoft
 
-__Downloads__: 99 | __Repository__: https://github.com/tablackburn/ScheduledTasksManager
+__Downloads__: 98 | __Repository__: https://github.com/tablackburn/ScheduledTasksManager
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.23.0) | 0.23.0
 
@@ -1545,7 +1569,7 @@ __Downloads__: 156 | __Repository__: https://github.com/kurokobo/psdify
 
 A PowerShell 7 TUI tool to analyze, clean, and optimize your Windows PATH environment variable. Detects duplicates, obsolete paths, and bypasses the 2047 character GUI limit.
 
-__Downloads__: 54 | __Repository__: https://codeberg.org/imigueldiaz/winpath-clean
+__Downloads__: 53 | __Repository__: https://codeberg.org/imigueldiaz/winpath-clean
 
 ## [WinGetLookup](https://www.powershellgallery.com/Packages/WinGetLookup/2.0.0) | 2.0.0
 
@@ -1580,6 +1604,14 @@ It returns the configured current-context and the path to the updated file, simp
 
 __Downloads__: 74 | __Repository__: https://github.com/aberus/aws-eks-kubeconfig-powershell
 
+## [PSMidi](https://www.powershellgallery.com/Packages/PSMidi/0.0.1) | 0.0.1
+
+### Published: 12/28/2025 21:11:22 by Björn 'Bjompen' Sundling
+
+Toys and things for Midi 2.0 in Windows 11
+
+__Downloads__: 5 | __Repository__: 
+
 ## [DscResource.Base](https://www.powershellgallery.com/Packages/DscResource.Base/2.0.0) | 2.0.0
 
 ### Published: 12/28/2025 20:57:03 by DSC Community
@@ -1594,7 +1626,7 @@ __Downloads__: 71,953 | __Repository__: https://github.com/dsccommunity/DscResou
 
 EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
 
-__Downloads__: 68,033 | __Repository__: https://kayasax.github.io/EasyPIM/
+__Downloads__: 68,034 | __Repository__: https://kayasax.github.io/EasyPIM/
 
 ## [SlnLauncher](https://www.powershellgallery.com/Packages/SlnLauncher/0.1.0) | 0.1.0
 
@@ -1603,14 +1635,6 @@ __Downloads__: 68,033 | __Repository__: https://kayasax.github.io/EasyPIM/
 Open the first (or selected) Visual Studio solution (.sln) found under the current directory.
 
 __Downloads__: 6 | __Repository__: https://github.com/pasta0126/SlnLauncher
-
-## [PSCertutil](https://www.powershellgallery.com/Packages/PSCertutil/0.0.2) | 0.0.2
-
-### Published: 12/28/2025 14:27:26 by Jake Hildreth
-
-A PowerShell wrapper for certutil.exe
-
-__Downloads__: 52 | __Repository__: 
 
 ## [EasyPIM.Orchestrator](https://www.powershellgallery.com/Packages/EasyPIM.Orchestrator/1.5.0) | 1.5.0
 
@@ -1626,7 +1650,7 @@ __Downloads__: 1,390 | __Repository__: https://kayasax.github.io/EasyPIM/templat
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,353,286 | __Repository__: https://dbatools.io/
+__Downloads__: 4,353,341 | __Repository__: https://dbatools.io/
 
 ## [FileInspectorX](https://www.powershellgallery.com/Packages/FileInspectorX/1.0.6) | 1.0.6
 
@@ -1685,6 +1709,14 @@ __Downloads__: 3,376 | __Repository__: https://github.com/karamem0/sp-client-cor
 This module will help to validate only Azure Active Directory access tokens.
 
 __Downloads__: 372 | __Repository__: 
+
+## [NativeCommandCompleter.psm](https://www.powershellgallery.com/Packages/NativeCommandCompleter.psm/0.0.1) | 0.0.1
+
+### Published: 12/25/2025 13:50:15 by teramako
+
+Native Command Completer
+
+__Downloads__: 5 | __Repository__: https://github.com/teramako/NativeCommandCompleter.psm
 
 ## [IntuneToFleetMDM](https://www.powershellgallery.com/Packages/IntuneToFleetMDM/0.4.1) | 0.4.1
 
@@ -1768,7 +1800,7 @@ __Downloads__: 216 | __Repository__: https://github.com/Apteco/AptecoPSModules/t
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 142,659 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 142,658 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [PSYT](https://www.powershellgallery.com/Packages/PSYT/0.3.0) | 0.3.0
 
@@ -1784,7 +1816,7 @@ __Downloads__: 1,545 | __Repository__: https://github.com/Blindpete/PSYT/
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 54,549 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 54,546 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [Voicemeeter](https://www.powershellgallery.com/Packages/Voicemeeter/4.1.0) | 4.1.0
 
@@ -1888,7 +1920,7 @@ __Downloads__: 1,736 | __Repository__: https://github.com/daoradmin/Az.RuntimeEn
 
 MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
 
-__Downloads__: 22,556 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+__Downloads__: 22,554 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
 
 ## [FastPing](https://www.powershellgallery.com/Packages/FastPing/0.7.0) | 0.7.0
 
@@ -1928,14 +1960,6 @@ __Downloads__: 60,148 | __Repository__: https://github.com/devizer/Universe.SqlS
 Assorted Utilities to make your day happier than inhaling a party balloon.
 
 __Downloads__: 1,073 | __Repository__: https://github.com/Skatterbrainz/helium
-
-## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.14.20251215) | 1.14.20251215
-
-### Published: 12/20/2025 19:38:34 by Rubrik
-
-PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20251215-36 .
-
-__Downloads__: 89,542 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [LeastPrivilegedMSGraph](https://www.powershellgallery.com/Packages/LeastPrivilegedMSGraph/1.1.0) | 1.1.0
 
@@ -2000,22 +2024,6 @@ __Downloads__: 40,649 | __Repository__: https://github.com/mkht/PSOpenAI
 A PowerShell bundler that merges multiple script files into a single bundle file.
 
 __Downloads__: 10 | __Repository__: https://github.com/Krinopotam/PsBundler
-
-## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.5.1.0) | 1.5.1.0
-
-### Published: 12/19/2025 10:17:12 by Shivam Mathur
-
-Build PHP Extension
-
-__Downloads__: 354 | __Repository__: https://github.com/php/php-windows-builder
-
-## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.5.1.0) | 1.5.1.0
-
-### Published: 12/19/2025 10:17:05 by Shivam Mathur
-
-Build PHP
-
-__Downloads__: 604 | __Repository__: https://github.com/php/php-windows-builder
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.42) | 1.0.42
 
@@ -2097,12 +2105,4 @@ PowerShell module for creating beautiful interactive command-line menus with key
 
 __Downloads__: 33 | __Repository__: https://github.com/krzgvfs/promptly_pwsh
 
-## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/1.0) | 1.0
-
-### Published: 12/18/2025 00:46:17 by Kyle Vanderstoep
-
-PowerShell module for managing Acumatica ERP installations, sites, versions, and patches. Provides automated installation, site creation/removal, configuration management, and patch operations. Requires PowerShell 7.0 or higher.
-
-__Downloads__: 320 | __Repository__: https://github.com/lekker-solutions/acumatica-installerHelper
-
-*Updated: Friday, 09 January 2026 21:52:26 UTC*
+*Updated: Saturday, 10 January 2026 09:52:17 UTC*
