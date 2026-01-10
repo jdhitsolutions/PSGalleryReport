@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 10 January 2026 09:52:26 UTC
+Updated: Saturday, 10 January 2026 21:52:19 UTC
 
 .bat
 .env
@@ -279,7 +279,6 @@ agnoster
 ahk
 ai
 ai-development
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -333,6 +332,8 @@ alias-hint
 alias-tips
 aliases
 aliens
+align
+alignment
 alive
 all
 alletra
@@ -419,6 +420,7 @@ anywhere
 aovpn psmodule
 apache
 apache_maven
+apachekafka
 apexlegends
 api
 api-client
@@ -653,7 +655,6 @@ authoringtools
 authorisation
 authority
 authorization
-authorizationheaders
 authorize.net
 authz
 autify
@@ -834,7 +835,6 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
-azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -861,7 +861,6 @@ azurestackhci
 azurestackhub
 azurestate
 azurestorage
-azurestorageservices
 azuresync
 azuretable
 azuretestplan
@@ -985,9 +984,7 @@ bios_settings
 bios-settings
 bit
 bitbucket
-bitbucket-api
 bitbucket-server
-bitbucketautomation
 bitbucketpipelines
 bitcoin
 bitlocker
@@ -1183,6 +1180,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1242,6 +1240,7 @@ celcat
 celerium
 censor
 center
+centered
 centra
 central
 central-management
@@ -1457,6 +1456,7 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
+cloudmigration
 cloudmigrations
 cloudml
 cloudpc
@@ -1615,6 +1615,7 @@ composite
 compositeresource
 compoundproperty
 compress
+compressedguid
 compression
 compromised
 compute
@@ -1692,6 +1693,7 @@ consoleguitools
 consoleimage
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1849,12 +1851,14 @@ cresendo
 crestron
 cricket
 crime
+critical
 crlf
 crm
 crm2016
 cron
 crontab
 cropping
+cross-forest
 cross-platform
 crossjoin
 crossover
@@ -1959,6 +1963,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dag
 dagger
 dailen
 daily
@@ -2241,7 +2246,6 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
-dir
 dircolors
 direct_send
 director
@@ -2393,6 +2397,7 @@ domainkeys
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2627,6 +2632,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+emailserver
 embedded
 embedding
 emc
@@ -2807,6 +2813,7 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
+exchange2019
 exchangecluster
 exchangehybrid
 exchangemigration
@@ -2873,6 +2880,7 @@ extendedproperties
 extendedproperty
 extendscript
 extensibility
+extensible
 extension
 extensionmethods
 extensionrisk
@@ -2906,6 +2914,7 @@ fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 fancy-terminal
 fanuc
 faq
@@ -4187,6 +4196,7 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
+justification
 jvm
 jwe
 jwk
@@ -4264,6 +4274,7 @@ kline
 klipper
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -4327,7 +4338,6 @@ lame
 lametrictime
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4468,7 +4478,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4485,6 +4494,7 @@ localpolicy
 localrepo
 localrepository
 localuser
+locate
 location
 locationbasedservices
 locations
@@ -4603,7 +4613,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4623,6 +4632,7 @@ magnet
 mail
 mailbox
 mailchimp
+mailflow
 mailgroup
 mailgroupmember
 mailing
@@ -4756,6 +4766,7 @@ measure
 measure-loc
 measure-process
 mecm
+medhacloud
 media
 mediant
 mediaplayer
@@ -4820,6 +4831,7 @@ micro-framework
 micro-orm
 microfocus
 microk8s
+micropython
 microservices
 microsoft
 microsoft_365
@@ -4933,7 +4945,6 @@ mocking
 mod
 modding
 model
-model-management
 modelcontextprotocol
 modeldeployment
 modeling
@@ -5066,7 +5077,9 @@ msword
 mta-sts
 multi
 multi-agent
+multi-domain
 multi-factor
+multi-forest
 multi-language
 multi-platform
 multi-tenant
@@ -5256,7 +5269,6 @@ newsletter
 newspaper
 newtonsoft
 newtonsoft.json
-nexacore
 nexenta
 nexentastor
 nextcloud
@@ -5285,7 +5297,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5974,6 +5985,7 @@ poshgraph-sdk
 poshgrouppolicy
 poshkeepass
 poshlog
+poshnexusiq
 poshorigin
 poshproject
 poshprtg
@@ -6081,7 +6093,8 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
+powershell-5.1+
+powershell-7+
 powershell-art
 powershell-class
 powershell-cmdlets
@@ -6211,6 +6224,7 @@ processmitigation
 processor
 procmap
 procs
+producer
 product
 productid
 productivity
@@ -9197,7 +9211,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9403,7 +9416,6 @@ rackspace
 radarr
 radeon
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9508,7 +9520,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9719,6 +9734,7 @@ rhapsody
 ribbon
 ribcl
 rich
+richtext
 ricoh
 rightcloud
 rightjoin
@@ -10085,6 +10101,7 @@ send-message
 send-mgusermail
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -10535,7 +10552,9 @@ sqlvm
 sqr
 sqrt
 square
+squid
 squire
+squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10550,7 +10569,6 @@ ssdt
 sse
 ssh
 ssh-config
-ssh-keygen
 sshmanagement
 sshserver
 sshservers
@@ -10623,6 +10641,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -10994,6 +11013,7 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
+text-menu
 text-templates
 text-to-image
 text-to-speach"
@@ -11035,6 +11055,7 @@ thread
 threading
 threadjob
 threads
+threadsafe
 threadsanitizer
 threat
 threat-hunting
@@ -11477,6 +11498,8 @@ utm
 uudecode
 uuencode
 uuid
+uuidv3
+uuidv5
 uw
 uwp
 ux
@@ -12083,6 +12106,7 @@ wunderlist
 wus
 wvd
 www
+x-adcommander
 x-cart
 x.509
 x1
@@ -12097,6 +12121,7 @@ x509chain
 x64
 x86
 xa
+xadcommander
 xaf
 xaml
 xbase
