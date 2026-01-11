@@ -3,6 +3,87 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.1) | 0.2.1
+
+### Published: 01/11/2026 09:46:50 by waldo
+
+AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
+
+__Downloads__: 39 | __Repository__: 
+
+## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.4) | 0.0.4
+
+### Published: 01/11/2026 09:33:49 by chrishenn
+
+Chris Pwsh Lib
+
+__Downloads__: 2 | __Repository__: 
+
+## [PoshJohn](https://www.powershellgallery.com/Packages/PoshJohn/1.1.1) | 1.1.1
+
+### Published: 01/11/2026 07:19:22 by ArmaanMcleod
+
+Binary PowerShell module which contains cmdlets to help with extracting and cracking password hashes from password-protected files using John the Ripper (https://www.openwall.com/john/).
+
+__Downloads__: 19 | __Repository__: https://github.com/ArmaanMcleod/PoshJohn
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.11.1) | 26.1.11.1
+
+### Published: 01/11/2026 05:10:28 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,963,974 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [ScheduledTasksManager](https://www.powershellgallery.com/Packages/ScheduledTasksManager/0.10.6) | 0.10.6
+
+### Published: 01/11/2026 05:05:44 by Trent Blackburn
+
+Manages local and clustered scheduled tasks in standalone or failover cluster environments,
+extending the ScheduledTasks module from Microsoft
+
+__Downloads__: 105 | __Repository__: https://github.com/tablackburn/ScheduledTasksManager
+
+## [YouTubeMusicPS](https://www.powershellgallery.com/Packages/YouTubeMusicPS/0.2.2) | 0.2.2
+
+### Published: 01/11/2026 03:45:56 by Trent Blackburn
+
+A PowerShell module for managing YouTube Music
+
+__Downloads__: 1 | __Repository__: 
+
+## [WindowsUpdateTools](https://www.powershellgallery.com/Packages/WindowsUpdateTools/1.6.7) | 1.6.7
+
+### Published: 01/11/2026 03:29:47 by Anthony Balloi - CSOLVE Alex Appleton - CSOLVE
+
+Comprehensive PowerShell module for diagnosing, analyzing, and remediating Windows Update issues in enterprise environments. Includes SetupDiag integration, automated remediation, and detailed health reporting.
+
+__Downloads__: 948 | __Repository__: https://www.csolve.ca/
+
+## [IdLE](https://www.powershellgallery.com/Packages/IdLE/0.7.4) | 0.7.4
+
+### Published: 01/11/2026 01:14:11 by Matthias Fleschuetz
+
+IdentityLifecycleEngine (IdLE) meta-module. Imports IdLE.Core and optional packs.
+
+__Downloads__: 1 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
+
+## [PSClaudeCode](https://www.powershellgallery.com/Packages/PSClaudeCode/1.0.1) | 1.0.1
+
+### Published: 01/10/2026 23:59:11 by Doug Finke
+
+A PowerShell module for building Claude Code using OpenAI, with reference implementations for tool-based interactions.
+
+__Downloads__: 1 | __Repository__: https://github.com/dfinke/PSClaudeCode
+
+## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.10.1811) | 2026.1.10.1811
+
+### Published: 01/10/2026 23:11:17 by Jake Hildreth
+
+Deck makes terminal presentations easy!
+
+__Downloads__: 10 | __Repository__: 
+
 ## [PowerSage](https://www.powershellgallery.com/Packages/PowerSage/1.0.13) | 1.0.13
 
 ### Published: 01/10/2026 20:20:28 by MayorAbandoned
@@ -18,14 +99,6 @@ __Downloads__: 211 | __Repository__: https://github.com/AbandonedLand/PowerSage
 A wrapper for `wsl.exe`. It parses WSL output into standard PowerShell objects, provides safety checks for destructive operations, and automates the migration of distributions between drives.
 
 __Downloads__: 4 | __Repository__: https://gitlab.com/phellams/pwsl.git
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.10.3) | 26.1.10.3
-
-### Published: 01/10/2026 17:05:27 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,963,974 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.6.2) | 0.6.2
 
@@ -51,14 +124,6 @@ PowerShell module to interact with plug.events.
 
 __Downloads__: 11 | __Repository__: https://github.com/autosysops/PowerShell_PlugEvents
 
-## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.10.1006) | 2026.1.10.1006
-
-### Published: 01/10/2026 15:06:15 by Jake Hildreth
-
-Deck makes terminal presentations easy!
-
-__Downloads__: 10 | __Repository__: 
-
 ## [MedhaCloud-M365MigrationTools](https://www.powershellgallery.com/Packages/MedhaCloud-M365MigrationTools/1.0.0) | 1.0.0
 
 ### Published: 01/10/2026 12:27:40 by MedhaCloud
@@ -82,14 +147,6 @@ __Downloads__: 3 | __Repository__: https://medhacloud.com/professional-services/
 Dataverse data manipulation cmdlets
 
 __Downloads__: 11,441 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
-
-## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.1.9) | 0.1.9
-
-### Published: 01/10/2026 11:43:08 by waldo
-
-AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
-
-__Downloads__: 39 | __Repository__: 
 
 ## [AppLocate](https://www.powershellgallery.com/Packages/AppLocate/0.1.6) | 0.1.6
 
@@ -257,14 +314,6 @@ Upload and download documents to Apprxr
 
 __Downloads__: 247 | __Repository__: 
 
-## [PoshJohn](https://www.powershellgallery.com/Packages/PoshJohn/1.1.0) | 1.1.0
-
-### Published: 01/09/2026 08:55:47 by ArmaanMcleod
-
-Binary PowerShell module which contains cmdlets to help with extracting and cracking password hashes from password-protected files using John the Ripper (https://www.openwall.com/john/).
-
-__Downloads__: 19 | __Repository__: https://github.com/ArmaanMcleod/PoshJohn
-
 ## [Sql](https://www.powershellgallery.com/Packages/Sql/1.1.0) | 1.1.0
 
 ### Published: 01/09/2026 08:33:19 by Cédric Belin <cedx@outlook.com>
@@ -429,7 +478,7 @@ __Downloads__: 13,631 | __Repository__: https://docs.justcat.it/
 
 A PowerShell module to download and install fonts from GoogleFonts.
 
-__Downloads__: 17,396 | __Repository__: https://github.com/PSModule/GoogleFonts
+__Downloads__: 17,397 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.15.3) | 0.9.15.3
 
@@ -629,7 +678,7 @@ __Downloads__: 45 | __Repository__:
 
 Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
 
-__Downloads__: 2,306 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
+__Downloads__: 2,307 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.60) | 12.0.0.60
 
@@ -813,7 +862,7 @@ __Downloads__: 417 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
 Test-NetHLK is a module that compares a NICs driver configuration and switch capabilities against the MSFT documented requirements
 
-__Downloads__: 16,957 | __Repository__: https://github.com/microsoft/Test-NetHLK
+__Downloads__: 16,958 | __Repository__: https://github.com/microsoft/Test-NetHLK
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.11.0) | 2.11.0
 
@@ -1189,6 +1238,14 @@ Powershell Buffer Insert Text Editor
 
 __Downloads__: 46 | __Repository__: https://github.com/arnaudcharles/PSBITE
 
+## [PSWEE](https://www.powershellgallery.com/Packages/PSWEE/1.3.0) | 1.3.0
+
+### Published: 01/01/2026 19:28:31 by arnaudcharles
+
+PowerShell WinRM Exmulated Explorer Module
+
+__Downloads__: 46 | __Repository__: https://github.com/arnaudcharles/PSWEE
+
 ## [SmartAceDesigns.ScriptoFormTemplates](https://www.powershellgallery.com/Packages/SmartAceDesigns.ScriptoFormTemplates/2026.1.0) | 2026.1.0
 
 ### Published: 01/01/2026 17:41:57 by Smart Ace Designs
@@ -1370,14 +1427,6 @@ Scripts related to Azure Storage
 
 __Downloads__: 2,327 | __Repository__: https://scripting.arcus-azure.net/
 
-## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.6.0) | 1.6.0
-
-### Published: 12/31/2025 08:17:52 by Arcus
-
-Scripts related to Azure security
-
-__Downloads__: 20,754 | __Repository__: https://scripting.arcus-azure.net/
-
 ## [Arcus.Scripting.Sql](https://www.powershellgallery.com/Packages/Arcus.Scripting.Sql/1.6.0) | 1.6.0
 
 ### Published: 12/31/2025 08:17:52 by Arcus
@@ -1385,6 +1434,14 @@ __Downloads__: 20,754 | __Repository__: https://scripting.arcus-azure.net/
 Scripts related to Azure SQL Database Migrations
 
 __Downloads__: 10,275 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.6.0) | 1.6.0
+
+### Published: 12/31/2025 08:17:52 by Arcus
+
+Scripts related to Azure security
+
+__Downloads__: 20,754 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.6.0) | 1.6.0
 
@@ -1514,15 +1571,6 @@ Converts Pixquare .px files to terminal pixel graphics using ANSI True Color
 
 __Downloads__: 7 | __Repository__: https://github.com/jakehildreth/PX2PS
 
-## [ScheduledTasksManager](https://www.powershellgallery.com/Packages/ScheduledTasksManager/0.10.1) | 0.10.1
-
-### Published: 12/30/2025 07:37:32 by Trent Blackburn
-
-Manages local and clustered scheduled tasks in standalone or failover cluster environments,
-extending the ScheduledTasks module from Microsoft
-
-__Downloads__: 105 | __Repository__: https://github.com/tablackburn/ScheduledTasksManager
-
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.23.0) | 0.23.0
 
 ### Published: 12/30/2025 05:39:19 by Takatoshi Kuriyama
@@ -1619,22 +1667,6 @@ A PowerShell module to query the WinGet (Windows Package Manager) repository for
 
 __Downloads__: 68 | __Repository__: https://github.com/Ringosystems/WinGetLookup
 
-## [WindowsUpdateTools](https://www.powershellgallery.com/Packages/WindowsUpdateTools/1.6.3) | 1.6.3
-
-### Published: 12/29/2025 01:47:41 by Anthony Balloi - CSOLVE Alex Appleton - CSOLVE
-
-Comprehensive PowerShell module for diagnosing, analyzing, and remediating Windows Update issues in enterprise environments. Includes SetupDiag integration, automated remediation, and detailed health reporting.
-
-__Downloads__: 948 | __Repository__: https://www.csolve.ca/
-
-## [PSRedditTUI](https://www.powershellgallery.com/Packages/PSRedditTUI/0.1.2) | 0.1.2
-
-### Published: 12/28/2025 22:13:33 by Jorgeasaurus
-
-A PowerShell module for browsing Reddit in a Terminal UI using ConsoleGui tools. Features include subreddit browsing, favorites management, and JSON API integration.
-
-__Downloads__: 20 | __Repository__: https://github.com/jorgeasaurus/PSRedditTUI
-
 ## [Aberus.AWS.Tools.EKS.KubeConfig](https://www.powershellgallery.com/Packages/Aberus.AWS.Tools.EKS.KubeConfig/5.0.2) | 5.0.2
 
 ### Published: 12/28/2025 21:23:07 by Aleksander Berus
@@ -1666,7 +1698,7 @@ __Downloads__: 72,073 | __Repository__: https://github.com/dsccommunity/DscResou
 
 EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
 
-__Downloads__: 68,169 | __Repository__: https://kayasax.github.io/EasyPIM/
+__Downloads__: 68,168 | __Repository__: https://kayasax.github.io/EasyPIM/
 
 ## [SlnLauncher](https://www.powershellgallery.com/Packages/SlnLauncher/0.1.0) | 0.1.0
 
@@ -1698,7 +1730,7 @@ __Downloads__: 1,391 | __Repository__: https://kayasax.github.io/EasyPIM/templat
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,362,351 | __Repository__: https://dbatools.io/
+__Downloads__: 4,362,392 | __Repository__: https://dbatools.io/
 
 ## [FileInspectorX](https://www.powershellgallery.com/Packages/FileInspectorX/1.0.6) | 1.0.6
 
@@ -1944,7 +1976,7 @@ __Downloads__: 303,921 | __Repository__: https://github.com/Corsinvest/cv4pve-ap
 
 Various functions working with DevExpress XAF, eXpandFramework and not only
 
-__Downloads__: 42,283 | __Repository__: http://xpandpwsh.expandframework.com/
+__Downloads__: 42,284 | __Repository__: http://xpandpwsh.expandframework.com/
 
 ## [Az.RuntimeEnvironment](https://www.powershellgallery.com/Packages/Az.RuntimeEnvironment/1.0.8) | 1.0.8
 
@@ -2073,36 +2105,4 @@ Interact with the API of an AutomateNOW! instance
 
 __Downloads__: 474 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
 
-## [PS_HWinfo](https://www.powershellgallery.com/Packages/PS_HWinfo/1.0.3) | 1.0.3
-
-### Published: 12/18/2025 18:27:43 by Jared Heinrichs
-
-Displays a professional hardware info dashboard in the terminal, inspired by HWinfo64. Shows CPU, motherboard, BIOS, GPU, monitor, memory, and hard drive info in a compact Format-Table layout.
-
-__Downloads__: 26 | __Repository__: https://github.com/jaredheinrichs/PS_HWinfo
-
-## [Broadcom.Community.VCFLicensing](https://www.powershellgallery.com/Packages/Broadcom.Community.VCFLicensing/1.0.0) | 1.0.0
-
-### Published: 12/18/2025 15:25:26 by William Lam
-
-PowerShell Module for automating license entitlement between VCF Business Service Console and VCF Operations
-
-__Downloads__: 5 | __Repository__: https://github.com/lamw/Broadcom.Community.VCFLicensing
-
-## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.8.5) | 1.8.5
-
-### Published: 12/18/2025 14:36:56 by Steven Villardi
-
-PowerShell module to assist with Sale Engineering activities.
-
-__Downloads__: 3,049,820 | __Repository__: https://github.com/logicmonitor/Logic.Monitor.SE
-
-## [PsDac](https://www.powershellgallery.com/Packages/PsDac/1.8.1) | 1.8.1
-
-### Published: 12/18/2025 10:24:05 by Steffen Kampmann
-
-PsDac connects DacFx and PowerShell. It gives you PowerShell Cmdlets with the power of Microsoft.SqlServer.DacFx.
-
-__Downloads__: 81,610 | __Repository__: https://abbgrade.github.io/PsDac/
-
-*Updated: Saturday, 10 January 2026 21:52:10 UTC*
+*Updated: Sunday, 11 January 2026 09:52:19 UTC*
