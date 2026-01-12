@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 12 January 2026 09:57:32 UTC
+Updated: Monday, 12 January 2026 21:53:07 UTC
 
 .bat
 .env
@@ -148,7 +148,6 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
-activerecord
 activeresponse
 activesession
 activiti
@@ -363,6 +362,7 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
+amend
 ami
 amiga
 amp
@@ -1110,7 +1110,6 @@ bucket
 buddhist
 budget
 bugbounty
-bugzilla
 build
 build-log
 build-scripts
@@ -1189,7 +1188,6 @@ capacitymanagement
 capainstaller
 capaone
 capasystems
-capgemini
 capslock
 captcha
 capture
@@ -2024,7 +2022,6 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
-dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2496,7 +2493,6 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 du
 dual-stack
 duck
@@ -2619,7 +2615,6 @@ eli5
 elitism
 elk
 elm
-elmah-io
 elonmusk
 eloomi
 eloqua
@@ -3387,6 +3382,7 @@ gitops
 gitrepo
 gitrepository
 glass
+glimps
 glob
 global
 globalclipboard
@@ -3451,6 +3447,8 @@ gpp
 gps
 gpt
 gpx
+gradient
+gradientgenerator
 gradle
 grafana
 grafanaapi
@@ -3596,7 +3594,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -4181,6 +4178,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -4533,7 +4531,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -9289,6 +9286,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -9401,7 +9399,6 @@ quantum
 quarantine
 queries
 query
-querybuilder
 queryexcel
 querystring
 question
@@ -9506,6 +9503,7 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
+rebase
 reboot
 rebootnodeifneeded
 recent
@@ -9514,7 +9512,6 @@ recommendation
 reconcile
 reconnaissance
 reconstruction
-record
 recording
 recordings
 recordsmanagement
@@ -9730,6 +9727,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -10584,7 +10583,6 @@ ssdt
 sse
 ssh
 ssh-config
-ssh-keygen
 sshmanagement
 sshserver
 sshservers
@@ -10896,6 +10894,7 @@ takeown
 tally
 talxis
 tandem
+tanss
 tanzu
 tar
 tar-compression
@@ -11319,6 +11318,7 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-field
+ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration

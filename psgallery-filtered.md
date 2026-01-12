@@ -3,29 +3,141 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [NetboxTools](https://www.powershellgallery.com/Packages/NetboxTools/1.0.1) | 1.0.1
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.15.1) | 2.15.1
 
-### Published: 01/12/2026 09:45:42 by Sebastian Claesson
+### Published: 01/12/2026 21:37:45 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 11,446 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.7.1) | 0.7.1
+
+### Published: 01/12/2026 20:35:00 by Sam Erde
+
+A PowerShell module that helps you get un-stuck from version conflicts that occur when using modules that depend on different versions of the same dependency (such as the Microsoft Authentication Library (MSAL)).
+
+__Downloads__: 89 | __Repository__: https://github.com/SamErde/DLLPickle
+
+## [xRemoteDesktopSessionHost](https://www.powershellgallery.com/Packages/xRemoteDesktopSessionHost/3.0.0) | 3.0.0
+
+### Published: 01/12/2026 19:53:06 by DSC Community
+
+Module with DSC Resources for Remote Desktop Session Host
+
+__Downloads__: 545,933 | __Repository__: https://github.com/dsccommunity/xRemoteDesktopSessionHost
+
+## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.12.1243) | 2026.1.12.1243
+
+### Published: 01/12/2026 17:43:20 by Jake Hildreth
+
+Deck makes terminal presentations easy!
+
+__Downloads__: 23 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.12.3) | 26.1.12.3
+
+### Published: 01/12/2026 17:09:27 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,964,787 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.603.4) | 1.603.4
+
+### Published: 01/12/2026 16:46:07 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 13,442 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/MicrosoftFabricMgmt/1.0.2) | 1.0.2
+
+### Published: 01/12/2026 16:03:18 by Rob Sewell Jess Pomfret and Tiago Balabuch on behalf of Fabric Community
+
+PowerShell module for managing Microsoft Fabric resources via the Fabric API. Supports workspaces, lakehouses, warehouses, notebooks, and more.
+
+__Downloads__: 0 | __Repository__: https://github.com/microsoft/fabric-toolbox/
+
+## [CablersPowershellCore](https://www.powershellgallery.com/Packages/CablersPowershellCore/2.1.6) | 2.1.6
+
+### Published: 01/12/2026 15:09:52 by Brad Bullock
+
+Cablers Powershell base module for all devices
+
+__Downloads__: 4,721 | __Repository__: https://github.com/srsbod/CablersPowershellCore
+
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.13.425) | 1.13.425
+
+### Published: 01/12/2026 14:28:11 by Friedrich Weinmann
+
+General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+
+__Downloads__: 9,700,657 | __Repository__: http://psframework.org/
+
+## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.55) | 0.0.55
+
+### Published: 01/12/2026 12:49:22 by Bastien Perez
+
+Module PS365
+
+__Downloads__: 77 | __Repository__: 
+
+## [PowerShellRun](https://www.powershellgallery.com/Packages/PowerShellRun/0.16.0) | 0.16.0
+
+### Published: 01/12/2026 12:35:39 by mdgrs-mei
+
+Terminal Based Launcher and Fuzzy Finder for PowerShell
+
+__Downloads__: 37,145 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
+
+## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.6.1.0) | 1.6.1.0
+
+### Published: 01/12/2026 12:34:09 by Shivam Mathur
+
+Build PHP Extension
+
+__Downloads__: 361 | __Repository__: https://github.com/php/php-windows-builder
+
+## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.6.1.0) | 1.6.1.0
+
+### Published: 01/12/2026 12:34:01 by Shivam Mathur
+
+Build PHP
+
+__Downloads__: 617 | __Repository__: https://github.com/php/php-windows-builder
+
+## [NetboxTools](https://www.powershellgallery.com/Packages/NetboxTools/1.1.0) | 1.1.0
+
+### Published: 01/12/2026 11:46:25 by Sebastian Claesson
 
 Netbox integration for PowerShell
 
 __Downloads__: 13 | __Repository__: https://github.com/NetboxTools/NetboxTools
 
-## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.11) | 0.2.11
+## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/2.2.2) | 2.2.2
 
-### Published: 01/12/2026 07:56:12 by waldo
+### Published: 01/12/2026 11:29:56 by Loïc MICHEL
+
+EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
+
+__Downloads__: 68,299 | __Repository__: https://kayasax.github.io/EasyPIM/
+
+## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/1.7.0) | 1.7.0
+
+### Published: 01/12/2026 10:33:23 by markorr321
+
+Simplify Microsoft Entra PIM role management with an interactive console experience. Features browser-based authentication with passkey/FIDO2 support, automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
+
+__Downloads__: 66 | __Repository__: https://github.com/markorr321/Entra-PIM
+
+## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.12) | 0.2.12
+
+### Published: 01/12/2026 10:20:12 by waldo
 
 AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
 
 __Downloads__: 179 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.12.1) | 26.1.12.1
-
-### Published: 01/12/2026 05:13:57 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,964,804 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.3.3) | 0.3.3
 
@@ -84,14 +196,6 @@ Send emails in PowerShell via Graph API, or SMTP (MailKit) with Modern Auth (OAu
 
 __Downloads__: 236 | __Repository__: https://exchangepermissions.alweys.ch/modernmailtools
 
-## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.11.1148) | 2026.1.11.1148
-
-### Published: 01/11/2026 16:48:34 by Jake Hildreth
-
-Deck makes terminal presentations easy!
-
-__Downloads__: 23 | __Repository__: 
-
 ## [Pri.Essentials.DotnetPsCmds](https://www.powershellgallery.com/Packages/Pri.Essentials.DotnetPsCmds/0.1.0) | 0.1.0
 
 ### Published: 01/11/2026 15:55:44 by Peter Ritchie
@@ -107,14 +211,6 @@ __Downloads__: 3 | __Repository__: https://github.com/peteraritchie/pri.essentia
 PowerShell Module to find compatible attestation FIDO2 keys for Entra.
 
 __Downloads__: 7,741 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.603.3) | 1.603.3
-
-### Published: 01/11/2026 10:03:49 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 13,442 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.4) | 0.0.4
 
@@ -164,14 +260,6 @@ A wrapper for `wsl.exe`. It parses WSL output into standard PowerShell objects, 
 
 __Downloads__: 8 | __Repository__: https://gitlab.com/phellams/pwsl.git
 
-## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.6.2) | 0.6.2
-
-### Published: 01/10/2026 16:54:00 by Sam Erde
-
-A PowerShell module that helps you get un-stuck from version conflicts that occur when using modules that depend on different versions of the same dependency (such as the Microsoft Authentication Library (MSAL)).
-
-__Downloads__: 89 | __Repository__: https://github.com/SamErde/DLLPickle
-
 ## [PlugEvents](https://www.powershellgallery.com/Packages/PlugEvents/0.0.2) | 0.0.2
 
 ### Published: 01/10/2026 16:39:04 by AutoSysOps (Leo Visser)
@@ -196,14 +284,6 @@ Exchange Server diagnostic toolkit - comprehensive health checks, mail flow anal
 
 __Downloads__: 4 | __Repository__: https://medhacloud.com/professional-services/server-support/exchange-server-support
 
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.15.0) | 2.15.0
-
-### Published: 01/10/2026 11:57:42 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 11,446 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
-
 ## [AppLocate](https://www.powershellgallery.com/Packages/AppLocate/0.1.6) | 0.1.6
 
 ### Published: 01/10/2026 11:02:07 by aalex954
@@ -227,22 +307,6 @@ __Downloads__: 3,920 | __Repository__: https://github.com/variableresistor/Nexus
 Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
 __Downloads__: 1,932 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.6.0.0) | 1.6.0.0
-
-### Published: 01/10/2026 06:08:35 by Shivam Mathur
-
-Build PHP Extension
-
-__Downloads__: 361 | __Repository__: https://github.com/php/php-windows-builder
-
-## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.6.0.0) | 1.6.0.0
-
-### Published: 01/10/2026 06:08:28 by Shivam Mathur
-
-Build PHP
-
-__Downloads__: 617 | __Repository__: https://github.com/php/php-windows-builder
 
 ## [SageTrader](https://www.powershellgallery.com/Packages/SageTrader/1.0.3) | 1.0.3
 
@@ -418,14 +482,6 @@ PowerShell module for listing Volkskrant articles
 
 __Downloads__: 7,620 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
-## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.53) | 0.0.53
-
-### Published: 01/08/2026 16:52:16 by Bastien Perez
-
-Module PS365
-
-__Downloads__: 77 | __Repository__: 
-
 ## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.119.0) | 0.119.0
 
 ### Published: 01/08/2026 15:38:23 by Gael Colas
@@ -456,7 +512,7 @@ __Downloads__: 11 | __Repository__: https://github.com/sumanfbc/DiskCleaner
 
 This module contains class-based DSC resources for Databricks and Unity Catalog with a focus on Azure.
 
-__Downloads__: 2,092 | __Repository__: https://github.com/Gijsreyn/DatabricksDsc
+__Downloads__: 2,091 | __Repository__: https://github.com/Gijsreyn/DatabricksDsc
 
 ## [MapiADTools](https://www.powershellgallery.com/Packages/MapiADTools/1.5.1) | 1.5.1
 
@@ -918,7 +974,7 @@ __Downloads__: 24 | __Repository__: https://github.com/smitzlroy/azlocaltsgtool
 
 Cmdlets to provide and manage SQL servers for tests.
 
-__Downloads__: 20,350 | __Repository__: https://github.com/abbgrade/PsSqlTestServer
+__Downloads__: 20,353 | __Repository__: https://github.com/abbgrade/PsSqlTestServer
 
 ## [DevDirManager](https://www.powershellgallery.com/Packages/DevDirManager/1.5.1) | 1.5.1
 
@@ -927,14 +983,6 @@ __Downloads__: 20,350 | __Repository__: https://github.com/abbgrade/PsSqlTestSer
 A PowerShell module the easily manage local development folder with various git repositories across multiple computers.
 
 __Downloads__: 45 | __Repository__: https://github.com/AndiBellstedt/DevDirManager
-
-## [PowerShellRun](https://www.powershellgallery.com/Packages/PowerShellRun/0.15.0) | 0.15.0
-
-### Published: 01/05/2026 12:09:54 by mdgrs-mei
-
-Terminal Based Launcher and Fuzzy Finder for PowerShell
-
-__Downloads__: 37,145 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
 
 ## [publishmap](https://www.powershellgallery.com/Packages/publishmap/1.6.5.0) | 1.6.5.0
 
@@ -1563,14 +1611,6 @@ Windows PowerShell module to interact with Atlassian JIRA
 
 __Downloads__: 2,624,482 | __Repository__: https://atlassianps.org/module/JiraPS
 
-## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/1.6.2) | 1.6.2
-
-### Published: 12/30/2025 22:35:57 by markorr321
-
-Simplify Microsoft Entra PIM role management with an interactive console experience. Features Windows native SSO via WAM (Web Account Manager), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
-
-__Downloads__: 66 | __Repository__: https://github.com/markorr321/Entra-PIM
-
 ## [SKYAPI](https://www.powershellgallery.com/Packages/SKYAPI/0.4.4) | 0.4.4
 
 ### Published: 12/30/2025 18:51:02 by Michael Panagos
@@ -1626,6 +1666,14 @@ __Downloads__: 6 | __Repository__: https://github.com/tablackburn/ReScenePS
 A command-line predictor written in F# that suggests code snippets based on the input. This module requires PowerShell 7.2 or higher and PSReadLine 2.2.2. or higher.
 
 __Downloads__: 114 | __Repository__: https://github.com/krymtkts/SnippetPredictor/
+
+## [Gradient](https://www.powershellgallery.com/Packages/Gradient/0.1) | 0.1
+
+### Published: 12/29/2025 22:11:31 by James Brundage
+
+CSS and SVG Gradient Generator
+
+__Downloads__: 62 | __Repository__: https://github.com/PowerShellWeb/Gradient
 
 ## [Compare-MeFileHash](https://www.powershellgallery.com/Packages/Compare-MeFileHash/1.0) | 1.0
 
@@ -1716,14 +1764,6 @@ This module contains common classes that can be used for class-based DSC resourc
 
 __Downloads__: 72,413 | __Repository__: https://github.com/dsccommunity/DscResource.Base
 
-## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/2.2.1) | 2.2.1
-
-### Published: 12/28/2025 16:21:48 by Loïc MICHEL
-
-EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
-
-__Downloads__: 68,300 | __Repository__: https://kayasax.github.io/EasyPIM/
-
 ## [SlnLauncher](https://www.powershellgallery.com/Packages/SlnLauncher/0.1.0) | 0.1.0
 
 ### Published: 12/28/2025 15:14:39 by pasta0126
@@ -1754,7 +1794,7 @@ __Downloads__: 1,396 | __Repository__: https://kayasax.github.io/EasyPIM/templat
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 4,370,704 | __Repository__: https://dbatools.io/
+__Downloads__: 4,370,752 | __Repository__: https://dbatools.io/
 
 ## [FileInspectorX](https://www.powershellgallery.com/Packages/FileInspectorX/1.0.6) | 1.0.6
 
@@ -1868,7 +1908,7 @@ __Downloads__: 10 | __Repository__: https://github.com/OpusTecnica/PaperinikDB
 
 MarkX - Markdown, XML, and PowerShell
 
-__Downloads__: 67 | __Repository__: https://github.com/StartAutomating/MarkX
+__Downloads__: 66 | __Repository__: https://github.com/StartAutomating/MarkX
 
 ## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.19) | 1.0.19
 
@@ -1936,7 +1976,7 @@ __Downloads__: 2,373 | __Repository__:
 
 Hook Win32 APIs in PowerShell.`nSee https://github.com/jborean93/PSDetour for more info
 
-__Downloads__: 1,447 | __Repository__: https://github.com/jborean93/PSDetour
+__Downloads__: 1,446 | __Repository__: https://github.com/jborean93/PSDetour
 
 ## [PSPhlebotomist](https://www.powershellgallery.com/Packages/PSPhlebotomist/2025.12.23.508) | 2025.12.23.508
 
@@ -2055,7 +2095,7 @@ The intended use of this project is for Continuous Integration (CI) scenarios, w
 
 By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
 
-__Downloads__: 60,783 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
+__Downloads__: 60,749 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
 
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.3.0) | 1.3.0
 
@@ -2065,44 +2105,4 @@ Assorted Utilities to make your day happier than inhaling a party balloon.
 
 __Downloads__: 1,081 | __Repository__: https://github.com/Skatterbrainz/helium
 
-## [LeastPrivilegedMSGraph](https://www.powershellgallery.com/Packages/LeastPrivilegedMSGraph/1.1.0) | 1.1.0
-
-### Published: 12/19/2025 23:16:54 by Morten Mynster
-
-Analyzes Microsoft Graph permissions and provides least privileged recommendations
-
-__Downloads__: 54 | __Repository__: 
-
-## [command-not-found](https://www.powershellgallery.com/Packages/command-not-found/0.2.0) | 0.2.0
-
-### Published: 12/19/2025 23:11:16 by PowerShell
-
-Provide feedback on the 'CommandNotFound' error stemmed from running an executable on Linux platform.
-
-__Downloads__: 2,478 | __Repository__: https://github.com/PowerShell/command-not-found
-
-## [Dune](https://www.powershellgallery.com/Packages/Dune/1.0.0) | 1.0.0
-
-### Published: 12/19/2025 22:37:08 by yendico AG
-
-Powershell Wrapper for Dune API (duneframework.com)
-
-__Downloads__: 20 | __Repository__: 
-
-## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.24.5) | 0.24.5
-
-### Published: 12/19/2025 20:07:47 by DSC Community
-
-Common functions used in DSC Resources
-
-__Downloads__: 44,036 | __Repository__: https://github.com/dsccommunity/DscResource.Common
-
-## [IntegrisPowerShell](https://www.powershellgallery.com/Packages/IntegrisPowerShell/2.0.84) | 2.0.84
-
-### Published: 12/19/2025 15:45:16 by David McVicker
-
-Integris PowerShell module
-
-__Downloads__: 831 | __Repository__: 
-
-*Updated: Monday, 12 January 2026 09:57:22 UTC*
+*Updated: Monday, 12 January 2026 21:52:58 UTC*
