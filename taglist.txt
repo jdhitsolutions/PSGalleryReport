@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 13 January 2026 21:53:24 UTC
+Updated: Wednesday, 14 January 2026 09:55:40 UTC
 
 .bat
 .env
@@ -224,7 +224,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -363,6 +362,7 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
+amend
 ami
 amiga
 amp
@@ -1168,7 +1168,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1200,6 +1199,7 @@ card
 cards
 cardwirth
 careport
+cares
 cargo
 carousel
 carrier
@@ -2282,6 +2282,7 @@ disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
+disasm
 disasterrecovery
 disconnect
 disconnectedoperations
@@ -2379,6 +2380,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -3034,7 +3036,6 @@ finance
 finance&operations
 financeandoperations
 financeoperations
-finances
 financial
 financialedge
 financialmodeling
@@ -3084,7 +3085,6 @@ flasharray
 flatfile
 flatten
 flaui
-flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3579,7 +3579,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3634,7 +3633,6 @@ hex
 hexcolor
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -4456,6 +4454,7 @@ lint
 linting
 linux
 linux-command
+linux-style
 linuxssh
 liquid
 liquit
@@ -4637,6 +4636,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -5615,7 +5615,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -9508,6 +9507,7 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
+rebase
 reboot
 rebootnodeifneeded
 recent
@@ -9732,6 +9732,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -10139,7 +10141,6 @@ sequence
 serial
 serialization
 serialize
-serialnumber
 sericemanagement
 series
 serilog
@@ -11868,6 +11869,7 @@ whfb
 whisper
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
