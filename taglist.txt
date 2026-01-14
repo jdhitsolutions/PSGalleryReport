@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 14 January 2026 09:55:40 UTC
+Updated: Wednesday, 14 January 2026 21:53:48 UTC
 
 .bat
 .env
@@ -145,7 +145,6 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
-activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -224,6 +223,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -1155,7 +1155,6 @@ bzip2-compression
 c
 c#
 c++
-c2r
 ca
 cache
 cachedroles
@@ -1168,6 +1167,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1398,7 +1398,6 @@ cli-menu
 cli-menu-helpers
 clickfix
 clickonce
-clicktorun
 client
 client-management
 clientpushsettings
@@ -1929,7 +1928,6 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
-customformatregionalsettings
 custominformationservices
 customis
 customisation
@@ -3036,6 +3034,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financialmodeling
@@ -3085,6 +3084,7 @@ flasharray
 flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3579,6 +3579,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcp
 hcx
 hdfs
@@ -3633,6 +3634,7 @@ hex
 hexcolor
 hexdump
 hg
+hibernate
 hibernation
 hibp
 hidden
@@ -3922,7 +3924,6 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructure-as-code
@@ -3968,7 +3969,6 @@ installercache
 installers
 installoffice
 installofficertool
-installtotalcommander
 instance
 instant
 instapush
@@ -5615,6 +5615,7 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
+osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5952,7 +5953,6 @@ pointer
 pokeapi
 pokedex
 pokemon
-pokemontcg
 poker
 policies
 policy
@@ -9234,7 +9234,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
@@ -9629,7 +9628,6 @@ remotepro
 remoteregistry
 remotesession
 remoting
-removal
 remove
 remove-githubsecrets
 remove-itemproperty
@@ -10141,6 +10139,7 @@ sequence
 serial
 serialization
 serialize
+serialnumber
 sericemanagement
 series
 serilog
@@ -10919,7 +10918,6 @@ tatux
 tauricraft
 taxjar
 taxonomy
-tcg
 tcp
 tcp/ip
 tcpip
@@ -11300,7 +11298,6 @@ typing
 tzutil
 uac
 uag
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -11541,7 +11538,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaults
@@ -11572,7 +11568,6 @@ vdswitch
 vduplink
 ve7cc
 vector
-vectormath
 veeam
 veeampn
 veenendaal

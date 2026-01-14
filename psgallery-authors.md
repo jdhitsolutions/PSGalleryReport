@@ -5,29 +5,29 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
-+ [Worxspace](#Worxspace) (188)
++ [Worxspace](#Worxspace) (185)
 + [psdevuk](#psdevuk) (107)
 + [Broadcom](#Broadcom) (100)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (89)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (88)
 + [Texas Roemer](#Texas-Roemer) (80)
 + [Friedrich Weinmann](#Friedrich-Weinmann) (77)
-+ [James Brundage](#James-Brundage) (66)
++ [James Brundage](#James-Brundage) (65)
 + [Jan Hoek](#Jan-Hoek) (62)
-+ [Adam Driscoll](#Adam-Driscoll) (60)
++ [Adam Driscoll](#Adam-Driscoll) (59)
 + [Pawel Wujczyk](#Pawel-Wujczyk) (56)
 + [PSModule](#PSModule) (55)
 + [Pwshrc Maintainers](#Pwshrc-Maintainers) (53)
 + [Ironman Software](#Ironman-Software) (45)
 + [Jeff Hicks](#Jeff-Hicks) (42)
-+ [Roger Brown](#Roger-Brown) (39)
-+ [John.Leyva](#JohnLeyva) (39)
 + [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (38)
++ [Roger Brown](#Roger-Brown) (38)
++ [John.Leyva](#JohnLeyva) (38)
 + [owen.heaume](#owenheaume) (33)
-+ [Mark5900](#Mark5900) (31)
 + [Adam Bacon](#Adam-Bacon) (31)
 + [Michael Haken](#Michael-Haken) (31)
++ [Mark5900](#Mark5900) (31)
 + [Andreas Eulitz](#Andreas-Eulitz) (29)
-+ [Jakoby](#Jakoby) (29)
++ [Jakoby](#Jakoby) (28)
 + [Michal Gajda](#Michal-Gajda) (28)
 + [WebMD Health Services](#WebMD-Health-Services) (26)
 
@@ -36,7 +36,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[pspulumiyaml.azurenative 0.0.4](https://github.com/worxspace/PSPulumiYaml)**  - Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi [*06/26/2022 06:32:46*]
 + **pspulumiyaml.azurenative.digitaltwins 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 06:25:32*]
 + **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
-+ **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
@@ -50,16 +49,14 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.workloads 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:53*]
 + **pspulumiyaml.azurenative.solutions 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:50*]
 + **pspulumiyaml.azurenative.synapse 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:49*]
-+ **pspulumiyaml.azurenative.storagesync 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:47*]
-+ **pspulumiyaml.azurenative.storagecache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.sqlvirtualmachine 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.storsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:43*]
 + **pspulumiyaml.azurenative.storage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:40*]
 + **pspulumiyaml.azurenative.storagepool 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:39*]
 + **pspulumiyaml.azurenative.streamanalytics 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:38*]
 + **pspulumiyaml.azurenative.subscription 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:37*]
-+ **pspulumiyaml.azurenative.servicelinker 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
 + **pspulumiyaml.azurenative.signalrservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
++ **pspulumiyaml.azurenative.servicelinker 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
 + **pspulumiyaml.azurenative.scvmm 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:16*]
 + **pspulumiyaml.azurenative.resourceconnector 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:15*]
 + **pspulumiyaml.azurenative.servicebus 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:12*]
@@ -110,8 +107,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.managedidentity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:25*]
 + **pspulumiyaml.azurenative.machinelearningservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:20*]
 + **pspulumiyaml.azurenative.maintenance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:09*]
-+ **pspulumiyaml.azurenative.logic 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.insights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
++ **pspulumiyaml.azurenative.logic 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.machinelearningcompute 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:01*]
 + **pspulumiyaml.azurenative.kubernetesconfiguration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:00*]
 + **pspulumiyaml.azurenative.logz 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:53*]
@@ -140,8 +137,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.healthcareapis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:17*]
 + **pspulumiyaml.azurenative.enterpriseknowledgegraph 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:14*]
 + **pspulumiyaml.azurenative.hybridconnectivity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:11*]
-+ **pspulumiyaml.azurenative.hanaonazure 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.features 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
++ **pspulumiyaml.azurenative.hanaonazure 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.eventhub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:07*]
 + **pspulumiyaml.azurenative.education 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:06*]
 + **pspulumiyaml.azurenative.intune 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:05*]
@@ -172,25 +169,25 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.datadog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:30*]
 + **pspulumiyaml.azurenative.datacatalog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:12*]
 + **pspulumiyaml.azurenative.confluent 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:55*]
-+ **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.cdn 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
++ **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.customerinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:50*]
 + **pspulumiyaml.azurenative.connectedvmwarevsphere 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:49*]
-+ **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
-+ **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
++ **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.containerregistry 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
-+ **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
++ **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
 + **pspulumiyaml.azurenative.databox 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
++ **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.consumption 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:40*]
-+ **pspulumiyaml.azurenative.automation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
 + **pspulumiyaml.azurenative.changeanalysis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
-+ **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
++ **pspulumiyaml.azurenative.automation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
 + **pspulumiyaml.azurenative.databricks 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
++ **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
 + **pspulumiyaml.azurenative.certificateregistration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:34*]
 + **pspulumiyaml.azurenative.cache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:33*]
-+ **pspulumiyaml.azurenative.batch 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
++ **pspulumiyaml.azurenative.batch 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.agfoodplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:30*]
 + **pspulumiyaml.azurenative.communication 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:29*]
 + **pspulumiyaml.azurenative.automanage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:28*]
@@ -468,7 +465,6 @@ https://developer.broadcom.com/powercli/installation-guide [*06/17/2025 14:12:22
 + **[PSWordPress 0.0.3](https://github.com/EvotecIT/PSWordPress)**  - Module that allows interacting with WordPress via its Rest API [*12/17/2024 11:18:38*]
 + **[PowerAdobe 1.0.5](https://github.com/EvotecIT/PowerAdobe)**  - PowerAdobe is an unofficial PowerShell module for Adobe API. [*12/13/2024 07:43:37*]
 + **[GPOZaurr 1.1.9](https://github.com/EvotecIT/GPOZaurr)**  - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. [*12/02/2024 22:05:55*]
-+ **CertNoob 0.1.0**  - Simple project CertNoob [*12/02/2024 16:37:50*]
 + **[PSEventViewer 2.4.3](https://github.com/EvotecIT/PSEventViewer)**  - Simple module allowing parsing of event logs. Has its own quirks... [*11/26/2024 10:04:17*]
 + **[Updatomatic 0.6.0](https://github.com/EvotecIT/Updatomatic)**  - Simple project Updatomatic [*11/21/2024 18:37:38*]
 + **[PowerBGInfo 0.0.5](https://github.com/EvotecIT/PowerBGInfo)**  - PowerBGInfo is a module that allows you to create background images with information about your environment. [*11/19/2024 08:19:35*]
@@ -708,7 +704,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Turtle 0.2.1](https://github.com/PowerShellWeb/Turtle)**  - Turtle Graphics in PowerShell [*11/03/2025 19:52:10*]
 + **[Glass 0.1.1](https://github.com/StartAutomating/Glass)**  - Get, read, and write invisible glass text [*10/24/2025 19:05:27*]
 + **[OpenXML 0.1](https://github.com/PowerShellWeb/OpenXML)**  - Automate OpenXML. Excel, Word, and PowerPoint automation in PowerShell. [*10/16/2025 19:41:05*]
-+ **[Vector 0.1](https://github.com/PowerShellWeb/Vector)**  - Vectors in PowerShell [*10/05/2025 18:56:58*]
 + **[MathML 0.1](https://github.com/PowerShellWeb/MathML)**  - MathML and PowerShell [*10/02/2025 19:09:54*]
 + **[Emoji 0.1.6](https://github.com/StartAutomating/Emoji)**  - ⟩⚡PowerShell Emoji 😎😉😍🥰🤔😟 [*09/16/2025 21:25:07*]
 + **[RoughDraft 0.4.1](https://github.com/StartAutomating/RoughDraft)**  - A Fun PowerShell Module for Multimedia [*07/19/2025 02:19:48*]
@@ -833,7 +828,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 + **[psedit 1.1.0](https://github.com/ironmansoftware/psedit)**  - Terminal-based editor for PowerShell [*11/26/2025 21:16:59*]
 + **[UniversalDashboard.Mermaid 0.0.1](https://github.com/ironmansoftware/ud-mermaid)**  - Mermaid diagram component for PowerShell Universal Dashboard. Create flowcharts, sequence diagrams, class diagrams, state diagrams, and more using Mermaid syntax. [*11/05/2025 19:47:10*]
-+ **[PSPlaywright 0.1.0](https://github.com/adamdriscoll/psplaywright)**  - PSPlaywright is a PowerShell module for browser automation using Microsoft Playwright. It enables scripting and automation of web browsers from PowerShell. [*11/04/2025 23:00:12*]
 + **[psdapper 1.0.0](https://github.com/adamdriscoll/psdapper)**  - PowerShell module for Dapper SQL operations. [*11/01/2025 12:28:55*]
 + **[PSMSI 0.0.4](https://www.github.com/ironmansoftware/psmsi)**  - Create MSIs with PowerShell. [*03/31/2025 17:20:18*]
 + **[PowerShellUniversal.Bluesky 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Scripts/PowerShellUniversal.Bluesky)**  - Bluesky integration for PowerShell Universal. [*02/13/2025 03:06:48*]
@@ -1115,7 +1109,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## Jeff Hicks
 
-+ **[PSIntro 1.0.1](https://github.com/jdhitsolutions/PSIntro)**  - A welcome screen for PowerShell and a set of brief tutorials designed for absolute beginners. The module also includes a few commands to help absolute PowerShell beginners manage their environment. [*12/01/2025 16:34:01*]
++ **[PSIntro 2.0.0](https://github.com/jdhitsolutions/PSIntro)**  - A welcome screen for PowerShell and a set of brief tutorials designed for absolute beginners. The module also includes a few commands to help absolute PowerShell beginners manage their environment. [*01/14/2026 20:54:42*]
 + **[PSBlueSky 2.8.0](https://github.com/jdhitsolutions/PSBluesky)**  - A set of PowerShell commands that use the Bluesky AT Proto API. You can post and upload images from a PowerShell prompt, as well as get your timeline, feed, followers, and more. Run Open-BskyHelp after installation to launch a PDF guide. This module is written for PowerShell 7 and uses features like $PSStyle. If you have the pwshSpectreConsole module installed, additional features are available. [*11/07/2025 13:51:47*]
 + **[PSPodcast 1.0.0](https://github.com/jdhitsolutions/PSPodcast)**  - A set of PowerShell commands to get and display information for episodes of The PowerShell Podcast. This module is not officially affiliated with the podcast or PDQ.com. The module requires PowerShell 7 and the pwshSpectreConsole module. [*09/02/2025 12:43:32*]
 + **[PSReleaseTools 1.13.0](https://github.com/jdhitsolutions/PSReleaseTools)**  - A set of commands for working with PowerShell 7 and later releases. [*08/22/2025 19:17:56*]
@@ -1158,6 +1152,47 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PSReadlineHelper 0.7.0](https://github.com/jdhitsolutions/PSReadlineHelper)**  - PSReadline customizations and helper functions [*10/23/2018 15:47:16*]
 + **[PSPivotTable 2.1.5](https://github.com/jdhitsolutions/PSPivotTable)**  - Convert PowerShell expression results into console-based pivot tables. [*01/12/2017 17:56:55*]
 
+## Akamai Technologies Ltd.
+
++ **WriteColour 0.4**  - Extension to Write-Output, Write-Host etc. to include colours inline [*12/10/2025 22:19:31*]
++ **[Akamai 2.3.2](https://github.com/akamai/powershell)**  - Top-level manifest module to install all Akamai-related sub-modules. [*11/17/2025 21:51:21*]
++ **[Akamai.CPS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Certificate Provisioning Service API. [*11/17/2025 21:48:03*]
++ **[Akamai.EdgeKV 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeKV API. [*11/17/2025 21:48:02*]
++ **[Akamai.Datastream 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Datastream 2 API. [*11/17/2025 21:48:01*]
++ **[Akamai.EdgeDNS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeDNS API. [*11/17/2025 21:48:01*]
++ **[Akamai.EdgeHostnames 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Hostnames API. [*11/17/2025 21:48:01*]
++ **[Akamai.EdgeDiagnostics 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Diagnostics API. [*11/17/2025 21:48:00*]
++ **[Akamai.TestCenter 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Test Center API. [*11/17/2025 21:48:00*]
++ **[Akamai.APIDefinitions 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Definitions API. [*11/17/2025 21:47:59*]
++ **[Akamai.CloudAccessManager 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Access Manager API. [*11/17/2025 21:47:58*]
++ **[Akamai.APIKeyManager 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Key Manager API. [*11/17/2025 21:47:58*]
++ **[Akamai.Property 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Property API. [*11/17/2025 21:47:57*]
++ **[Akamai.Reporting 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Reporting API. [*11/17/2025 21:47:55*]
++ **[Akamai.Siteshield 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Siteshield API. [*11/17/2025 21:47:55*]
++ **[Akamai.Contracts 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Contracts API. [*11/17/2025 21:47:54*]
++ **[Akamai.Purge 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Fast Purge API. [*11/17/2025 21:47:53*]
++ **[Akamai.IVM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Image & Video Manager API. [*11/17/2025 21:47:51*]
++ **[Akamai.MOKS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai <MOKS> API. [*11/17/2025 21:47:49*]
++ **[Akamai.MediaServicesLive 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Media Services Live API. [*11/17/2025 21:47:49*]
++ **[Akamai.GTM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Global Traffic Manager APIs. [*11/17/2025 21:47:48*]
++ **[Akamai.Netstorage 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Netstorage Usage and Configuration APIs. [*11/17/2025 21:47:44*]
++ **[Akamai.IAM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Identity & Access Management API. [*11/17/2025 21:47:43*]
++ **[Akamai.SLA 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Service Level Agreement API. [*11/17/2025 21:47:43*]
++ **[Akamai.EdgeWorkers 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeWorkers API. [*11/17/2025 21:47:42*]
++ **[Akamai.METS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai MTLS Edge Trust Store API. [*11/17/2025 21:47:41*]
++ **[Akamai.NetworkLists 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Network Lists API. [*11/17/2025 21:47:41*]
++ **[Akamai.SIEM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Security Information and Event Management API. [*11/17/2025 21:47:40*]
++ **[Akamai.CPCodes 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai CP Codes & Reporting Groups API. [*11/17/2025 21:47:39*]
++ **[Akamai.ChinaCDN 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai China CDN API. [*11/17/2025 21:47:33*]
++ **[Akamai.CloudWrapper 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Wrapper API. [*11/17/2025 21:47:28*]
++ **[Akamai.ClientLists 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Client Lists API. [*11/17/2025 21:47:26*]
++ **[Akamai.Cloudlets 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloudlets API. [*11/17/2025 21:47:22*]
++ **[Akamai.FirewallRulesNotification 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Firewall Rules Notification Service API. [*11/17/2025 21:47:18*]
++ **[Akamai.AppSec 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Application Security API. [*11/17/2025 21:43:34*]
++ **[Akamai.Common 2.3.2](https://github.com/akamai/powershell)**  - Common functions used by other Akamai-related PS modules [*11/17/2025 21:41:55*]
++ **httpowershell 0.0.5**  - Simplified web client for PowerShell [*09/12/2025 23:45:28*]
++ **HighWinds 0.0.1**  - Basic functions to interact with the HighWinds API [*09/08/2023 04:38:54*]
+
 ## Roger Brown
 
 + **[rhubarb-geek-nz.AssemblyMetadata 1.0.3](https://github.com/rhubarb-geek-nz/AssemblyMetadata)**  - AssemblyMetadata Tool [*04/29/2025 17:39:06*]
@@ -1171,19 +1206,18 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[rhubarb-geek-nz.OracleConnection.Core 3.21.170](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/01/2025 09:28:12*]
 + **[rhubarb-geek-nz.mkdir 1.0.0](https://github.com/rhubarb-geek-nz/mkdir)**  - New-Directory function generated from PowerShell 7.4.5 mkdir [*02/07/2025 08:22:40*]
 + **[rhubarb-geek-nz.SinceYouAsk 1.0.2](https://github.com/rhubarb-geek-nz/SinceYouAsk)**  - Tool for getting the boot time [*02/02/2025 13:08:56*]
-+ **[rhubarb-geek-nz.CiscoT7 1.0.0](https://github.com/rhubarb-geek-nz/CiscoT7)**  - Convert SecureString to and from Cisco Type 7 encoding [*01/19/2025 20:48:55*]
 + **[rhubarb-geek-nz.RuntimeIdentifier 1.0.0](https://github.com/rhubarb-geek-nz/RuntimeIdentifier)**  - RuntimeIdentifier Cmdlets for PowerShell [*01/11/2025 19:35:00*]
 + **[rhubarb-geek-nz.SQLiteConnection.Core 8.0.11](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/10/2025 18:57:03*]
 + **[rhubarb-geek-nz.AspNetForPowerShell 7.2.21](https://github.com/rhubarb-geek-nz/AspNetForPowerShell)**  - AspNetCore for PowerShell [*01/10/2025 08:57:24*]
 + **[rhubarb-geek-nz.SQLiteConnection.Desktop 1.0.119.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*01/05/2025 00:12:28*]
 + **[rhubarb-geek-nz.SQLiteConnection 1.0.119](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/06/2024 19:16:48*]
 + **[rhubarb-geek-nz.Guido 1.0.0](https://github.com/rhubarb-geek-nz/Guido)**  - Guid Cmdlet for PowerShell [*10/18/2024 10:09:45*]
-+ **[rhubarb-geek-nz.AuthenticodeSignature 1.1.3](https://github.com/rhubarb-geek-nz/AuthenticodeSignature)**  - Provides Set-AuthenticodeSignature using HTTP signature service [*08/21/2024 06:35:50*]
 + **[rhubarb-geek-nz.PSCPreProcessor 1.0.1](https://github.com/rhubarb-geek-nz/cpp)**  - Implements C preprocessor as a pipeline allowing direct usage in PowerShell [*08/08/2024 18:31:56*]
 + **[rhubarb-geek-nz.Joinery 1.0.5](https://github.com/rhubarb-geek-nz/Joinery)**  - Join Tools [*07/19/2024 16:24:10*]
 + **[rhubarb-geek-nz.NuGetPackage 1.0.2](https://github.com/rhubarb-geek-nz/NuGetPackage)**  - NuGet tools [*06/07/2024 15:02:57*]
 + **[rhubarb-geek-nz.SystemLockdownPolicy 1.0.0](https://github.com/rhubarb-geek-nz/SystemLockdownPolicy)**  - Cmdlet for getting the SystemLockdownPolicy [*06/01/2024 07:44:49*]
 + **[rhubarb-geek-nz.ScriptBlock 1.0.0](https://github.com/rhubarb-geek-nz/ScriptBlock)**  - ScriptBlock tools for creation and invocation [*06/01/2024 05:18:42*]
++ **[rhubarb-geek-nz.Console 1.0.4](https://github.com/rhubarb-geek-nz/Console)**  - Tools for reading and writing directly to stdin, stdout and stderr using the Console API [*05/29/2024 17:12:57*]
 + **[rhubarb-geek-nz.SqlConnection 2.0.2](https://github.com/rhubarb-geek-nz/SqlConnection)**  - MSSQL Connection Tool [*05/19/2024 04:41:56*]
 + **[rhubarb-geek-nz.TeeParty 1.0.0](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Tee-Party alias [*05/17/2024 05:37:35*]
 + **[rhubarb-geek-nz.SplitContent 1.0.2](https://github.com/rhubarb-geek-nz/SplitContent)**  - Split-Content Cmdlet for PowerShell [*05/12/2024 14:55:05*]
@@ -1229,7 +1263,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **pf-exe 1.0.0.179**  - NewModule [*12/14/2022 07:08:52*]
 + **pf-errorhandling 1.0.0.179**  - pf-errorhandling [*12/14/2022 07:08:41*]
 + **pf-encrypt 1.0.0.179**  - NewModule [*12/14/2022 07:08:30*]
-+ **pf-encoding 1.0.0.179**  - pf-encoding.psd1 [*12/14/2022 07:08:19*]
 + **pf-email 1.0.0.179**  - pf-email.psd1 [*12/14/2022 07:08:07*]
 + **pf-dev 1.0.0.179**  - pf-dev.psd1 [*12/14/2022 07:07:56*]
 + **pf-csv 1.0.0.179**  - NewModule [*12/14/2022 07:07:44*]
@@ -1241,47 +1274,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **pf-assert 1.0.0.179**  - pf-assert [*12/14/2022 07:06:26*]
 + **pf-AseemblyVersion 1.0.0.179**  - NewModule [*12/14/2022 07:06:15*]
 + **pf-azFuncDeploy 1.0.1.3**  - Module [*01/26/2020 11:09:38*]
-
-## Akamai Technologies Ltd.
-
-+ **WriteColour 0.4**  - Extension to Write-Output, Write-Host etc. to include colours inline [*12/10/2025 22:19:31*]
-+ **[Akamai 2.3.2](https://github.com/akamai/powershell)**  - Top-level manifest module to install all Akamai-related sub-modules. [*11/17/2025 21:51:21*]
-+ **[Akamai.CPS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Certificate Provisioning Service API. [*11/17/2025 21:48:03*]
-+ **[Akamai.EdgeKV 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeKV API. [*11/17/2025 21:48:02*]
-+ **[Akamai.Datastream 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Datastream 2 API. [*11/17/2025 21:48:01*]
-+ **[Akamai.EdgeDNS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeDNS API. [*11/17/2025 21:48:01*]
-+ **[Akamai.EdgeHostnames 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Hostnames API. [*11/17/2025 21:48:01*]
-+ **[Akamai.EdgeDiagnostics 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Diagnostics API. [*11/17/2025 21:48:00*]
-+ **[Akamai.TestCenter 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Test Center API. [*11/17/2025 21:48:00*]
-+ **[Akamai.APIDefinitions 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Definitions API. [*11/17/2025 21:47:59*]
-+ **[Akamai.APIKeyManager 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Key Manager API. [*11/17/2025 21:47:58*]
-+ **[Akamai.CloudAccessManager 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Access Manager API. [*11/17/2025 21:47:58*]
-+ **[Akamai.Property 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Property API. [*11/17/2025 21:47:57*]
-+ **[Akamai.Reporting 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Reporting API. [*11/17/2025 21:47:55*]
-+ **[Akamai.Siteshield 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Siteshield API. [*11/17/2025 21:47:55*]
-+ **[Akamai.Contracts 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Contracts API. [*11/17/2025 21:47:54*]
-+ **[Akamai.Purge 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Fast Purge API. [*11/17/2025 21:47:53*]
-+ **[Akamai.IVM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Image & Video Manager API. [*11/17/2025 21:47:51*]
-+ **[Akamai.MOKS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai <MOKS> API. [*11/17/2025 21:47:49*]
-+ **[Akamai.MediaServicesLive 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Media Services Live API. [*11/17/2025 21:47:49*]
-+ **[Akamai.GTM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Global Traffic Manager APIs. [*11/17/2025 21:47:48*]
-+ **[Akamai.Netstorage 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Netstorage Usage and Configuration APIs. [*11/17/2025 21:47:44*]
-+ **[Akamai.IAM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Identity & Access Management API. [*11/17/2025 21:47:43*]
-+ **[Akamai.SLA 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Service Level Agreement API. [*11/17/2025 21:47:43*]
-+ **[Akamai.EdgeWorkers 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeWorkers API. [*11/17/2025 21:47:42*]
-+ **[Akamai.METS 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai MTLS Edge Trust Store API. [*11/17/2025 21:47:41*]
-+ **[Akamai.NetworkLists 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Network Lists API. [*11/17/2025 21:47:41*]
-+ **[Akamai.SIEM 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Security Information and Event Management API. [*11/17/2025 21:47:40*]
-+ **[Akamai.CPCodes 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai CP Codes & Reporting Groups API. [*11/17/2025 21:47:39*]
-+ **[Akamai.ChinaCDN 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai China CDN API. [*11/17/2025 21:47:33*]
-+ **[Akamai.CloudWrapper 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Wrapper API. [*11/17/2025 21:47:28*]
-+ **[Akamai.ClientLists 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Client Lists API. [*11/17/2025 21:47:26*]
-+ **[Akamai.Cloudlets 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloudlets API. [*11/17/2025 21:47:22*]
-+ **[Akamai.FirewallRulesNotification 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Firewall Rules Notification Service API. [*11/17/2025 21:47:18*]
-+ **[Akamai.AppSec 2.3.2](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Application Security API. [*11/17/2025 21:43:34*]
-+ **[Akamai.Common 2.3.2](https://github.com/akamai/powershell)**  - Common functions used by other Akamai-related PS modules [*11/17/2025 21:41:55*]
-+ **httpowershell 0.0.5**  - Simplified web client for PowerShell [*09/12/2025 23:45:28*]
-+ **HighWinds 0.0.1**  - Basic functions to interact with the HighWinds API [*09/08/2023 04:38:54*]
 
 ## owen.heaume
 
@@ -1318,65 +1310,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **SpecModuleImporter 1.1.0**  - A module that assists with the importing of PowerShell modules from the PSGallery [*07/31/2023 15:29:59*]
 + **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
 + **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
-
-## Mark5900
-
-+ **[Capa.PowerShell.Module 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*12/02/2025 17:57:11*]
-+ **[Capa.PowerShell.Module.SDK 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for the SDK. [*12/02/2025 17:57:08*]
-+ **[Capa.PowerShell.Module.CCS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*12/02/2025 17:57:07*]
-+ **[Capa.PowerShell.Module.Tools 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing tools for CapaInstaller and PowerPacks. [*12/02/2025 17:57:05*]
-+ **[Capa.PowerShell.Module.SDK.VPP 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for VPP functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:03*]
-+ **[Capa.PowerShell.Module.SDK.MDM 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for MDM functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:02*]
-+ **[Capa.PowerShell.Module.SDK.User 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:00*]
-+ **[Capa.PowerShell.Module.SDK.WSUS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:59*]
-+ **[Capa.PowerShell.Module.SDK.Unit 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Unit functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:57*]
-+ **[Capa.PowerShell.Module.PowerPack 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*12/02/2025 17:56:55*]
-+ **[Capa.PowerShell.Module.SDK.Group 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Group functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:53*]
-+ **[Capa.PowerShell.Module.SDK.Package 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:52*]
-+ **[Capa.PowerShell.Module.PowerPack.Reg 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:50*]
-+ **[Capa.PowerShell.Module.PowerPack.CMS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*12/02/2025 17:56:49*]
-+ **[Capa.PowerShell.Module.PowerPack.Ini 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:47*]
-+ **[Capa.PowerShell.Module.PowerPack.Job 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:45*]
-+ **[Capa.PowerShell.Module.PowerPack.Log 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:43*]
-+ **[Capa.PowerShell.Module.PowerPack.MSI 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:41*]
-+ **[Capa.PowerShell.Module.PowerPack.Sys 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:40*]
-+ **[Capa.PowerShell.Module.SDK.Utilities 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Utilities functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:38*]
-+ **[Capa.PowerShell.Module.SDK.Container 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Container functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:36*]
-+ **[Capa.PowerShell.Module.SDK.Inventory 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Inventory functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:34*]
-+ **[Capa.PowerShell.Module.SDK.SystemSdk 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for System functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:30*]
-+ **[Capa.PowerShell.Module.PowerPack.File 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:28*]
-+ **[Capa.PowerShell.Module.PowerPack.Exit 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Exit codes.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:27*]
-+ **[Capa.PowerShell.Module.PowerPack.Shell 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:24*]
-+ **[Capa.PowerShell.Module.PowerPack.UsrMgr 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:23*]
-+ **[Capa.PowerShell.Module.SDK.OSDeployment 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for OS Deployment functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:21*]
-+ **[Capa.PowerShell.Module.PowerPack.Winget 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands. [*12/02/2025 17:56:19*]
-+ **[Capa.PowerShell.Module.PowerPack.Service 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:16*]
-+ **[Capa.PowerShell.Module.SDK.Authentication 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:12*]
 
 ## Adam Bacon
 
@@ -1452,6 +1385,65 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[Hyper-VAdministration 1.0.0.1](https://github.com/bamcisnetworks/Hyper-VAdministration)**  - Performs automated tasks to help in the administration of Hyper-V environments. [*01/03/2017 17:16:25*]
 + **DISA_STIG 1.0.0.2**  - Converts DISA STIG xccdf and zip files to usable objects and makes comparisons of STIGs for easy updates to GPOs. [*11/26/2015 14:56:24*]
 
+## Mark5900
+
++ **[Capa.PowerShell.Module 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*12/02/2025 17:57:11*]
++ **[Capa.PowerShell.Module.SDK 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for the SDK. [*12/02/2025 17:57:08*]
++ **[Capa.PowerShell.Module.CCS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*12/02/2025 17:57:07*]
++ **[Capa.PowerShell.Module.Tools 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing tools for CapaInstaller and PowerPacks. [*12/02/2025 17:57:05*]
++ **[Capa.PowerShell.Module.SDK.VPP 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for VPP functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:03*]
++ **[Capa.PowerShell.Module.SDK.MDM 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for MDM functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:02*]
++ **[Capa.PowerShell.Module.SDK.User 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:57:00*]
++ **[Capa.PowerShell.Module.SDK.WSUS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:59*]
++ **[Capa.PowerShell.Module.SDK.Unit 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Unit functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:57*]
++ **[Capa.PowerShell.Module.PowerPack 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for PowerPacks. [*12/02/2025 17:56:55*]
++ **[Capa.PowerShell.Module.SDK.Group 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Group functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:53*]
++ **[Capa.PowerShell.Module.SDK.Package 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:52*]
++ **[Capa.PowerShell.Module.PowerPack.Reg 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:50*]
++ **[Capa.PowerShell.Module.PowerPack.CMS 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*12/02/2025 17:56:49*]
++ **[Capa.PowerShell.Module.PowerPack.Ini 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:47*]
++ **[Capa.PowerShell.Module.PowerPack.Job 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:45*]
++ **[Capa.PowerShell.Module.PowerPack.Log 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:43*]
++ **[Capa.PowerShell.Module.PowerPack.MSI 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:41*]
++ **[Capa.PowerShell.Module.PowerPack.Sys 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:40*]
++ **[Capa.PowerShell.Module.SDK.Utilities 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Utilities functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:38*]
++ **[Capa.PowerShell.Module.SDK.Container 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Container functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:36*]
++ **[Capa.PowerShell.Module.SDK.Inventory 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Inventory functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:34*]
++ **[Capa.PowerShell.Module.SDK.SystemSdk 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for System functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:30*]
++ **[Capa.PowerShell.Module.PowerPack.File 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:28*]
++ **[Capa.PowerShell.Module.PowerPack.Exit 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Exit codes.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:27*]
++ **[Capa.PowerShell.Module.PowerPack.Shell 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:24*]
++ **[Capa.PowerShell.Module.PowerPack.UsrMgr 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:23*]
++ **[Capa.PowerShell.Module.SDK.OSDeployment 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for OS Deployment functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:21*]
++ **[Capa.PowerShell.Module.PowerPack.Winget 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands. [*12/02/2025 17:56:19*]
++ **[Capa.PowerShell.Module.PowerPack.Service 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*12/02/2025 17:56:16*]
++ **[Capa.PowerShell.Module.SDK.Authentication 1.15.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*12/02/2025 17:56:12*]
+
 ## Andreas Eulitz
 
 + **Gumby.Math 0.0.1.1**  - Module containing math helper methods. [*05/29/2025 22:49:46*]
@@ -1490,7 +1482,6 @@ exposing logging events. [*02/18/2020 03:42:13*]
 ## Jakoby
 
 + **SiteForge 1.0.3**  - Automates deployment of NGINX web servers, SSL setup, and repo cloning on Ubuntu systems using PowerShell 7. [*10/23/2025 02:56:40*]
-+ **New-Module 0.0.1**  - streamline creating new modules [*05/17/2025 02:06:00*]
 + **ffuf 0.0.1**  - manage and keep ffuf updated. Also some convnient wrapper functions [*05/16/2025 20:15:52*]
 + **nmap 0.0.1**  - manage and keep nmap updated [*05/16/2025 20:15:16*]
 + **BountyHunter 0.0.5**  - weaponizes google-foo for bounty hunting [*05/15/2025 13:37:41*]
@@ -1644,4 +1635,4 @@ System Requirements:
     This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
 + **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
-*Updated: Wednesday, 14 January 2026 09:55:40 UTC*
+*Updated: Wednesday, 14 January 2026 21:53:48 UTC*
