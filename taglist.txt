@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 15 January 2026 21:53:36 UTC
+Updated: Friday, 16 January 2026 09:54:52 UTC
 
 .bat
 .env
@@ -19,7 +19,6 @@ Updated: Thursday, 15 January 2026 21:53:36 UTC
 🍄
 🍣
 💩
-🙇
 1&1
 10
 11
@@ -192,7 +191,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressrange
 adds
@@ -2273,7 +2271,6 @@ directorysecurity
 directoryservices
 directrouting
 directsend
-directus
 direnv
 dirkjan
 dirname
@@ -2501,7 +2498,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducks
@@ -3289,8 +3285,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geocode
 geocoding
 geoencode
@@ -3490,7 +3484,6 @@ grid
 gridfs
 gridview
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -4272,6 +4265,7 @@ keyring
 keysms
 keytab
 keyusage
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4601,7 +4595,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -4612,7 +4605,6 @@ lucene
 luma
 lumaai
 lunar
-lunches
 lustrefilestorage
 lwa
 lxca
@@ -4637,6 +4629,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macos-powershell
 macosx
@@ -5158,6 +5151,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 nakivo
 name
@@ -5467,6 +5461,7 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
+officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5529,6 +5524,7 @@ onyphe
 onyphe.io
 oob
 oop
+ooxml
 op
 opa
 opc
@@ -5958,7 +5954,6 @@ pointer
 pokeapi
 pokedex
 pokemon
-pokemontcg
 poker
 policies
 policy
@@ -6108,6 +6103,7 @@ powerpack
 powerplan
 powerplateform
 powerplatform
+powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -9759,7 +9755,6 @@ ribbon
 ribcl
 rich
 richtext
-ricoh
 rightcloud
 rightjoin
 rights
@@ -9835,7 +9830,6 @@ rss
 rt
 rtm
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -10509,7 +10503,6 @@ sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -10925,7 +10918,6 @@ tatux
 tauricraft
 taxjar
 taxonomy
-tcg
 tcp
 tcp/ip
 tcpip
@@ -11031,7 +11023,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text_to_speech
@@ -11291,7 +11282,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -12074,7 +12064,6 @@ workpoint
 workrequests
 worksheet
 workspace
-workspacemanager
 workspaceone
 workspaces
 workstation

@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.10) | 0.0.10
+
+### Published: 01/16/2026 09:35:39 by chrishenn
+
+Chris Pwsh Lib
+
+__Downloads__: 34 | __Repository__: 
+
+## [NetboxTools](https://www.powershellgallery.com/Packages/NetboxTools/1.2.2) | 1.2.2
+
+### Published: 01/16/2026 09:33:26 by Sebastian Claesson
+
+Netbox integration for PowerShell
+
+__Downloads__: 51 | __Repository__: https://github.com/NetboxTools/NetboxTools
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.99) | 1.0.21.99
+
+### Published: 01/16/2026 06:27:58 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,950 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.16.1) | 26.1.16.1
+
+### Published: 01/16/2026 05:08:34 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,011,343 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [helium](https://www.powershellgallery.com/Packages/helium/1.3.1) | 1.3.1
+
+### Published: 01/16/2026 04:43:17 by Skatterbrainz
+
+Assorted Utilities to make your day happier than inhaling a party balloon.
+
+__Downloads__: 1,081 | __Repository__: https://github.com/Skatterbrainz/helium
+
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.26.114.100) | 1.26.114.100
+
+### Published: 01/16/2026 02:05:02 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 18,307 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.12.8) | 6.12.8
+
+### Published: 01/16/2026 01:11:37 by Greg Brownstein
+
+Automate your CyberArk Certificate Manager (Venafi TLS Protect) Self-Hosted and SaaS platforms!
+
+__Downloads__: 65,466 | __Repository__: https://github.com/Venafi/VenafiPS
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.607.1) | 1.607.1
+
+### Published: 01/16/2026 00:13:52 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 13,560 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.12.0) | 2.12.0
+
+### Published: 01/15/2026 22:22:03 by JumpCloud Customer Tools Team
+
+Powershell Module to run JumpCloud Active Directory Migration Utility.
+
+__Downloads__: 22,039 | __Repository__: 
+
 ## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.8.90) | 0.8.90
 
 ### Published: 01/15/2026 18:23:49 by David McVicker
@@ -18,14 +90,6 @@ __Downloads__: 3,529 | __Repository__:
 A cross-platform Pleasent Password Server Secret Management vault extension. See the README.MD in the module for more details.
 
 __Downloads__: 3,899 | __Repository__: https://github.com/constantinhager/SecretManagement.PleasantPasswordServer
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.15.3) | 26.1.15.3
-
-### Published: 01/15/2026 17:12:52 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,011,343 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/9.1.3) | 9.1.3
 
@@ -43,14 +107,6 @@ Nexthink Omnissa Connector Module for PowerShell
 
 __Downloads__: 111 | __Repository__: 
 
-## [NetboxTools](https://www.powershellgallery.com/Packages/NetboxTools/1.2.0) | 1.2.0
-
-### Published: 01/15/2026 14:24:10 by Sebastian Claesson
-
-Netbox integration for PowerShell
-
-__Downloads__: 51 | __Repository__: https://github.com/NetboxTools/NetboxTools
-
 ## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.15.808) | 2026.1.15.808
 
 ### Published: 01/15/2026 13:09:00 by Jake Hildreth
@@ -66,14 +122,6 @@ __Downloads__: 63 | __Repository__:
 PowerShell module, which makes it easier to work Around AL developments.
 
 __Downloads__: 2,698 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.607.0) | 1.607.0
-
-### Published: 01/15/2026 10:33:55 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 13,560 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.6) | 1.5.6
 
@@ -115,21 +163,13 @@ Comprehensive email authentication analysis tool for SPF, DKIM, and DMARC record
 
 __Downloads__: 288 | __Repository__: 
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.98) | 1.0.21.98
-
-### Published: 01/15/2026 06:26:00 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,950 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.9.0) | 2.9.0
 
 ### Published: 01/15/2026 05:46:12 by Thomas Freudenberg
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 19,858,968 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 19,858,980 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.4.0) | 1.0.4.0
 
@@ -153,7 +193,7 @@ __Downloads__: 2,413 | __Repository__: https://gist.github.com/tsmarvin/3e9c1a09
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,372,897 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,372,900 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [Capgemini.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Capgemini.PowerPlatform.DevOps/2.0.257) | 2.0.257
 
@@ -162,14 +202,6 @@ __Downloads__: 1,372,897 | __Repository__: https://github.com/nightroman/Mdbc
 A Capgemini toolset for implementing and adopting a full ALM strategy for the Microsoft Power Platform.
 
 __Downloads__: 8,608 | __Repository__: https://dev.azure.com/CapgeminiD365CE
-
-## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.5) | 0.0.5
-
-### Published: 01/15/2026 01:01:04 by chrishenn
-
-Chris Pwsh Lib
-
-__Downloads__: 34 | __Repository__: 
 
 ## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.25) | 1.0.25
 
@@ -257,7 +289,7 @@ __Downloads__: 1,528 | __Repository__: https://github.com/silk-us/silkiscsi
 
 PowerShell Module to provide logging capabilities for PowerShell controller scripts.
 
-__Downloads__: 272,211 | __Repository__: https://github.com/claudiospizzi/ScriptLogger
+__Downloads__: 272,215 | __Repository__: https://github.com/claudiospizzi/ScriptLogger
 
 ## [ScriptConfig](https://www.powershellgallery.com/Packages/ScriptConfig/3.2.0) | 3.2.0
 
@@ -1634,7 +1666,7 @@ __Downloads__: 9,545 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 338,642 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 338,648 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Paradox.Modding](https://www.powershellgallery.com/Packages/Paradox.Modding/1.0.5) | 1.0.5
 
@@ -1651,6 +1683,14 @@ __Downloads__: 47 | __Repository__: https://github.com/FriedrichWeinmann/Paradox
 PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
 
 __Downloads__: 98 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
+
+## [Cli](https://www.powershellgallery.com/Packages/Cli/4.1.0) | 4.1.0
+
+### Published: 01/13/2026 23:13:55 by Cédric Belin <cedx@outlook.com>
+
+Command line interface of Cédric Belin, full stack developer.
+
+__Downloads__: 47 | __Repository__: https://github.com/cedx/cli
 
 ## [ReScenePS](https://www.powershellgallery.com/Packages/ReScenePS/0.2.3) | 0.2.3
 
@@ -1690,7 +1730,7 @@ __Downloads__: 6,415,799 | __Repository__: https://github.com/TheJumpCloud/suppo
 
 AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
 
-__Downloads__: 379 | __Repository__: 
+__Downloads__: 380 | __Repository__: 
 
 ## [PSSailpoint.V2025](https://www.powershellgallery.com/Packages/PSSailpoint.V2025/1.7.1) | 1.7.1
 
@@ -1698,7 +1738,7 @@ __Downloads__: 379 | __Repository__:
 
 PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
 
-__Downloads__: 4,375 | __Repository__: 
+__Downloads__: 4,377 | __Repository__: 
 
 ## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.1) | 1.7.1
 
@@ -1706,7 +1746,7 @@ __Downloads__: 4,375 | __Repository__:
 
 PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
 
-__Downloads__: 15,159 | __Repository__: 
+__Downloads__: 15,161 | __Repository__: 
 
 ## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.1) | 1.7.1
 
@@ -1714,7 +1754,7 @@ __Downloads__: 15,159 | __Repository__:
 
 PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
 
-__Downloads__: 15,178 | __Repository__: 
+__Downloads__: 15,180 | __Repository__: 
 
 ## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.1) | 1.7.1
 
@@ -1742,7 +1782,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 90,714 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 90,716 | __Repository__: https://pscompletions.abgox.com/
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.13.426) | 1.13.426
 
@@ -1798,7 +1838,7 @@ __Downloads__: 155 | __Repository__: https://github.com/StartAutomating/MarkX
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 27,374 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 27,375 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.61) | 12.0.0.61
 
@@ -1902,7 +1942,7 @@ __Downloads__: 191,798 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for management of endpoints
 
-__Downloads__: 179,960 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 179,961 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.64) | 1.12.0.64
 
@@ -1951,7 +1991,7 @@ __Downloads__: 546,061 | __Repository__: https://github.com/dsccommunity/xRemote
 
 Cablers Powershell base module for all devices
 
-__Downloads__: 8,845 | __Repository__: https://github.com/srsbod/CablersPowershellCore
+__Downloads__: 8,848 | __Repository__: https://github.com/srsbod/CablersPowershellCore
 
 ## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.55) | 0.0.55
 
@@ -1969,44 +2009,4 @@ Terminal Based Launcher and Fuzzy Finder for PowerShell
 
 __Downloads__: 37,175 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
 
-## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.6.1.0) | 1.6.1.0
-
-### Published: 01/12/2026 12:34:09 by Shivam Mathur
-
-Build PHP Extension
-
-__Downloads__: 372 | __Repository__: https://github.com/php/php-windows-builder
-
-## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.6.1.0) | 1.6.1.0
-
-### Published: 01/12/2026 12:34:01 by Shivam Mathur
-
-Build PHP
-
-__Downloads__: 629 | __Repository__: https://github.com/php/php-windows-builder
-
-## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/2.2.2) | 2.2.2
-
-### Published: 01/12/2026 11:29:56 by Loïc MICHEL
-
-EasyPIM simplifies Microsoft PIM management by abstracting complex Graph and ARM APIs into intuitive PowerShell cmdlets. Overcome portal limitations with bulk operations, export/import policies across tenants, manage Azure RBAC and Entra roles using friendly role names instead of GUIDs, track changes with interactive HTML reports, and automate what the portal cannot. One unified module for Azure Resources, Entra Roles, and PIM Groups—built for ease and automation at scale.
-
-__Downloads__: 68,963 | __Repository__: https://kayasax.github.io/EasyPIM/
-
-## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.3.3) | 0.3.3
-
-### Published: 01/11/2026 23:13:11 by Jorgeasaurus
-
-Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
-
-__Downloads__: 389 | __Repository__: https://intunehydrationkit.com/
-
-## [WindowsUpdateTools](https://www.powershellgallery.com/Packages/WindowsUpdateTools/1.6.8) | 1.6.8
-
-### Published: 01/11/2026 20:34:11 by Anthony Balloi - CSOLVE Alex Appleton - CSOLVE
-
-Comprehensive PowerShell module for diagnosing, analyzing, and remediating Windows Update issues in enterprise environments. Includes SetupDiag integration, automated remediation, and detailed health reporting.
-
-__Downloads__: 1,002 | __Repository__: https://www.csolve.ca/
-
-*Updated: Thursday, 15 January 2026 21:53:25 UTC*
+*Updated: Friday, 16 January 2026 09:54:42 UTC*
