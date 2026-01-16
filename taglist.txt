@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 16 January 2026 09:54:52 UTC
+Updated: Friday, 16 January 2026 21:52:44 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Friday, 16 January 2026 09:54:52 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -191,6 +192,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -687,7 +689,6 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -910,7 +911,6 @@ bastion
 bat
 batcat
 batch
-batch-install
 batchclass
 batching
 batchprocessing
@@ -2271,6 +2271,7 @@ directorysecurity
 directoryservices
 directrouting
 directsend
+directus
 direnv
 dirkjan
 dirname
@@ -2498,6 +2499,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducks
@@ -2799,7 +2801,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3156,7 +3157,6 @@ fortios
 fortra
 fortune
 forum
-forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -3285,6 +3285,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geocode
 geocoding
 geoencode
@@ -3371,7 +3373,6 @@ gitflow
 gitforwindows
 github
 github-actions
-github-api
 githubaction
 githubactions
 githubcopilot
@@ -3397,7 +3398,6 @@ globalping
 globbing
 glooko
 glp
-glpi
 glucosemonitoring
 gmail
 gmap
@@ -3484,6 +3484,7 @@ grid
 gridfs
 gridview
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -4119,7 +4120,6 @@ iteration
 itg
 itglue
 itin
-itops
 itprofessionals
 itsm
 itstore
@@ -4276,7 +4276,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
@@ -4290,7 +4289,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -4595,6 +4593,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -4605,6 +4604,7 @@ lucene
 luma
 lumaai
 lunar
+lunches
 lustrefilestorage
 lwa
 lxca
@@ -5816,7 +5816,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -5954,6 +5953,7 @@ pointer
 pokeapi
 pokedex
 pokemon
+pokemontcg
 poker
 policies
 policy
@@ -9361,7 +9361,6 @@ pwsh.fw
 pwshake
 pwshfw
 pwshrc
-pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9677,7 +9676,6 @@ requiredmodules
 requirements
 res
 rescene
-rescuetime
 reservation
 reservations
 reset
@@ -9755,6 +9753,7 @@ ribbon
 ribcl
 rich
 richtext
+ricoh
 rightcloud
 rightjoin
 rights
@@ -9830,6 +9829,7 @@ rss
 rt
 rtm
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -10249,7 +10249,6 @@ sheets
 shell
 shell-art
 shell-integration
-shells
 sherweb
 shieldedvm
 ships
@@ -10503,6 +10502,7 @@ sphere
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -10682,8 +10682,6 @@ stockmarketapi
 stocks
 stockscreener
 stockscreenerapi
-stoicism
-stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10775,7 +10773,6 @@ support
 support-tool
 support-tools
 supportability
-supporttools
 suppress
 supress-reboot
 surestacks
@@ -10918,6 +10915,7 @@ tatux
 tauricraft
 taxjar
 taxonomy
+tcg
 tcp
 tcp/ip
 tcpip
@@ -11023,6 +11021,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text_to_speech
@@ -11051,7 +11050,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -11065,7 +11063,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -11282,6 +11279,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -12021,7 +12019,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wiz
 wizard
@@ -12064,6 +12061,7 @@ workpoint
 workrequests
 worksheet
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
