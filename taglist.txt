@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 16 January 2026 21:52:44 UTC
+Updated: Saturday, 17 January 2026 09:52:28 UTC
 
 .bat
 .env
@@ -393,7 +393,6 @@ animation
 animations
 anime
 annotated
-announcement
 announcementsservice
 anonymize
 anonymous
@@ -500,9 +499,6 @@ appx
 appxmanifest
 appxpackage
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -679,7 +675,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedinsulindelivery
 automatedlab
 automatenow
@@ -689,6 +684,7 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -911,6 +907,7 @@ bastion
 bat
 batcat
 batch
+batch-install
 batchclass
 batching
 batchprocessing
@@ -1081,7 +1078,6 @@ brew
 brewing
 brewzilla
 brickset
-brickstore
 bridge
 brightbooking
 brightness
@@ -1127,7 +1123,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bundler
@@ -1324,7 +1319,6 @@ chocolatey
 choice
 choose_file
 choose_file_name
-choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1370,6 +1364,7 @@ citation
 cite
 citrix
 citrixoptimizer
+citsmart
 civo
 cix
 class
@@ -2645,7 +2640,6 @@ emailserver
 embedded
 embedding
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2801,6 +2795,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3157,6 +3152,7 @@ fortios
 fortra
 fortune
 forum
+forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -3373,6 +3369,7 @@ gitflow
 gitforwindows
 github
 github-actions
+github-api
 githubaction
 githubactions
 githubcopilot
@@ -3398,6 +3395,7 @@ globalping
 globbing
 glooko
 glp
+glpi
 glucosemonitoring
 gmail
 gmap
@@ -3449,7 +3447,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpx
 gradient
@@ -3536,8 +3533,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -4120,6 +4115,7 @@ iteration
 itg
 itglue
 itin
+itops
 itprofessionals
 itsm
 itstore
@@ -4276,6 +4272,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
@@ -4289,6 +4286,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -4330,8 +4328,6 @@ label
 labels
 lability
 labnotifications
-laborate
-laboratory
 labrecipe
 labservices
 labsnippet
@@ -5223,6 +5219,7 @@ netcore
 netextender
 netfirewallrule
 netherlands
+netillimar
 netmask
 netpdf
 netpdfps
@@ -5816,6 +5813,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -6033,7 +6031,6 @@ poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
-poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
@@ -6565,20 +6562,6 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
-pscommand_dotnet-add
-pscommand_dotnet-build
-pscommand_dotnet-new
-pscommand_dotnet-nuget
-pscommand_dotnet-pack
-pscommand_dotnet-run
-pscommand_dotnet-sln
-pscommand_dotnet-test
-pscommand_dotnet-tool-list-global
-pscommand_dotnet-tool-list-local
-pscommand_dotnet-tool-update-all-global
-pscommand_dotnet-watch
-pscommand_dotnet-watch-run
-pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -8274,20 +8257,6 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
-psfunction_dotnet-add
-psfunction_dotnet-build
-psfunction_dotnet-new
-psfunction_dotnet-nuget
-psfunction_dotnet-pack
-psfunction_dotnet-run
-psfunction_dotnet-sln
-psfunction_dotnet-test
-psfunction_dotnet-tool-list-global
-psfunction_dotnet-tool-list-local
-psfunction_dotnet-tool-update-all-global
-psfunction_dotnet-watch
-psfunction_dotnet-watch-run
-psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -9361,6 +9330,7 @@ pwsh.fw
 pwshake
 pwshfw
 pwshrc
+pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9440,7 +9410,6 @@ railways
 rainbow
 raindrop
 raindrop.io
-raisers
 raisersedge
 raj
 ram
@@ -9676,6 +9645,7 @@ requiredmodules
 requirements
 res
 rescene
+rescuetime
 reservation
 reservations
 reset
@@ -10249,6 +10219,7 @@ sheets
 shell
 shell-art
 shell-integration
+shells
 sherweb
 shieldedvm
 ships
@@ -10682,6 +10653,8 @@ stockmarketapi
 stocks
 stockscreener
 stockscreenerapi
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10773,6 +10746,7 @@ support
 support-tool
 support-tools
 supportability
+supporttools
 suppress
 supress-reboot
 surestacks
@@ -11050,6 +11024,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -11063,6 +11038,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -12019,6 +11995,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wiz
 wizard

@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.100) | 1.0.21.100
+
+### Published: 01/17/2026 06:25:31 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,960 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.17.1) | 26.1.17.1
+
+### Published: 01/17/2026 05:06:48 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,030,745 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [NetillimarCitsmart](https://www.powershellgallery.com/Packages/NetillimarCitsmart/0.1.1) | 0.1.1
+
+### Published: 01/17/2026 04:03:35 by Gustavo Silveira Martinelli
+
+Provides cmdlets for configuration and usage of Citsmart API
+
+__Downloads__: 0 | __Repository__: https://gitea.netillimar.net:5443/netillimar/netillimar-citsmart.git
+
+## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.9.9) | 0.9.9
+
+### Published: 01/17/2026 02:17:37 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+
+__Downloads__: 66,648 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
+
+## [TencentCloud](https://www.powershellgallery.com/Packages/TencentCloud/1.0.50) | 1.0.50
+
+### Published: 01/17/2026 00:24:26 by Jian Liu (whirls9@hotmail.com)
+
+Powershell module for Tencent Cloud
+
+__Downloads__: 1 | __Repository__: https://github.com/9whirls/TencentCloud
+
+## [DiskSizeAnalyzer](https://www.powershellgallery.com/Packages/DiskSizeAnalyzer/1.1.2) | 1.1.2
+
+### Published: 01/16/2026 22:45:04 by b0tmtl
+
+Fast disk space analyzer using MFT (Master File Table) reading. Analyzes NTFS drives and returns the largest directories and files as PowerShell objects. Supports local and remote computer analysis.
+
+__Downloads__: 7 | __Repository__: https://github.com/b0tmtl/DiskSizeAnalyzer
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.609.0) | 1.609.0
+
+### Published: 01/16/2026 22:21:24 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 13,615 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
 ## [Diagrammer.Core](https://www.powershellgallery.com/Packages/Diagrammer.Core/0.2.36.1) | 0.2.36.1
 
 ### Published: 01/16/2026 21:10:52 by Jonathan Colon
@@ -17,7 +73,7 @@ __Downloads__: 91,920 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 Giove Koala cmdlet
 
-__Downloads__: 17 | __Repository__: 
+__Downloads__: 18 | __Repository__: 
 
 ## [Dune](https://www.powershellgallery.com/Packages/Dune/1.0.2) | 1.0.2
 
@@ -42,14 +98,6 @@ __Downloads__: 1,166 | __Repository__:
 Assorted Utilities to make your day happier than inhaling a party balloon.
 
 __Downloads__: 1,089 | __Repository__: https://github.com/Skatterbrainz/helium
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.16.3) | 26.1.16.3
-
-### Published: 01/16/2026 17:08:21 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,030,801 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Test-MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/Test-MicrosoftFabricMgmt/1.0.4) | 1.0.4
 
@@ -81,7 +129,7 @@ __Downloads__: 270 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 8,104,937 | __Repository__: https://dbatools.io/
+__Downloads__: 8,104,993 | __Repository__: https://dbatools.io/
 
 ## [Bempus-WebServer](https://www.powershellgallery.com/Packages/Bempus-WebServer/1.0.2) | 1.0.2
 
@@ -115,14 +163,6 @@ This module provides tools for automating and optimizing PowerShell projects.
 
 __Downloads__: 3,373 | __Repository__: 
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.608.0) | 1.608.0
-
-### Published: 01/16/2026 10:57:50 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 13,615 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.57) | 0.0.57
 
 ### Published: 01/16/2026 10:43:19 by Bastien Perez
@@ -154,14 +194,6 @@ __Downloads__: 55 | __Repository__:
 Netbox integration for PowerShell
 
 __Downloads__: 69 | __Repository__: https://github.com/NetboxTools/NetboxTools
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.99) | 1.0.21.99
-
-### Published: 01/16/2026 06:27:58 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,959 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.26.114.100) | 1.26.114.100
 
@@ -227,6 +259,14 @@ PowerShell module, which makes it easier to work Around AL developments.
 
 __Downloads__: 2,727 | __Repository__: 
 
+## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.6) | 1.5.6
+
+### Published: 01/15/2026 09:36:20 by Marius Solbakken Mellum
+
+A module for completing email change requests from the Bytt.Email service into Active Directory or Entra ID / Exchange Online
+
+__Downloads__: 318 | __Repository__: 
+
 ## [Permutations](https://www.powershellgallery.com/Packages/Permutations/0.2.0) | 0.2.0
 
 ### Published: 01/15/2026 09:28:48 by Ronald Bode (iRon)
@@ -265,7 +305,7 @@ __Downloads__: 288 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 19,864,821 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 19,864,894 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.4.0) | 1.0.4.0
 
@@ -337,7 +377,7 @@ __Downloads__: 25 | __Repository__: https://github.com/FOLIO-FSE/FolioClient-Pow
 
 Milestone XProtect VMS configuration and automation powered by Milestone's MIP SDK.
 
-__Downloads__: 494,610 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 494,607 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSIntro](https://www.powershellgallery.com/Packages/PSIntro/2.0.0) | 2.0.0
 
@@ -354,14 +394,6 @@ __Downloads__: 108 | __Repository__: https://github.com/jdhitsolutions/PSIntro
 DotNet PowerShell Commands
 
 __Downloads__: 9 | __Repository__: https://github.com/peteraritchie/pri.essentials.DotnetPsCmds#dotnet-powershell-cmdlets
-
-## [DiskSizeAnalyzer](https://www.powershellgallery.com/Packages/DiskSizeAnalyzer/1.0.0) | 1.0.0
-
-### Published: 01/14/2026 19:52:20 by b0tmtl
-
-Fast disk space analyzer using MFT (Master File Table) reading. Analyzes NTFS drives and returns the largest directories and files as PowerShell objects. Supports local and remote computer analysis.
-
-__Downloads__: 7 | __Repository__: https://github.com/b0tmtl/DiskSizeAnalyzer
 
 ## [PSSemanticRelease](https://www.powershellgallery.com/Packages/PSSemanticRelease/1.22.1) | 1.22.1
 
@@ -1818,7 +1850,7 @@ __Downloads__: 46 | __Repository__: https://github.com/cocallaw/AzRetirementMoni
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 6,417,523 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 6,417,521 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.13) | 0.2.13
 
@@ -1834,7 +1866,7 @@ __Downloads__: 427 | __Repository__:
 
 PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
 
-__Downloads__: 4,468 | __Repository__: 
+__Downloads__: 4,467 | __Repository__: 
 
 ## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.1) | 1.7.1
 
@@ -1842,7 +1874,7 @@ __Downloads__: 4,468 | __Repository__:
 
 PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
 
-__Downloads__: 15,257 | __Repository__: 
+__Downloads__: 15,256 | __Repository__: 
 
 ## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.1) | 1.7.1
 
@@ -1850,7 +1882,7 @@ __Downloads__: 15,257 | __Repository__:
 
 PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
 
-__Downloads__: 15,282 | __Repository__: 
+__Downloads__: 15,281 | __Repository__: 
 
 ## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.1) | 1.7.1
 
@@ -1858,7 +1890,7 @@ __Downloads__: 15,282 | __Repository__:
 
 PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
 
-__Downloads__: 15,679 | __Repository__: 
+__Downloads__: 15,678 | __Repository__: 
 
 ## [GuestConfigurationHelper](https://www.powershellgallery.com/Packages/GuestConfigurationHelper/1.5.2) | 1.5.2
 
@@ -1886,7 +1918,7 @@ __Downloads__: 90,898 | __Repository__: https://pscompletions.abgox.com/
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 9,732,971 | __Repository__: http://psframework.org/
+__Downloads__: 9,732,984 | __Repository__: http://psframework.org/
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.15.4) | 0.9.15.4
 
@@ -1976,36 +2008,4 @@ Functions for remote management and access.
 
 __Downloads__: 126,040 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.27) | 5.4.1.27
-
-### Published: 01/13/2026 03:32:22 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 140,151 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.24.0.19) | 2.24.0.19
-
-### Published: 01/13/2026 03:32:17 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 371,878 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.99) | 1.5.0.99
-
-### Published: 01/13/2026 03:32:11 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 111,231 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.102) | 1.7.0.102
-
-### Published: 01/13/2026 03:32:07 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 127,339 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Friday, 16 January 2026 21:52:35 UTC*
+*Updated: Saturday, 17 January 2026 09:52:18 UTC*
