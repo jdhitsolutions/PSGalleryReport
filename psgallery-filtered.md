@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UtilityFunctions](https://www.powershellgallery.com/Packages/UtilityFunctions/0.7.0) | 0.7.0
+
+### Published: 01/18/2026 19:02:20 by Pavel Stsefanovich
+
+Common utilities and standardized console output messages for PowerShell admins.
+
+__Downloads__: 3,712 | __Repository__: https://github.com/PavelStsefanovich/lib_powershell/tree/main/modules/UtilityFunctions
+
+## [ProductivityTools.Backup](https://www.powershellgallery.com/Packages/ProductivityTools.Backup/0.0.5) | 0.0.5
+
+### Published: 01/18/2026 17:58:11 by Pawel Wujczyk
+
+Simple backup script
+
+__Downloads__: 38 | __Repository__: 
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.16.1) | 2.16.1
+
+### Published: 01/18/2026 17:35:07 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 11,857 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [PSModuleDevelopment](https://www.powershellgallery.com/Packages/PSModuleDevelopment/2.2.13.216) | 2.2.13.216
+
+### Published: 01/18/2026 17:08:57 by Friedrich Weinmann
+
+A module designed to speed up the development of PowerShell modules
+
+__Downloads__: 90,663 | __Repository__: http://psframework.org/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.18.3) | 26.1.18.3
+
+### Published: 01/18/2026 17:05:13 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,033,069 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [DnsServerDsc](https://www.powershellgallery.com/Packages/DnsServerDsc/3.0.3) | 3.0.3
+
+### Published: 01/18/2026 15:11:39 by DSC Community
+
+This module contains DSC resources for the management and configuration of Windows Server DNS Server.
+
+__Downloads__: 1,570,973 | __Repository__: https://github.com/dsccommunity/DnsServerDsc
+
+## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.18.951) | 2026.1.18.951
+
+### Published: 01/18/2026 14:51:19 by Jake Hildreth
+
+Deck makes terminal presentations easy!
+
+__Downloads__: 80 | __Repository__: 
+
 ## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.11) | 0.0.11
 
 ### Published: 01/18/2026 06:45:54 by chrishenn
@@ -18,14 +74,6 @@ __Downloads__: 57 | __Repository__:
 Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
 __Downloads__: 1,965 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.18.1) | 26.1.18.1
-
-### Published: 01/18/2026 05:08:29 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,033,092 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.3.4) | 0.3.4
 
@@ -114,14 +162,6 @@ __Downloads__: 16 | __Repository__:
 A PowerShell module to download and install fonts from GoogleFonts.
 
 __Downloads__: 17,596 | __Repository__: https://github.com/PSModule/GoogleFonts
-
-## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.17.1144) | 2026.1.17.1144
-
-### Published: 01/17/2026 16:44:17 by Jake Hildreth
-
-Deck makes terminal presentations easy!
-
-__Downloads__: 80 | __Repository__: 
 
 ## [Cli](https://www.powershellgallery.com/Packages/Cli/4.2.0) | 4.2.0
 
@@ -393,7 +433,7 @@ __Downloads__: 288 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 19,867,705 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 19,867,682 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.4.0) | 1.0.4.0
 
@@ -417,7 +457,7 @@ __Downloads__: 2,416 | __Repository__: https://gist.github.com/tsmarvin/3e9c1a09
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,373,919 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,373,915 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [Capgemini.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Capgemini.PowerPlatform.DevOps/2.0.257) | 2.0.257
 
@@ -1882,7 +1922,7 @@ __Downloads__: 9,554 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 339,013 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 339,010 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Paradox.Modding](https://www.powershellgallery.com/Packages/Paradox.Modding/1.0.5) | 1.0.5
 
@@ -1922,7 +1962,7 @@ __Downloads__: 46 | __Repository__: https://github.com/cocallaw/AzRetirementMoni
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 6,418,938 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 6,418,926 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.13) | 0.2.13
 
@@ -1938,7 +1978,7 @@ __Downloads__: 428 | __Repository__:
 
 PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
 
-__Downloads__: 4,527 | __Repository__: 
+__Downloads__: 4,526 | __Repository__: 
 
 ## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.1) | 1.7.1
 
@@ -1946,7 +1986,7 @@ __Downloads__: 4,527 | __Repository__:
 
 PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
 
-__Downloads__: 15,316 | __Repository__: 
+__Downloads__: 15,315 | __Repository__: 
 
 ## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.1) | 1.7.1
 
@@ -1954,7 +1994,7 @@ __Downloads__: 15,316 | __Repository__:
 
 PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
 
-__Downloads__: 15,341 | __Repository__: 
+__Downloads__: 15,340 | __Repository__: 
 
 ## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.1) | 1.7.1
 
@@ -1962,50 +2002,6 @@ __Downloads__: 15,341 | __Repository__:
 
 PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
 
-__Downloads__: 15,737 | __Repository__: 
+__Downloads__: 15,738 | __Repository__: 
 
-## [GuestConfigurationHelper](https://www.powershellgallery.com/Packages/GuestConfigurationHelper/1.5.2) | 1.5.2
-
-### Published: 01/13/2026 15:05:06 by Jelle Broekhuijsen (consultancy@jll.io)
-
-A module to support development and publication of Azure Guest Configuration
-
-__Downloads__: 2,834 | __Repository__: https://github.com/JelleBroekhuijsen/GuestConfigurationHelper
-
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/6.3.1) | 6.3.1
-
-### Published: 01/13/2026 12:17:12 by abgox
-
-A completion manager for a better and simpler tab-completion experience in PowerShell.
- It provides an enhanced scrollable completion menu with sorting and filtering.
-  - Website: https://pscompletions.abgox.com
-  - Github:  https://github.com/abgox/PSCompletions
-  - Gitee:   https://gitee.com/abgox/PSCompletions
-
-__Downloads__: 91,035 | __Repository__: https://pscompletions.abgox.com/
-
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.13.426) | 1.13.426
-
-### Published: 01/13/2026 11:18:33 by Friedrich Weinmann
-
-General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
-
-__Downloads__: 9,737,732 | __Repository__: http://psframework.org/
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.15.4) | 0.9.15.4
-
-### Published: 01/13/2026 11:13:38 by Yoshifumi Tsuda
-
-PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 3,117 | __Repository__: 
-
-## [safeguard-devops](https://www.powershellgallery.com/Packages/safeguard-devops/8.2.341691) | 8.2.341691
-
-### Published: 01/13/2026 10:44:12 by petrsnd
-
-Scripting tools for interacting with the One Identity Safeguard Secrets Broker for DevOps.
-
-__Downloads__: 2,635 | __Repository__: https://github.com/OneIdentity/SafeguardDevOpsService
-
-*Updated: Sunday, 18 January 2026 09:52:22 UTC*
+*Updated: Sunday, 18 January 2026 21:52:15 UTC*
