@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 18 January 2026 21:52:25 UTC
+Updated: Monday, 19 January 2026 09:59:11 UTC
 
 .bat
 .env
@@ -291,6 +291,7 @@ aid
 aidataplatform
 aider
 aidocument
+aiff
 aiintegration
 ailanguage
 aim
@@ -422,6 +423,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apache_maven
 apachekafka
 apexlegends
 api
@@ -606,6 +608,7 @@ asv
 asymmetric
 async
 asynchronous
+atempo
 atera
 athena
 atlas
@@ -832,6 +835,7 @@ azurekeyvault
 azurekeyvaultstuff
 azurelocal
 azuremaps
+azuremigrate
 azuremonitor
 azurenative
 azurenetworking
@@ -1536,7 +1540,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1876,7 +1879,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -2898,7 +2900,6 @@ external
 external-editor
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -3562,7 +3563,8 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
+harvest
+harvestforecast
 hash
 hash-verification
 hashcat
@@ -3685,7 +3687,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 horizon
 horizontal
@@ -4176,7 +4177,6 @@ jokes
 jotform
 journal
 journalctl
-joyride
 jpg
 jq
 js7
@@ -4437,6 +4437,7 @@ limesurvey
 limit
 limit-job
 limits
+lina
 line
 line-endings
 linear
@@ -5178,6 +5179,8 @@ natural-language-to-code
 natural-selection
 nature
 nav
+naven
+navenps
 navigation
 nbi
 nbx
@@ -6097,6 +6100,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powernetbox
 powerpack
@@ -6109,7 +6113,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-5.1+
 powershell-7+
 powershell-ai
@@ -8125,6 +8128,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -10042,6 +10046,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretshub
 secretsmanagement
 secretsmanager
 secretstore
@@ -10236,7 +10241,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10340,6 +10347,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -10533,6 +10541,7 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10612,6 +10621,7 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
+staff
 staffhub
 staging
 stale
@@ -10887,6 +10897,7 @@ tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
+taglib
 tags
 tak
 taken
@@ -11138,6 +11149,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 tooling
 toolkit
 toolmaking
@@ -11334,7 +11346,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -11418,6 +11429,7 @@ unix
 unlinked
 unlock
 unprotect
+unraid
 unsigned
 unsupported
 untis
