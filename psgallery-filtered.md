@@ -3,13 +3,110 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [YourModuleName](https://www.powershellgallery.com/Packages/YourModuleName/1.0.2) | 1.0.2
+
+### Published: 01/19/2026 21:43:42 by Morte
+
+This is a test PowerShell module
+
+__Downloads__: 1 | __Repository__: https://github.com/YourGithubUserName/YourModuleName
+
+## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.26) | 0.1.26
+
+### Published: 01/19/2026 21:13:57 by PdfLexer Authors
+
+PdfLexer is a powershell pdf manipulation library for Powershell 7+.
+ https://github.com/pdflexer/pdflexer
+
+__Downloads__: 6,249 | __Repository__: https://github.com/pdflexer/pdflexer
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.17.0) | 2.17.0
+
+### Published: 01/19/2026 20:42:47 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 11,885 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.612.2) | 1.612.2
+
+### Published: 01/19/2026 20:41:26 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 13,723 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [HPECOMCmdlets](https://www.powershellgallery.com/Packages/HPECOMCmdlets/1.0.19) | 1.0.19
+
+### Published: 01/19/2026 18:44:22 by Lionel Jullien (HPE)
+
+The HPE Compute Ops Management PowerShell library offers a comprehensive suite of cmdlets designed to manage and automate your HPE GreenLake environment. By leveraging this library, users can seamlessly interact with HPE GreenLake and Compute Ops Management services directly from the PowerShell command line, enabling efficient integration into existing automation workflows and enhancing operational efficiency.
+
+__Downloads__: 917 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.19.3) | 26.1.19.3
+
+### Published: 01/19/2026 17:09:18 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,034,872 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [NetillimarCitsmart](https://www.powershellgallery.com/Packages/NetillimarCitsmart/0.1.4) | 0.1.4
+
+### Published: 01/19/2026 16:50:37 by Gustavo Silveira Martinelli
+
+Provides cmdlets for configuration and usage of Citsmart API
+
+__Downloads__: 9 | __Repository__: https://gitea.netillimar.net:5443/netillimar/netillimar-citsmart.git
+
+## [SqlServerDsc](https://www.powershellgallery.com/Packages/SqlServerDsc/17.4.0) | 17.4.0
+
+### Published: 01/19/2026 16:01:11 by DSC Community
+
+This module contains commands and DSC resources for deployment and configuration of Microsoft SQL Server, SQL Server Reporting Services and Power BI Report Server.
+
+__Downloads__: 13,289,052 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
+
+## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.288) | 1.0.288
+
+### Published: 01/19/2026 15:02:18 by Sascha Greven
+
+Upload and download documents to Apprxr
+
+__Downloads__: 276 | __Repository__: 
+
+## [LAM-PowerShell](https://www.powershellgallery.com/Packages/LAM-PowerShell/1.0.0.4) | 1.0.0.4
+
+### Published: 01/19/2026 13:12:02 by Matthias Hans
+
+LAM-PowerShell CmdLets to manage LAM
+
+__Downloads__: 1,915 | __Repository__: https://www.dynasys.de/
+
+## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.1.8) | 4.1.8
+
+### Published: 01/19/2026 11:09:49 by PSAppDeployToolkit Team (Sean Lillis Dan Cunningham Muhammad Mashwani Mitch Richters Dan Gough)
+
+Enterprise App Deployment, Simplified.
+
+__Downloads__: 1,408,275 | __Repository__: https://psappdeploytoolkit.com/
+
+## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.14) | 0.2.14
+
+### Published: 01/19/2026 10:32:08 by waldo
+
+AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
+
+__Downloads__: 430 | __Repository__: 
+
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/2.0.0.15) | 2.0.0.15
 
 ### Published: 01/19/2026 07:31:15 by Aymeric Mouillé
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 144,150 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 144,146 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.102) | 1.0.21.102
 
@@ -18,14 +115,6 @@ __Downloads__: 144,150 | __Repository__: https://github.com/AymericM78/PowerData
 Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
 __Downloads__: 1,969 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.19.1) | 26.1.19.1
-
-### Published: 01/19/2026 05:13:25 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,035,012 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [psmusictagger](https://www.powershellgallery.com/Packages/psmusictagger/1.0.1) | 1.0.1
 
@@ -66,14 +155,6 @@ __Downloads__: 3,718 | __Repository__: https://github.com/PavelStsefanovich/lib_
 Simple backup script
 
 __Downloads__: 41 | __Repository__: 
-
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.16.1) | 2.16.1
-
-### Published: 01/18/2026 17:35:07 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 11,880 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
 
 ## [PSModuleDevelopment](https://www.powershellgallery.com/Packages/PSModuleDevelopment/2.2.13.216) | 2.2.13.216
 
@@ -163,14 +244,6 @@ Module provides eMail functions.
 
 __Downloads__: 32 | __Repository__: https://github.com/netsec4u/MailTools
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.610.1) | 1.610.1
-
-### Published: 01/17/2026 21:31:50 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 13,723 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [Sql](https://www.powershellgallery.com/Packages/Sql/3.0.1) | 3.0.1
 
 ### Published: 01/17/2026 21:17:16 by Cédric Belin <cedx@outlook.com>
@@ -202,14 +275,6 @@ __Downloads__: 17,609 | __Repository__: https://github.com/PSModule/GoogleFonts
 Command line interface of Cédric Belin, full stack developer.
 
 __Downloads__: 58 | __Repository__: https://github.com/cedx/cli
-
-## [NetillimarCitsmart](https://www.powershellgallery.com/Packages/NetillimarCitsmart/0.1.1) | 0.1.1
-
-### Published: 01/17/2026 04:03:35 by Gustavo Silveira Martinelli
-
-Provides cmdlets for configuration and usage of Citsmart API
-
-__Downloads__: 9 | __Repository__: https://gitea.netillimar.net:5443/netillimar/netillimar-citsmart.git
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.9.9) | 0.9.9
 
@@ -275,21 +340,13 @@ PowerShell module for managing Microsoft Fabric resources via the Fabric API. Su
 
 __Downloads__: 27 | __Repository__: https://github.com/microsoft/fabric-toolbox/
 
-## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.280) | 1.0.280
-
-### Published: 01/16/2026 15:58:06 by Sascha Greven
-
-Upload and download documents to Apprxr
-
-__Downloads__: 276 | __Repository__: 
-
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.21) | 2.7.21
 
 ### Published: 01/16/2026 15:11:06 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 8,123,061 | __Repository__: https://dbatools.io/
+__Downloads__: 8,122,881 | __Repository__: https://dbatools.io/
 
 ## [Bempus-WebServer](https://www.powershellgallery.com/Packages/Bempus-WebServer/1.0.2) | 1.0.2
 
@@ -321,7 +378,7 @@ __Downloads__: 23 | __Repository__: https://github.com/Uniphar/security
 
 This module provides tools for automating and optimizing PowerShell projects.
 
-__Downloads__: 3,375 | __Repository__: 
+__Downloads__: 3,374 | __Repository__: 
 
 ## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.57) | 0.0.57
 
@@ -457,7 +514,7 @@ __Downloads__: 288 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 19,870,687 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 19,870,637 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.4.0) | 1.0.4.0
 
@@ -529,7 +586,7 @@ __Downloads__: 25 | __Repository__: https://github.com/FOLIO-FSE/FolioClient-Pow
 
 Milestone XProtect VMS configuration and automation powered by Milestone's MIP SDK.
 
-__Downloads__: 494,991 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 494,994 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSIntro](https://www.powershellgallery.com/Packages/PSIntro/2.0.0) | 2.0.0
 
@@ -569,7 +626,7 @@ __Downloads__: 1,529 | __Repository__: https://github.com/silk-us/silkiscsi
 
 PowerShell Module to provide logging capabilities for PowerShell controller scripts.
 
-__Downloads__: 273,069 | __Repository__: https://github.com/claudiospizzi/ScriptLogger
+__Downloads__: 273,085 | __Repository__: https://github.com/claudiospizzi/ScriptLogger
 
 ## [ScriptConfig](https://www.powershellgallery.com/Packages/ScriptConfig/3.2.0) | 3.2.0
 
@@ -587,6 +644,14 @@ A comprehensive PowerShell module for managing Octopus Deploy. Provides 80+ cmdl
 
 __Downloads__: 1,254 | __Repository__: https://github.com/LindnerBrewery/OctopusDeploy
 
+## [MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/MicrosoftFabricMgmt/1.0.3) | 1.0.3
+
+### Published: 01/14/2026 15:30:58 by Rob Sewell Jess Pomfret and Tiago Balabuch on behalf of Fabric Community
+
+PowerShell module for managing Microsoft Fabric resources via the Fabric API. Supports workspaces, lakehouses, warehouses, notebooks, and more.
+
+__Downloads__: 33 | __Repository__: https://github.com/microsoft/fabric-toolbox/
+
 ## [PSIdoitNG](https://www.powershellgallery.com/Packages/PSIdoitNG/0.4.2) | 0.4.2
 
 ### Published: 01/14/2026 14:35:09 by Wolfgang Wagner
@@ -594,14 +659,6 @@ __Downloads__: 1,254 | __Repository__: https://github.com/LindnerBrewery/Octopus
 PowerShell module to handle i-doit API
 
 __Downloads__: 100 | __Repository__: https://github.com/danubie/PSIdoitNG
-
-## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.7.3) | 0.7.3
-
-### Published: 01/14/2026 14:03:41 by Sam Erde
-
-A PowerShell module that helps you get un-stuck from version conflicts that occur when using modules that depend on different versions of the same dependency (such as the Microsoft Authentication Library (MSAL)).
-
-__Downloads__: 113 | __Repository__: https://github.com/SamErde/DLLPickle
 
 ## [SecurityPermissionsChecker](https://www.powershellgallery.com/Packages/SecurityPermissionsChecker/3.0.0) | 3.0.0
 
@@ -1948,60 +2005,4 @@ Modding Toolkit for Paradox games backed by the Clausewitz Engine
 
 __Downloads__: 48 | __Repository__: https://github.com/FriedrichWeinmann/Paradox.Modding
 
-## [PowerNetbox](https://www.powershellgallery.com/Packages/PowerNetbox/4.5.0.1) | 4.5.0.1
-
-### Published: 01/13/2026 23:19:44 by Ben Claussen ctrl-alt-automate
-
-PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
-
-__Downloads__: 102 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
-
-## [ReScenePS](https://www.powershellgallery.com/Packages/ReScenePS/0.2.3) | 0.2.3
-
-### Published: 01/13/2026 22:50:24 by Trent Blackburn
-
-PowerShell module for reconstructing RAR archives from SRR files and MKV samples from SRS files
-
-__Downloads__: 12 | __Repository__: https://github.com/tablackburn/ReScenePS
-
-## [AzRetirementMonitor](https://www.powershellgallery.com/Packages/AzRetirementMonitor/2.0.0) | 2.0.0
-
-### Published: 01/13/2026 18:23:03 by Corey Callaway
-
-A PowerShell module for identifying and monitoring Azure service retirements and deprecation notices of Azure services in your subscriptions.
-
-__Downloads__: 46 | __Repository__: https://github.com/cocallaw/AzRetirementMonitor
-
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/3.0.1) | 3.0.1
-
-### Published: 01/13/2026 17:00:50 by JumpCloud Solutions Architect Team
-
-PowerShell functions to manage a JumpCloud Directory-as-a-Service
-
-__Downloads__: 6,420,347 | __Repository__: https://github.com/TheJumpCloud/support/wiki
-
-## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.13) | 0.2.13
-
-### Published: 01/13/2026 15:37:57 by waldo
-
-AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
-
-__Downloads__: 430 | __Repository__: 
-
-## [PSSailpoint.V2025](https://www.powershellgallery.com/Packages/PSSailpoint.V2025/1.7.1) | 1.7.1
-
-### Published: 01/13/2026 15:36:30 by OpenAPI Generator Team
-
-PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
-
-__Downloads__: 4,585 | __Repository__: 
-
-## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.1) | 1.7.1
-
-### Published: 01/13/2026 15:36:24 by OpenAPI Generator Team
-
-PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
-
-__Downloads__: 15,374 | __Repository__: 
-
-*Updated: Monday, 19 January 2026 09:59:01 UTC*
+*Updated: Monday, 19 January 2026 21:52:40 UTC*

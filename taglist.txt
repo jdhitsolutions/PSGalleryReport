@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 19 January 2026 09:59:11 UTC
+Updated: Monday, 19 January 2026 21:52:50 UTC
 
 .bat
 .env
@@ -1183,7 +1183,6 @@ canary
 cancel
 cancellation
 candlestick
-canonical
 cantara
 capability
 capacity
@@ -1540,6 +1539,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1879,6 +1879,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -2255,7 +2256,6 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
-dir
 dircolors
 direct_send
 director
@@ -2395,6 +2395,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2819,7 +2821,6 @@ exception
 exceptionless
 exchange
 exchange_online
-exchange-online
 exchange-rates
 exchange2010
 exchange2013
@@ -2900,6 +2901,7 @@ external
 external-editor
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eye-candy
@@ -3286,8 +3288,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geocode
 geocoding
 geoencode
@@ -3487,7 +3487,6 @@ grid
 gridfs
 gridview
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -3563,6 +3562,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3687,6 +3687,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -3777,8 +3778,6 @@ hypervisor
 hypervplugins
 hypoglycemia
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -4177,6 +4176,7 @@ jokes
 jotform
 journal
 journalctl
+joyride
 jpg
 jq
 js7
@@ -4854,7 +4854,6 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
-microsoft-365
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
@@ -5112,7 +5111,6 @@ multilingual
 multimedia
 multios
 multipart
-multipass
 multiple
 multiserver
 multistring
@@ -5158,6 +5156,7 @@ nac
 nagios
 nakivo
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -6113,6 +6112,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell_universal
 powershell-5.1+
 powershell-7+
 powershell-ai
@@ -6272,7 +6272,6 @@ project
 project-management
 project-manager
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -9239,7 +9238,6 @@ psm
 psm1
 psmodule
 psmodule psedition_desktop
-psmodulebase
 psmodulepath
 psmodules
 psmp
@@ -9650,7 +9648,6 @@ rename-git
 rename-git-branch
 rename-gitbranch
 render
-reonboarding
 repair
 repair-msauth
 reparse
@@ -9764,7 +9761,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-rijkswaterstaat
 ring
 ripe
 risk
@@ -10541,7 +10537,6 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10911,7 +10906,6 @@ tar
 tar-compression
 target
 task
-task_automation
 task-runner
 task-scheduler
 taskbar
@@ -11054,7 +11048,6 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
@@ -11346,6 +11339,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -11694,7 +11688,6 @@ voice
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumelicense
 volumelicenseagreement
