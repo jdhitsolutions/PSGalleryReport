@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 21 January 2026 09:58:04 UTC
+Updated: Wednesday, 21 January 2026 21:55:58 UTC
 
 .bat
 .env
@@ -66,6 +66,7 @@ Updated: Wednesday, 21 January 2026 09:58:04 UTC
 7zip
 8.1
 9
+aa
 aac
 aad
 aad-graph
@@ -666,6 +667,7 @@ auto
 auto_cd
 auto-completion
 autoadapter
+autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -1169,6 +1171,7 @@ calculator
 calendar
 callingcode
 callout
+callqueue
 calvin-and-hobbes
 cam
 camera
@@ -2618,6 +2621,7 @@ elevation
 elevenlabs
 elgato
 eli5
+elitism
 elk
 elm
 elmah-io
@@ -2688,6 +2692,7 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
+enterprisevoice
 entertainment
 entity
 entity-framework
@@ -4359,7 +4364,6 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
-laplace
 laps
 laragon
 laserbeams
@@ -4542,6 +4546,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4700,7 +4706,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper
 mapper24
 mapping
 maps
@@ -5024,6 +5029,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -5326,6 +5332,7 @@ node
 node.js
 nodejs
 nogit
+non-idiomatic
 non-volatile
 none
 noneimages
@@ -5576,12 +5583,14 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
 optimise
 optimization
 optimize
+optimized
 optimizer
 option
 option119
@@ -5606,7 +5615,6 @@ origin
 orion
 orleans
 orm
-orphaned
 orphanedprofiles
 os
 osa
@@ -6271,6 +6279,7 @@ project
 project-management
 project-manager
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -9442,7 +9451,6 @@ railways
 rainbow
 raindrop
 raindrop.io
-raisers
 raisersedge
 raj
 ram
@@ -9633,6 +9641,7 @@ remotesession
 remoting
 removal
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -9712,7 +9721,6 @@ rest_cherrypy
 rest-api
 restapi
 restart
-restaurant
 restful
 restore
 restrictive
@@ -9787,8 +9795,6 @@ roca
 rock
 rocket
 rocketcyber
-roco
-rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -9810,7 +9816,6 @@ router
 routeros
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -10165,7 +10170,6 @@ servicecontrol
 servicedesk
 servicedeskplus
 servicediscovery
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -10191,6 +10195,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -10281,6 +10286,7 @@ sif
 sigma
 sign
 signal
+signalfx
 signalr
 signature
 signed
@@ -10563,6 +10569,7 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
+sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -10615,7 +10622,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -11097,7 +11103,6 @@ ticks
 tictactoe
 tiermodel
 time
-timedlogging
 timeout
 timer
 timeseriesinsights
