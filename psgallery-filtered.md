@@ -3,21 +3,85 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.613.0) | 1.613.0
+## [RemoteDesktopServicesDsc](https://www.powershellgallery.com/Packages/RemoteDesktopServicesDsc/4.0.0) | 4.0.0
 
-### Published: 01/20/2026 21:20:12 by Windmill Labs
+### Published: 01/21/2026 09:43:23 by DSC Community
+
+Module with DSC Resources for Remote Desktop Services
+
+__Downloads__: 1 | __Repository__: https://github.com/dsccommunity/RemoteDesktopServicesDsc
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.21.1) | 26.1.21.1
+
+### Published: 01/21/2026 05:11:44 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,051,255 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2026.1.21.149) | 2026.1.21.149
+
+### Published: 01/21/2026 01:49:33 by Jake Hildreth
+
+A PowerShell module for creating resumable, step-by-step automation scripts with automatic state persistence and cross-platform support.
+
+__Downloads__: 151 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.613.1) | 1.613.1
+
+### Published: 01/21/2026 01:46:32 by Windmill Labs
 
 Client for the Windmill platform.
 
 __Downloads__: 13,800 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [SplattingTools](https://www.powershellgallery.com/Packages/SplattingTools/2.0) | 2.0
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.691) | 1.0.691
 
-### Published: 01/20/2026 20:21:52 by Brent Denny
+### Published: 01/21/2026 01:38:47 by Feodor Fitsner
 
-This module conatins a command that will automatically build a splat table for a command
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 43,636 | __Repository__: 
+
+## [SplattingTools](https://www.powershellgallery.com/Packages/SplattingTools/3.0) | 3.0
+
+### Published: 01/21/2026 01:28:05 by Brent Denny
+
+This creates a splat table from a command's parameters
 
 __Downloads__: 1 | __Repository__: 
+
+## [Integrom.Module.Bootstrap](https://www.powershellgallery.com/Packages/Integrom.Module.Bootstrap/1.73) | 1.73
+
+### Published: 01/21/2026 00:31:04 by Kevin Ramdin
+
+Provides bootstrap functions for managing Integrom (psil) powershell libraries as well as dynamically injecting custom enums into a runspace
+
+__Downloads__: 46 | __Repository__: 
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.161.5) | 1.161.5
+
+### Published: 01/20/2026 23:42:30 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 28,623 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
+
+## [PSClaudeCode](https://www.powershellgallery.com/Packages/PSClaudeCode/1.0.2) | 1.0.2
+
+### Published: 01/20/2026 22:32:23 by Doug Finke
+
+A PowerShell module for building Claude Code using Anthropic, with reference implementations for tool-based interactions.
+
+__Downloads__: 16 | __Repository__: https://github.com/dfinke/PSClaudeCode
+
+## [FileInspectorX](https://www.powershellgallery.com/Packages/FileInspectorX/1.0.7) | 1.0.7
+
+### Published: 01/20/2026 22:13:26 by Przemyslaw Klys
+
+FileInspectorX is PowerShell module that allows you to query files and folders for information. It supports multiple types of file queries and can be used to query local file systems, network shares.
+
+__Downloads__: 6 | __Repository__: https://github.com/EvotecIT/FileInspectorX
 
 ## [XDRInternals](https://www.powershellgallery.com/Packages/XDRInternals/1.0.6) | 1.0.6
 
@@ -1010,7 +1074,7 @@ __Downloads__: 13,225 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 53,221 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 53,219 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/121.1.0) | 121.1.0
 
@@ -1330,15 +1394,7 @@ __Downloads__: 9,561 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 339,632 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.20.3) | 26.1.20.3
-
-### Published: 01/20/2026 17:11:32 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,051,255 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 339,630 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/4.0.2) | 4.0.2
 
@@ -1354,7 +1410,7 @@ __Downloads__: 25,874 | __Repository__:
 
 Tooling to curate and distribute Endjin IP assets into projects using the vendir tool
 
-__Downloads__: 9 | __Repository__: https://github.com/endjin/endjin-gists
+__Downloads__: 7 | __Repository__: https://github.com/endjin/endjin-gists
 
 ## [ComplianceUtility](https://www.powershellgallery.com/Packages/ComplianceUtility/3.2.3) | 3.2.3
 
@@ -1391,7 +1447,7 @@ __Downloads__: 293 | __Repository__:
 
 PowerShell Management cmdlets for Quest OnDemand
 
-__Downloads__: 6,980 | __Repository__: 
+__Downloads__: 6,981 | __Repository__: 
 
 ## [Okta.PowerShell](https://www.powershellgallery.com/Packages/Okta.PowerShell/2.0.2) | 2.0.2
 
@@ -1550,14 +1606,6 @@ A PowerShell module to test the PSModule framework from a personal repo.
 
 __Downloads__: 121 | __Repository__: https://github.com/MariusStorhaug/MariusTestModule
 
-## [YourModuleName](https://www.powershellgallery.com/Packages/YourModuleName/1.0.2) | 1.0.2
-
-### Published: 01/19/2026 21:43:42 by Morte
-
-This is a test PowerShell module
-
-__Downloads__: 11 | __Repository__: https://github.com/YourGithubUserName/YourModuleName
-
 ## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.26) | 0.1.26
 
 ### Published: 01/19/2026 21:13:57 by PdfLexer Authors
@@ -1597,7 +1645,7 @@ __Downloads__: 25 | __Repository__: https://gitea.netillimar.net:5443/netillimar
 
 This module contains commands and DSC resources for deployment and configuration of Microsoft SQL Server, SQL Server Reporting Services and Power BI Report Server.
 
-__Downloads__: 13,302,389 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
+__Downloads__: 13,302,290 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
 
 ## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.288) | 1.0.288
 
@@ -1621,7 +1669,7 @@ __Downloads__: 1,920 | __Repository__: https://www.dynasys.de/
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,415,818 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,415,800 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.2.14) | 0.2.14
 
@@ -1637,7 +1685,7 @@ __Downloads__: 501 | __Repository__:
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 144,400 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 144,401 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.102) | 1.0.21.102
 
@@ -1701,7 +1749,7 @@ __Downloads__: 90,753 | __Repository__: http://psframework.org/
 
 This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 
-__Downloads__: 1,579,849 | __Repository__: https://github.com/dsccommunity/DnsServerDsc
+__Downloads__: 1,579,813 | __Repository__: https://github.com/dsccommunity/DnsServerDsc
 
 ## [Deck](https://www.powershellgallery.com/Packages/Deck/2026.1.18.951) | 2026.1.18.951
 
@@ -1719,14 +1767,6 @@ Chris Pwsh Lib
 
 __Downloads__: 67 | __Repository__: 
 
-## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/0.3.4) | 0.3.4
-
-### Published: 01/18/2026 04:49:46 by Jorgeasaurus
-
-Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
-
-__Downloads__: 407 | __Repository__: https://intunehydrationkit.com/
-
 ## [SHIMSOFT-Fundamentals](https://www.powershellgallery.com/Packages/SHIMSOFT-Fundamentals/2.2) | 2.2
 
 ### Published: 01/18/2026 04:48:04 by SHIMSOFT
@@ -1734,14 +1774,6 @@ __Downloads__: 407 | __Repository__: https://intunehydrationkit.com/
 PowerShell の利用に関する支援機能を提供します。
 
 __Downloads__: 599 | __Repository__: 
-
-## [SqlServerTools](https://www.powershellgallery.com/Packages/SqlServerTools/3.6.2.0) | 3.6.2.0
-
-### Published: 01/18/2026 04:20:54 by Robert Eder
-
-Module provides SQL Server Client and SQL Management Object (SMO) functions.
-
-__Downloads__: 142 | __Repository__: https://github.com/netsec4u/SqlServerTools
 
 ## [SqlServerMaintenance](https://www.powershellgallery.com/Packages/SqlServerMaintenance/2.6.0.0) | 2.6.0.0
 
@@ -1821,7 +1853,7 @@ __Downloads__: 28 | __Repository__: https://github.com/b0tmtl/DiskSizeAnalyzer
 
 A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
 
-__Downloads__: 92,053 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+__Downloads__: 92,051 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
 
 ## [UDIGioveCmd](https://www.powershellgallery.com/Packages/UDIGioveCmd/1.0.369) | 1.0.369
 
@@ -1869,7 +1901,7 @@ __Downloads__: 28 | __Repository__: https://github.com/microsoft/fabric-toolbox/
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 8,133,512 | __Repository__: https://dbatools.io/
+__Downloads__: 8,133,444 | __Repository__: https://dbatools.io/
 
 ## [Bempus-WebServer](https://www.powershellgallery.com/Packages/Bempus-WebServer/1.0.2) | 1.0.2
 
@@ -1983,36 +2015,4 @@ Nexthink Omnissa Connector Module for PowerShell
 
 __Downloads__: 118 | __Repository__: 
 
-## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9511.50763) | 0.1.9511.50763
-
-### Published: 01/15/2026 13:07:05 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work Around AL developments.
-
-__Downloads__: 2,740 | __Repository__: 
-
-## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.6) | 1.5.6
-
-### Published: 01/15/2026 09:36:20 by Marius Solbakken Mellum
-
-A module for completing email change requests from the Bytt.Email service into Active Directory or Entra ID / Exchange Online
-
-__Downloads__: 319 | __Repository__: 
-
-## [Permutations](https://www.powershellgallery.com/Packages/Permutations/0.2.0) | 0.2.0
-
-### Published: 01/15/2026 09:28:48 by Ronald Bode (iRon)
-
-Generate permutations of a set
-
-__Downloads__: 4 | __Repository__: https://github.com/iRon7/Permutations
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.36.14) | 1.36.14
-
-### Published: 01/15/2026 08:56:04 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 31,794 | __Repository__: 
-
-*Updated: Tuesday, 20 January 2026 21:52:23 UTC*
+*Updated: Wednesday, 21 January 2026 09:57:54 UTC*

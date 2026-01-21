@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 20 January 2026 21:52:33 UTC
+Updated: Wednesday, 21 January 2026 09:58:04 UTC
 
 .bat
 .env
@@ -66,7 +66,6 @@ Updated: Tuesday, 20 January 2026 21:52:33 UTC
 7zip
 8.1
 9
-aa
 aac
 aad
 aad-graph
@@ -667,7 +666,6 @@ auto
 auto_cd
 auto-completion
 autoadapter
-autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -1171,7 +1169,6 @@ calculator
 calendar
 callingcode
 callout
-callqueue
 calvin-and-hobbes
 cam
 camera
@@ -1182,6 +1179,7 @@ canarie
 canary
 cancel
 cancellation
+candlestick
 canonical
 cantara
 capability
@@ -1389,8 +1387,10 @@ clccontrolapiv2
 cldr
 clean
 clean-architecture
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1623,6 +1623,7 @@ composite
 compositeresource
 compoundproperty
 compress
+compressedguid
 compression
 compromised
 compute
@@ -2021,6 +2022,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 dataframe
 datagateway
 dataimport
@@ -2144,6 +2146,7 @@ delegated
 delegation
 delegationmodel
 delete
+delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2615,7 +2618,6 @@ elevation
 elevenlabs
 elgato
 eli5
-elitism
 elk
 elm
 elmah-io
@@ -2686,7 +2688,6 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
-enterprisevoice
 entertainment
 entity
 entity-framework
@@ -2799,6 +2800,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3039,7 +3041,13 @@ financeoperations
 finances
 financial
 financialedge
+financialmodeling
+financialmodelingprep
+financialmodelingprepapi
 financials
+financialstatement
+financialstatements
+financialstatementsapi
 find
 find-call
 find-caller
@@ -3092,10 +3100,12 @@ flexible
 flickr
 flowchart
 flowy
+fluent
 fluidrelay
 flurl
 flyway
 fmg
+fmp
 fms
 focus
 fod
@@ -3902,6 +3912,7 @@ index
 indexdb
 indexmaintenance
 indicator
+indicators
 inedo
 inetfwrule
 inetum
@@ -4273,6 +4284,7 @@ kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
+kline
 klipper
 kms
 knapsack
@@ -4530,8 +4542,6 @@ logbook
 logcat
 logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4981,6 +4991,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -5013,7 +5024,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -5316,7 +5326,6 @@ node
 node.js
 nodejs
 nogit
-non-idiomatic
 non-volatile
 none
 noneimages
@@ -5567,14 +5576,12 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
 optimise
 optimization
 optimize
-optimized
 optimizer
 option
 option119
@@ -5885,6 +5892,7 @@ pipenv
 pipescript
 piraeus
 piv
+pivot
 pivotal
 pivottable
 pixelart
@@ -6263,7 +6271,6 @@ project
 project-management
 project-manager
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -9435,6 +9442,7 @@ railways
 rainbow
 raindrop
 raindrop.io
+raisers
 raisersedge
 raj
 ram
@@ -9625,7 +9633,6 @@ remotesession
 remoting
 removal
 remove
-remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -9971,6 +9978,7 @@ screen
 screencap
 screencapture
 screenconnect
+screener
 screenfetch
 screenresolution
 screensaver
@@ -10183,7 +10191,6 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -10274,7 +10281,6 @@ sif
 sigma
 sign
 signal
-signalfx
 signalr
 signature
 signed
@@ -10557,14 +10563,15 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
-sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
 sqrt
 square
+squid
 squire
+squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10670,7 +10677,13 @@ stigrepo
 stingar
 stock
 stockcharts
+stockmarket
+stockmarketapi
 stocks
+stockscreener
+stockscreenerapi
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10934,6 +10947,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technicalanalysis
 technology
 techsmith
 tel
@@ -11040,6 +11054,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -11053,6 +11068,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -11113,6 +11129,9 @@ toc
 todo
 todo.txt
 toggl
+toggl-api
+toggl-api-powershell
+toggl-api-ps
 toggle
 token
 tokencounter
@@ -11498,6 +11517,8 @@ utm
 uudecode
 uuencode
 uuid
+uuidv3
+uuidv5
 uw
 uwp
 ux
@@ -12004,6 +12025,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wiz
 wizard
