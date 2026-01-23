@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 23 January 2026 09:55:50 UTC
+Updated: Friday, 23 January 2026 21:53:08 UTC
 
 .bat
 .env
@@ -280,7 +280,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -628,7 +627,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -743,6 +741,7 @@ awx
 axapta
 axcient
 axcient_x360recover
+axinom
 axis
 axium
 ayx
@@ -801,7 +800,6 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
-azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1040,7 +1038,6 @@ bluetraitio
 bluetuxedo
 bmc
 bms
-bnm
 boards
 bofh
 boilerplate
@@ -1151,6 +1148,7 @@ byexample
 bynarypsmodule
 byte
 bytearray
+bytt.email
 bzip2
 bzip2-compression
 c
@@ -1326,7 +1324,6 @@ chocolatey
 choice
 choose_file
 choose_file_name
-choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1582,6 +1579,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1593,7 +1591,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -2099,6 +2096,7 @@ debug
 debug-files
 debugger
 debugging
+debuglog
 decimal
 decimalip
 decimalzero
@@ -2193,6 +2191,7 @@ dev-tools
 dev.to
 devart
 devcenter
+devdeer
 devdirmanager
 devdrive
 developer
@@ -2603,6 +2602,7 @@ eigencontroles
 einstein
 eklient psedition_core psedition_desktop
 eku
+elapsed
 elastic
 elasticsan
 elasticsearch
@@ -2719,6 +2719,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -3155,6 +3156,7 @@ fortinetmanager
 fortios
 fortra
 fortune
+fortytwo
 forum
 forwardcompatibility
 forwardedevents
@@ -3478,6 +3480,7 @@ graylog
 grc
 greenlake
 greenplum
+greeting
 gregorian
 gremlin
 grep
@@ -3928,7 +3931,6 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructure-as-code
@@ -4000,6 +4002,7 @@ interactive
 interactive-brokers
 interchange
 interface
+interlogix
 internal
 internationalization
 internet
@@ -4081,6 +4084,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -4277,6 +4281,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kinopoisk
 kintone
 kittygraphicsprotocol
@@ -4521,6 +4526,7 @@ locking
 lockoutreport
 lockscreen
 locksmith
+locksmith2
 lockstep
 lod
 lodasoft
@@ -4985,7 +4991,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -5157,6 +5162,7 @@ n-central
 nabu
 nac
 nagios
+nakivo
 name
 name-of-dogs
 namedpipe
@@ -5190,6 +5196,7 @@ ncrestapi
 ndes
 nebula
 nebulon
+nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
@@ -5310,6 +5317,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5562,6 +5570,7 @@ openssl
 openstack
 openstreetmap
 openstreetmaps
+opentdb
 openvpn
 openxml
 operating
@@ -5674,7 +5683,6 @@ owner
 oxygen
 oxyplot
 p2000
-p2p
 p2s
 pa1reg
 paas
@@ -9278,7 +9286,6 @@ pssa
 psscriptanalyzer
 psscriptanaylzer
 psscriptsmonitoring
-pssearchgithub
 pssendgrid
 pssession
 pssharper
@@ -9757,6 +9764,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+rich
 richtext
 ricoh
 rightcloud
@@ -10174,6 +10182,7 @@ servicelinker
 servicemanagementautomation
 servicemanagementautomationx
 servicemanager
+servicemanagerproxy
 servicemesh
 servicenow
 servicepack
@@ -10254,6 +10263,7 @@ shell
 shell-art
 shell-integration
 shells
+sherweb
 shieldedvm
 ships
 shipsprovider
@@ -11059,7 +11069,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -11234,6 +11243,7 @@ trilium
 triliumnext
 triodos
 tripunkt
+trivia
 troubleshoot
 troubleshooting
 trouw
@@ -11242,6 +11252,7 @@ truecolor
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -11546,6 +11557,7 @@ variants
 vastlimits
 vault
 vaultextension
+vaults
 vaultstore
 vaultwarden
 vb365
@@ -11821,7 +11833,6 @@ webinspect
 webjea
 webm
 webmanagement
-webmanagementservice
 webp
 webpage
 webpi
