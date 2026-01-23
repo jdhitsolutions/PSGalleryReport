@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 22 January 2026 21:54:33 UTC
+Updated: Friday, 23 January 2026 09:55:50 UTC
 
 .bat
 .env
@@ -46,6 +46,7 @@ Updated: Thursday, 22 January 2026 21:54:33 UTC
 2019
 2022
 21vianet
+24-bit
 26-bit
 2fa
 300
@@ -158,6 +159,7 @@ activitycount
 actor-model
 actors
 acumatica
+acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -175,6 +177,7 @@ adaptive-card
 adaptivecard
 adaptivecards
 adb
+adblock
 adc
 adcs
 add
@@ -271,6 +274,7 @@ agenda
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -283,11 +287,11 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aicontext
 aid
 aidataplatform
 aider
 aidocument
-aiff
 aiintegration
 ailanguage
 aim
@@ -670,6 +674,7 @@ autocompletion
 autoenv
 autograph
 autohotkey
+autolabeling
 autoload
 autologon
 automai
@@ -738,7 +743,6 @@ awx
 axapta
 axcient
 axcient_x360recover
-axinom
 axis
 axium
 ayx
@@ -919,6 +923,7 @@ bayern
 bazzo
 bb
 bbc
+bbernhard
 bbp
 bc
 bc365
@@ -943,7 +948,6 @@ bedrock
 beep
 beer
 behavior
-behavioralanalytics
 benchmark
 benchmarking
 benchmarks
@@ -1178,6 +1182,7 @@ canary
 cancel
 cancellation
 candlestick
+canonical
 cantara
 capability
 capacity
@@ -1460,6 +1465,7 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
+cloudmigration
 cloudmigrations
 cloudml
 cloudpc
@@ -1510,6 +1516,7 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
+codebundler
 codecommit
 codecomplexity
 codecov
@@ -1575,7 +1582,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1634,6 +1640,7 @@ computers
 computersite
 computeschedule
 comulativeupdate
+concatenate
 concur
 concurrency
 concurrent
@@ -1965,6 +1972,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dag
 dagger
 dailen
 daily
@@ -2126,7 +2134,6 @@ defenderasr
 defenderast
 defenderforendpoint
 defenderforidentity
-defenderforservers
 defenderxdr
 defense
 deferrals
@@ -2186,7 +2193,6 @@ dev-tools
 dev.to
 devart
 devcenter
-devdeer
 devdirmanager
 devdrive
 developer
@@ -2246,6 +2252,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dir
 dircolors
 direct_send
@@ -2596,7 +2603,6 @@ eigencontroles
 einstein
 eklient psedition_core psedition_desktop
 eku
-elapsed
 elastic
 elasticsan
 elasticsearch
@@ -2607,6 +2613,7 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
+elevenlabs
 elgato
 eli5
 elitism
@@ -2633,6 +2640,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+emailserver
 embedded
 embedding
 emc
@@ -2711,7 +2719,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2815,6 +2822,7 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
+exchange2019
 exchangecluster
 exchangehybrid
 exchangemigration
@@ -3233,6 +3241,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -3352,6 +3361,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-open
 git-proxy
 git-rename
@@ -3667,6 +3677,7 @@ hlds
 hls
 hmac
 hmpljs
+hockey
 hol
 holiday
 home
@@ -3989,7 +4000,6 @@ interactive
 interactive-brokers
 interchange
 interface
-interlogix
 internal
 internationalization
 internet
@@ -4071,7 +4081,6 @@ ipv6
 ipynb
 ir
 irc
-irkit
 irl
 irregular
 isadmin
@@ -4268,7 +4277,6 @@ kickstart
 kidrsa
 kill
 kindle
-kinetic
 kinopoisk
 kintone
 kittygraphicsprotocol
@@ -4475,6 +4483,7 @@ lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -4638,6 +4647,7 @@ mail
 mailbox
 mailboxes
 mailchimp
+mailflow
 mailgroup
 mailgroupmember
 mailing
@@ -4771,6 +4781,7 @@ measure
 measure-loc
 measure-process
 mecm
+medhacloud
 media
 mediant
 mediaplayer
@@ -5102,6 +5113,7 @@ multilingual
 multimedia
 multios
 multipart
+multipass
 multiple
 multiserver
 multistring
@@ -5145,7 +5157,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5179,8 +5190,8 @@ ncrestapi
 ndes
 nebula
 nebulon
-nec-infrared-transmission-protocol
 necli
+nederland
 nedyalkov
 nemovote
 neo4j
@@ -5206,6 +5217,8 @@ netapp.ontap_9.17.1
 netappfiles
 netbox
 netboxapi
+netboxps
+netboxpsv4
 netboxtools
 netcease
 netcore
@@ -5274,6 +5287,7 @@ newsletter
 newspaper
 newtonsoft
 newtonsoft.json
+nexacore
 nexenta
 nexentastor
 nextcloud
@@ -5283,6 +5297,7 @@ nexusiq
 nfsv3
 ngen
 nginx
+nhl
 ni
 nic
 nic.ru
@@ -5295,7 +5310,6 @@ nios
 nipkg
 nist
 nitrox
-nixos
 njclipsh
 nl
 nla
@@ -5354,6 +5368,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -5580,6 +5595,7 @@ oraclecloudinfrastructure
 oraculum
 orbit
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -6027,6 +6043,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -6054,7 +6071,6 @@ poshy-wrap-zypper
 position
 post
 postcode
-postdeployment
 postgre
 postgres
 postgresql
@@ -6180,7 +6196,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-prerequisites
 presentation
 presentationframework
 presenter
@@ -6193,7 +6208,6 @@ preview
 previousversions
 price
 pricelist
-pricing
 primenumber
 primera
 principal
@@ -6352,6 +6366,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6776,6 +6791,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -6882,6 +6898,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -6930,6 +6950,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -7132,6 +7153,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -8159,6 +8182,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -8366,6 +8390,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -8430,6 +8455,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -8543,6 +8569,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -9729,7 +9757,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-rich
 richtext
 ricoh
 rightcloud
@@ -10129,7 +10156,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-serverprotection
 servers
 service
 service-bus
@@ -10142,12 +10168,12 @@ servicecontrol
 servicedesk
 servicedeskplus
 servicediscovery
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
 servicemanagementautomationx
 servicemanager
-servicemanagerproxy
 servicemesh
 servicenow
 servicepack
@@ -10228,11 +10254,11 @@ shell
 shell-art
 shell-integration
 shells
-sherweb
 shieldedvm
 ships
 shipsprovider
 shipstation
+shitpost
 shlink
 shodan
 shodanps
@@ -10491,6 +10517,7 @@ spo
 spoofing
 spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -10868,7 +10895,6 @@ tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
-taglib
 tags
 tak
 taken
@@ -10882,6 +10908,7 @@ tar
 tar-compression
 target
 task
+task_automation
 task-runner
 task-scheduler
 taskbar
@@ -11016,6 +11043,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textfile
 textgeneration
 texting
 texting-emoji
@@ -11058,7 +11086,6 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
-threatprotection
 threats
 threatsharing
 thumbprint
@@ -11109,6 +11136,7 @@ toggl-api-powershell
 toggl-api-ps
 toggle
 token
+tokencounter
 tokenlifetime
 tokens
 tombstone
@@ -11156,6 +11184,7 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -11187,6 +11216,7 @@ tree-sitter
 tree-structure
 treesize
 treffynnon
+trein
 trello
 trellops
 trend
@@ -11212,7 +11242,6 @@ truecolor
 truecrypt
 truenas
 trumethods
-truportal
 trusted
 trusted-host
 trustedhosts
@@ -11221,6 +11250,7 @@ trustedrootcertificate
 trustedsigning
 truth
 trx
+try-and-retry
 ts
 tsa
 tsd
@@ -11516,7 +11546,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaults
 vaultstore
 vaultwarden
 vb365
@@ -11717,7 +11746,6 @@ vtt
 vue
 vulnerabilities
 vulnerability
-vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
