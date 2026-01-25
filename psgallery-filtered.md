@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.25.1) | 26.1.25.1
+
+### Published: 01/25/2026 05:12:27 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,100,849 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [CTAN](https://www.powershellgallery.com/Packages/CTAN/0.1) | 0.1
+
+### Published: 01/25/2026 03:00:47 by James Brundage
+
+PowerShell Module for CTAN - The Comprehensive TeX Archive Network
+
+__Downloads__: 0 | __Repository__: https://github.com/StartAutomating/CTAN
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.5.0) | 1.5.0
+
+### Published: 01/25/2026 02:50:53 by Yoshifumi Tsuda
+
+Enables AI assistants (such as Claude Desktop) to execute PowerShell commands and CLI tools within a persistent PowerShell console. Supports Windows, Linux, and macOS.
+
+__Downloads__: 910 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+
+## [IdLE](https://www.powershellgallery.com/Packages/IdLE/0.9.0) | 0.9.0
+
+### Published: 01/24/2026 23:19:35 by Matthias Fleschuetz
+
+IdentityLifecycleEngine (IdLE) meta-module. Imports IdLE.Core and optional packs.
+
+__Downloads__: 5 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
+
 ## [PowerShellUniversal.Apps.Bookworm](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.Bookworm/1.2.1) | 1.2.1
 
 ### Published: 01/24/2026 20:33:31 by Stephen Valdinger
@@ -35,22 +67,6 @@ Generates random, fully-featured D&D 2024 characters with species, class, backgr
 
 __Downloads__: 0 | __Repository__: https://github.com/archibaldburnsteel/PS-DnD2024-ToonFactory
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.24.3) | 26.1.24.3
-
-### Published: 01/24/2026 17:05:24 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,100,870 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [IdLE](https://www.powershellgallery.com/Packages/IdLE/0.8.0) | 0.8.0
-
-### Published: 01/24/2026 16:24:33 by Matthias Fleschuetz
-
-IdentityLifecycleEngine (IdLE) meta-module. Imports IdLE.Core and optional packs.
-
-__Downloads__: 5 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
-
 ## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.10.0) | 0.10.0
 
 ### Published: 01/24/2026 16:01:28 by kurokobo
@@ -73,7 +89,7 @@ __Downloads__: 0 | __Repository__: https://github.com/trymsae/MemeShell
 
 PowerShell module for requesting and managing temporary local administrator rights through a secure named pipe service. Allows non-elevated users to request time-limited admin privileges that are automatically revoked.
 
-__Downloads__: 0 | __Repository__: https://github.com/SharkByte561/MakeMeAdminCLI
+__Downloads__: 1 | __Repository__: https://github.com/SharkByte561/MakeMeAdminCLI
 
 ## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.7.0) | 1.0.7.0
 
@@ -121,7 +137,15 @@ __Downloads__: 10 | __Repository__: https://github.com/yourusername/psflorecruit
 
 Public functions
 
-__Downloads__: 2,760 | __Repository__: https://nuget.entrinsec.com/
+__Downloads__: 2,761 | __Repository__: https://nuget.entrinsec.com/
+
+## [PSUKG](https://www.powershellgallery.com/Packages/PSUKG/1.0.4) | 1.0.4
+
+### Published: 01/24/2026 02:36:39 by PSUKG Contributors
+
+PowerShell module for UKG HR Service Delivery REST API v2. Provides cmdlets for managing employees, users, organizations, roles, documents, and more.
+
+__Downloads__: 9 | __Repository__: 
 
 ## [PSVergeOS](https://www.powershellgallery.com/Packages/PSVergeOS/1.0.1) | 1.0.1
 
@@ -209,7 +233,7 @@ __Downloads__: 42,307 | __Repository__: https://github.com/richardhicks/aovpntoo
 
 PowerShell module for sending Pushover notifications
 
-__Downloads__: 307,565 | __Repository__: 
+__Downloads__: 307,569 | __Repository__: 
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.268) | 0.0.268
 
@@ -217,7 +241,7 @@ __Downloads__: 307,565 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 612,592 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 612,591 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [GcePSSession](https://www.powershellgallery.com/Packages/GcePSSession/1.0.14) | 1.0.14
 
@@ -277,7 +301,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 91,623 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 91,624 | __Repository__: https://pscompletions.abgox.com/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.614.0) | 1.614.0
 
@@ -453,7 +477,7 @@ __Downloads__: 18,380 | __Repository__: https://github.com/ykuijs/M365DSC.Compos
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 6,426,970 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 6,426,959 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [OfferDex](https://www.powershellgallery.com/Packages/OfferDex/1.0) | 1.0
 
@@ -628,7 +652,7 @@ __Downloads__: 579 | __Repository__:
 
 Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data, and vulnerability.
 
-__Downloads__: 28,369 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
+__Downloads__: 28,367 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
 
 ## [Test-MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/Test-MicrosoftFabricMgmt/1.0.6) | 1.0.6
 
@@ -742,14 +766,6 @@ Wiegand Badge Conversions in PowerShell
 
 __Downloads__: 14 | __Repository__: https://github.com/RobBiddle/ps-wiegand-badge
 
-## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/2.0.8) | 2.0.8
-
-### Published: 01/21/2026 20:36:12 by markorr321
-
-Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
-
-__Downloads__: 150 | __Repository__: https://github.com/markorr321/Entra-PIM
-
 ## [PoshJohn](https://www.powershellgallery.com/Packages/PoshJohn/1.1.3) | 1.1.3
 
 ### Published: 01/21/2026 20:35:31 by ArmaanMcleod
@@ -813,7 +829,7 @@ __Downloads__: 7,561 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,226,863 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,226,897 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [PoShPipeline](https://www.powershellgallery.com/Packages/PoShPipeline/1.4.8) | 1.4.8
 
@@ -886,14 +902,6 @@ __Downloads__: 57 | __Repository__:
 Interact with GitLab via PowerShell
 
 __Downloads__: 28,673 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
-
-## [FileInspectorX](https://www.powershellgallery.com/Packages/FileInspectorX/1.0.7) | 1.0.7
-
-### Published: 01/20/2026 22:13:26 by Przemyslaw Klys
-
-FileInspectorX is PowerShell module that allows you to query files and folders for information. It supports multiple types of file queries and can be used to query local file systems, network shares.
-
-__Downloads__: 9 | __Repository__: https://github.com/EvotecIT/FileInspectorX
 
 ## [XDRInternals](https://www.powershellgallery.com/Packages/XDRInternals/1.0.6) | 1.0.6
 
@@ -2080,12 +2088,4 @@ This modules provides Cmdlets for OCI Apmtraces Service
 
 __Downloads__: 15,556 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/121.1.0) | 121.1.0
-
-### Published: 01/20/2026 17:25:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 13,310 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 24 January 2026 21:52:24 UTC*
+*Updated: Sunday, 25 January 2026 09:52:35 UTC*
