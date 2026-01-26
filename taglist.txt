@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 25 January 2026 21:52:24 UTC
+Updated: Monday, 26 January 2026 09:58:50 UTC
 
 .bat
 .env
@@ -580,6 +580,7 @@ asn1
 asnbank
 asp
 asp.net
+aspire
 aspnet
 aspnet_regiis
 aspnetcore
@@ -689,7 +690,6 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
-automationportal
 automations
 automationutils
 autonomoussystem
@@ -758,6 +758,7 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -826,7 +827,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1044,6 +1044,7 @@ bmc
 bms
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -1176,7 +1177,6 @@ callqueue
 calvin-and-hobbes
 cam
 camera
-cameras
 campaign
 camtasia
 canarie
@@ -2583,7 +2583,6 @@ ecovadis
 ed25519
 edgaronline
 edge
-edgeaction
 edgebackup
 edgeexport
 edgegateway
@@ -2616,7 +2615,6 @@ elastic
 elasticsan
 elasticsearch
 elb
-element
 elevate
 elevated
 elevatedconsole
@@ -3331,7 +3329,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-expiredusersreport
 get-expiringusersreport
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3483,7 +3480,6 @@ graphic
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3749,7 +3745,6 @@ hsdp
 hsl
 html
 html-templates
-htmlentity
 http
 http_proxy
 http-listener
@@ -3847,9 +3842,11 @@ identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
+identitysecuritycloud
 idf
 idle
 idm
+idn
 idna
 idoit
 idp
@@ -3862,6 +3859,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -4067,7 +4065,6 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
-ip_cameras
 ip-address
 ipa
 ipaddress
@@ -4083,7 +4080,6 @@ ipfy.org
 iphone
 ipilot
 ipinfo
-iplookup
 ipmaths
 ipp
 iprange
@@ -4531,7 +4527,6 @@ locationbasedservices
 locations
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4617,7 +4612,10 @@ lpsiamol
 ls
 lsa
 lsasecrets
+lsblk
 lsd
+lspci
+lsusb
 ltm
 lucd
 lucene
@@ -4663,7 +4661,6 @@ magicpacket
 magnet
 mail
 mailbox
-mailboxes
 mailchimp
 mailflow
 mailgroup
@@ -5321,6 +5318,7 @@ nginx
 nhl
 ni
 nic
+nic.ru
 nightmare
 ninite
 ninja
@@ -5474,7 +5472,6 @@ offboarding
 offence
 office
 office_365
-office-365
 office-365-security
 office2010
 office2013
@@ -5669,8 +5666,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-file
@@ -5820,6 +5815,7 @@ pbixtopbip
 pbixtopbit
 pc
 pcapng
+pci
 pci-dss
 pcloud
 pcsetup
@@ -5871,6 +5867,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 phi
@@ -9308,6 +9305,7 @@ pssearchgithub
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9446,7 +9444,6 @@ quiz
 qumulo
 quota
 quote
-quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9470,6 +9467,7 @@ raindrop
 raindrop.io
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -9782,6 +9780,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+rich
 richtext
 ricoh
 rightcloud
@@ -9790,7 +9789,6 @@ rights
 rightsizing
 rightsmanagement
 rijkswaterstaat
-ring
 ripe
 risk
 riskiq
@@ -9825,7 +9823,6 @@ roles
 rollback
 rollingfile
 romaji
-rooms
 ropc
 rot13
 rotate
@@ -9930,6 +9927,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -10092,7 +10090,6 @@ securescore
 securesphere
 securestring
 security
-security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -10813,7 +10810,6 @@ suppress
 supress-reboot
 surestacks
 surround
-surveillance
 survey
 surveymonkey
 sus
@@ -10868,6 +10864,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -11088,7 +11085,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -11101,6 +11097,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -11381,6 +11378,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -11638,6 +11636,7 @@ vi
 vib
 vibecoding
 video
+video-editing
 videogeneration
 videos
 vie
@@ -11753,6 +11752,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
