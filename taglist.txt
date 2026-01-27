@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 26 January 2026 21:55:00 UTC
+Updated: Tuesday, 27 January 2026 09:58:21 UTC
 
 .bat
 .env
@@ -247,6 +247,7 @@ adsync
 adt
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -430,7 +431,6 @@ apexlegends
 api
 api-client
 api-gateway
-api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -995,7 +995,9 @@ bios_settings
 bios-settings
 bit
 bitbucket
+bitbucket-api
 bitbucket-server
+bitbucketautomation
 bitbucketpipelines
 bitcoin
 bitlocker
@@ -1392,7 +1394,6 @@ clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
-clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1513,7 +1514,6 @@ codaamok
 code
 code-analysis
 code-completion
-code-generation
 code-page
 code365
 codeagent
@@ -1825,7 +1825,6 @@ cq
 cqd
 cqdpowershell
 cqhttp
-cqrs
 crack psmodule
 crash
 crawler
@@ -2004,7 +2003,6 @@ data-uri
 data-uri-converter
 dataadapter
 database
-database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2577,8 +2575,6 @@ ebooks
 ebur128
 ec2
 echo
-ecma2
-ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -2700,7 +2696,6 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
-entity-framework
 entityframework
 entra
 entra-id
@@ -3309,6 +3304,7 @@ geoencoding
 geoip
 geolocation
 geosearching
+geospatial
 geotagging
 get
 get_random_password
@@ -3750,9 +3746,10 @@ hsdp
 hsl
 html
 html-templates
-htmlentity
 http
 http_proxy
+http-listener
+http-server
 httpclient
 httplistener
 httpqscollection
@@ -3953,6 +3950,7 @@ ini
 inifile
 initialization
 initials-avatar
+initiative
 initiator
 injection
 injector
@@ -3994,6 +3992,7 @@ instant
 instapush
 instorage
 insulinpump
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -4258,6 +4257,7 @@ keeper
 kelverion
 kelvin
 kentico
+kerb
 kerberos
 kernel32
 kestrel
@@ -4671,7 +4671,6 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
-mailmessage
 mails
 mailsecurity
 main
@@ -5058,7 +5057,6 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
-msaltoken
 msauth
 msband
 msbi
@@ -5410,6 +5408,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5420,6 +5419,7 @@ nvd
 nvdimm
 nvdimm-n
 nvidia
+nvim
 nvm
 nvm-window
 nxt
@@ -5526,7 +5526,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5560,6 +5559,7 @@ openai
 openaiclient
 openamt
 openapi
+opencage
 opencloud
 opendata
 openedge
@@ -6091,6 +6091,7 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
+poshy-wrap-zypper
 position
 post
 postcode
@@ -6170,7 +6171,6 @@ powershell.one
 powershell7
 powershellai
 powershellazuresql
-powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
@@ -7574,6 +7574,52 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
+pscommand_invoke-zypper
+pscommand_invoke-zypperaddlock
+pscommand_invoke-zypperaddservice
+pscommand_invoke-zypperadrepo
+pscommand_invoke-zypperclean
+pscommand_invoke-zyppercleanlocks
+pscommand_invoke-zypperdistupgrade
+pscommand_invoke-zypperhelp
+pscommand_invoke-zypperhelpsearch
+pscommand_invoke-zypperif
+pscommand_invoke-zypperin
+pscommand_invoke-zypperinstallnewrecommends
+pscommand_invoke-zypperlicenses
+pscommand_invoke-zypperlistlocks
+pscommand_invoke-zypperlistpackages
+pscommand_invoke-zypperlistprocesseslockingpackages
+pscommand_invoke-zypperlistrepos
+pscommand_invoke-zypperlistservices
+pscommand_invoke-zypperlistupdates
+pscommand_invoke-zyppermodifyrepo
+pscommand_invoke-zyppermodifyservice
+pscommand_invoke-zypperpackages
+pscommand_invoke-zypperpatch
+pscommand_invoke-zypperpatchcheck
+pscommand_invoke-zypperpatches
+pscommand_invoke-zypperpatchinfo
+pscommand_invoke-zypperpatterninfo
+pscommand_invoke-zypperpatterns
+pscommand_invoke-zypperproductinfo
+pscommand_invoke-zypperproducts
+pscommand_invoke-zypperrefresh
+pscommand_invoke-zypperrefreshservices
+pscommand_invoke-zypperremove
+pscommand_invoke-zypperremovelock
+pscommand_invoke-zypperremoverepo
+pscommand_invoke-zypperremoveservice
+pscommand_invoke-zypperrenamerepo
+pscommand_invoke-zyppersearch
+pscommand_invoke-zyppershell
+pscommand_invoke-zyppersourcedownload
+pscommand_invoke-zyppersourceinstall
+pscommand_invoke-zyppertargetos
+pscommand_invoke-zypperupdate
+pscommand_invoke-zypperverify
+pscommand_invoke-zypperversioncompare
+pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -8060,6 +8106,51 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
+pscommand_z
+pscommand_zal
+pscommand_zar
+pscommand_zas
+pscommand_zcl
+pscommand_zdup
+pscommand_zh
+pscommand_zhse
+pscommand_zif
+pscommand_zin
+pscommand_zinr
+pscommand_zlicenses
+pscommand_zll
+pscommand_zlp
+pscommand_zlr
+pscommand_zls
+pscommand_zlu
+pscommand_zmr
+pscommand_zms
+pscommand_znr
+pscommand_zpa
+pscommand_zpatch
+pscommand_zpatch-info
+pscommand_zpattern-info
+pscommand_zpch
+pscommand_zpchk
+pscommand_zpd
+pscommand_zproduct-info
+pscommand_zps
+pscommand_zpt
+pscommand_zref
+pscommand_zrefs
+pscommand_zrl
+pscommand_zrm
+pscommand_zrr
+pscommand_zrs
+pscommand_zse
+pscommand_zshell
+pscommand_zsi
+pscommand_zsource-download
+pscommand_ztos
+pscommand_zup
+pscommand_zvcmp
+pscommand_zve
+pscommand_zwp
 pscommander
 psconfasia
 psconfeu
@@ -8899,6 +8990,52 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
+psfunction_invoke-zypper
+psfunction_invoke-zypperaddlock
+psfunction_invoke-zypperaddservice
+psfunction_invoke-zypperadrepo
+psfunction_invoke-zypperclean
+psfunction_invoke-zyppercleanlocks
+psfunction_invoke-zypperdistupgrade
+psfunction_invoke-zypperhelp
+psfunction_invoke-zypperhelpsearch
+psfunction_invoke-zypperif
+psfunction_invoke-zypperin
+psfunction_invoke-zypperinstallnewrecommends
+psfunction_invoke-zypperlicenses
+psfunction_invoke-zypperlistlocks
+psfunction_invoke-zypperlistpackages
+psfunction_invoke-zypperlistprocesseslockingpackages
+psfunction_invoke-zypperlistrepos
+psfunction_invoke-zypperlistservices
+psfunction_invoke-zypperlistupdates
+psfunction_invoke-zyppermodifyrepo
+psfunction_invoke-zyppermodifyservice
+psfunction_invoke-zypperpackages
+psfunction_invoke-zypperpatch
+psfunction_invoke-zypperpatchcheck
+psfunction_invoke-zypperpatches
+psfunction_invoke-zypperpatchinfo
+psfunction_invoke-zypperpatterninfo
+psfunction_invoke-zypperpatterns
+psfunction_invoke-zypperproductinfo
+psfunction_invoke-zypperproducts
+psfunction_invoke-zypperrefresh
+psfunction_invoke-zypperrefreshservices
+psfunction_invoke-zypperremove
+psfunction_invoke-zypperremovelock
+psfunction_invoke-zypperremoverepo
+psfunction_invoke-zypperremoveservice
+psfunction_invoke-zypperrenamerepo
+psfunction_invoke-zyppersearch
+psfunction_invoke-zyppershell
+psfunction_invoke-zyppersourcedownload
+psfunction_invoke-zyppersourceinstall
+psfunction_invoke-zyppertargetos
+psfunction_invoke-zypperupdate
+psfunction_invoke-zypperverify
+psfunction_invoke-zypperversioncompare
+psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -9312,7 +9449,6 @@ quiz
 qumulo
 quota
 quote
-quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9609,6 +9745,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9656,6 +9793,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+rijkswaterstaat
 ring
 ripe
 risk
@@ -10013,7 +10151,6 @@ send-logtologanalytics
 send-mailmessage
 send-mailmessage2
 send-message
-send-mgusermail
 senderid
 sendgrid
 sendkeys
@@ -10277,7 +10414,6 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
-smtpclient
 smtpoauth
 smtpsasl
 snap
@@ -10608,6 +10744,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -11384,8 +11521,8 @@ useragent
 usercontext
 userdiscovery
 usergroup
+usergroups
 userinterface
-usermail
 usermanagement
 username
 userprofile
@@ -11696,8 +11833,10 @@ weaviate
 weaviatenet
 web
 web-browser
+web-framework
 web-hook
 web-search
+web-server
 web.config
 webadministration
 webapi
@@ -11960,6 +12099,7 @@ workflows
 workingdays
 workinghours
 workingtime
+workitems
 workload
 workload-automation
 workloadidentity
@@ -11983,12 +12123,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
@@ -12152,6 +12290,7 @@ zuora
 zvm
 zvml
 zvmlinux
+zypper
 カタカナ
 ひらがな
 ローマ字
