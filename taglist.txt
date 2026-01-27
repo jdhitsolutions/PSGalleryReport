@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 27 January 2026 09:58:21 UTC
+Updated: Tuesday, 27 January 2026 21:53:34 UTC
 
 .bat
 .env
@@ -431,6 +431,7 @@ apexlegends
 api
 api-client
 api-gateway
+api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -532,7 +533,6 @@ archon
 archonagent
 arcresourcebridge
 arcus
-area
 arg
 argcomplete
 argument
@@ -616,7 +616,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atom
 atp
 atproto
@@ -899,7 +898,6 @@ baramundi
 barcodes
 baremetal
 base
-base-in-json
 base16
 base26
 base32
@@ -987,7 +985,6 @@ bind
 binding
 bindings
 bing
-bingmap
 bingmaps
 binomial
 bios
@@ -1180,6 +1177,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1350,6 +1348,7 @@ cicdpipeline
 cidr
 cidrcalculator
 ciellos
+ciem
 cif
 cifv3
 cil
@@ -1388,12 +1387,12 @@ classification
 classified
 claude
 claude3
-claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
+clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1514,6 +1513,7 @@ codaamok
 code
 code-analysis
 code-completion
+code-generation
 code-page
 code365
 codeagent
@@ -1616,7 +1616,6 @@ compiler
 complete
 completer
 completion
-completion-manager
 completionresult
 completions
 complex
@@ -1825,6 +1824,7 @@ cq
 cqd
 cqdpowershell
 cqhttp
+cqrs
 crack psmodule
 crash
 crawler
@@ -2003,6 +2003,7 @@ data-uri
 data-uri-converter
 dataadapter
 database
+database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2575,6 +2576,8 @@ ebooks
 ebur128
 ec2
 echo
+ecma2
+ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -2696,6 +2699,7 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
+entity-framework
 entityframework
 entra
 entra-id
@@ -2863,6 +2867,7 @@ expand
 expand-string
 expand-tab
 expandframework
+expansion
 expect
 experience
 experiments
@@ -3061,8 +3066,6 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
-findlocation
-findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -3294,13 +3297,10 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
-geo
 geocache
 geocaching
 geocode
 geocoding
-geoencode
-geoencoding
 geoip
 geolocation
 geosearching
@@ -3412,8 +3412,6 @@ glp
 glpi
 glucosemonitoring
 gmail
-gmap
-gmaps
 gmsa
 gnome
 gnucash
@@ -3438,7 +3436,6 @@ googleadsv2
 googlecloud
 googlecloudplatform
 googledrive
-googlemap
 googlemaps
 googleworkspace
 gopher
@@ -3746,6 +3743,7 @@ hsdp
 hsl
 html
 html-templates
+htmlentity
 http
 http_proxy
 http-listener
@@ -4066,6 +4064,7 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
 ipa
 ipaddress
@@ -4515,7 +4514,6 @@ localadmin
 localconfigurationmanager
 localdb
 localdirectories
-locale
 localgroup
 localgroupmember
 localization
@@ -4671,6 +4669,7 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
+mailmessage
 mails
 mailsecurity
 main
@@ -4714,14 +4713,12 @@ manifest
 manifested
 manual
 map
-mapapi
 mapi
 mappeddrives
 mapper
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -5057,6 +5054,7 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
+msaltoken
 msauth
 msband
 msbi
@@ -5526,6 +5524,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -5930,7 +5929,6 @@ pki
 pki psmodule
 pks
 pktmon
-place
 places
 plain
 plan
@@ -6171,6 +6169,7 @@ powershell.one
 powershell7
 powershellai
 powershellazuresql
+powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
@@ -9449,6 +9448,7 @@ quiz
 qumulo
 quota
 quote
+quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9495,8 +9495,6 @@ raspbian
 rate
 rate-limit
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -9797,6 +9795,7 @@ rijkswaterstaat
 ring
 ripe
 risk
+riskassessment
 riskiq
 riskmanagement
 riskpro
@@ -9999,7 +9998,6 @@ scoop
 scope
 scopes
 score
-scottplot
 scouterna
 scouternasetjanster
 scoutnet
@@ -10062,7 +10060,6 @@ searchengine
 searcher
 searching
 searchmanager
-searchplace
 searchquery
 searchscript
 searchstring
@@ -10097,6 +10094,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -10151,6 +10149,7 @@ send-logtologanalytics
 send-mailmessage
 send-mailmessage2
 send-message
+send-mgusermail
 senderid
 sendgrid
 sendkeys
@@ -10414,6 +10413,7 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
+smtpclient
 smtpoauth
 smtpsasl
 snap
@@ -10815,6 +10815,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -11523,6 +11524,7 @@ userdiscovery
 usergroup
 usergroups
 userinterface
+usermail
 usermanagement
 username
 userprofile
@@ -12123,10 +12125,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information
@@ -12231,6 +12235,7 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
+yahw
 yamaha
 yaml
 yandex
@@ -12239,6 +12244,7 @@ yapg
 yarn
 yaugeraio
 year
+yetanotherhelloworld
 yfinance
 yify
 yml
