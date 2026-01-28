@@ -3,6 +3,142 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.9.4) | 0.9.4
+
+### Published: 01/28/2026 20:57:02 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 3,588 | __Repository__: 
+
+## [PSAIModelSearch](https://www.powershellgallery.com/Packages/PSAIModelSearch/0.1.0) | 0.1.0
+
+### Published: 01/28/2026 20:14:35 by dfinke
+
+Search and inspect models.dev API catalog data.
+
+__Downloads__: 1 | __Repository__: https://models.dev/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.620.0) | 1.620.0
+
+### Published: 01/28/2026 20:02:26 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 14,089 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [DSInternals.RpcFilters](https://www.powershellgallery.com/Packages/DSInternals.RpcFilters/1.3) | 1.3
+
+### Published: 01/28/2026 19:15:25 by Michael Grafnetter
+
+Commands for managing RPC filters in the Windows Filtering Platform.
+
+__Downloads__: 33 | __Repository__: https://github.com/MichaelGrafnetter/RPCFilterManager
+
+## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.18.0) | 1.18.0
+
+### Published: 01/28/2026 17:15:24 by Fortytwo
+
+Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
+
+__Downloads__: 53 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.28.3) | 26.1.28.3
+
+### Published: 01/28/2026 17:13:42 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,127,403 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Integrom.Module.Bootstrap](https://www.powershellgallery.com/Packages/Integrom.Module.Bootstrap/1.74) | 1.74
+
+### Published: 01/28/2026 17:04:31 by Kevin Ramdin
+
+Provides bootstrap functions for managing Integrom (psil) powershell libraries as well as dynamically injecting custom enums into a runspace
+
+__Downloads__: 57 | __Repository__: 
+
+## [Devolutions.CIEM](https://www.powershellgallery.com/Packages/Devolutions.CIEM/0.2.21) | 0.2.21
+
+### Published: 01/28/2026 16:45:45 by Adam Bertram
+
+Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and access security checks. Provides 46 identity-focused checks for Entra ID, IAM/RBAC, KeyVault, and Storage services.
+
+__Downloads__: 31 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/2.2.1.1) | 2.2.1.1
+
+### Published: 01/28/2026 16:08:37 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 13,923 | __Repository__: https://docs.justcat.it/
+
+## [PSScriptModule](https://www.powershellgallery.com/Packages/PSScriptModule/0.12.12) | 0.12.12
+
+### Published: 01/28/2026 15:51:55 by Marko Stanojevic
+
+A production-ready PowerShell script module template designed to streamline the creation, testing, and delivery of PowerShell modules.
+
+__Downloads__: 78 | __Repository__: https://github.com/warehousefinds/PSScriptModule
+
+## [PSADTree](https://www.powershellgallery.com/Packages/PSADTree/1.2.0) | 1.2.0
+
+### Published: 01/28/2026 13:19:19 by Santiago Squarzon
+
+tree commands for Active Directory
+
+__Downloads__: 370 | __Repository__: https://github.com/santisq/PSADTree
+
+## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.14.23) | 5.14.23
+
+### Published: 01/28/2026 12:51:49 by Roman Kuzmin
+
+Build and test automation in PowerShell
+
+__Downloads__: 2,711,960 | __Repository__: https://github.com/nightroman/Invoke-Build
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.47.0) | 4.47.0
+
+### Published: 01/28/2026 12:28:05 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 40,822 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [DellBIOSProviderARM64](https://www.powershellgallery.com/Packages/DellBIOSProviderARM64/2.10.0) | 2.10.0
+
+### Published: 01/28/2026 12:03:00 by Dell BizClient Team
+
+The 'Dell Command | PowerShell Provider' provides native configuration capability of Dell Optiplex, Latitude, Precision, XPS Notebook and Venue 11 systems within PowerShell.
+
+__Downloads__: 3,684 | __Repository__: http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6901.dell-command-powershell-provider
+
+## [DellBIOSProvider](https://www.powershellgallery.com/Packages/DellBIOSProvider/2.10.0) | 2.10.0
+
+### Published: 01/28/2026 11:54:02 by Dell BizClient Team
+
+The 'Dell Command | PowerShell Provider' provides native configuration capability of Dell Optiplex, Latitude, Precision, XPS Notebook and Venue 11 systems within PowerShell.
+
+__Downloads__: 700,440,572 | __Repository__: http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6901.dell-command-powershell-provider
+
+## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/2.1.0) | 2.1.0
+
+### Published: 01/28/2026 11:09:16 by markorr321
+
+Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
+
+__Downloads__: 160 | __Repository__: https://github.com/markorr321/Entra-PIM
+
+## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/4.1.0.0) | 4.1.0.0
+
+### Published: 01/28/2026 10:25:32 by OutSystems
+
+Tools for installing and manage the OutSystems platform installation
+
+__Downloads__: 226,272 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+
 ## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.4.5) | 4.4.5
 
 ### Published: 01/28/2026 09:01:41 by SignPath GmbH
@@ -24,14 +160,6 @@ Provides different cmdlets for automating Microsoft 365 and related services.
 
 __Downloads__: 1,710 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.28.1) | 26.1.28.1
-
-### Published: 01/28/2026 05:10:48 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,127,383 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.2026011407) | 1.0.11.2026011407
 
 ### Published: 01/28/2026 03:26:34 by Cisco Systems
@@ -46,7 +174,7 @@ __Downloads__: 27,475 | __Repository__: https://github.com/CiscoDevNet/intersigh
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 312,941 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 312,944 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [Greenhouse.JobsBoard](https://www.powershellgallery.com/Packages/Greenhouse.JobsBoard/1.0.6) | 1.0.6
 
@@ -79,14 +207,6 @@ __Downloads__: 2 | __Repository__: https://github.com/nl-baseline/ai-enterprise-
 Module for REST API automation of CyberArk Remote Access.
 
 __Downloads__: 45 | __Repository__: https://github.com/CyberArk-Eng/RAps
-
-## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.9.1) | 0.9.1
-
-### Published: 01/27/2026 22:13:38 by David McVicker
-
-Integris Deployment Tool
-
-__Downloads__: 3,588 | __Repository__: 
 
 ## [PSRedfish](https://www.powershellgallery.com/Packages/PSRedfish/0.1.4) | 0.1.4
 
@@ -1425,22 +1545,6 @@ Integris PowerShell module
 
 __Downloads__: 1,210 | __Repository__: 
 
-## [Devolutions.CIEM](https://www.powershellgallery.com/Packages/Devolutions.CIEM/0.2.7) | 0.2.7
-
-### Published: 01/27/2026 18:49:43 by Adam Bertram
-
-Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and access security checks. Provides 46 identity-focused checks for Entra ID, IAM/RBAC, KeyVault, and Storage services.
-
-__Downloads__: 31 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.617.3) | 1.617.3
-
-### Published: 01/27/2026 18:30:43 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 14,089 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [HyperShell](https://www.powershellgallery.com/Packages/HyperShell/0.1.3.1) | 0.1.3.1
 
 ### Published: 01/27/2026 18:16:08 by SoftIron
@@ -1448,14 +1552,6 @@ __Downloads__: 14,089 | __Repository__: https://github.com/windmill-labs/windmil
 HyperShell
 
 __Downloads__: 20 | __Repository__: 
-
-## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.17.0) | 1.17.0
-
-### Published: 01/27/2026 15:30:40 by Fortytwo
-
-Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
-
-__Downloads__: 53 | __Repository__: 
 
 ## [OctopusDeploy](https://www.powershellgallery.com/Packages/OctopusDeploy/2.2.2) | 2.2.2
 
@@ -1532,14 +1628,6 @@ __Downloads__: 326,416 | __Repository__: https://github.com/fscpscollaborative/f
 This DSC module is used to manage Secure Channel (SChannel) configurations.
 
 __Downloads__: 27,232 | __Repository__: https://github.com/dsccommunity/SChannelDsc
-
-## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/2.0.9) | 2.0.9
-
-### Published: 01/27/2026 10:19:39 by markorr321
-
-Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
-
-__Downloads__: 160 | __Repository__: https://github.com/markorr321/Entra-PIM
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/1.0.1) | 1.0.1
 
@@ -1925,92 +2013,4 @@ A PowerShell module which provides the core framework for generating Diagrams fo
 
 __Downloads__: 92,446 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.22) | 2.7.22
-
-### Published: 01/25/2026 20:05:21 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 8,190,298 | __Repository__: https://dbatools.io/
-
-## [PSClaudeCode](https://www.powershellgallery.com/Packages/PSClaudeCode/1.1.0) | 1.1.0
-
-### Published: 01/25/2026 19:16:39 by Doug Finke
-
-A PowerShell module for building Claude Code using Anthropic, with reference implementations for tool-based interactions.
-
-__Downloads__: 33 | __Repository__: https://github.com/dfinke/PSClaudeCode
-
-## [IntuneWin32App](https://www.powershellgallery.com/Packages/IntuneWin32App/1.5.0) | 1.5.0
-
-### Published: 01/25/2026 16:43:46 by Nickolaj Andersen
-
-Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
-
-__Downloads__: 903,660 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
-
-## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.8.1) | 0.8.1
-
-### Published: 01/25/2026 15:31:16 by Sam Erde
-
-A PowerShell module that helps you get un-stuck from version conflicts that occur when using modules that depend on different versions of the same dependency (such as the Microsoft Authentication Library (MSAL)).
-
-__Downloads__: 147 | __Repository__: https://github.com/SamErde/DLLPickle
-
-## [Sql](https://www.powershellgallery.com/Packages/Sql/3.1.0) | 3.1.0
-
-### Published: 01/25/2026 14:57:03 by Cédric Belin <cedx@outlook.com>
-
-A simple micro-ORM, based on ADO.NET and data annotations.
-
-__Downloads__: 352 | __Repository__: https://github.com/cedx/sql.net
-
-## [DockerCompletion](https://www.powershellgallery.com/Packages/DockerCompletion/1.2901.0.260125) | 1.2901.0.260125
-
-### Published: 01/25/2026 09:12:41 by Masatoshi Higuchi
-
-Docker command completion for PowerShell.
-
-__Downloads__: 187,080 | __Repository__: https://github.com/matt9ucci/DockerCompletion
-
-## [CTAN](https://www.powershellgallery.com/Packages/CTAN/0.1) | 0.1
-
-### Published: 01/25/2026 03:00:47 by James Brundage
-
-PowerShell Module for CTAN - The Comprehensive TeX Archive Network
-
-__Downloads__: 4 | __Repository__: https://github.com/StartAutomating/CTAN
-
-## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.5.0) | 1.5.0
-
-### Published: 01/25/2026 02:50:53 by Yoshifumi Tsuda
-
-Enables AI assistants (such as Claude Desktop) to execute PowerShell commands and CLI tools within a persistent PowerShell console. Supports Windows, Linux, and macOS.
-
-__Downloads__: 958 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
-
-## [IdLE](https://www.powershellgallery.com/Packages/IdLE/0.9.0) | 0.9.0
-
-### Published: 01/24/2026 23:19:35 by Matthias Fleschuetz
-
-IdentityLifecycleEngine (IdLE) meta-module. Imports IdLE.Core and optional packs.
-
-__Downloads__: 13 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
-
-## [PowerShellUniversal.Apps.Bookworm](https://www.powershellgallery.com/Packages/PowerShellUniversal.Apps.Bookworm/1.2.1) | 1.2.1
-
-### Published: 01/24/2026 20:33:31 by Stephen Valdinger
-
-A personal library application for PowerShell Universal.
-
-__Downloads__: 36 | __Repository__: https://github.com/steviecoaster/PowerShellUniversal.Apps.Bookworm
-
-## [DirwTools](https://www.powershellgallery.com/Packages/DirwTools/3.0.0) | 3.0.0
-
-### Published: 01/24/2026 20:14:02 by Michael Voitovich
-
-Multi-column compact "dir /w" style directory list with optional calculating folders size and sorting
-
-__Downloads__: 45 | __Repository__: https://github.com/z-hunter/dirw
-
-*Updated: Wednesday, 28 January 2026 09:58:42 UTC*
+*Updated: Wednesday, 28 January 2026 21:56:47 UTC*

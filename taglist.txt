@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 28 January 2026 09:58:52 UTC
+Updated: Wednesday, 28 January 2026 21:56:57 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Wednesday, 28 January 2026 09:58:52 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -341,6 +342,7 @@ alignment
 alive
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -394,6 +396,7 @@ animation
 animations
 anime
 annotated
+announcement
 announcementsservice
 anonymize
 anonymous
@@ -428,6 +431,7 @@ apexlegends
 api
 api-client
 api-gateway
+api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -499,6 +503,9 @@ appx
 appxmanifest
 appxpackage
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -517,6 +524,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -545,6 +553,7 @@ arrays
 arrow
 arrow-key
 art
+artefactual
 articles
 artifact
 artifactory
@@ -674,6 +683,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedinsulindelivery
 automatedlab
 automatenow
@@ -834,7 +844,6 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
-azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -961,6 +970,7 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
+bigeval
 bigfix
 bigquery
 bikeshed
@@ -1107,6 +1117,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1122,6 +1133,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bundler
@@ -1383,6 +1395,7 @@ clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
+clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1503,6 +1516,7 @@ codaamok
 code
 code-analysis
 code-completion
+code-generation
 code-page
 code365
 codeagent
@@ -1809,6 +1823,7 @@ cq
 cqd
 cqdpowershell
 cqhttp
+cqrs
 crack psmodule
 crash
 crawler
@@ -1987,6 +2002,7 @@ data-uri
 data-uri-converter
 dataadapter
 database
+database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2100,6 +2116,7 @@ decompression
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -2163,6 +2180,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2511,6 +2529,7 @@ duplicate
 duplicate-files
 duplicates
 duplicatioin
+duplication
 durable
 durabletask
 dust
@@ -2635,6 +2654,7 @@ emailserver
 embedded
 embedding
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2680,6 +2700,7 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
+entity-framework
 entityframework
 entra
 entra-id
@@ -2976,6 +2997,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transfer
@@ -3184,6 +3206,7 @@ frontapp
 frontdoor
 frontmatter
 frontrange
+fs
 fsc-ps
 fscps
 fsf
@@ -3444,6 +3467,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpx
 gradient
@@ -3462,6 +3486,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3531,6 +3556,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3824,11 +3851,9 @@ identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
-identitysecuritycloud
 idf
 idle
 idm
-idn
 idna
 idoit
 idp
@@ -4039,6 +4064,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -4513,6 +4539,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4967,6 +4994,7 @@ modelcontextprotocol
 modeldeployment
 modeling
 models
+models.dev
 modern
 modify
 module
@@ -5131,6 +5159,7 @@ mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mvr
@@ -5197,7 +5226,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neocities
 neofetch
 neonpostgres
 neovim
@@ -5508,7 +5536,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -6136,6 +6163,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6245,6 +6274,7 @@ pro
 probability
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
@@ -9291,7 +9321,6 @@ pssearchgithub
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10008,6 +10037,7 @@ script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
+scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -10172,6 +10202,7 @@ serverprotection
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10449,7 +10480,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -10687,6 +10717,7 @@ steamcmd
 stenography
 stepmanager
 stepper
+steps
 sticker
 sticker-pack
 stickers
@@ -11030,6 +11061,7 @@ test-xml
 test123
 testabledata
 testaccount
+testautomation
 testdata
 tester
 testimonial
