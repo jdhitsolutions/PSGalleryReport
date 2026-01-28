@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 27 January 2026 21:53:34 UTC
+Updated: Wednesday, 28 January 2026 09:58:52 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Tuesday, 27 January 2026 21:53:34 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -342,7 +341,6 @@ alignment
 alive
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -396,7 +394,6 @@ animation
 animations
 anime
 annotated
-announcement
 announcementsservice
 anonymize
 anonymous
@@ -431,7 +428,6 @@ apexlegends
 api
 api-client
 api-gateway
-api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -503,9 +499,6 @@ appx
 appxmanifest
 appxpackage
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -524,7 +517,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -533,6 +525,7 @@ archon
 archonagent
 arcresourcebridge
 arcus
+area
 arg
 argcomplete
 argument
@@ -552,7 +545,6 @@ arrays
 arrow
 arrow-key
 art
-artefactual
 articles
 artifact
 artifactory
@@ -616,6 +608,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atom
 atp
 atproto
@@ -681,7 +674,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedinsulindelivery
 automatedlab
 automatenow
@@ -969,7 +961,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -985,6 +976,7 @@ bind
 binding
 bindings
 bing
+bingmap
 bingmaps
 binomial
 bios
@@ -1115,7 +1107,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1131,7 +1122,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bundler
@@ -1387,12 +1377,12 @@ classification
 classified
 claude
 claude3
+claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
-clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1513,7 +1503,6 @@ codaamok
 code
 code-analysis
 code-completion
-code-generation
 code-page
 code365
 codeagent
@@ -1767,10 +1756,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 conway
 cookie
 coolq
@@ -1824,7 +1809,6 @@ cq
 cqd
 cqdpowershell
 cqhttp
-cqrs
 crack psmodule
 crash
 crawler
@@ -2003,7 +1987,6 @@ data-uri
 data-uri-converter
 dataadapter
 database
-database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2117,7 +2100,6 @@ decompression
 decrypt
 decryption
 dedicatedhsm
-deduplication
 deep
 deep-security
 deep-security-manager
@@ -2181,7 +2163,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2212,6 +2193,7 @@ devexpress
 deviation
 device
 devicecode
+devicehardening
 deviceid
 devicemanagement
 deviceprovisioningservice
@@ -2529,11 +2511,11 @@ duplicate
 duplicate-files
 duplicates
 duplicatioin
-duplication
 durable
 durabletask
 dust
 dutch
+dutchbaseline
 dvls
 dvr
 dword
@@ -2653,7 +2635,6 @@ emailserver
 embedded
 embedding
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2699,7 +2680,6 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
-entity-framework
 entityframework
 entra
 entra-id
@@ -2996,7 +2976,6 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
-file-server
 file-share
 file-system
 file-transfer
@@ -3066,6 +3045,8 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
+findlocation
+findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -3203,7 +3184,6 @@ frontapp
 frontdoor
 frontmatter
 frontrange
-fs
 fsc-ps
 fscps
 fsf
@@ -3297,10 +3277,13 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
+geo
 geocache
 geocaching
 geocode
 geocoding
+geoencode
+geoencoding
 geoip
 geolocation
 geosearching
@@ -3412,6 +3395,8 @@ glp
 glpi
 glucosemonitoring
 gmail
+gmap
+gmaps
 gmsa
 gnome
 gnucash
@@ -3436,6 +3421,7 @@ googleadsv2
 googlecloud
 googlecloudplatform
 googledrive
+googlemap
 googlemaps
 googleworkspace
 gopher
@@ -3458,7 +3444,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpx
 gradient
@@ -3477,12 +3462,12 @@ graphic
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
 graylog
 grc
+greenhouse
 greenlake
 greenplum
 greeting
@@ -3546,8 +3531,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -4056,7 +4039,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -4177,6 +4159,7 @@ jnet
 jnetps
 joat
 job
+jobboard
 jobcan
 jobs
 jobscheduler
@@ -4514,6 +4497,7 @@ localadmin
 localconfigurationmanager
 localdb
 localdirectories
+locale
 localgroup
 localgroupmember
 localization
@@ -4529,7 +4513,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4713,12 +4696,14 @@ manifest
 manifested
 manual
 map
+mapapi
 mapi
 mappeddrives
 mapper
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -5146,7 +5131,6 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mvr
@@ -5929,6 +5913,7 @@ pki
 pki psmodule
 pks
 pktmon
+place
 places
 plain
 plan
@@ -6151,8 +6136,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6262,7 +6245,6 @@ pro
 probability
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -9495,6 +9477,8 @@ raspbian
 rate
 rate-limit
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -9998,6 +9982,7 @@ scoop
 scope
 scopes
 score
+scottplot
 scouterna
 scouternasetjanster
 scoutnet
@@ -10023,7 +10008,6 @@ script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
-scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -10060,6 +10044,7 @@ searchengine
 searcher
 searching
 searchmanager
+searchplace
 searchquery
 searchscript
 searchstring
@@ -10187,7 +10172,6 @@ serverprotection
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10703,7 +10687,6 @@ steamcmd
 stenography
 stepmanager
 stepper
-steps
 sticker
 sticker-pack
 stickers
@@ -11030,7 +11013,6 @@ terraform
 terraform-docs
 terraform-switcher
 terraformcloud
-terrafun
 terragrunt
 tesla
 test
@@ -11048,7 +11030,6 @@ test-xml
 test123
 testabledata
 testaccount
-testautomation
 testdata
 tester
 testimonial
