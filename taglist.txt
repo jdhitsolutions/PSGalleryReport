@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 28 January 2026 21:56:57 UTC
+Updated: Thursday, 29 January 2026 10:03:35 UTC
 
 .bat
 .env
@@ -288,7 +288,6 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
-aicontext
 aid
 aidataplatform
 aider
@@ -844,6 +843,7 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
+azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1523,7 +1523,6 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
-codebundler
 codecommit
 codecomplexity
 codecov
@@ -1647,7 +1646,6 @@ computers
 computersite
 computeschedule
 comulativeupdate
-concatenate
 concur
 concurrency
 concurrent
@@ -1770,6 +1768,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 conway
 cookie
 coolq
@@ -2407,6 +2409,8 @@ dok
 dokuwiki
 domain
 domaincontroller
+domainhealth
+domainhealthchecker
 domainkey
 domainkeys
 domainname
@@ -2747,7 +2751,6 @@ errors
 errorview
 eryph
 esae
-esc
 escape
 escapecodes
 escapesequences
@@ -3516,7 +3519,6 @@ grouvee
 growlnotify
 grr
 gsettings
-gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3851,9 +3853,11 @@ identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
+identitysecuritycloud
 idf
 idle
 idm
+idn
 idna
 idoit
 idp
@@ -5226,6 +5230,7 @@ nederland
 nedyalkov
 nemovote
 neo4j
+neocities
 neofetch
 neonpostgres
 neovim
@@ -5536,6 +5541,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -9321,6 +9327,7 @@ pssearchgithub
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10480,6 +10487,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -11044,6 +11052,7 @@ terraform
 terraform-docs
 terraform-switcher
 terraformcloud
+terrafun
 terragrunt
 tesla
 test
@@ -11088,7 +11097,6 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
-textfile
 textgeneration
 texting
 texting-emoji
@@ -11182,7 +11190,6 @@ toggl-api-powershell
 toggl-api-ps
 toggle
 token
-tokencounter
 tokenlifetime
 tokens
 tombstone
