@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 January 2026 10:03:35 UTC
+Updated: Thursday, 29 January 2026 21:56:20 UTC
 
 .bat
 .env
@@ -149,7 +149,6 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
-activerecord
 activeresponse
 activesession
 activiti
@@ -288,11 +287,11 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aicontext
 aid
 aidataplatform
 aider
 aidocument
-aiff
 aiintegration
 ailanguage
 aim
@@ -324,7 +323,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmanagement
 alerts
 alertsmanagement
@@ -410,7 +408,6 @@ ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
-anti-idle
 anti-malware
 antimalwarescaninterface
 antiphishing
@@ -572,8 +569,6 @@ asciiart
 asdatabase
 asigra
 asjob
-ask-gpt
-askgpt
 asm
 asn
 asn.1
@@ -676,7 +671,6 @@ autocompletion
 autoenv
 autograph
 autohotkey
-autolabeling
 autoload
 autologon
 automai
@@ -1057,7 +1051,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1523,6 +1516,7 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
+codebundler
 codecommit
 codecomplexity
 codecov
@@ -1646,6 +1640,7 @@ computers
 computersite
 computeschedule
 comulativeupdate
+concatenate
 concur
 concurrency
 concurrent
@@ -2031,7 +2026,6 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
-dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2231,7 +2225,6 @@ devtools
 dexcom
 dfch
 dfir
-dfplayermini
 dfs
 dfw
 dg
@@ -2332,11 +2325,9 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
-diy
 dkim
 dkimcheck
 dkschrutebeets
@@ -2417,7 +2408,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2751,6 +2741,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2857,6 +2848,7 @@ executable
 executables
 execute
 executionalias
+executionpolicy
 exexml
 exif
 exiftool
@@ -2956,7 +2948,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 favouritedirectory
@@ -3519,8 +3510,10 @@ grouvee
 growlnotify
 grr
 gsettings
+gsudo
 gsuite
 gtx1080ti
+guard
 guardedfabric
 guardicore
 gubbins
@@ -3544,7 +3537,6 @@ gzip
 gzip-compression
 ha
 haarlemsdagblad
-habitica
 hack
 hacking
 hacktoberfest
@@ -3927,7 +3919,6 @@ incident_response
 incident-response
 incidentresponse
 incidents
-includeif
 incontact
 indents
 index
@@ -4002,7 +3993,6 @@ instant
 instapush
 instorage
 insulinpump
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -4109,7 +4099,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 isc
 iscsi
 isdate
@@ -4177,7 +4166,6 @@ jekyll
 jellyfin
 jenkins
 jetbrains
-jiggler
 jira
 jiraservicemanagement
 jitbit
@@ -4404,7 +4392,6 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 lcov
@@ -5155,7 +5142,6 @@ multithread
 multithreaded
 multithreaded-helpers
 multithreading
-multiuser
 music
 musiccast
 mustache
@@ -5423,7 +5409,6 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -5589,7 +5574,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -9302,9 +9286,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -9450,7 +9431,6 @@ quantum
 quarantine
 queries
 query
-querybuilder
 queryexcel
 querystring
 question
@@ -10948,7 +10928,6 @@ tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
-taglib
 tags
 tak
 taken
@@ -11085,7 +11064,6 @@ testtag2
 testtool
 testusers
 text
-text_to_speech
 text-based
 text-emoji
 text-emojis
@@ -11097,6 +11075,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textfile
 textgeneration
 texting
 texting-emoji
@@ -11176,6 +11155,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmconsole.provider.nutanix.move
 tmux
 to-do
 toast
@@ -11190,6 +11170,7 @@ toggl-api-powershell
 toggl-api-ps
 toggle
 token
+tokencounter
 tokenlifetime
 tokens
 tombstone
@@ -11204,7 +11185,6 @@ toolkit
 toolmaking
 tools
 tools4ever
-toon
 topdesk
 topgrade
 topics
@@ -11402,7 +11382,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11497,6 +11476,7 @@ update-typedata
 updatecatalog
 updatedeferral
 updatemanagement
+updatemanager
 updatemgmt
 updater
 updates
@@ -11537,7 +11517,6 @@ usap
 usb
 useful
 user
-user-environment
 useragent
 usercontext
 userdiscovery
@@ -11928,6 +11907,7 @@ where
 whfb
 whisper
 whiteboard
+whitelist
 whitelisting
 whitespace
 who
@@ -11994,7 +11974,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -12255,7 +12234,6 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
-yahw
 yamaha
 yaml
 yandex
@@ -12264,7 +12242,6 @@ yapg
 yarn
 yaugeraio
 year
-yetanotherhelloworld
 yfinance
 yify
 yml

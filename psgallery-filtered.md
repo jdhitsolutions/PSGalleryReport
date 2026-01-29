@@ -3,13 +3,157 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.621.1) | 1.621.1
+## [TMConsole.Provider.Nutanix.Move](https://www.powershellgallery.com/Packages/TMConsole.Provider.Nutanix.Move/1.1.0) | 1.1.0
 
-### Published: 01/29/2026 09:27:45 by Windmill Labs
+### Published: 01/29/2026 20:41:18 by TMConsole.Provider.Nutanix.Move
+
+Provides TMConsole.Provider.Nutanix.Move Functionality
+
+__Downloads__: 0 | __Repository__: 
+
+## [pwshweb](https://www.powershellgallery.com/Packages/pwshweb/1.0.1) | 1.0.1
+
+### Published: 01/29/2026 20:13:07 by Jaap Brasser
+
+A lightweight PowerShell web server inspired by Python http.server
+
+__Downloads__: 1 | __Repository__: 
+
+## [UGDSB.ApplicationFactory](https://www.powershellgallery.com/Packages/UGDSB.ApplicationFactory/0.7.6) | 0.7.6
+
+### Published: 01/29/2026 19:58:28 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for Application Factory
+
+__Downloads__: 227 | __Repository__: 
+
+## [TMConsole.Client](https://www.powershellgallery.com/Packages/TMConsole.Client/3.0.2) | 3.0.2
+
+### Published: 01/29/2026 19:45:17 by TransitionManager
+
+Commands required for the TMConsole application to run properly
+
+__Downloads__: 694 | __Repository__: 
+
+## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.9.2) | 0.9.2
+
+### Published: 01/29/2026 19:16:03 by Roman Kuzmin
+
+LiteDB Cmdlets, the document store in PowerShell
+
+__Downloads__: 5,985 | __Repository__: https://github.com/nightroman/Ldbc
+
+## [Devolutions.CIEM](https://www.powershellgallery.com/Packages/Devolutions.CIEM/0.2.41) | 0.2.41
+
+### Published: 01/29/2026 18:48:07 by Adam Bertram
+
+Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and access security checks. Provides 46 identity-focused checks for Entra ID, IAM/RBAC, KeyVault, and Storage services.
+
+__Downloads__: 67 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
+
+## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.7.3) | 2.7.3
+
+### Published: 01/29/2026 18:29:40 by TransitionManager
+
+Provides commands to an end user within TMD PowerShell Scripts.
+
+__Downloads__: 1,823 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.621.2) | 1.621.2
+
+### Published: 01/29/2026 17:21:39 by Windmill Labs
 
 Client for the Windmill platform.
 
 __Downloads__: 14,131 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.29.3) | 26.1.29.3
+
+### Published: 01/29/2026 17:17:03 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 6,141,677 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.20.1) | 1.20.1
+
+### Published: 01/29/2026 17:13:41 by Fortytwo
+
+Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
+
+__Downloads__: 57 | __Repository__: 
+
+## [DNSHealth](https://www.powershellgallery.com/Packages/DNSHealth/1.1.3) | 1.1.3
+
+### Published: 01/29/2026 16:38:36 by John Duprey
+
+CIPP DNS Health Check Module
+
+__Downloads__: 390 | __Repository__: https://github.com/johnduprey/DNSHealth
+
+## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.5.0) | 1.5.0
+
+### Published: 01/29/2026 16:26:31 by Nicolas Cavare
+
+A PowerShell module to configure PHP
+
+__Downloads__: 569 | __Repository__: https://github.com/ncavare/powershell-phpconfig
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.692) | 1.0.692
+
+### Published: 01/29/2026 15:19:30 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 43,647 | __Repository__: 
+
+## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.53.0) | 2.53.0
+
+### Published: 01/29/2026 15:19:23 by Reuben Miller
+
+Cumulocity REST API
+
+__Downloads__: 3,545 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+
+## [ScriptWhitelistGuard](https://www.powershellgallery.com/Packages/ScriptWhitelistGuard/1.0.0) | 1.0.0
+
+### Published: 01/29/2026 14:31:29 by Xiamen Moefire Technology Co.Ltd.
+
+Interactive PowerShell script execution guard with SHA256 whitelist verification. Intercepts external .ps1 script execution at the PSReadLine level, validates against a whitelist, and transparently rewrites approved commands to execute with -ExecutionPolicy Bypass. Not a security boundary - primarily for workflow safety.
+
+__Downloads__: 0 | __Repository__: https://github.com/Moefire/Script-Whitelist-Guard
+
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.25) | 0.8.25
+
+### Published: 01/29/2026 14:24:31 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
+
+__Downloads__: 55,144 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+
+## [SeleniumPS](https://www.powershellgallery.com/Packages/SeleniumPS/4.38.0) | 4.38.0
+
+### Published: 01/29/2026 13:59:54 by Lazuardi
+
+Selenium helper for PowerShell
+
+__Downloads__: 0 | __Repository__: 
+
+## [GuestConfigurationHelper](https://www.powershellgallery.com/Packages/GuestConfigurationHelper/1.7.0) | 1.7.0
+
+### Published: 01/29/2026 10:57:37 by Jelle Broekhuijsen (consultancy@jll.io)
+
+A module to support development and publication of Azure Guest Configuration
+
+__Downloads__: 2,854 | __Repository__: https://github.com/JelleBroekhuijsen/GuestConfigurationHelper
+
+## [Gordon](https://www.powershellgallery.com/Packages/Gordon/4.0.22) | 4.0.22
+
+### Published: 01/29/2026 10:27:58 by EOS Solutions
+
+Your friendly neighborhood helper for all things BC, NAV and AL
+
+__Downloads__: 678 | __Repository__: https://eos-solutions.github.io/Gordon
 
 ## [UnipharLeaversManagement](https://www.powershellgallery.com/Packages/UnipharLeaversManagement/1.0.1) | 1.0.1
 
@@ -42,14 +186,6 @@ __Downloads__: 880 | __Repository__: https://migrate.rivermeadow.com/
 Integris Deployment Tool
 
 __Downloads__: 3,609 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.1.29.1) | 26.1.29.1
-
-### Published: 01/29/2026 05:21:05 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 6,141,768 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [cwmApi](https://www.powershellgallery.com/Packages/cwmApi/1.6.1) | 1.6.1
 
@@ -115,14 +251,6 @@ Commands for managing RPC filters in the Windows Filtering Platform.
 
 __Downloads__: 36 | __Repository__: https://github.com/MichaelGrafnetter/RPCFilterManager
 
-## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.18.0) | 1.18.0
-
-### Published: 01/28/2026 17:15:24 by Fortytwo
-
-Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
-
-__Downloads__: 57 | __Repository__: 
-
 ## [Integrom.Module.Bootstrap](https://www.powershellgallery.com/Packages/Integrom.Module.Bootstrap/1.74) | 1.74
 
 ### Published: 01/28/2026 17:04:31 by Kevin Ramdin
@@ -130,14 +258,6 @@ __Downloads__: 57 | __Repository__:
 Provides bootstrap functions for managing Integrom (psil) powershell libraries as well as dynamically injecting custom enums into a runspace
 
 __Downloads__: 61 | __Repository__: 
-
-## [Devolutions.CIEM](https://www.powershellgallery.com/Packages/Devolutions.CIEM/0.2.21) | 0.2.21
-
-### Published: 01/28/2026 16:45:45 by Adam Bertram
-
-Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and access security checks. Provides 46 identity-focused checks for Entra ID, IAM/RBAC, KeyVault, and Storage services.
-
-__Downloads__: 67 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/2.2.1.1) | 2.2.1.1
 
@@ -169,7 +289,7 @@ __Downloads__: 373 | __Repository__: https://github.com/santisq/PSADTree
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,714,170 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,714,146 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.47.0) | 4.47.0
 
@@ -1667,7 +1787,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 92,480 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 92,483 | __Repository__: https://pscompletions.abgox.com/
 
 ## [ScreenRecorder](https://www.powershellgallery.com/Packages/ScreenRecorder/0.7.0) | 0.7.0
 
@@ -1699,7 +1819,7 @@ __Downloads__: 327,536 | __Repository__: https://github.com/fscpscollaborative/f
 
 This DSC module is used to manage Secure Channel (SChannel) configurations.
 
-__Downloads__: 27,259 | __Repository__: https://github.com/dsccommunity/SChannelDsc
+__Downloads__: 27,255 | __Repository__: https://github.com/dsccommunity/SChannelDsc
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/1.0.1) | 1.0.1
 
@@ -1739,7 +1859,7 @@ __Downloads__: 46,673 | __Repository__: https://github.com/OSDeploy/OSDCloud
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 132,346 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 132,345 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.50) | 1.5.0.50
 
@@ -1755,7 +1875,7 @@ __Downloads__: 6,956 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 118,114 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 118,112 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.104) | 4.9.0.104
 
@@ -1763,7 +1883,7 @@ __Downloads__: 118,114 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 126,502 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 126,501 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.2.12) | 1.10.2.12
 
@@ -1771,7 +1891,7 @@ __Downloads__: 126,502 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for remote management and access.
 
-__Downloads__: 126,325 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 126,324 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.29) | 5.4.1.29
 
@@ -1779,7 +1899,7 @@ __Downloads__: 126,325 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 140,304 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 140,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.24.1.2) | 2.24.1.2
 
@@ -1795,7 +1915,7 @@ __Downloads__: 375,444 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 111,415 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 111,416 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.104) | 1.7.0.104
 
@@ -1803,7 +1923,7 @@ __Downloads__: 111,415 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions that have no purpose
 
-__Downloads__: 127,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 127,535 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.19.0.12) | 1.19.0.12
 
@@ -1827,7 +1947,7 @@ __Downloads__: 232,485 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 191,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 191,991 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.31) | 4.15.1.31
 
@@ -1843,7 +1963,7 @@ __Downloads__: 180,150 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 197,371 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 197,370 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [NetillimarAutomation.Common](https://www.powershellgallery.com/Packages/NetillimarAutomation.Common/0.1.0) | 0.1.0
 
@@ -1893,124 +2013,4 @@ Query Azure IP Ranges and Service Tags in Public, China, Azure Germany or Azure 
 
 __Downloads__: 11 | __Repository__: https://github.com/erlwes/AzureServiceTags
 
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.36) | 1.0.36
-
-### Published: 01/26/2026 16:21:47 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 3,535 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [ExoAliasManagement](https://www.powershellgallery.com/Packages/ExoAliasManagement/0.0.8) | 0.0.8
-
-### Published: 01/26/2026 15:44:06 by Alex Neihaus
-
-PowerShell module for managing Exchange Online email aliases. Provides functions to find, add, and remove email aliases from Exchange Online mailboxes using interactive authentication.
-
-__Downloads__: 41 | __Repository__: 
-
-## [UplinkSystems.Microsoft.Cloud](https://www.powershellgallery.com/Packages/UplinkSystems.Microsoft.Cloud/1.0.0) | 1.0.0
-
-### Published: 01/26/2026 15:16:59 by Andreas Schreiner
-
-Uplink Systems Microsoft Cloud Module
-
-__Downloads__: 4 | __Repository__: https://github.com/uplink-systems/powershell-modules/tree/main/UplinkSystems.Microsoft.Cloud
-
-## [PSGadget](https://www.powershellgallery.com/Packages/PSGadget/0.0.3) | 0.0.3
-
-### Published: 01/26/2026 15:06:22 by Mark Go
-
-PsGadget hardware + PowerShell -- (Under Development)
-
-__Downloads__: 11 | __Repository__: https://github.com/MarkGzero/PsGadget
-
-## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9522.55216) | 0.1.9522.55216
-
-### Published: 01/26/2026 14:21:46 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work Around AL developments.
-
-__Downloads__: 2,776 | __Repository__: 
-
-## [RealmJoin.RunbookHelper](https://www.powershellgallery.com/Packages/RealmJoin.RunbookHelper/0.8.5) | 0.8.5
-
-### Published: 01/26/2026 13:31:56 by glueckkanja AG
-
-Helps to integrate Azure Automation scripts with RealmJoin.
-
-__Downloads__: 1,346 | __Repository__: https://github.com/realmjoin/RealmJoin.RunbookHelper
-
-## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/1.1.0) | 1.1.0
-
-### Published: 01/26/2026 13:22:12 by Remco Vermeer
-
-This module contains functions to maintain EntraId Groups and Users in Desired State.
-
-__Downloads__: 593 | __Repository__: https://github.com/AzureStackNerd/EntraIdDSC/
-
-## [META10CRM](https://www.powershellgallery.com/Packages/META10CRM/1.6.0) | 1.6.0
-
-### Published: 01/26/2026 13:16:43 by META10 - Mikail Aras
-
-CRM automation module with class support
-
-__Downloads__: 66 | __Repository__: 
-
-## [TMF](https://www.powershellgallery.com/Packages/TMF/2.0.27982) | 2.0.27982
-
-### Published: 01/26/2026 12:58:36 by Azure Team VWGS
-
-Helper module to manage Azure AD Tenants as code.
-
-__Downloads__: 4,862 | __Repository__: https://github.com/ATVWGS/tenant-management-framework/
-
-## [PowershellFunctions007](https://www.powershellgallery.com/Packages/PowershellFunctions007/2.9.1) | 2.9.1
-
-### Published: 01/26/2026 12:22:59 by Peter Cullen Burbery
-
-PowerShell utilities for configuring Windows systems, managing environments, customizing time and date settings, and automating administrative tasks.
-
-__Downloads__: 167 | __Repository__: https://github.com/PeterCullenBurbery/powershell-functions-007
-
-## [Gordon](https://www.powershellgallery.com/Packages/Gordon/4.0.21) | 4.0.21
-
-### Published: 01/26/2026 11:15:52 by EOS Solutions
-
-Your friendly neighborhood helper for all things BC, NAV and AL
-
-__Downloads__: 678 | __Repository__: https://eos-solutions.github.io/Gordon
-
-## [EntraFIDOFinder](https://www.powershellgallery.com/Packages/EntraFIDOFinder/0.0.22) | 0.0.22
-
-### Published: 01/26/2026 11:10:37 by Clayton Tyger
-
-PowerShell Module to find compatible attestation FIDO2 keys for Entra.
-
-__Downloads__: 7,754 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
-
-## [endjin-gists](https://www.powershellgallery.com/Packages/endjin-gists/0.3.1) | 0.3.1
-
-### Published: 01/26/2026 11:01:52 by Endjineers
-
-Tooling to curate and distribute Endjin IP assets into projects using the vendir tool
-
-__Downloads__: 38 | __Repository__: https://github.com/endjin/endjin-gists
-
-## [Nebula.Tools](https://www.powershellgallery.com/Packages/Nebula.Tools/1.0.4) | 1.0.4
-
-### Published: 01/26/2026 10:54:39 by Giovanni Solone
-
-Everyday functions and utilities for PowerShell.
-
-__Downloads__: 40 | __Repository__: https://github.com/gioxx/Nebula.Tools
-
-## [trymsae.memeshell](https://www.powershellgallery.com/Packages/trymsae.memeshell/1.0.1) | 1.0.1
-
-### Published: 01/26/2026 09:23:50 by trymsae
-
-MemeShell PowerShell Module
-
-__Downloads__: 18 | __Repository__: https://github.com/trymsae/MemeShell
-
-*Updated: Thursday, 29 January 2026 10:03:25 UTC*
+*Updated: Thursday, 29 January 2026 21:56:11 UTC*
