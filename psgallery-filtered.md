@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Yakenohara.test](https://www.powershellgallery.com/Packages/Yakenohara.test/0.1.0) | 0.1.0
+
+### Published: 02/01/2026 09:26:02 by a
+
+このモジュールの機能の説明
+
+__Downloads__: 1 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.623.0) | 1.623.0
+
+### Published: 02/01/2026 08:06:47 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 14,214 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [jh_PSModule](https://www.powershellgallery.com/Packages/jh_PSModule/1.0.0) | 1.0.0
+
+### Published: 02/01/2026 04:42:57 by Jared Heinrichs
+
+A PowerShell Module that can help you create new Public/Private Module Templates or help you submit one to the PowerShell Gallery.
+
+__Downloads__: 3 | __Repository__: 
+
 ## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/1.5.1) | 1.5.1
 
 ### Published: 01/31/2026 21:07:58 by Dan Madsen
@@ -86,7 +110,7 @@ The intended use of this project is for Continuous Integration (CI) scenarios, w
 
 By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
 
-__Downloads__: 62,851 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+__Downloads__: 62,850 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
 
 ## [LegacyLapsAudit](https://www.powershellgallery.com/Packages/LegacyLapsAudit/1.0.0) | 1.0.0
 
@@ -277,14 +301,6 @@ __Downloads__: 30,807 | __Repository__: https://github.com/thomastysong/PSDriver
 AppVeyor Bring-Your-Own-Cloud/Computer (BYOC) - PowerShell module to enable hosted AppVeyor CI account or on-premise AppVeyor Server installation running builds on a custom build cloud (Azure, AWS, GCE, Hyper-V, Docker) or computer directly (Windows, Linux, Mac).
 
 __Downloads__: 18,773 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.622.0) | 1.622.0
-
-### Published: 01/29/2026 23:50:57 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 14,214 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [IntegrisPowerShell](https://www.powershellgallery.com/Packages/IntegrisPowerShell/2.0.95) | 2.0.95
 
@@ -2012,20 +2028,4 @@ fscps.tools
 
 __Downloads__: 329,800 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
-## [SChannelDsc](https://www.powershellgallery.com/Packages/SChannelDsc/1.5.0) | 1.5.0
-
-### Published: 01/27/2026 10:37:19 by DSC Community
-
-This DSC module is used to manage Secure Channel (SChannel) configurations.
-
-__Downloads__: 27,311 | __Repository__: https://github.com/dsccommunity/SChannelDsc
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/1.0.1) | 1.0.1
-
-### Published: 01/27/2026 09:36:13 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 613,381 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-*Updated: Saturday, 31 January 2026 21:54:21 UTC*
+*Updated: Sunday, 01 February 2026 09:56:43 UTC*
