@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 02 February 2026 10:08:07 UTC
+Updated: Tuesday, 03 February 2026 10:03:51 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Monday, 02 February 2026 10:08:07 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -105,7 +106,6 @@ accordian
 account
 account-management
 accounting
-accountmanagement
 accounts
 ace
 ack
@@ -146,8 +146,6 @@ activeefficiency
 activehours
 activenet
 activenetapi
-activenetworkstation
-activenetworkstationservice
 activerecord
 activeresponse
 activesession
@@ -293,6 +291,7 @@ aid
 aidataplatform
 aider
 aidocument
+aiff
 aiintegration
 ailanguage
 aim
@@ -417,7 +416,6 @@ antiphishing
 antispam
 antispoofing
 antivirus
-anws
 any
 anypackage
 anypoint
@@ -432,6 +430,7 @@ api-client
 api-gateway
 api-generation
 api-rest
+api-wrapper
 apiaccesscontrol
 apichecks
 apiclient
@@ -511,7 +510,6 @@ apt
 apt-get
 apt-get-update
 apteco
-aptitude
 aql
 arabic
 arangodb
@@ -574,8 +572,6 @@ asciiart
 asdatabase
 asigra
 asjob
-ask-gpt
-askgpt
 asm
 asn
 asn.1
@@ -1171,6 +1167,7 @@ caf
 caffeine
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1770,6 +1767,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 conway
 cookie
 coolq
@@ -2191,7 +2192,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2259,6 +2259,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dir
 dircolors
 direct_send
@@ -2413,6 +2414,7 @@ domainkeys
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2678,6 +2680,7 @@ encryption
 end-of-line
 endomondo
 endpoint
+endpointmanagement
 endpoints
 energy
 engagement
@@ -3259,6 +3262,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -3288,7 +3292,9 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generativeai
 generativeaiagent
@@ -3619,7 +3625,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3849,15 +3854,13 @@ identitydataplane
 identitydirector
 identitydomains
 identitygovernance
-identitylifecycleengine
-identitymanagement
 identitynow
+identitysecuritycloud
 idf
-idle
 idm
+idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -4065,6 +4068,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -4082,7 +4086,6 @@ ipc
 ipcalc
 ipcalculator
 ipconfig
-ipcontrol
 iperf
 ipfy.org
 iphone
@@ -4177,7 +4180,6 @@ jiggler
 jira
 jiraservicemanagement
 jitbit
-jml
 jms
 jmsjavadownloads
 jmsutils
@@ -4451,7 +4453,6 @@ licensereport
 licenses
 licensing
 life
-lifecycle
 lifequotes
 lifestyle
 light
@@ -4536,7 +4537,6 @@ locationbasedservices
 locations
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4706,7 +4706,6 @@ managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4726,7 +4725,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper
 mapper24
 mapping
 maps
@@ -4855,7 +4853,6 @@ messenger
 met
 meta
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -5515,6 +5512,7 @@ ollama
 omada
 omaha
 ome
+omg
 omnisphere
 omnissa
 omnistack
@@ -5775,6 +5773,7 @@ pass
 pass-the-hash
 pass-the-ticket
 passcode
+passivetotal
 passkey
 passkeys
 passphrase
@@ -6062,7 +6061,6 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
-poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -6164,6 +6162,7 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
+powershell-lightning
 powershell-module
 powershell-modules
 powershell-modules-convention
@@ -6395,10 +6394,6 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
-pscommand_aar
-pscommand_acp
-pscommand_acse
-pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -6412,16 +6407,7 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
-pscommand_afs
-pscommand_age
-pscommand_agli
-pscommand_aglu
-pscommand_allpkgs
-pscommand_app
-pscommand_apt-history
-pscommand_apt-list-packages
 pscommand_arch
-pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -6794,7 +6780,6 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
-pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -7077,14 +7062,6 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-aptcachepolicy
-pscommand_invoke-aptcachesearch
-pscommand_invoke-aptcacheshowpkg
-pscommand_invoke-aptfilesearchbyregex
-pscommand_invoke-aptgetsource
-pscommand_invoke-aptlistinstalled
-pscommand_invoke-aptlistupgradable
-pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -7695,7 +7672,6 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
-pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -8214,7 +8190,6 @@ psflurl
 psfoldersize
 psframework
 psfunction__python3
-psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -8228,8 +8203,6 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
-psfunction_apt-history
-psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -8393,7 +8366,6 @@ psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
-psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -8493,14 +8465,6 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-aptcachepolicy
-psfunction_invoke-aptcachesearch
-psfunction_invoke-aptcacheshowpkg
-psfunction_invoke-aptfilesearchbyregex
-psfunction_invoke-aptgetsource
-psfunction_invoke-aptlistinstalled
-psfunction_invoke-aptlistupgradable
-psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -9047,7 +9011,6 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
-psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -9314,7 +9277,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssearchgithub
 pssendgrid
 pssession
@@ -9757,6 +9719,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9809,6 +9772,7 @@ ring
 ripe
 risk
 riskassessment
+riskiq
 riskmanagement
 riskpro
 risksense
@@ -10054,7 +10018,6 @@ scriptoform
 scriptrunner
 scripts
 scriptsigning
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -10326,7 +10289,6 @@ shutdown
 sid
 siem
 sif
-sigma
 sign
 signal
 signalfx
@@ -10363,6 +10325,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -10450,7 +10413,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -10758,6 +10720,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10941,6 +10904,7 @@ tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
+taglib
 tags
 tak
 taken
@@ -11134,7 +11098,6 @@ threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
 threatprotection
-threats
 threatsharing
 thumbprint
 thunderbird
@@ -11398,7 +11361,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11514,6 +11476,7 @@ uptobox
 uqword
 urbac
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -11651,6 +11614,7 @@ version-management
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vgpu
@@ -11952,13 +11916,13 @@ whoisserver
 whoissummary
 whoistool
 whoisutility
-whormi
 wi-fi
 wia
 wia.imagefile
 wid
 widedata
 wiegand
+wif
 wifi
 wiki
 wildcard
@@ -12265,6 +12229,7 @@ yfinance
 yify
 yml
 ynab
+yokohama
 youtube
 youtube-dl
 youtube-transcript
