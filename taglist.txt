@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 04 February 2026 21:57:01 UTC
+Updated: Thursday, 05 February 2026 10:05:33 UTC
 
 .bat
 .env
@@ -18,6 +18,7 @@ Updated: Wednesday, 04 February 2026 21:57:01 UTC
 **windows**
 🍄
 🍣
+💩
 🙇
 1&1
 10
@@ -164,10 +165,7 @@ ad_delegation
 ad_monitoring
 ad_security
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -234,14 +232,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsp
 adsync
 adt
@@ -293,6 +288,7 @@ aid
 aidataplatform
 aider
 aidocument
+aiff
 aiintegration
 ailanguage
 aim
@@ -627,6 +623,7 @@ atprotocol
 atrium
 ats
 att&ck
+attach
 attention
 attestation
 attila
@@ -722,7 +719,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -1907,6 +1903,7 @@ csv
 csv2adx
 csvhelper
 ctap
+ctf
 ctglobal
 ctl
 ctrl+c
@@ -2239,6 +2236,7 @@ dfplayermini
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diabetes
@@ -2823,6 +2821,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2952,7 +2951,6 @@ farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastdata
 faster
 fastfilepub
@@ -3074,7 +3072,6 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -3146,7 +3143,6 @@ football
 for
 force
 forcedelete
-forcedomaintakeover
 foreach
 foreach-object
 forecast
@@ -3507,7 +3503,6 @@ grc
 greenhouse
 greenlake
 greenplum
-greeting
 gregorian
 gremlin
 grep
@@ -3518,7 +3513,6 @@ gridview
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmanagement
 groupmembership
@@ -3865,9 +3859,11 @@ identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
+identitysecuritycloud
 idf
 idle
 idm
+idn
 idna
 idoit
 idp
@@ -3891,6 +3887,7 @@ ilo
 ilocmdlets
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -3973,9 +3970,7 @@ initiative
 initiator
 injection
 injector
-inline-progress
 inlineimageprotocol
-inlineprogress
 innerjoin
 innertext
 inpainting
@@ -4095,6 +4090,7 @@ ipc
 ipcalc
 ipcalculator
 ipconfig
+ipcontrol
 iperf
 ipfy.org
 iphone
@@ -4757,6 +4753,7 @@ marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -4824,6 +4821,7 @@ medhacloud
 media
 mediant
 mediaplayer
+mediaserver
 mediaservices
 mediawiki
 meditation
@@ -5143,7 +5141,6 @@ multi-language
 multi-platform
 multi-tenant
 multi-thread
-multi-threading
 multi-zone
 multiagent
 multicloud
@@ -5276,12 +5273,12 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkanalytics
 networkautomation
 networkcategory
@@ -5292,7 +5289,6 @@ networkdrive
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -5688,7 +5684,6 @@ osx
 otel
 otp
 ou
-ou-object
 oui
 oui-search
 oura
@@ -5869,6 +5864,7 @@ pentesting
 pentia
 people
 peopledoc
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -6016,6 +6012,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -6234,6 +6231,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -8199,8 +8197,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9316,6 +9312,7 @@ psql
 psraw
 psreadexif
 psreadline
+psreminder
 psremoting
 psrepository
 psresource
@@ -10314,6 +10311,7 @@ shares
 sharetru
 sheets
 shell
+shell-art
 shell-integration
 shells
 sherweb
@@ -10562,6 +10560,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfcheck
@@ -10961,6 +10960,7 @@ tag-requiredmodule3-2.5
 tag1
 tag2
 tagging
+taglib
 tags
 tak
 taken
@@ -11486,7 +11486,6 @@ unitconvesion
 unittest
 unittesting
 unity
-unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -12180,7 +12179,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writeprogress
 writer
 writing
 ws-federation
