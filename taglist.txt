@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 05 February 2026 10:05:33 UTC
+Updated: Thursday, 05 February 2026 21:56:50 UTC
 
 .bat
 .env
@@ -165,7 +165,10 @@ ad_delegation
 ad_monitoring
 ad_security
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -232,11 +235,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsp
 adsync
 adt
@@ -719,6 +725,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -2299,7 +2306,6 @@ disconnect
 disconnectedoperations
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2318,8 +2324,6 @@ dismal
 display
 display_dialog
 displayresolution
-disposable
-dispose
 distance
 distinguishedname
 distributed-systems
@@ -2578,7 +2582,6 @@ easypim
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 echo
@@ -2709,7 +2712,6 @@ entity
 entity-framework
 entityframework
 entra
-entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2852,7 +2854,6 @@ exchangeonprem
 exchangerate
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2951,10 +2952,10 @@ farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastdata
 faster
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -3072,6 +3073,7 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -3143,6 +3145,7 @@ football
 for
 force
 forcedelete
+forcedomaintakeover
 foreach
 foreach-object
 forecast
@@ -3503,6 +3506,7 @@ grc
 greenhouse
 greenlake
 greenplum
+greeting
 gregorian
 gremlin
 grep
@@ -3513,6 +3517,7 @@ gridview
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmanagement
 groupmembership
@@ -3866,7 +3871,6 @@ idm
 idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -3970,7 +3974,9 @@ initiative
 initiator
 injection
 injector
+inline-progress
 inlineimageprotocol
+inlineprogress
 innerjoin
 innertext
 inpainting
@@ -4090,7 +4096,6 @@ ipc
 ipcalc
 ipcalculator
 ipconfig
-ipcontrol
 iperf
 ipfy.org
 iphone
@@ -4880,7 +4885,6 @@ mgn
 mi
 micro
 micro-framework
-micro-orm
 microfocus
 microk8s
 micropython
@@ -4893,7 +4897,6 @@ microsoft_online
 microsoft_teams
 microsoft-365
 microsoft-entra
-microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
 microsoft-teams
@@ -5141,6 +5144,7 @@ multi-language
 multi-platform
 multi-tenant
 multi-thread
+multi-threading
 multi-zone
 multiagent
 multicloud
@@ -5222,7 +5226,6 @@ nav
 naven
 navenps
 navigation
-nbi
 nbx
 ncal
 ncrestapi
@@ -5279,6 +5282,7 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkanalytics
 networkautomation
 networkcategory
@@ -5289,6 +5293,7 @@ networkdrive
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -5684,6 +5689,7 @@ osx
 otel
 otp
 ou
+ou-object
 oui
 oui-search
 oura
@@ -8197,6 +8203,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9503,7 +9511,6 @@ random-password-generator
 randompassword
 randomuser
 randomusers
-range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -9644,7 +9651,6 @@ regularexpressions
 reinforcementlearning
 reinstall
 relational
-relativity
 relay
 release
 releasedefinition
@@ -9934,7 +9940,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -10801,7 +10806,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subdirectory
 subject
 subjectname
 sublimetext
@@ -11091,7 +11095,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -11486,6 +11489,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11553,6 +11557,7 @@ usap
 usb
 useful
 user
+user-environment
 useragent
 usercontext
 userdiscovery
@@ -11623,10 +11628,8 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -11686,7 +11689,6 @@ videos
 vie
 view
 viewer
-vigenere
 vim
 vimode
 virole
@@ -12012,6 +12014,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -12179,6 +12182,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writeprogress
 writer
 writing
 ws-federation
