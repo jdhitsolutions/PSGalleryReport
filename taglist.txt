@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 February 2026 10:09:36 UTC
+Updated: Wednesday, 11 February 2026 22:00:00 UTC
 
 .bat
 .env
@@ -196,6 +196,7 @@ addon
 address
 address-book
 addresses
+addressprefix
 addressrange
 adds
 addtypeaccelerators
@@ -283,16 +284,23 @@ ahk
 ai
 ai-development
 ai-server
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aicontext
 aid
 aidataplatform
 aider
 aidocument
 aiff
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
 aircall
 airpower
@@ -300,6 +308,7 @@ airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -355,6 +364,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amd
 amend
@@ -396,6 +406,8 @@ ansi
 ansi-art
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 ansiblectl
 ansibletower
@@ -552,6 +564,7 @@ artifactory
 artifacts
 artifactsigning
 artificial-intelligence
+artificialintelligence
 aruba
 as
 asa
@@ -645,7 +658,6 @@ auth0
 authenticate
 authentication
 authenticationcertificate
-authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -673,6 +685,7 @@ autohotkey
 autolabeling
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -732,6 +745,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 awx
@@ -825,6 +839,7 @@ azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
+azureip
 azurekeyvault
 azurekeyvaultstuff
 azurelocal
@@ -938,6 +953,7 @@ beautiful-terminal
 beautify
 bec
 beckhoff
+bedrock
 beep
 beer
 behavior
@@ -1380,6 +1396,7 @@ classic
 classification
 classified
 claude
+claude3
 claudecode
 clccontrol
 clccontrolapiv1
@@ -1441,6 +1458,7 @@ cloud-computing
 cloud-init
 cloud-iq
 cloud-security-configuration-review
+cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1464,6 +1482,7 @@ cloudkey
 cloudmarque
 cloudmigration
 cloudmigrations
+cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1581,6 +1600,7 @@ commandcoverage
 commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1736,6 +1756,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -2104,7 +2126,6 @@ decoding
 decompiler
 decompression
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -2212,6 +2233,7 @@ deviceupdate
 devolutions
 devops
 devops psmodule
+devops-tools
 devsecninja
 devsecops
 devtestlabs
@@ -2804,6 +2826,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2903,6 +2926,7 @@ extensionrisk
 extensions
 external
 external-editor
+externaldynamiclists
 externalip
 extract
 extraction
@@ -3113,6 +3137,7 @@ flurl
 flyway
 fmg
 fmp
+fms
 fnm
 focus
 fod
@@ -3169,6 +3194,7 @@ forwardcompatibility
 forwardedevents
 forwarding
 foudil
+foundationmodels
 foundry
 fount
 fount-pwsh
@@ -3546,6 +3572,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3597,7 +3624,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3750,6 +3776,7 @@ hrservicedelivery
 hsdp
 hsl
 html
+html-generator
 html-templates
 htmlentity
 http
@@ -3846,7 +3873,6 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
-identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
@@ -3967,6 +3993,7 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -4093,6 +4120,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ipranges
 ips
 ipscan
 ipv4
@@ -4152,6 +4180,8 @@ ivdc
 iwi
 j
 j81-blog
+jade-templates
+jamba
 japanese
 jar
 jav
@@ -4227,6 +4257,7 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
 justenoughadministration
 justification
 jvm
@@ -4321,7 +4352,6 @@ krane
 krbtgt
 krick
 kschemaplugin
-ktpass
 kubclt
 kube
 kube-buddy
@@ -4337,6 +4367,7 @@ kubesnapit
 kubespray
 kubetidy
 kudu
+kurukuru
 kusto
 kusto.data
 kusto.ingest
@@ -4370,8 +4401,10 @@ lametrictime
 landingzones
 language
 language-model
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laplace
@@ -4491,8 +4524,10 @@ literature
 live
 llama
 llama2
+llama3
 lldp
 llm
+llms
 lmhost
 lmhosts
 lms
@@ -4622,6 +4657,8 @@ lsusb
 ltm
 lucd
 lucene
+luma
+lumaai
 lunar
 lunches
 lustrefilestorage
@@ -4646,6 +4683,7 @@ machine
 machine-learning
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4654,6 +4692,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -4914,8 +4953,6 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -4949,6 +4986,8 @@ mirror
 misc
 miscellaneous
 misp
+mistral
+mistralai
 mit
 mitigation
 mitre
@@ -4964,6 +5003,8 @@ mkv
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mngdmac
 mobile
@@ -5627,7 +5668,6 @@ origin
 orion
 orleans
 orm
-orphaned
 orphanedprofiles
 os
 osa
@@ -5677,6 +5717,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -6165,6 +6206,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.one
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -6175,6 +6217,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -9350,6 +9393,9 @@ publishing
 publishmap
 pubsub
 pubxml
+pug
+pug-templates
+pugjs
 pull
 pulldistributionpoint
 pullrequest
@@ -9502,7 +9548,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rc4
 rcon
 rcs
 rcu
@@ -10165,7 +10210,6 @@ sendgrid
 sendkeys
 sendmail
 sense
-sensitive
 sensitivity
 sensitivitylabels
 sensor
@@ -10222,6 +10266,7 @@ serviceprincipal
 services
 servicestatus
 servicestore
+servicetags
 servicing
 servicingstack
 ses
@@ -10322,6 +10367,7 @@ sid
 siem
 sif
 sigma
+sigmund
 sign
 signal
 signalfx
@@ -10482,6 +10528,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -10652,6 +10699,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -10984,10 +11032,6 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -11087,6 +11131,7 @@ text2image
 textanalysis
 textbuffer
 textfile
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -11157,6 +11202,7 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 titanhq
 title
 tld
@@ -11390,7 +11436,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -11661,9 +11706,11 @@ vib
 vibecoding
 video
 video-editing
+videogeneration
 videos
 vie
 view
+view-engine
 viewer
 vigenere
 vim
@@ -11925,6 +11972,7 @@ whfb
 whisper
 whiteboard
 whitelist
+whitelisting
 whitespace
 who
 whoami
