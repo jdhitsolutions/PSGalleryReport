@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 10 February 2026 22:04:28 UTC
+Updated: Wednesday, 11 February 2026 10:09:36 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Tuesday, 10 February 2026 22:04:28 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -195,7 +196,6 @@ addon
 address
 address-book
 addresses
-addressprefix
 addressrange
 adds
 addtypeaccelerators
@@ -283,23 +283,16 @@ ahk
 ai
 ai-development
 ai-server
-ai21
-ai21labs
 aianomalydetection
-aiapplications
-aiautomation
 aicontext
 aid
 aidataplatform
 aider
 aidocument
 aiff
-aiintegration
 ailanguage
 aim
-aimodels
 aip
-aiprompting
 aipscanner
 aircall
 airpower
@@ -307,7 +300,6 @@ airpwr
 airtable
 ais
 aispeech
-aiutilities
 aivision
 ajustee
 aka.ms
@@ -363,7 +355,6 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
-amazontitan
 amazonwebservices
 amd
 amend
@@ -405,8 +396,6 @@ ansi
 ansi-art
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 ansiblectl
 ansibletower
@@ -563,7 +552,6 @@ artifactory
 artifacts
 artifactsigning
 artificial-intelligence
-artificialintelligence
 aruba
 as
 asa
@@ -685,7 +673,6 @@ autohotkey
 autolabeling
 autoload
 autologon
-automai
 automanage
 automate
 automated
@@ -699,6 +686,7 @@ automationaccount
 automationanywhere
 automationportal
 automations
+automationutils
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -740,10 +728,10 @@ awp
 awpagent
 aws
 aws_profile
+aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
-awsbedrock
 awscli
 awspricelist
 awx
@@ -837,7 +825,6 @@ azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
-azureip
 azurekeyvault
 azurekeyvaultstuff
 azurelocal
@@ -851,6 +838,7 @@ azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
+azurerepos
 azureresourceinventory
 azureresourcemanager
 azureresources
@@ -950,7 +938,6 @@ beautiful-terminal
 beautify
 bec
 beckhoff
-bedrock
 beep
 beer
 behavior
@@ -1000,6 +987,7 @@ bitbucket
 bitbucket-api
 bitbucket-server
 bitbucketautomation
+bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
@@ -1349,6 +1337,7 @@ ci-cd
 ci/cd
 cic
 cicd
+cicdpipeline
 cidr
 cidrcalculator
 ciellos
@@ -1391,7 +1380,6 @@ classic
 classification
 classified
 claude
-claude3
 claudecode
 clccontrol
 clccontrolapiv1
@@ -1453,7 +1441,6 @@ cloud-computing
 cloud-init
 cloud-iq
 cloud-security-configuration-review
-cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1477,7 +1464,6 @@ cloudkey
 cloudmarque
 cloudmigration
 cloudmigrations
-cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1525,7 +1511,9 @@ code365
 codeagent
 codeanalysis
 codebeamer
+codebuild
 codebundler
+codecommit
 codecomplexity
 codecov
 codecoverage
@@ -1593,7 +1581,6 @@ commandcoverage
 commandhistory
 commandlets
 commandline
-commandr
 commands
 commandsandresource
 commence
@@ -1749,8 +1736,6 @@ conventional-commits
 convereter
 converged_data_management
 conversational
-converse
-converseapi
 conversion
 conversiontool
 convert
@@ -1880,6 +1865,7 @@ cross-platform
 crossjoin
 crossover
 crossplatform
+crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
@@ -2818,7 +2804,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2908,6 +2893,7 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extensible
@@ -2917,7 +2903,6 @@ extensionrisk
 extensions
 external
 external-editor
-externaldynamiclists
 externalip
 extract
 extraction
@@ -3073,6 +3058,7 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -3127,7 +3113,6 @@ flurl
 flyway
 fmg
 fmp
-fms
 fnm
 focus
 fod
@@ -3180,10 +3165,10 @@ fortra
 fortune
 fortytwo
 forum
+forwardcompatibility
 forwardedevents
 forwarding
 foudil
-foundationmodels
 foundry
 fount
 fount-pwsh
@@ -3357,6 +3342,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-random
 get-samcmassignedsite
@@ -3403,9 +3389,12 @@ githubaction
 githubactions
 githubcopilot
 githubtools
+githubworkflow
 gitignore
 gitlab
+gitlab-runner
 gitlab4
+gitlabpipeline
 gitops
 gitrepo
 gitrepository
@@ -3557,7 +3546,6 @@ hacking
 hacktoberfest
 hadoop
 hafr
-haiku
 hailstone
 haipa
 halo
@@ -3979,7 +3967,6 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
-inpainting
 input
 inputbox
 inputobject
@@ -4106,7 +4093,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ipranges
 ips
 ipscan
 ipv4
@@ -4166,7 +4152,6 @@ ivdc
 iwi
 j
 j81-blog
-jamba
 japanese
 jar
 jav
@@ -4242,7 +4227,6 @@ junctions
 junit
 jupyter
 jupytor
-jurassic
 justenoughadministration
 justification
 jvm
@@ -4353,7 +4337,6 @@ kubesnapit
 kubespray
 kubetidy
 kudu
-kurukuru
 kusto
 kusto.data
 kusto.ingest
@@ -4387,10 +4370,8 @@ lametrictime
 landingzones
 language
 language-model
-languageai
 languagedsc
 languageexperiencepack
-languagemodels
 languagepack
 lansweeper
 laplace
@@ -4510,10 +4491,8 @@ literature
 live
 llama
 llama2
-llama3
 lldp
 llm
-llms
 lmhost
 lmhosts
 lms
@@ -4643,8 +4622,6 @@ lsusb
 ltm
 lucd
 lucene
-luma
-lumaai
 lunar
 lunches
 lustrefilestorage
@@ -4669,7 +4646,6 @@ machine
 machine-learning
 machinelearning
 machinelearningcompute
-machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4678,7 +4654,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4974,8 +4949,6 @@ mirror
 misc
 miscellaneous
 misp
-mistral
-mistralai
 mit
 mitigation
 mitre
@@ -4991,8 +4964,6 @@ mkv
 ml
 ml.net
 mlflow
-mlmodels
-mltools
 mmdc
 mngdmac
 mobile
@@ -5355,6 +5326,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5705,7 +5677,6 @@ outerjoin
 outertext
 outline
 outlook
-outpainting
 output
 output-to-image
 outreach
@@ -5826,6 +5797,7 @@ paste
 patch
 patches
 patching
+patchmypc
 patchtuesday
 path
 pathfinder
@@ -6193,7 +6165,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.one
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -6204,7 +6175,6 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
-powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -9380,6 +9350,7 @@ publishing
 publishmap
 pubsub
 pubxml
+pull
 pulldistributionpoint
 pullrequest
 pullserver
@@ -9697,6 +9668,7 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
@@ -10250,7 +10222,6 @@ serviceprincipal
 services
 servicestatus
 servicestore
-servicetags
 servicing
 servicingstack
 ses
@@ -10351,7 +10322,6 @@ sid
 siem
 sif
 sigma
-sigmund
 sign
 signal
 signalfx
@@ -10512,7 +10482,6 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
-sonnet
 sonus
 soon
 soonr
@@ -10683,7 +10652,6 @@ sspr
 ssrs
 ssst
 sstp
-stabilityai
 stache
 stackexchange
 stackhci
@@ -11119,7 +11087,6 @@ text2image
 textanalysis
 textbuffer
 textfile
-textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -11190,7 +11157,6 @@ tinkerpop
 tinymce
 tip
 tips
-titan
 titanhq
 title
 tld
@@ -11695,7 +11661,6 @@ vib
 vibecoding
 video
 video-editing
-videogeneration
 videos
 vie
 view
@@ -11960,7 +11925,6 @@ whfb
 whisper
 whiteboard
 whitelist
-whitelisting
 whitespace
 who
 whoami
@@ -12345,7 +12309,6 @@ zpr
 zsh
 zstd
 zstd-compression
-zuora
 zvm
 zvml
 zvmlinux
