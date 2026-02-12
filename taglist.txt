@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 February 2026 22:00:00 UTC
+Updated: Thursday, 12 February 2026 10:08:12 UTC
 
 .bat
 .env
@@ -338,8 +338,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-align
-alignment
 alive
 all
 alletra
@@ -623,7 +621,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atproto
 atprotocol
@@ -658,6 +655,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -674,7 +672,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -713,7 +710,6 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 av1
@@ -721,7 +717,6 @@ availability
 availabilityset
 avalara
 avatar
-avatax
 avd
 ave
 avepoint
@@ -815,7 +810,6 @@ azurearcstuff
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1190,7 +1184,6 @@ cameras
 campaign
 camtasia
 canarie
-canary
 cancel
 cancellation
 candlestick
@@ -1260,7 +1253,6 @@ celcat
 celerium
 censor
 center
-centered
 centra
 central
 central-management
@@ -2126,6 +2118,7 @@ decoding
 decompiler
 decompression
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -2525,7 +2518,6 @@ duck
 duckdb
 duckduckgo
 ducks
-ducktyping
 dudckduckgo
 duf
 dumb
@@ -3559,7 +3551,6 @@ gumby
 guru
 gvim
 gw2
-gwbasic
 gymnasium
 gz
 gzip
@@ -3624,6 +3615,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcp
 hcx
 hdfs
@@ -3665,7 +3657,6 @@ helpdesk
 helpdoc
 helper
 helper-functions
-helperfunctions
 helpers
 helpfile
 helpful
@@ -3716,7 +3707,6 @@ hkey_users
 hklm
 hl7
 hlds
-hls
 hmac
 hmpljs
 hockey
@@ -3873,6 +3863,7 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
@@ -4259,7 +4250,6 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
-justification
 jvm
 jwe
 jwk
@@ -4352,6 +4342,7 @@ krane
 krbtgt
 krick
 kschemaplugin
+ktpass
 kubclt
 kube
 kube-buddy
@@ -4953,6 +4944,8 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
+microsoftteamsdevices
+microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -5072,13 +5065,11 @@ motivationalquotes
 mount
 mouse
 move
-movie
 movies
 mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrfk
 mrfylke
@@ -5668,6 +5659,7 @@ origin
 orion
 orleans
 orm
+orphaned
 orphanedprofiles
 os
 osa
@@ -5841,7 +5833,6 @@ patching
 patchmypc
 patchtuesday
 path
-pathfinder
 pathmanagement
 patternmatching
 paulo
@@ -6231,7 +6222,6 @@ powershellv5
 powershellweb
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 powertree
@@ -9432,7 +9422,6 @@ pwsafe
 pwsh
 pwsh-module
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pwshspectreconsole
@@ -9548,6 +9537,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rc4
 rcon
 rcs
 rcu
@@ -9654,7 +9644,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -9833,8 +9822,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-rich
-richtext
 ricoh
 rightcloud
 rightjoin
@@ -10210,6 +10197,7 @@ sendgrid
 sendkeys
 sendmail
 sense
+sensitive
 sensitivity
 sensitivitylabels
 sensor
@@ -10971,7 +10959,6 @@ tablacus
 table
 tableau
 tableauserver
-tableauworkbook
 tabler
 tables
 tablestorage
@@ -11032,6 +11019,10 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -11146,7 +11137,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -11236,6 +11226,7 @@ tonoref
 tookit
 tool
 toolbox
+toolchain
 toolcraft
 tooling
 toolkit
@@ -11325,7 +11316,6 @@ triggers
 trilium
 triliumnext
 triodos
-tripunkt
 trivia
 troubleshoot
 troubleshooting
@@ -11436,6 +11426,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -12188,7 +12179,6 @@ wql
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
@@ -12311,7 +12301,6 @@ yaugeraio
 year
 yetanotherhelloworld
 yfinance
-yify
 yml
 ynab
 yokohama
@@ -12321,7 +12310,6 @@ youtube-transcript
 youtubeextractor
 youtubemusic
 yq
-yts
 yubaba
 yubikey
 yum
@@ -12357,6 +12345,7 @@ zpr
 zsh
 zstd
 zstd-compression
+zuora
 zvm
 zvml
 zvmlinux

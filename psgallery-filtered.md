@@ -3,6 +3,106 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.9.0) | 1.0.9.0
+
+### Published: 02/12/2026 08:52:23 by jakub.pawlowski
+
+ConfigMap is a PowerShell module that extends publishmap functionality to provide build and configuration management capabilities through declarative map files.
+
+__Downloads__: 79 | __Repository__: https://github.com/qbikez/ps-publishmap/tree/master/src/configmap
+
+## [BuildUtils](https://www.powershellgallery.com/Packages/BuildUtils/0.6.0) | 0.6.0
+
+### Published: 02/12/2026 08:12:54 by Ricci Gian Maria
+
+Some simple functions that can be used for build automation
+
+__Downloads__: 128,420 | __Repository__: https://github.com/AlkampferOpenSource/powershell-build-utils
+
+## [SqlBackupRestoreTools](https://www.powershellgallery.com/Packages/SqlBackupRestoreTools/2.0.16) | 2.0.16
+
+### Published: 02/12/2026 07:17:51 by Mike Fleming (@BelugaMike)
+
+SQL Server database backup/restore helper module with optional SQL-backed logging and email notifications.
+
+__Downloads__: 32 | __Repository__: https://github.com/MikeyMing/powershell-sql
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9) | 7.9
+
+### Published: 02/12/2026 05:30:57 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
+
+__Downloads__: 3,091,803 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+
+## [Toolchain](https://www.powershellgallery.com/Packages/Toolchain/2.0.1) | 2.0.1
+
+### Published: 02/12/2026 04:53:29 by AllSageTech
+
+A package manager and environment to provide consistent tooling for software teams.
+
+__Downloads__: 0 | __Repository__: https://github.com/allsagetech/toolchain
+
+## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.6.6) | 2.6.6
+
+### Published: 02/12/2026 04:21:13 by MASES s.r.l.
+
+JNet (.NET suite for Java™/JVM™) PowerShell (aka JNetPS) is a PowerShell Module to use JVM and PowerShell side-by-side. With JNetPS it is possible to:
+- create and use JVM objects from PowerShell: initialize JVM object (Java, Scala, Kotlin, ...), execute mehods on the object, read data from the object to be used for further PowerShell code 
+- send to JVM objects data managed from PowerShell: e.g. data of PowerShell, like an input from command-line or a variable, can be used as an argument for the initialization or execution of a method of a JVM object
+
+More information within the project hosted on GitHub at https://github.com/masesgroup/JNet for further information.
+
+__Downloads__: 448 | __Repository__: https://github.com/masesgroup/JNet
+
+## [FreeDadJokes](https://www.powershellgallery.com/Packages/FreeDadJokes/0.9.44) | 0.9.44
+
+### Published: 02/12/2026 03:06:22 by Michael Free
+
+Get dad jokes on the PowerShell CLI!
+
+__Downloads__: 128 | __Repository__: https://github.com/Michael-Free/FreeDadJokes/
+
+## [Integrom.Module.Bootstrap](https://www.powershellgallery.com/Packages/Integrom.Module.Bootstrap/1.80) | 1.80
+
+### Published: 02/12/2026 01:25:54 by Kevin Ramdin
+
+Provides bootstrap functions for managing Integrom (psil) powershell libraries as well as dynamically injecting custom enums into a runspace
+
+__Downloads__: 65 | __Repository__: 
+
+## [GreenRadiusAPI](https://www.powershellgallery.com/Packages/GreenRadiusAPI/2026.2.11.1654) | 2026.2.11.1654
+
+### Published: 02/12/2026 00:56:17 by Derek D. Howard
+
+Wrappers used to facilitate use of the GreenRADIUS API
+
+__Downloads__: 5 | __Repository__: 
+
+## [SecureGen](https://www.powershellgallery.com/Packages/SecureGen/1.3.6) | 1.3.6
+
+### Published: 02/12/2026 00:05:39 by Ledino
+
+Module PowerShell moderne pour générer des mots de passe, passphrases et des clés sécurisées. Compatible PowerShell 5 et 7, avec clipboard cross-platform et ergonomie soignée.
+
+__Downloads__: 4 | __Repository__: https://github.com/ledino/SecureGen
+
+## [helium](https://www.powershellgallery.com/Packages/helium/1.4.0) | 1.4.0
+
+### Published: 02/11/2026 23:49:07 by Skatterbrainz
+
+Assorted Utilities to make your day happier than inhaling a party balloon.
+
+__Downloads__: 1,122 | __Repository__: https://github.com/Skatterbrainz/helium
+
+## [CWJMDEDeviceControl](https://www.powershellgallery.com/Packages/CWJMDEDeviceControl/0.0.296) | 0.0.296
+
+### Published: 02/11/2026 22:18:43 by Charles W. Jones
+
+PowerShell module to create and test MDE Device Control configurations
+
+__Downloads__: 66 | __Repository__: https://github.com/charleswj/CWJMDEDeviceControl
+
 ## [TenantReports](https://www.powershellgallery.com/Packages/TenantReports/1.1.0) | 1.1.0
 
 ### Published: 02/11/2026 21:10:28 by Tom de Leeuw
@@ -34,7 +134,7 @@ __Downloads__: 86 | __Repository__: https://github.com/ugurkocde/TenantBaseline
 The Secure Cloud Business Applications (SCuBA) Gear module automates
 conformance testing about CISA M365 Secure Configuration Baselines.
 
-__Downloads__: 146,501 | __Repository__: https://github.com/cisagov/ScubaGear
+__Downloads__: 146,503 | __Repository__: https://github.com/cisagov/ScubaGear
 
 ## [iPilot](https://www.powershellgallery.com/Packages/iPilot/1.1.17) | 1.1.17
 
@@ -42,15 +142,7 @@ __Downloads__: 146,501 | __Repository__: https://github.com/cisagov/ScubaGear
 
 PowerShell functions to interact with iPilot API
 
-__Downloads__: 912 | __Repository__: https://github.com/NuWave-Communications/ipilot-powershell
-
-## [SqlBackupRestoreTools](https://www.powershellgallery.com/Packages/SqlBackupRestoreTools/2.0.15) | 2.0.15
-
-### Published: 02/11/2026 18:34:44 by Mike Fleming (@BelugaMike)
-
-SQL Server database backup/restore helper module with optional SQL-backed logging and email notifications.
-
-__Downloads__: 30 | __Repository__: https://github.com/MikeyMing/powershell-sql
+__Downloads__: 913 | __Repository__: https://github.com/NuWave-Communications/ipilot-powershell
 
 ## [Carbon.Registry](https://www.powershellgallery.com/Packages/Carbon.Registry/1.2.3) | 1.2.3
 
@@ -66,7 +158,7 @@ __Downloads__: 1,938 | __Repository__: https://github.com/webmd-health-services/
 
 Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
 
-__Downloads__: 254 | __Repository__: https://github.com/markorr321/Entra-PIM
+__Downloads__: 252 | __Repository__: https://github.com/markorr321/Entra-PIM
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.631.2) | 1.631.2
 
@@ -106,7 +198,7 @@ __Downloads__: 1,220 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 
 Automation tools for production quality database deployment
 
-__Downloads__: 7,525,515 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 7,525,490 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.108) | 1.0.21.108
 
@@ -177,7 +269,7 @@ The intended use of this project is for Continuous Integration (CI) scenarios, w
 
 By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
 
-__Downloads__: 63,277 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+__Downloads__: 63,279 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
 
 ## [CmdAssist](https://www.powershellgallery.com/Packages/CmdAssist/1.0.2) | 1.0.2
 
@@ -1532,14 +1624,6 @@ Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and
 
 __Downloads__: 504 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
 
-## [SecureGen](https://www.powershellgallery.com/Packages/SecureGen/1.3.2) | 1.3.2
-
-### Published: 02/10/2026 14:04:10 by Saddek
-
-Module PowerShell moderne pour générer des mots de passe, passphrases et des clés sécurisées. Compatible PowerShell 5 et 7, avec clipboard cross-platform et ergonomie soignée.
-
-__Downloads__: 4 | __Repository__: https://github.com/ledino/SecureGen
-
 ## [M365CertAuth](https://www.powershellgallery.com/Packages/M365CertAuth/1.2.15) | 1.2.15
 
 ### Published: 02/10/2026 12:48:21 by PowerShell Community
@@ -1586,7 +1670,7 @@ __Downloads__: 340 | __Repository__: https://github.com/Michael-Free/FreeActivat
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 132,528 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 132,527 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.6.0.2) | 1.6.0.2
 
@@ -1626,7 +1710,7 @@ __Downloads__: 126,969 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 140,526 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 140,525 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.25.0.2) | 2.25.0.2
 
@@ -1650,7 +1734,7 @@ __Downloads__: 111,662 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions that have no purpose
 
-__Downloads__: 127,792 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 127,791 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.20.0.2) | 1.20.0.2
 
@@ -1748,14 +1832,6 @@ Module provides eMail functions.
 
 __Downloads__: 50 | __Repository__: https://github.com/netsec4u/MailTools
 
-## [GreenRadiusAPI](https://www.powershellgallery.com/Packages/GreenRadiusAPI/2026.2.9.1446) | 2026.2.9.1446
-
-### Published: 02/09/2026 23:52:32 by Derek D. Howard
-
-Wrappers used to facilitate use of the GreenRADIUS API
-
-__Downloads__: 5 | __Repository__: 
-
 ## [ADPrincipalCertificate](https://www.powershellgallery.com/Packages/ADPrincipalCertificate/1.1) | 1.1
 
 ### Published: 02/09/2026 23:49:18 by Richard M. Hicks
@@ -1836,7 +1912,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 6,990,432 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 6,990,338 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [ThemisRules](https://www.powershellgallery.com/Packages/ThemisRules/1.2.0) | 1.2.0
 
@@ -1942,77 +2018,4 @@ Connect to Microsoft 365 services with a single command. Supports PowerShell 5.1
 
 __Downloads__: 9 | __Repository__: https://github.com/nikkelly/M365Connect
 
-## [Pipeline.Sql.Deploy](https://www.powershellgallery.com/Packages/Pipeline.Sql.Deploy/1.0.6) | 1.0.6
-
-### Published: 02/08/2026 16:03:47 by Sabin.IO
-
-Pipeline helper functions for deployments of sql server
-
-__Downloads__: 3,373 | __Repository__: 
-
-## [HermesConsoleUI](https://www.powershellgallery.com/Packages/HermesConsoleUI/2.1.0) | 2.1.0
-
-### Published: 02/08/2026 15:13:39 by HermesConsoleUI Project
-
-Professional PowerShell Console UI Framework - A comprehensive, zero-dependency toolkit for building beautiful terminal applications. Includes 40 functions (11 text, 7 visual, 10 interactive, 12 core) with full theme support, internationalization (i18n), and PowerShell 2.0+ compatibility.
-
-__Downloads__: 16 | __Repository__: https://github.com/damdavidprieto/HermesConsoleUI
-
-## [PSSpinner](https://www.powershellgallery.com/Packages/PSSpinner/1.0.0) | 1.0.0
-
-### Published: 02/08/2026 13:46:35 by Marco Torello
-
-A PowerShell module that provides an ora-like terminal spinner.
-
-__Downloads__: 6 | __Repository__: 
-
-## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.80.0) | 0.0.80.0
-
-### Published: 02/08/2026 09:42:44 by Jan Hoek
-
-PowerShell module for listing Volkskrant articles
-
-__Downloads__: 7,843 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
-
-## [PSFolderSize](https://www.powershellgallery.com/Packages/PSFolderSize/1.7.3) | 1.7.3
-
-### Published: 02/08/2026 07:48:31 by Mike Roberts
-
-This module enables you to gather folder size information, and output the results easily in various ways. GitHub Repo: https://github.com/gngrninja/PSFolderSize
-
-__Downloads__: 3,696,255 | __Repository__: https://github.com/gngrninja/PSFolderSize/
-
-## [PS-SysInfo](https://www.powershellgallery.com/Packages/PS-SysInfo/0.1.0) | 0.1.0
-
-### Published: 02/08/2026 04:17:45 by Gajesh Bhat
-
-Cross-platform system information module for PowerShell 7+. Returns structured objects easily convertible to JSON.
-
-__Downloads__: 5 | __Repository__: https://github.com/gajeshbhat/PS-SysInfo
-
-## [Marli-Update](https://www.powershellgallery.com/Packages/Marli-Update/1.0.0) | 1.0.0
-
-### Published: 02/07/2026 18:59:50 by marco
-
-Marli-Update
-
-__Downloads__: 11 | __Repository__: 
-
-## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.31.1) | 4.31.1
-
-### Published: 02/07/2026 17:54:03 by Ryan Bolger
-
-ACME protocol client for obtaining certificates using Let''s Encrypt (or other ACME compliant CA)
-This is a custom build intended allow compatibility with .NET 4.6.1. It should not be used with PowerShell Core and you should only attempt to use RSA based key options.
-
-__Downloads__: 7,571 | __Repository__: https://github.com/rmbolger/Posh-ACME
-
-## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.31.1) | 4.31.1
-
-### Published: 02/07/2026 17:51:01 by Ryan Bolger
-
-ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
-
-__Downloads__: 3,247,834 | __Repository__: https://github.com/rmbolger/Posh-ACME
-
-*Updated: Wednesday, 11 February 2026 21:59:50 UTC*
+*Updated: Thursday, 12 February 2026 10:08:02 UTC*
