@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 13 February 2026 10:05:03 UTC
+Updated: Friday, 13 February 2026 22:00:04 UTC
 
 .bat
 .env
@@ -209,6 +209,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adidns
 adif
 adlds
@@ -245,6 +246,7 @@ adsite
 adsp
 adsync
 adt
+aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -294,7 +296,6 @@ aider
 aidocument
 aiff
 aiintegration
-ailanguage
 aim
 aimodels
 aip
@@ -354,7 +355,6 @@ alto
 alwaysontop
 alwaysonvpn
 alz
-ama.alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -840,7 +840,6 @@ azureiot
 azureiothub
 azureip
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -1062,6 +1061,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootsecurity
 bootstrap
@@ -1526,6 +1526,7 @@ code-analysis
 code-completion
 code-generation
 code-page
+code-reuse
 code365
 codeagent
 codeanalysis
@@ -1587,6 +1588,7 @@ com
 combination
 combinations
 combine
+comdata
 comedy
 comic
 comical
@@ -1663,6 +1665,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1763,6 +1766,7 @@ convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
+convertdns
 converter
 convertfrom
 convertfrom-json
@@ -2210,6 +2214,7 @@ dev-tools
 dev.to
 devart
 devcenter
+devcontainer
 devdeer
 devdirmanager
 devdrive
@@ -2246,6 +2251,7 @@ dfplayermini
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diabetes
@@ -2871,7 +2877,6 @@ executables
 execute
 execution
 executionalias
-executionpolicy
 exexml
 exif
 exiftool
@@ -3346,6 +3351,7 @@ get-dellwarranty
 get-devicesorgunitreport
 get-directorycontents
 get-disabledusersreport
+get-dnsserverresourcerecord
 get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
@@ -3515,7 +3521,6 @@ graphservices
 graphviz
 graylog
 grc
-greenhouse
 greenlake
 greenplum
 greeting
@@ -3542,7 +3547,6 @@ gsettings
 gsudo
 gsuite
 gtx1080ti
-guard
 guardedfabric
 guardicore
 gubbins
@@ -3644,7 +3648,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3907,6 +3910,7 @@ ilocmdlets
 ilspy
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -4152,7 +4156,6 @@ iso-8601
 ispac
 isprime
 ispss
-issues
 isvalidemail
 isvalidip
 it
@@ -4215,7 +4218,6 @@ jnet
 jnetps
 joat
 job
-jobboard
 jobcan
 jobs
 jobscheduler
@@ -4271,6 +4273,7 @@ k8s
 k8sshell
 k8ssnapshots
 kafka
+kalilinux
 kaminario
 karabiner
 karabiner-elements
@@ -4369,7 +4372,6 @@ kubesnapit
 kubespray
 kubetidy
 kudu
-kurukuru
 kusto
 kusto.data
 kusto.ingest
@@ -4692,6 +4694,7 @@ macos
 macos-powershell
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4754,7 +4757,6 @@ manual
 map
 mapapi
 mapi
-mappeddrives
 mapper
 mapper24
 mapping
@@ -4802,6 +4804,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -5307,7 +5310,6 @@ networkcloud
 networkcontroller
 networkdiscovery
 networkdrive
-networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -5319,7 +5321,6 @@ networkprofile
 networkscan
 networksecurity
 networksecuritygroup
-networkshares
 netwrix
 neuralnetwork
 new
@@ -5383,6 +5384,7 @@ nntp
 node
 node.js
 nodejs
+nogit
 non-idiomatic
 non-volatile
 none
@@ -5457,7 +5459,6 @@ nvd
 nvdimm
 nvdimm-n
 nvidia
-nvim
 nvm
 nvm-window
 nxt
@@ -5622,6 +5623,7 @@ openssl
 openstack
 openstreetmap
 openstreetmaps
+opentdb
 openvpn
 openxml
 operating
@@ -5707,8 +5709,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-file
@@ -5885,6 +5885,7 @@ pentesting
 pentia
 people
 peopledoc
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -6259,6 +6260,7 @@ prepend
 preprocessing
 preprocessor
 prerequisites
+presentation
 presentationframework
 presenter
 presto
@@ -9724,6 +9726,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 reonboarding
 repair
 repair-msauth
@@ -9841,7 +9844,6 @@ rights
 rightsizing
 rightsmanagement
 rijkswaterstaat
-ring
 ripe
 risk
 riskassessment
@@ -10553,6 +10555,7 @@ space
 spaces
 spacex
 spam
+spamtitan
 spanish
 spanner
 spark
@@ -10565,6 +10568,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -10627,7 +10631,6 @@ sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -10667,7 +10670,6 @@ srm
 srr
 srrdb
 srs
-srylius-write
 ssas
 ssc
 ssdt
@@ -11147,7 +11149,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -11178,6 +11179,7 @@ threatintelligenceplatform
 threatprotection
 threats
 threatsharing
+throughput
 thumbprint
 thunderbird
 thycotic
@@ -11203,6 +11205,7 @@ tinymce
 tip
 tips
 titan
+titanhq
 title
 tld
 tls
@@ -11286,6 +11289,7 @@ transcode
 transcribe
 transcript
 transcripts
+transfer
 transform
 transformation
 transforms
@@ -11325,6 +11329,7 @@ trilium
 triliumnext
 triodos
 tripunkt
+trivia
 troubleshoot
 troubleshooting
 trouw
@@ -11348,7 +11353,6 @@ tsa
 tsd
 tsg
 tsheets
-tsqlbestpractice
 tst
 tst1
 tst3
@@ -11390,6 +11394,7 @@ typeextension
 types
 types.ps1xml
 typescript
+typing
 tzutil
 uac
 uag
@@ -11530,7 +11535,6 @@ update-module
 update-modulemanifest
 update-moduletests
 update-typedata
-updatecatalog
 updatedeferral
 updatemanagement
 updatemanager
@@ -11676,6 +11680,7 @@ veenendaal
 veeva
 venafi
 vencord
+vendir
 vendor
 vendorpam
 venue
@@ -11707,7 +11712,6 @@ video-editing
 videogeneration
 videos
 vie
-view
 view-engine
 viewer
 vigenere
@@ -11969,7 +11973,6 @@ where
 whfb
 whisper
 whiteboard
-whitelist
 whitelisting
 whitespace
 who
@@ -12066,6 +12069,7 @@ windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
+windowsdns
 windowsdomain
 windowsevent
 windowseventlog
