@@ -3,6 +3,109 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.193) | 2.1.193
+
+### Published: 02/14/2026 21:49:06 by devizer
+
+SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
+
+It installs Developer, Express, or LocalDB editions.
+The intended use of this project is for Continuous Integration (CI) scenarios, where:
+     1) SQL Server or LocalDB needs to be installed without user interaction.
+     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
+
+By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
+
+__Downloads__: 63,380 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+
+## [GitHubActionVersioning](https://www.powershellgallery.com/Packages/GitHubActionVersioning/2.0.4) | 2.0.4
+
+### Published: 02/14/2026 20:54:22 by Jesse Houwing
+
+PowerShell module for validating GitHub Action semantic versioning
+
+__Downloads__: 33 | __Repository__: https://github.com/jessehouwing/actions-semver-checker
+
+## [PugPS](https://www.powershellgallery.com/Packages/PugPS/1.1.0) | 1.1.0
+
+### Published: 02/14/2026 19:13:27 by Nabil Redmann (BananaAcid)
+
+Unleash Pug templates in PowerShell. A versatile CLI for HTML pipelines and a loyal View Engine for your Pode Server projects. 🐾
+
+__Downloads__: 4 | __Repository__: https://github.com/BananaAcid/PugPS
+
+## [Speech](https://www.powershellgallery.com/Packages/Speech/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:13:03 by Yoshifumi Tsuda
+
+PowerShell module for speech synthesis and recognition - includes Windows, Azure, OpenAI, and Google speech services
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [Speech.Google](https://www.powershellgallery.com/Packages/Speech.Google/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:12:36 by Yoshifumi Tsuda
+
+Google Cloud Speech Services for Speech module - Text-to-Speech and Speech-to-Text
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [Speech.OpenAI](https://www.powershellgallery.com/Packages/Speech.OpenAI/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:12:17 by Yoshifumi Tsuda
+
+OpenAI Speech module - TTS using OpenAI API and STT using Whisper
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [Speech.Azure](https://www.powershellgallery.com/Packages/Speech.Azure/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:11:52 by Yoshifumi Tsuda
+
+Azure Speech Services module for Speech - TTS and STT using Azure Cognitive Services
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [Speech.Windows](https://www.powershellgallery.com/Packages/Speech.Windows/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:11:25 by Yoshifumi Tsuda
+
+Windows Speech API module for Speech - TTS and STT using System.Speech
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [Speech.Core](https://www.powershellgallery.com/Packages/Speech.Core/0.3.0) | 0.3.0
+
+### Published: 02/14/2026 16:10:58 by Yoshifumi Tsuda
+
+Core module for Speech - configuration management and utilities
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/Speech
+
+## [UncommonSense.Verification](https://www.powershellgallery.com/Packages/UncommonSense.Verification/1.0.0) | 1.0.0
+
+### Published: 02/14/2026 14:27:31 by Jan Hoek
+
+PowerShell verification utility cmdlets
+
+__Downloads__: 1 | __Repository__: 
+
+## [WinUIShell](https://www.powershellgallery.com/Packages/WinUIShell/0.10.0) | 0.10.0
+
+### Published: 02/14/2026 13:49:21 by mdgrs-mei
+
+Scripting WinUI 3 with PowerShell
+
+__Downloads__: 1,162 | __Repository__: https://github.com/mdgrs-mei/WinUIShell
+
+## [MakeMeAdminCLI](https://www.powershellgallery.com/Packages/MakeMeAdminCLI/1.2.0) | 1.2.0
+
+### Published: 02/14/2026 11:59:45 by SharkByte561
+
+PowerShell module for requesting and managing temporary local administrator rights through a secure named pipe service. Allows non-elevated users to request time-limited admin privileges that are automatically revoked.
+
+__Downloads__: 11 | __Repository__: https://github.com/SharkByte561/MakeMeAdminCLI
+
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.6.7) | 1.6.7
 
 ### Published: 02/14/2026 09:16:27 by Yoshifumi Tsuda
@@ -305,7 +408,7 @@ __Downloads__: 7,872 | __Repository__: https://github.com/jhoek/UncommonSense.Vo
 
 PowerShell module for listing Trouw articles
 
-__Downloads__: 2,099 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
+__Downloads__: 2,098 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
 
 ## [PSModulesCleanup](https://www.powershellgallery.com/Packages/PSModulesCleanup/1.0.0.2) | 1.0.0.2
 
@@ -345,7 +448,7 @@ __Downloads__: 144 | __Repository__: https://github.com/Michael-Free/FreeDadJoke
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 8,307,515 | __Repository__: https://dbatools.io/
+__Downloads__: 8,307,486 | __Repository__: https://dbatools.io/
 
 ## [sdp](https://www.powershellgallery.com/Packages/sdp/1.5.18) | 1.5.18
 
@@ -415,7 +518,7 @@ __Downloads__: 25 | __Repository__:
 
 OSDCloud PowerShell Module for OS Deployment in the Cloud
 
-__Downloads__: 52,828 | __Repository__: https://github.com/OSDeploy/OSDCloud
+__Downloads__: 52,827 | __Repository__: https://github.com/OSDeploy/OSDCloud
 
 ## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.373) | 1.0.373
 
@@ -557,14 +660,6 @@ PowerShell module for generating primarily Microsoft 365 reports. Analyzes tenan
 
 __Downloads__: 48 | __Repository__: https://github.com/systommy/TenantReports
 
-## [PugPS](https://www.powershellgallery.com/Packages/PugPS/1.0.0) | 1.0.0
-
-### Published: 02/11/2026 20:59:01 by Nabil Redmann (BananaAcid)
-
-Unleash Pug templates in PowerShell. A versatile CLI for HTML pipelines and a loyal View Engine for your Pode Server projects. 🐾
-
-__Downloads__: 4 | __Repository__: https://github.com/BananaAcid/PugPS
-
 ## [TenantBaseline](https://www.powershellgallery.com/Packages/TenantBaseline/0.2.3) | 0.2.3
 
 ### Published: 02/11/2026 20:54:48 by TenantBaseline Contributors
@@ -580,7 +675,7 @@ __Downloads__: 149 | __Repository__: https://github.com/ugurkocde/TenantBaseline
 The Secure Cloud Business Applications (SCuBA) Gear module automates
 conformance testing about CISA M365 Secure Configuration Baselines.
 
-__Downloads__: 146,948 | __Repository__: https://github.com/cisagov/ScubaGear
+__Downloads__: 146,947 | __Repository__: https://github.com/cisagov/ScubaGear
 
 ## [iPilot](https://www.powershellgallery.com/Packages/iPilot/1.1.17) | 1.1.17
 
@@ -612,7 +707,7 @@ __Downloads__: 1,327 | __Repository__: https://github.com/jdhitsolutions/PSWorkI
 
 Automation tools for production quality database deployment
 
-__Downloads__: 7,534,276 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 7,534,259 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.109) | 1.0.109
 
@@ -661,21 +756,6 @@ __Downloads__: 48 | __Repository__: https://github.com/b0tmtl/DiskSizeAnalyzer
 Integris Deployment Tool
 
 __Downloads__: 3,814 | __Repository__: 
-
-## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.190) | 2.1.190
-
-### Published: 02/10/2026 22:23:27 by devizer
-
-SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
-
-It installs Developer, Express, or LocalDB editions.
-The intended use of this project is for Continuous Integration (CI) scenarios, where:
-     1) SQL Server or LocalDB needs to be installed without user interaction.
-     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
-
-By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
-
-__Downloads__: 63,380 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
 
 ## [CmdAssist](https://www.powershellgallery.com/Packages/CmdAssist/1.0.2) | 1.0.2
 
@@ -1092,7 +1172,7 @@ __Downloads__: 13,641 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Objectstorage Service
 
-__Downloads__: 25,235 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 25,232 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/123.1.0) | 123.1.0
 
@@ -1356,7 +1436,7 @@ __Downloads__: 12,007 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 26,065 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 26,062 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/123.1.0) | 123.1.0
 
@@ -1942,84 +2022,4 @@ This modules provides Cmdlets for OCI Ailanguage Service
 
 __Downloads__: 16,007 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:04:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 10,578 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidataplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidataplatform/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:04:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidataplatform Service
-
-__Downloads__: 1,049 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:04:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 11,642 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:04:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 9,849 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:03:09 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 345,909 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.273.102) | 1.273.102
-
-### Published: 02/10/2026 18:03:25 by Sam Boutros
-
-PowerShell module containing several Azure tools by Sam Boutros
-
-__Downloads__: 60,465 | __Repository__: https://superwidgets.wordpress.com/
-
-## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.63.3) | 0.63.3
-
-### Published: 02/10/2026 17:14:53 by WebMD Health Services
-
-Continuous Integration/Continuous Delivery module.
-
-__Downloads__: 9,244 | __Repository__: https://github.com/webmd-health-services/Whiskey
-
-## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.130.738) | 1.0.130.738
-
-### Published: 02/10/2026 16:41:46 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 884 | __Repository__: https://migrate.rivermeadow.com/
-
-## [EtherAssist](https://www.powershellgallery.com/Packages/EtherAssist/1.5.8) | 1.5.8
-
-### Published: 02/10/2026 15:16:24 by Ryan Mangan
-
-The EtherAssist PowerShell Module provides seamless integration with the EtherAssist API, allowing users to leverage both standard and advanced AI models directly within the PowerShell environment. This module enhances automation and task management by centralizing access to EtherAssists powerful features through a command-line interface. It supports JSON/text formatting, embeddings-based queries, tool-augmented responses, script conversions (VBS/Batch to PowerShell), error code analysis, web search capabilities, and knowledge article generation. The module simplifies complex processes and eliminates the need for multiple interfaces, making PowerShell the go-to tool for sophisticated AI-driven operations and decision-making. Ideal for users who prefer command-line oriented workflows and require robust AI capabilities.
-
-__Downloads__: 158 | __Repository__: https://app.etherassist.ai/
-
-## [Devolutions.CIEM](https://www.powershellgallery.com/Packages/Devolutions.CIEM/0.3.29) | 0.3.29
-
-### Published: 02/10/2026 14:20:56 by Adam Bertram
-
-Cloud Infrastructure Entitlement Management (CIEM) module for Azure identity and access security checks. Provides 46 identity-focused checks for Entra ID, IAM/RBAC, KeyVault, and Storage services.
-
-__Downloads__: 505 | __Repository__: https://github.com/Devolutions/Devolutions-CIEM
-
-*Updated: Saturday, 14 February 2026 09:57:11 UTC*
+*Updated: Saturday, 14 February 2026 21:54:40 UTC*

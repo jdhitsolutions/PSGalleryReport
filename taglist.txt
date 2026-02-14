@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 14 February 2026 09:57:21 UTC
+Updated: Saturday, 14 February 2026 21:54:50 UTC
 
 .bat
 .env
@@ -208,6 +208,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adidns
 adif
 adlds
@@ -244,6 +245,7 @@ adsite
 adsp
 adsync
 adt
+aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -762,14 +764,17 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
 azpipelines
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -843,7 +848,6 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
-azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1172,6 +1176,7 @@ caf
 caffeine
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1678,7 +1683,6 @@ configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
-configurations
 configure
 confluence
 confluent
@@ -2152,7 +2156,6 @@ defenderforservers
 defenderxdr
 defense
 deferrals
-definition
 deflate
 deflate-compression
 defrag
@@ -2661,6 +2664,7 @@ emailautomation
 emailcampain
 emailchecker
 emaildataplane
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2825,6 +2829,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3218,6 +3223,7 @@ freshworks
 friendly
 fritz
 fritzbox
+fromscratch
 front
 frontapp
 frontdoor
@@ -3312,6 +3318,7 @@ generativeai
 generativeaiagent
 generativeaiagentruntime
 generativeaiinference
+generativeart
 generator
 generic
 genericartifactscontent
@@ -3779,6 +3786,8 @@ html-templates
 htmlentity
 http
 http_proxy
+http-listener
+http-server
 httpclient
 httplistener
 httpqscollection
@@ -4955,8 +4964,6 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
-midi
-midi2.0
 midserver
 migrate
 migration
@@ -5158,6 +5165,7 @@ multi-tenant
 multi-thread
 multi-threading
 multi-zone
+multiagent
 multicloud
 multicultural
 multidimenstional
@@ -5316,6 +5324,7 @@ networksecurity
 networksecuritygroup
 networkshares
 netwrix
+neuralnetwork
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5599,7 +5608,6 @@ opendata
 openedge
 openfiles
 openforem
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5779,7 +5787,6 @@ parallel-processing
 parameter
 parameterinfo
 parameters
-params
 parclient
 parenting
 parititions
@@ -9446,6 +9453,7 @@ qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
+qlearning
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9584,6 +9592,7 @@ recast
 recastsoftware
 recent
 reckon
+recognition
 recommendation
 reconcile
 reconnaissance
@@ -9660,6 +9669,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinforcementlearning
 reinstall
 relational
 relativity
@@ -9745,7 +9755,6 @@ repositories
 repository
 request
 requestfiltering
-requiredmodules
 requirements
 res
 rescene
@@ -9976,6 +9985,7 @@ sanitization
 sanitizer
 sap
 sapazure
+sapi
 saponazure
 sapstartstopazure
 sarcasm
@@ -10541,6 +10551,7 @@ sourceforge
 sourcegraph
 sourceindexing
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -11148,6 +11159,7 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
+theming
 themis
 thermal
 thermostat
@@ -11460,6 +11472,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 ue4ss
 uefi
@@ -11691,6 +11704,7 @@ version-management
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vgpu
@@ -11892,8 +11906,10 @@ weaviate
 weaviatenet
 web
 web-browser
+web-framework
 web-hook
 web-search
+web-server
 web.config
 webadministration
 webapi
