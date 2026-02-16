@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 February 2026 10:09:51 UTC
+Updated: Monday, 16 February 2026 21:56:56 UTC
 
 .bat
 .env
@@ -227,6 +227,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -537,6 +538,7 @@ arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argosccf
 argument
 argumentcompleter
@@ -1124,6 +1126,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1179,6 +1182,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1373,6 +1377,7 @@ circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
+ciresonportal
 cis
 cis-benchmark
 cisa
@@ -1595,7 +1600,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1766,9 +1770,6 @@ convert-windowsimage
 convertdns
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsonashashtable
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -2333,7 +2334,6 @@ display_dialog
 displayresolution
 disposable
 dispose
-distance
 distinguishedname
 distributed-systems
 distributed-tracing
@@ -2697,6 +2697,7 @@ end-of-line
 endomondo
 endpoint
 endpointmanagement
+endpointmanager
 endpoints
 energy
 engagement
@@ -2932,6 +2933,7 @@ external-editor
 externaldynamiclists
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eye-candy
@@ -2985,6 +2987,8 @@ feature
 features
 featuresondemand
 featureupdate
+federated
+federateddirectory
 federation
 fedex
 feed
@@ -3118,6 +3122,7 @@ flasharray
 flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3603,6 +3608,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3667,6 +3673,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3883,7 +3890,6 @@ idn
 idna
 idoit
 idp
-idrac
 ids
 ie
 iem
@@ -3950,7 +3956,6 @@ incident_response
 incident-response
 incidentresponse
 incidents
-includeif
 incontact
 indents
 index
@@ -4564,6 +4569,7 @@ locationbasedservices
 locations
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4781,7 +4787,6 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
-mass
 massmail
 masstransit
 masterconfiguration
@@ -4790,6 +4795,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 mathml
@@ -5023,6 +5029,11 @@ modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5171,7 +5182,6 @@ multithread
 multithreaded
 multithreaded-helpers
 multithreading
-multiuser
 music
 musiccast
 mustache
@@ -5311,6 +5321,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 neuralnetwork
 new
 new-completionresult
@@ -5321,6 +5332,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5820,6 +5832,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -6042,6 +6055,7 @@ porthunter
 ports
 portscan
 porttest
+pos
 posershellise
 posh
 posh-acme
@@ -6084,6 +6098,7 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -6187,6 +6202,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -6368,7 +6385,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -7909,6 +7925,7 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -9128,6 +9145,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -9375,6 +9393,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9417,6 +9436,7 @@ pwa
 pwned
 pwpush
 pwpush.com
+pwsafe
 pwsh
 pwsh-module
 pwsh.fw
@@ -9830,6 +9850,7 @@ rightcloud
 rightjoin
 rights
 rightsizing
+rightsmanagement
 rijkswaterstaat
 ring
 ripe
@@ -9920,7 +9941,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -9931,7 +9951,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s/mime
 s1
@@ -10060,10 +10079,12 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
+scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -10224,6 +10245,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverinventory
 serverless
 servermanagement
 serverprotection
@@ -10490,6 +10512,7 @@ snssqlitepsmodule
 sntp
 soap
 soc
+soc2
 soccer
 social
 social-media
@@ -11089,6 +11112,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -11147,8 +11171,6 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
-theming
-themis
 thermal
 thermostat
 thinprint
@@ -11502,7 +11524,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -11527,6 +11548,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11586,6 +11608,7 @@ username
 userprofile
 userprofiles
 userprofiletools
+userprovisioning
 userreports
 userright
 userrights
@@ -11880,7 +11903,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchguard
 watchmen
 watery
@@ -11913,7 +11935,6 @@ webdav
 webdeploy
 webdeveloper
 webdriver
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -12166,7 +12187,6 @@ workflows
 workingdays
 workinghours
 workingtime
-workitems
 workload
 workload-automation
 workloadidentity
