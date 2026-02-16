@@ -3,17 +3,63 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.40.6) | 0.40.6
+## [ScreenRecorder](https://www.powershellgallery.com/Packages/ScreenRecorder/1.1.0) | 1.1.0
 
-### Published: 02/15/2026 21:07:40 by PSModule
+### Published: 02/16/2026 08:42:32 by Yoshifumi Tsuda
 
-A PowerShell module to interact with GitHub, both interactively and via automation.
+Screen capture tool with clock overlay for debugging and log correlation. Displays an always-on-top clock and captures screenshots only when the screen changes.
 
-__Downloads__: 632,378 | __Repository__: https://github.com/PSModule/GitHub
+Usage: Start-ScreenRecorder
+       Start-ScreenRecorder -RecordFor 00:05:00
 
-## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.195) | 2.1.195
+No external dependencies required. Can be run directly without module installation.
+See https://github.com/yotsuda/ScreenRecorder for detailed usage and parameters.
 
-### Published: 02/15/2026 20:02:51 by devizer
+__Downloads__: 66 | __Repository__: https://github.com/yotsuda/ScreenRecorder
+
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.26) | 0.0.26
+
+### Published: 02/16/2026 07:27:21 by M�tz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 484 | __Repository__: 
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.111) | 1.0.21.111
+
+### Published: 02/16/2026 06:29:25 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 2,021 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [WinEOL](https://www.powershellgallery.com/Packages/WinEOL/1.2.3) | 1.2.3
+
+### Published: 02/16/2026 04:23:22 by Dailen Gunter
+
+A Windows-focused PowerShell module which uses the endoflife.date api to report on product support dates and versions.
+
+__Downloads__: 24 | __Repository__: https://github.com/DailenG/WinEOL
+
+## [ChocoForge](https://www.powershellgallery.com/Packages/ChocoForge/0.3.0) | 0.3.0
+
+### Published: 02/16/2026 02:48:34 by F.D.Castel
+
+PowerShell toolkit for automating the creation, management, and publishing of Chocolatey packages.
+
+__Downloads__: 331 | __Repository__: https://github.com/fdcastel/ChocoForge
+
+## [Pup](https://www.powershellgallery.com/Packages/Pup/0.4.2) | 0.4.2
+
+### Published: 02/15/2026 23:57:06 by Anton Lindström
+
+Browser automation for PowerShell using the Chrome DevTools Protocol. Scrape websites, fill forms, take screenshots, export PDFs, and record interactions as replayable scripts. Works with PowerShell 5.1+ on Windows, Linux, and macOS.
+
+__Downloads__: 50 | __Repository__: https://github.com/n7on/Pup
+
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.196) | 2.1.196
+
+### Published: 02/15/2026 22:54:01 by devizer
 
 SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
 
@@ -25,6 +71,14 @@ The intended use of this project is for Continuous Integration (CI) scenarios, w
 By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
 
 __Downloads__: 63,441 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.40.6) | 0.40.6
+
+### Published: 02/15/2026 21:07:40 by PSModule
+
+A PowerShell module to interact with GitHub, both interactively and via automation.
+
+__Downloads__: 632,378 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.82.0) | 1.82.0
 
@@ -144,15 +198,7 @@ __Downloads__: 0 | __Repository__: https://github.com/LibreDsc/dsc-schema-builde
 
 Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
 
-__Downloads__: 266 | __Repository__: https://github.com/markorr321/Entra-PIM
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.110) | 1.0.21.110
-
-### Published: 02/15/2026 06:30:08 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 2,021 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+__Downloads__: 265 | __Repository__: https://github.com/markorr321/Entra-PIM
 
 ## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.15.74) | 1.15.74
 
@@ -172,7 +218,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 93,938 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 93,939 | __Repository__: https://pscompletions.abgox.com/
 
 ## [Integrom.Module.Bootstrap](https://www.powershellgallery.com/Packages/Integrom.Module.Bootstrap/1.83) | 1.83
 
@@ -348,7 +394,7 @@ __Downloads__: 14,313 | __Repository__: https://github.com/rnwood/Rnwood.Dataver
 
 PowerShell wrapper for AI coding assistants. Batch process files using Claude Code, Aider, Gemini CLI, GitHub Copilot CLI, and Codex CLI with unified commands and pipeline support.
 
-__Downloads__: 616 | __Repository__: https://github.com/potatoqualitee/aitools
+__Downloads__: 617 | __Repository__: https://github.com/potatoqualitee/aitools
 
 ## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/0.10.2) | 0.10.2
 
@@ -587,14 +633,6 @@ __Downloads__: 5 | __Repository__: https://ironmansoftware.com/powershell-univer
 Module for PowerShell Universal.
 
 __Downloads__: 362,048 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [Pup](https://www.powershellgallery.com/Packages/Pup/0.3.2) | 0.3.2
-
-### Published: 02/12/2026 17:14:00 by Anton Lindström
-
-Browser automation for PowerShell. Control headless or visible Chrome/Chromium browsers via the DevTools Protocol. Automate web scraping, form filling, screenshots, PDF export, network interception, WebSocket monitoring, and session management. Convert Chrome DevTools recordings to PowerShell scripts. Cross-platform support for Windows, Linux, and macOS.
-
-__Downloads__: 50 | __Repository__: https://github.com/n7on/Pup
 
 ## [MrWinSecureBoot](https://www.powershellgallery.com/Packages/MrWinSecureBoot/0.1.0) | 0.1.0
 
@@ -1994,36 +2032,4 @@ This modules provides Cmdlets for OCI Artifacts Service
 
 __Downloads__: 13,553 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:06:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 12,642 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:06:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 15,790 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:06:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 13,543 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/123.1.0) | 123.1.0
-
-### Published: 02/10/2026 19:06:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 14,944 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 15 February 2026 21:54:40 UTC*
+*Updated: Monday, 16 February 2026 10:09:41 UTC*

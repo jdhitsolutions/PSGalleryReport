@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 February 2026 21:54:49 UTC
+Updated: Monday, 16 February 2026 10:09:51 UTC
 
 .bat
 .env
@@ -537,7 +537,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argosccf
 argument
 argumentcompleter
@@ -698,6 +697,8 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
+automationutils
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -719,6 +720,7 @@ availability
 availabilityset
 avalara
 avatar
+avatax
 avd
 ave
 avepoint
@@ -733,7 +735,6 @@ awake
 awakecoding
 awareness
 awesome
-awk
 awp
 awpagent
 aws
@@ -1076,6 +1077,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 branch-rename
 brave
@@ -1122,7 +1124,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1224,6 +1225,7 @@ catapult
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1371,7 +1373,6 @@ circuit-breaker
 circumlunar
 cireson
 ciresonassetmanagement
-ciresonportal
 cis
 cis-benchmark
 cisa
@@ -1587,6 +1588,7 @@ combine
 comdata
 comedy
 comic
+comical
 comics
 command
 command_line
@@ -1751,6 +1753,7 @@ conventional
 conventional-commits
 convereter
 converged_data_management
+conversational
 converse
 converseapi
 conversion
@@ -2330,6 +2333,7 @@ display_dialog
 displayresolution
 disposable
 dispose
+distance
 distinguishedname
 distributed-systems
 distributed-tracing
@@ -2578,6 +2582,7 @@ dynatraceobservability
 dz
 e-mail
 e1
+e2e
 earthquakes
 easy
 easy-to-use
@@ -2927,7 +2932,6 @@ external-editor
 externaldynamiclists
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -2981,8 +2985,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -3127,6 +3129,7 @@ flexible
 flickr
 florecruit
 flowchart
+flowy
 fluent
 fluidrelay
 flurl
@@ -3441,7 +3444,6 @@ gmap
 gmaps
 gmsa
 gnome
-gnu
 gnucash
 gnuwin32
 go
@@ -3601,7 +3603,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -3666,7 +3667,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3799,7 +3799,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 humour
 hunk
 hunter
@@ -4057,6 +4059,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneadminroles
 intuneappwinutil
@@ -4420,6 +4423,7 @@ latin
 latitude
 laws
 layer
+layman
 layout
 lazywinadmin
 lbi
@@ -4560,7 +4564,6 @@ locationbasedservices
 locations
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4778,6 +4781,7 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
+mass
 massmail
 masstransit
 masterconfiguration
@@ -4786,7 +4790,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 mathml
@@ -4953,8 +4956,6 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
-midi
-midi2.0
 midserver
 migrate
 migration
@@ -5022,11 +5023,6 @@ modern
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5246,6 +5242,7 @@ nebula
 nebulon
 nec-infrared-transmission-protocol
 necli
+nederland
 nedyalkov
 nemovote
 neo4j
@@ -5278,6 +5275,7 @@ netextender
 netfirewallrule
 netherlands
 netillimar
+netmask
 netpdf
 netpdfps
 nets
@@ -5313,7 +5311,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 neuralnetwork
 new
 new-completionresult
@@ -5324,7 +5321,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5421,6 +5417,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -5823,7 +5820,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -5909,6 +5905,7 @@ pgp
 phabricator
 phi
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -6041,10 +6038,10 @@ port
 port70
 portal
 portchecker
+porthunter
 ports
 portscan
 porttest
-pos
 posershellise
 posh
 posh-acme
@@ -6087,7 +6084,6 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -6191,8 +6187,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -7915,7 +7909,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -9135,7 +9128,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -9383,7 +9375,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -9426,7 +9417,6 @@ pwa
 pwned
 pwpush
 pwpush.com
-pwsafe
 pwsh
 pwsh-module
 pwsh.fw
@@ -9840,7 +9830,6 @@ rightcloud
 rightjoin
 rights
 rightsizing
-rightsmanagement
 rijkswaterstaat
 ring
 ripe
@@ -9989,6 +9978,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -10070,12 +10060,10 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
-scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -10254,6 +10242,7 @@ servicediscovery
 serviceendpoints
 servicefabric
 servicelinker
+servicemanagementautomation
 servicemanagementautomationx
 servicemanager
 servicemanagerproxy
@@ -10439,6 +10428,7 @@ slmgr
 sln
 slugify
 sm
+sma
 small_web
 smart_home
 smartarray
@@ -10879,6 +10869,7 @@ survey
 surveymonkey
 sus
 sushi
+suspensive
 svelte
 svesavov
 svetoslav
@@ -11017,6 +11008,7 @@ taxjar
 taxonomy
 tcg
 tcp
+tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -11097,7 +11089,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -11281,6 +11272,7 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -11313,6 +11305,7 @@ tree-sitter
 tree-structure
 treesize
 treffynnon
+trein
 trello
 trellops
 trend
@@ -11509,6 +11502,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -11533,7 +11527,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11890,6 +11883,7 @@ watch
 watchdog
 watchguard
 watchmen
+watery
 wave
 wbem
 wcf
@@ -11918,6 +11912,7 @@ webcmdlets
 webdav
 webdeploy
 webdeveloper
+webdriver
 webfrequest
 webhdfs
 webhelpdesk
@@ -12161,6 +12156,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -12190,6 +12186,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
