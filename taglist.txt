@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 February 2026 10:07:25 UTC
+Updated: Thursday, 19 February 2026 21:59:49 UTC
 
 .bat
 .env
@@ -51,7 +51,6 @@ Updated: Thursday, 19 February 2026 10:07:25 UTC
 2fa
 300
 365
-365tune
 36867
 3cx
 3d
@@ -262,6 +261,7 @@ advisor
 adwords
 adx
 adxingestion
+ae
 aem
 aeries
 aeriessis
@@ -480,6 +480,7 @@ applescript
 applescript_bridge
 application
 application-transformer
+applicationenhancer
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -560,7 +561,6 @@ arrow
 arrow-key
 art
 artefactual
-articles
 artifact
 artifactory
 artifacts
@@ -592,6 +592,7 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
+aspnetcore
 asr
 assembleenationale
 assembly
@@ -1038,7 +1039,6 @@ blog
 blogger
 blogs
 bloodglucose
-bloodhound
 bloodsugar
 bloxone
 bloxoneddi
@@ -1090,6 +1090,7 @@ brawlapi
 brawlstars
 bre
 breach
+break
 breakpoint
 brevo
 brew
@@ -1098,6 +1099,7 @@ brewzilla
 brickset
 brickstore
 bridge
+brief
 brightbooking
 brightness
 britannica
@@ -1215,7 +1217,6 @@ carbonintensity
 card
 cards
 cardwirth
-careport
 cares
 cargo
 carousel
@@ -1317,7 +1318,6 @@ chatroom
 chatter
 cheat
 check
-checkdb
 checker
 checklist
 checklists
@@ -1737,6 +1737,7 @@ containerregistry
 containers
 containment
 content
+contentmanagement
 contentprep
 context
 continious-deploy
@@ -1866,6 +1867,7 @@ credential-dialog
 credential-file
 credential-files
 credential-manager
+credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -2027,9 +2029,9 @@ database
 database-first
 database-migrations
 databaseautomation
+databasefirst
 databasemanagement
 databasemigration
-databaserecovery
 databases
 databasetools
 databooster
@@ -2161,6 +2163,7 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
+defenderxdr
 defense
 deferrals
 definition
@@ -2188,6 +2191,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2215,7 +2219,6 @@ detectionrule
 deutschland
 dev
 dev-tools
-dev.to
 devart
 devcenter
 devcontainer
@@ -2418,6 +2421,7 @@ documentation
 documentdb
 documentencryption
 documenting
+documentmanagement
 documents
 docusaurus
 docusign
@@ -2598,11 +2602,13 @@ easy-to-use
 easylife365
 easypim
 easyvista
+eaton
 ebay
 ebooks
 ebur128
 ec2
 echo
+ecm
 ecma2
 ecma2host
 ecommerce
@@ -2635,7 +2641,6 @@ efi
 egrep
 eid
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 eku
 elapsed
@@ -2963,6 +2968,7 @@ failedlogin
 failovercluster
 failure
 fake
+fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
@@ -3143,6 +3149,7 @@ flickr
 florecruit
 flowchart
 flowy
+fluent
 fluidrelay
 flurl
 flyway
@@ -3171,7 +3178,6 @@ forcedomaintakeover
 foreach
 foreach-object
 forecast
-forem
 forensic
 forensics
 forest
@@ -3260,7 +3266,6 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
-fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3470,7 +3475,6 @@ golden_ticket
 goldengate
 goldsource
 goldsource-dedicated-server
-golf
 google
 google-chrome
 google-fonts
@@ -3672,7 +3676,6 @@ helium
 helix
 hello
 helloid
-helloposhgallery
 helloworld
 helm
 helmet
@@ -3734,7 +3737,6 @@ hl7
 hlds
 hls
 hmac
-hmpljs
 hockey
 hol
 holiday
@@ -3746,7 +3748,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 horizon
 horizontal
@@ -3973,7 +3974,6 @@ incontact
 indents
 index
 indexdb
-indexmaintenance
 indicator
 indicators
 inedo
@@ -4189,7 +4189,6 @@ itglue
 itil
 itin
 itops
-itprofessionals
 itsm
 itstore
 ivanti
@@ -4287,6 +4286,7 @@ k8s
 k8sshell
 k8ssnapshots
 kafka
+kalilinux
 kaminario
 karabiner
 karabiner-elements
@@ -4646,7 +4646,6 @@ logparser
 logrotate
 logrotation
 logs
-logshipping
 logstash
 logtools
 logz
@@ -4838,6 +4837,7 @@ mcsb
 mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
+mda
 mdatp
 mdb
 mdbc
@@ -4845,6 +4845,7 @@ mde
 mdep
 mdi
 mdm
+mdo
 mdop
 mdp
 mdt
@@ -5082,6 +5083,7 @@ moodle
 moonraker
 moonshot
 more
+morning
 mos
 mosaic
 motd
@@ -5153,9 +5155,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -5339,6 +5338,7 @@ networkpolicyserver
 networkprofile
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 neuralnetwork
@@ -5624,7 +5624,6 @@ opencloud
 opendata
 openedge
 openfiles
-openforem
 opengraph
 openhere
 openholidaysapi
@@ -5644,6 +5643,7 @@ openstack
 openstreetmap
 openstreetmaps
 opentdb
+opentext
 openvpn
 openxml
 operating
@@ -5670,6 +5670,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5806,7 +5807,6 @@ parameterinfo
 parameters
 params
 parclient
-parenting
 parititions
 parool
 parquet
@@ -5969,6 +5969,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -6059,7 +6060,6 @@ poop
 pop
 pop-location
 pop3
-popcorn
 popd
 population
 popup
@@ -6184,6 +6184,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powernetbox
 powerpack
@@ -6268,6 +6269,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -6414,6 +6416,7 @@ ps6
 ps7
 psa
 psadapter
+psadbscreencap
 psadgroupmembers
 psadt
 psake
@@ -9331,9 +9334,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -9376,9 +9376,6 @@ pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -10087,6 +10084,7 @@ scrape
 scraper
 scraping
 screen
+screencap
 screencapture
 screenconnect
 screener
@@ -10463,6 +10461,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -10523,7 +10522,6 @@ snowflake
 snowflakebynarymodule
 snowflakebynarypsmodule
 snowflakemodule
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssfsqlpsmodule
@@ -10658,7 +10656,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10686,10 +10683,7 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
 sqlserverclient
-sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -10701,6 +10695,7 @@ squishedguid
 srcds
 srcsrv
 srcsvr
+sre
 srm
 srr
 srrdb
@@ -10774,7 +10769,6 @@ statichtmlsites
 staticip
 staticsite
 statistical
-statisticmaintenance
 statistics
 stats
 statsd
@@ -10834,6 +10828,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strict
 strictmode
 strikethrough-text
@@ -11253,6 +11248,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmconsole.provider.nutanix.move
 tmux
 to-do
 toast
@@ -11277,6 +11273,7 @@ tookit
 tool
 toolbox
 toolchain
+toolchains
 toolcraft
 tooling
 toolkit
@@ -11474,6 +11471,7 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
+ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -11486,7 +11484,9 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -11616,6 +11616,7 @@ usb
 useful
 user
 user-environment
+useragent
 usercontext
 userdiscovery
 usergroup
@@ -12100,7 +12101,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -12125,6 +12125,7 @@ windowsdns
 windowsdomain
 windowsevent
 windowseventlog
+windowsfirewall
 windowsform
 windowsforms
 windowsindex
@@ -12233,6 +12234,7 @@ workspacemanager
 workspaceone
 workspaces
 workstation
+worktree
 world
 worldcup
 worryfreebusinesssecurity
@@ -12312,6 +12314,7 @@ xbox
 xclarity
 xconvert
 xdr
+xdrinternals
 xdschelper
 xdscresources
 xdt
