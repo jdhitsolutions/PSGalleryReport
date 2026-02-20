@@ -3,6 +3,143 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ScubaGear](https://www.powershellgallery.com/Packages/ScubaGear/1.7.1) | 1.7.1
+
+### Published: 02/20/2026 21:33:19 by CISA
+
+The Secure Cloud Business Applications (SCuBA) Gear module automates
+conformance testing about CISA M365 Secure Configuration Baselines.
+
+__Downloads__: 147,534 | __Repository__: https://github.com/cisagov/ScubaGear
+
+## [365TUNE](https://www.powershellgallery.com/Packages/365TUNE/2.1.5) | 2.1.5
+
+### Published: 02/20/2026 21:04:12 by Metawise Consulting LLC
+
+365TUNE PowerShell toolkit for Microsoft 365 license optimization, security compliance, cost reporting, and Azure permissions management.
+
+__Downloads__: 84 | __Repository__: https://365tune.com/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.640.0) | 1.640.0
+
+### Published: 02/20/2026 20:46:38 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 14,716 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [XAMLgui](https://www.powershellgallery.com/Packages/XAMLgui/1.1.1) | 1.1.1
+
+### Published: 02/20/2026 20:20:13 by Nabil Redmann (BananaAcid)
+
+Kick off a new window from PowerShell of a Visual Studio created XAML file and attach handlers - the easy way 🚀
+
+__Downloads__: 3 | __Repository__: 
+
+## [Merc](https://www.powershellgallery.com/Packages/Merc/1.1.0) | 1.1.0
+
+### Published: 02/20/2026 18:56:09 by jokellih
+
+Interactive process killer with fzf and window title support. Merc your processes with style.
+
+__Downloads__: 8 | __Repository__: https://github.com/jack-work/Merc
+
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.26) | 0.8.26
+
+### Published: 02/20/2026 18:25:00 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
+
+__Downloads__: 55,351 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+
+## [psWarpTerminal](https://www.powershellgallery.com/Packages/psWarpTerminal/1.0.0) | 1.0.0
+
+### Published: 02/20/2026 17:24:17 by skatterbrainz
+
+PowerShell wrapper for the Warp Terminal (Oz) CLI
+
+__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/psWarpTerminal
+
+## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.2.6) | 0.2.6
+
+### Published: 02/20/2026 16:08:56 by Yorick Kuijs
+
+Microsoft365Dsc Composite Resource Generator
+
+__Downloads__: 1,176 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
+
+## [PSNotes](https://www.powershellgallery.com/Packages/PSNotes/1.0.1.0) | 1.0.1.0
+
+### Published: 02/20/2026 14:18:51 by Matthew Dowst
+
+PSNotes is a PowerShell module that provides a structured, versioned snippet and script library for reusable automation patterns. Create notes with aliases, tags, and metadata to quickly execute, copy, or preview commands. Organize notes into local or remote catalogs, search by name, tag, details, or snippet content, and turn frequently used automation into first-class commands.
+
+__Downloads__: 3,074 | __Repository__: https://github.com/mdowst/PSNotes
+
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.27) | 0.0.27
+
+### Published: 02/20/2026 14:02:44 by M�tz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 612 | __Repository__: 
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.7.0) | 1.7.0
+
+### Published: 02/20/2026 13:55:12 by Yoshifumi Tsuda
+
+The universal MCP server for Claude Code and other MCP-compatible clients. One installation gives AI access to 10,000+ PowerShell modules and any CLI tool. You and AI collaborate in the same console with full transparency. Supports Windows, Linux, and macOS.
+
+__Downloads__: 1,356 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+
+## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.111) | 1.0.111
+
+### Published: 02/20/2026 11:36:36 by PSModule
+
+A PowerShell module to download and install fonts from GoogleFonts.
+
+__Downloads__: 18,720 | __Repository__: https://github.com/PSModule/GoogleFonts
+
+## [PSTerminalAnimations](https://www.powershellgallery.com/Packages/PSTerminalAnimations/1.0.3) | 1.0.3
+
+### Published: 02/20/2026 11:23:51 by Jaya Surya Pennada
+
+Terminal Animations - ASCII Art Edition. Provides various ASCII animations for different execution scenarios in PowerShell. Compatible with PowerShell 5.1+ and 7+.
+
+__Downloads__: 0 | __Repository__: 
+
+## [MailDaemon](https://www.powershellgallery.com/Packages/MailDaemon/1.2.14) | 1.2.14
+
+### Published: 02/20/2026 11:17:40 by Friedrich Weinmann
+
+Mail Daemon as PowerShell Module
+
+__Downloads__: 8,418 | __Repository__: https://github.com/PowershellFrameworkCollective/MailDaemon
+
+## [git-aliases-extra](https://www.powershellgallery.com/Packages/git-aliases-extra/0.1.4) | 0.1.4
+
+### Published: 02/20/2026 11:04:41 by PhysShell
+
+Custom git aliases and robust tab completion helpers for PowerShell.
+
+__Downloads__: 4 | __Repository__: https://github.com/PhysShell/git-aliases-extra
+
+## [MSGraphRequest](https://www.powershellgallery.com/Packages/MSGraphRequest/2.0.1) | 2.0.1
+
+### Published: 02/20/2026 10:59:23 by Nickolaj Andersen & Jan Ketil Skanke
+
+Simplifies making requests against Microsoft Graph API including authentication handling.
+
+__Downloads__: 175,731 | __Repository__: https://github.com/MSEndpointMgr/MSGraphRequest
+
+## [PSWatchdog](https://www.powershellgallery.com/Packages/PSWatchdog/1.0.0) | 1.0.0
+
+### Published: 02/20/2026 10:38:16 by Baldator
+
+A modern PowerShell module for monitoring file system events. Provides a seamless, Python-like experience for monitoring Create, Modify, Delete, and Rename events using .NET FileSystemWatcher.
+
+__Downloads__: 0 | __Repository__: https://github.com/PSWatchdog/PSWatchdog
+
 ## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.390) | 1.0.390
 
 ### Published: 02/20/2026 09:47:15 by Sascha Greven
@@ -27,14 +164,6 @@ Get Tokens from Entra ID
 
 __Downloads__: 35,937 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
 
-## [PSTerminalAnimations](https://www.powershellgallery.com/Packages/PSTerminalAnimations/1.0.0) | 1.0.0
-
-### Published: 02/20/2026 09:12:42 by Jaya Surya Pennada
-
-Terminal Animations - Creative ASCII Art Edition. Provides various ASCII animations for different execution scenarios in PowerShell.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Automatron](https://www.powershellgallery.com/Packages/Automatron/1.0.0.14) | 1.0.0.14
 
 ### Published: 02/20/2026 08:55:16 by Michal Gajda
@@ -49,7 +178,7 @@ __Downloads__: 22 | __Repository__: https://github.com/mgajda83/Automatron
 
 PSSailpoint - the PowerShell module for IdentityNow
 
-__Downloads__: 26,468 | __Repository__: 
+__Downloads__: 26,466 | __Repository__: 
 
 ## [PSSailpoint.V2026](https://www.powershellgallery.com/Packages/PSSailpoint.V2026/1.7.10) | 1.7.10
 
@@ -73,7 +202,7 @@ __Downloads__: 6,353 | __Repository__:
 
 PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
 
-__Downloads__: 17,153 | __Repository__: 
+__Downloads__: 17,154 | __Repository__: 
 
 ## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.10) | 1.7.10
 
@@ -81,7 +210,7 @@ __Downloads__: 17,153 | __Repository__:
 
 PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
 
-__Downloads__: 17,581 | __Repository__: 
+__Downloads__: 17,580 | __Repository__: 
 
 ## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.10) | 1.7.10
 
@@ -89,7 +218,7 @@ __Downloads__: 17,581 | __Repository__:
 
 PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
 
-__Downloads__: 17,176 | __Repository__: 
+__Downloads__: 17,177 | __Repository__: 
 
 ## [DevVm](https://www.powershellgallery.com/Packages/DevVm/0.1.1) | 0.1.1
 
@@ -98,14 +227,6 @@ __Downloads__: 17,176 | __Repository__:
 DevVm - Version Manager for Node.js, Java, Maven and other runtimes on Windows
 
 __Downloads__: 3 | __Repository__: https://gitlab.com/jh2odo/devvm
-
-## [XAMLgui](https://www.powershellgallery.com/Packages/XAMLgui/1.1.0) | 1.1.0
-
-### Published: 02/20/2026 04:51:40 by Nabil Redmann (BananaAcid)
-
-Kick off a new window from PowerShell of a Visual Studio created XAML file and attach handlers - the easy way 🚀
-
-__Downloads__: 3 | __Repository__: 
 
 ## [IntegrisPowerShell](https://www.powershellgallery.com/Packages/IntegrisPowerShell/2.1.2) | 2.1.2
 
@@ -138,14 +259,6 @@ __Downloads__: 13 | __Repository__: https://github.com/LibreDsc/dsc-schema-build
 A collection of utilities for working with collections in PowerShell
 
 __Downloads__: 323 | __Repository__: https://github.com/jasonmcboyd/CollectionUtils
-
-## [365TUNE](https://www.powershellgallery.com/Packages/365TUNE/2.0.0) | 2.0.0
-
-### Published: 02/20/2026 01:30:19 by Metawise Consulting LLC
-
-365TUNE PowerShell toolkit for Microsoft 365 license optimization, security compliance, cost reporting, and Azure permissions management.
-
-__Downloads__: 84 | __Repository__: https://365tune.com/
 
 ## [rwDirTools](https://www.powershellgallery.com/Packages/rwDirTools/1.1.1) | 1.1.1
 
@@ -225,7 +338,7 @@ __Downloads__: 74 | __Repository__:
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 92,336 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 92,333 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [FreeLog](https://www.powershellgallery.com/Packages/FreeLog/1.0.1) | 1.0.1
 
@@ -234,14 +347,6 @@ __Downloads__: 92,336 | __Repository__: https://github.com/dylanhaskins/Microsof
 A Powershell module for creating and writing to Log Files
 
 __Downloads__: 194 | __Repository__: https://github.com/Michael-Free/FreeLog/
-
-## [PSNotes](https://www.powershellgallery.com/Packages/PSNotes/1.0.0.0) | 1.0.0.0
-
-### Published: 02/19/2026 19:48:07 by Matthew Dowst
-
-PSNotes is a PowerShell module that provides a structured, versioned snippet and script library for reusable automation patterns. Create notes with aliases, tags, and metadata to quickly execute, copy, or preview commands. Organize notes into local or remote catalogs, search by name, tag, details, or snippet content, and turn frequently used automation into first-class commands.
-
-__Downloads__: 3,074 | __Repository__: https://github.com/mdowst/PSNotes
 
 ## [DiskSmartInfo](https://www.powershellgallery.com/Packages/DiskSmartInfo/3.0.1) | 3.0.1
 
@@ -275,14 +380,6 @@ A package manager and environment to provide consistent tooling for software tea
 
 __Downloads__: 11 | __Repository__: https://github.com/allsagetech/toolchain
 
-## [MSGraphRequest](https://www.powershellgallery.com/Packages/MSGraphRequest/2.0.0) | 2.0.0
-
-### Published: 02/19/2026 13:19:41 by Nickolaj Andersen & Jan Ketil Skanke
-
-Simplifies making requests against Microsoft Graph API including authentication handling.
-
-__Downloads__: 175,731 | __Repository__: https://github.com/MSEndpointMgr/MSGraphRequest
-
 ## [UplinkSystems.Microsoft.Cloud](https://www.powershellgallery.com/Packages/UplinkSystems.Microsoft.Cloud/1.1.0) | 1.1.0
 
 ### Published: 02/19/2026 12:58:30 by Andreas Schreiner
@@ -298,14 +395,6 @@ __Downloads__: 9 | __Repository__: https://github.com/uplink-systems/powershell-
 Collection of Scripts and Functions which does not require their own module.
 
 __Downloads__: 3 | __Repository__: https://github.com/AniTexs/My-PWSH-Modules
-
-## [git-aliases-extra](https://www.powershellgallery.com/Packages/git-aliases-extra/0.1.0) | 0.1.0
-
-### Published: 02/19/2026 11:15:28 by PhysShell
-
-Custom git aliases and robust tab completion helpers for PowerShell.
-
-__Downloads__: 4 | __Repository__: https://github.com/PhysShell/git-aliases-extra
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.25) | 2.7.25
 
@@ -427,14 +516,6 @@ A lightweight PowerShell web server inspired by Python http.server
 
 __Downloads__: 15 | __Repository__: 
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.639.0) | 1.639.0
-
-### Published: 02/18/2026 18:26:53 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 14,716 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.69) | 0.0.69
 
 ### Published: 02/18/2026 17:53:05 by Bastien Perez
@@ -497,7 +578,7 @@ __Downloads__: 525,834 | __Repository__: https://github.com/smitpi/CTXCloudApi
 
 Automate your CyberArk Certificate Manager Self-Hosted and SaaS platforms!
 
-__Downloads__: 68,772 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 68,773 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [UTCM](https://www.powershellgallery.com/Packages/UTCM/0.1.1) | 0.1.1
 
@@ -515,14 +596,6 @@ Q3 Rcon client for Powershell
 
 __Downloads__: 143 | __Repository__: 
 
-## [TencentCloud](https://www.powershellgallery.com/Packages/TencentCloud/2.0.58) | 2.0.58
-
-### Published: 02/18/2026 04:32:23 by Jian Liu (whirls9@hotmail.com)
-
-Powershell module for Tencent Cloud
-
-__Downloads__: 22 | __Repository__: https://github.com/9whirls/TencentCloud
-
 ## [Celerium](https://www.powershellgallery.com/Packages/Celerium/1.7.0) | 1.7.0
 
 ### Published: 02/18/2026 04:28:47 by David Schulte
@@ -538,14 +611,6 @@ __Downloads__: 66 | __Repository__: https://github.com/Celerium/Celerium-PowerSh
 This module provides a PowerShell wrapper for the DattoRMM API. Datto provides an Application Programming Interface (API) to enable programmatic access to information and operations available in Datto RMM.
 
 __Downloads__: 42 | __Repository__: https://github.com/Celerium/Celerium.DattoRMM
-
-## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.110) | 1.0.110
-
-### Published: 02/18/2026 01:55:07 by PSModule
-
-A PowerShell module to download and install fonts from GoogleFonts.
-
-__Downloads__: 18,720 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 ## [Celerium.ITGlue](https://www.powershellgallery.com/Packages/Celerium.ITGlue/1.2.0) | 1.2.0
 
@@ -1968,75 +2033,6 @@ __Downloads__: 1,319 | __Repository__: https://github.com/masesgroup/KNet
 
 MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
 
-__Downloads__: 38,784 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+__Downloads__: 38,763 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
 
-## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.6.8) | 1.6.8
-
-### Published: 02/17/2026 12:18:05 by Yoshifumi Tsuda
-
-The universal MCP server for Claude Code and other MCP-compatible clients. One installation gives AI access to 10,000+ PowerShell modules and any CLI tool. You and AI collaborate in the same console with full transparency. Supports Windows, Linux, and macOS.
-
-__Downloads__: 1,357 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
-
-## [PSWebGui](https://www.powershellgallery.com/Packages/PSWebGui/1.0.0) | 1.0.0
-
-### Published: 02/17/2026 12:04:21 by JLInF97
-
-A fast way to create and display PowerShell graphical interfaces using HTML
-
-__Downloads__: 258 | __Repository__: https://github.com/JLInF97/PSWebGUI
-
-## [VM-AutoTagger](https://www.powershellgallery.com/Packages/VM-AutoTagger/1.0.0) | 1.0.0
-
-### Published: 02/17/2026 10:17:00 by Larry Roberts
-
-Automatically tag VMware vSphere and Microsoft Hyper-V VMs with OS, hardware tier, compliance status, and custom categories. Pull VM metadata and apply vSphere tags or store tags as JSON in Hyper-V VM Notes for easy filtering and search. Supports custom YAML tag profiles, compliance checking, stale VM detection, drift detection, and HTML dashboards.
-
-__Downloads__: 4 | __Repository__: https://github.com/larro1991/VM-AutoTagger
-
-## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.4.6) | 4.4.6
-
-### Published: 02/17/2026 10:13:55 by SignPath GmbH
-
-PowerShell module for code-signing with SignPath.io
-
-Supported methods: Authenticode, NuGet, ClickOnce manifest signing, OPC signing, JAR signing, Docker signing, Office Macro signing.
-Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, MSIX, nupkg, Office add-ins, VSIX, Java Archives and more.
-
-You can also use SignPath.io to sign your PowerShell scripts.
-
-__Downloads__: 257,618 | __Repository__: https://signpath.io/
-
-## [DnsRecordTools](https://www.powershellgallery.com/Packages/DnsRecordTools/1.1.0) | 1.1.0
-
-### Published: 02/17/2026 10:03:44 by kannis.wong
-
-Normalize Get-DnsServerResourceRecord output into a consistent object schema for filtering, exporting, and comparison.
-
-__Downloads__: 9 | __Repository__: https://github.com/Kannis-Wong/DnsRecordTools
-
-## [MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/MicrosoftFabricMgmt/1.0.4) | 1.0.4
-
-### Published: 02/17/2026 09:54:30 by Rob Sewell Jess Pomfret and Tiago Balabuch on behalf of Fabric Community
-
-PowerShell module for managing Microsoft Fabric resources via the Fabric API. Supports workspaces, lakehouses, warehouses, notebooks, and more.
-
-__Downloads__: 92 | __Repository__: https://github.com/microsoft/fabric-toolbox/
-
-## [ncal](https://www.powershellgallery.com/Packages/ncal/3.1.8) | 3.1.8
-
-### Published: 02/17/2026 09:34:43 by Roy Atkins
-
-Display a calendar in the Windows Terminal console using any culture. Similar to the Linux ncal/cal commands, but better.
-
-__Downloads__: 135 | __Repository__: https://github.com/atkinsroy/ncal
-
-## [Test-MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/Test-MicrosoftFabricMgmt/1.0.12) | 1.0.12
-
-### Published: 02/17/2026 09:30:16 by Rob Sewell Jess Pomfret and Tiago Balabuch on behalf of Fabric Community
-
-PowerShell module for managing Microsoft Fabric resources via the Fabric API. Supports workspaces, lakehouses, warehouses, notebooks, and more.
-
-__Downloads__: 72 | __Repository__: https://github.com/microsoft/fabric-toolbox/
-
-*Updated: Friday, 20 February 2026 10:04:48 UTC*
+*Updated: Friday, 20 February 2026 21:55:28 UTC*

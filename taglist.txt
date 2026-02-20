@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 February 2026 10:04:57 UTC
+Updated: Friday, 20 February 2026 21:55:38 UTC
 
 .bat
 .env
@@ -149,6 +149,8 @@ activeefficiency
 activehours
 activenet
 activenetapi
+activenetworkstation
+activenetworkstationservice
 activerecord
 activeresponse
 activesession
@@ -420,6 +422,7 @@ antiphishing
 antispam
 antispoofing
 antivirus
+anws
 any
 anypackage
 anypoint
@@ -1564,7 +1567,6 @@ cognitiveservices
 cohere
 cohesity
 coinbase
-coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1759,7 +1761,6 @@ control
 controller
 controlroom
 controlup
-convention
 conventional
 conventional-commits
 convereter
@@ -1795,8 +1796,6 @@ converttomd
 conway
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -2803,7 +2802,6 @@ espresso
 esri
 essbase
 est
-estimate
 estimation
 esx
 esxi
@@ -3047,7 +3045,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -3556,7 +3553,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3804,6 +3800,7 @@ hsdp
 hsl
 html
 html-generator
+html-templates
 htmlentity
 http
 http_proxy
@@ -4538,7 +4535,6 @@ lint
 linting
 linux
 linux-command
-linux-style
 linuxssh
 liquid
 lisstech
@@ -5695,7 +5691,6 @@ opus
 oracle
 oraclecloudinfrastructure
 oraculum
-orbit
 orbital
 orchestrate
 orchestration
@@ -5775,6 +5770,7 @@ owls
 owner
 oxygen
 oxyplot
+oz
 p2000
 p2p
 p2s
@@ -6085,6 +6081,7 @@ popcorn
 popd
 population
 popup
+popy
 port
 port70
 portal
@@ -9407,6 +9404,7 @@ psst
 psstgenerator
 pstablacus
 pstanss
+psterminalanimations
 psthread
 pstk
 pstwitter
@@ -10092,7 +10090,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -10333,6 +10330,7 @@ sessionize
 sessions
 set
 set_bios
+set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -10951,7 +10949,6 @@ swagger
 swamid
 swarm
 swimlane
-swimmingpool
 swis
 switch
 swsd
@@ -11063,7 +11060,6 @@ tar
 tar-compression
 target
 task
-task_automation
 task-runner
 task-scheduler
 taskbar
@@ -11124,6 +11120,7 @@ temperature
 tempfiles
 template
 template-engine
+template-utility
 templater
 templates
 templating
@@ -11191,6 +11188,7 @@ text-based
 text-emoji
 text-emojis
 text-menu
+text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -11485,6 +11483,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -11533,7 +11532,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 ue4ss
 uefi
@@ -11745,7 +11743,6 @@ vector
 vectormath
 veeam
 veeampn
-veenendaal
 veeva
 venafi
 vencord
@@ -11753,6 +11750,7 @@ vendir
 vendor
 vendorpam
 venue
+venv
 venvlink
 vera
 veracrypt
@@ -11948,14 +11946,16 @@ wapack
 wapi
 wara
 warning
+warp
 warplaneporn
+warpterminal
 warranty
 warraty
 warrenty
 wasabi
 watch
 watchdog
-watchguard
+watcher
 watchmen
 watery
 wave
@@ -12434,7 +12434,6 @@ zip-compression
 zipfile-transform
 zipjoin
 zisson
-zivver
 zlib
 zlib-compression
 zodiac
