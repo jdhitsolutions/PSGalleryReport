@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 February 2026 21:59:49 UTC
+Updated: Friday, 20 February 2026 10:04:57 UTC
 
 .bat
 .env
@@ -51,6 +51,7 @@ Updated: Thursday, 19 February 2026 21:59:49 UTC
 2fa
 300
 365
+365tune
 36867
 3cx
 3d
@@ -148,8 +149,6 @@ activeefficiency
 activehours
 activenet
 activenetapi
-activenetworkstation
-activenetworkstationservice
 activerecord
 activeresponse
 activesession
@@ -421,7 +420,6 @@ antiphishing
 antispam
 antispoofing
 antivirus
-anws
 any
 anypackage
 anypoint
@@ -561,6 +559,7 @@ arrow
 arrow-key
 art
 artefactual
+articles
 artifact
 artifactory
 artifacts
@@ -1039,6 +1038,7 @@ blog
 blogger
 blogs
 bloodglucose
+bloodhound
 bloodsugar
 bloxone
 bloxoneddi
@@ -1217,6 +1217,7 @@ carbonintensity
 card
 cards
 cardwirth
+careport
 cares
 cargo
 carousel
@@ -1318,6 +1319,7 @@ chatroom
 chatter
 cheat
 check
+checkdb
 checker
 checklist
 checklists
@@ -1604,7 +1606,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -2032,6 +2033,7 @@ databaseautomation
 databasefirst
 databasemanagement
 databasemigration
+databaserecovery
 databases
 databasetools
 databooster
@@ -2219,6 +2221,7 @@ detectionrule
 deutschland
 dev
 dev-tools
+dev.to
 devart
 devcenter
 devcontainer
@@ -2641,6 +2644,7 @@ efi
 egrep
 eid
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 eku
 elapsed
@@ -3178,6 +3182,7 @@ forcedomaintakeover
 foreach
 foreach-object
 forecast
+forem
 forensic
 forensics
 forest
@@ -3266,6 +3271,7 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
+fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3475,6 +3481,7 @@ golden_ticket
 goldengate
 goldsource
 goldsource-dedicated-server
+golf
 google
 google-chrome
 google-fonts
@@ -3676,6 +3683,7 @@ helium
 helix
 hello
 helloid
+helloposhgallery
 helloworld
 helm
 helmet
@@ -3737,6 +3745,7 @@ hl7
 hlds
 hls
 hmac
+hmpljs
 hockey
 hol
 holiday
@@ -3748,6 +3757,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -3794,7 +3804,6 @@ hsdp
 hsl
 html
 html-generator
-html-templates
 htmlentity
 http
 http_proxy
@@ -3974,6 +3983,7 @@ incontact
 indents
 index
 indexdb
+indexmaintenance
 indicator
 indicators
 inedo
@@ -4189,6 +4199,7 @@ itglue
 itil
 itin
 itops
+itprofessionals
 itsm
 itstore
 ivanti
@@ -4646,6 +4657,7 @@ logparser
 logrotate
 logrotation
 logs
+logshipping
 logstash
 logtools
 logz
@@ -4977,6 +4989,8 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
+midi
+midi2.0
 midserver
 migrate
 migration
@@ -5155,6 +5169,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -5507,6 +5524,7 @@ objects
 objectstorage
 objecttree
 obs
+observability
 observeit
 oce
 ocg
@@ -5624,6 +5642,7 @@ opencloud
 opendata
 openedge
 openfiles
+openforem
 opengraph
 openhere
 openholidaysapi
@@ -5643,6 +5662,7 @@ openstack
 openstreetmap
 openstreetmaps
 opentdb
+opentelemetry
 opentext
 openvpn
 openxml
@@ -5807,6 +5827,7 @@ parameterinfo
 parameters
 params
 parclient
+parenting
 parititions
 parool
 parquet
@@ -6060,10 +6081,10 @@ poop
 pop
 pop-location
 pop3
+popcorn
 popd
 population
 popup
-popy
 port
 port70
 portal
@@ -9334,6 +9355,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -9376,6 +9400,9 @@ pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -9960,6 +9987,7 @@ runspace
 runspacepool
 runspaces
 runtime
+runtime-manager
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 russia
@@ -10127,6 +10155,7 @@ scvmm
 sd
 sddl
 sdk
+sdkman
 sdn
 sdp
 search
@@ -10304,7 +10333,6 @@ sessionize
 sessions
 set
 set_bios
-set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -10522,6 +10550,7 @@ snowflake
 snowflakebynarymodule
 snowflakebynarypsmodule
 snowflakemodule
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssfsqlpsmodule
@@ -10656,6 +10685,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10683,7 +10713,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -10769,6 +10802,7 @@ statichtmlsites
 staticip
 staticsite
 statistical
+statisticmaintenance
 statistics
 stats
 statsd
@@ -11090,7 +11124,6 @@ temperature
 tempfiles
 template
 template-engine
-template-utility
 templater
 templates
 templating
@@ -11158,7 +11191,6 @@ text-based
 text-emoji
 text-emojis
 text-menu
-text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -11453,7 +11485,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -11722,7 +11753,6 @@ vendir
 vendor
 vendorpam
 venue
-venv
 venvlink
 vera
 veracrypt
@@ -11733,6 +11763,7 @@ verification
 verify
 version
 version-management
+version-manager
 versioncontrol
 versioning
 versionmanager
@@ -11923,6 +11954,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchguard
 watchmen
 watery
@@ -12101,6 +12133,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -12399,6 +12432,7 @@ zigbee
 zip
 zip-compression
 zipfile-transform
+zipjoin
 zisson
 zivver
 zlib
