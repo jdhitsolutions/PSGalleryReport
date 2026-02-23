@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 February 2026 21:55:24 UTC
+Updated: Monday, 23 February 2026 10:10:45 UTC
 
 .bat
 .env
@@ -1123,6 +1123,7 @@ browsing
 brs
 bruteforce
 bson
+bssid
 btdf
 btm
 bucket
@@ -1170,7 +1171,6 @@ byexample
 bynarypsmodule
 byte
 bytearray
-bytt.email
 bzip2
 bzip2-compression
 c
@@ -1526,7 +1526,6 @@ cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
-cnc
 cns
 co-writer
 coa
@@ -1567,6 +1566,7 @@ cognitiveservices
 cohere
 cohesity
 coinbase
+coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1608,6 +1608,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1651,6 +1652,7 @@ compoundproperty
 compress
 compressedguid
 compression
+compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1909,7 +1911,6 @@ crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
-cryptopro
 cs137
 csc
 csharp
@@ -1978,6 +1979,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybersecurity
@@ -2127,7 +2129,6 @@ debug
 debug-files
 debugger
 debugging
-debuglog
 decimal
 decimalip
 decimalzero
@@ -2184,7 +2185,6 @@ delivery
 dell
 dellemc
 delta
-demand
 demandsignal
 demo
 democratie
@@ -2418,7 +2418,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2568,10 +2567,12 @@ dust
 dutch
 dutchbaseline
 dvls
+dvr
 dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2642,7 +2643,6 @@ efi
 egrep
 eid
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 eku
 elapsed
@@ -2977,7 +2977,6 @@ fallbackstatuspoint
 fanarttv
 fancy
 fancy-terminal
-fanuc
 faq
 farm
 farmanager
@@ -3210,9 +3209,9 @@ fortinetmanager
 fortios
 fortra
 fortune
-fortytwo
 forum
 forwardedevents
+forwarding
 foudil
 foundationmodels
 foundry
@@ -3310,7 +3309,6 @@ gcbdr
 gce
 gci
 gcloud
-gcode
 gcp
 gcs
 gdap
@@ -3651,6 +3649,7 @@ hcm
 hcp
 hcx
 hdfs
+hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3744,7 +3743,6 @@ hls
 hmac
 hmpljs
 hockey
-hol
 holiday
 home
 home_automation
@@ -3753,6 +3751,7 @@ homebrewing
 homelab
 homelandsecurity
 homeschooling
+hometheater
 hon
 hooking
 horizon
@@ -3968,6 +3967,7 @@ importer
 importexport
 importteams
 inactive
+inbox_rules
 inboxrule
 incident
 incident_response
@@ -4006,6 +4006,7 @@ ingestion
 ini
 inifile
 initialization
+initials-avatar
 initiative
 initiator
 injection
@@ -4068,6 +4069,7 @@ interactive
 interactive-brokers
 interchange
 interface
+interlogix
 internal
 internationalization
 internet
@@ -4336,6 +4338,7 @@ keymanagementserver
 keymap
 keymapping
 keypair
+keyring
 keysms
 keytab
 keyusage
@@ -4355,6 +4358,7 @@ kintone
 kittygraphicsprotocol
 klantcontroles
 kline
+klipper
 kms
 knapsack
 knetps
@@ -4487,6 +4491,7 @@ libgit2
 libmagic
 libraries
 library
+libsecret
 libvirt
 licence
 license
@@ -4594,7 +4599,6 @@ lockscreen
 locksmith
 locksmith2
 lockstep
-lod
 lodasoft
 log
 log-administration
@@ -4990,7 +4994,6 @@ migrations
 mikrotik
 milestone
 milestonepstools
-milling
 mim
 mime
 mimekit
@@ -5057,7 +5060,6 @@ module-testing
 module-testing-framework
 modulebuild
 modulecreation
-modulefast
 modulemanagement
 modules
 moduleupdate
@@ -5086,6 +5088,7 @@ monitors
 month
 monthlyupdate
 moodle
+moonraker
 moonshot
 more
 morning
@@ -5339,7 +5342,6 @@ networkfunction
 networkinfo
 networking
 networkinterfaces
-networkissues
 networkloadbalancer
 networkmanagement
 networkpolicyserver
@@ -5578,7 +5580,6 @@ omnissa
 omnistack
 oms
 omsagent
-on
 on-demand
 on-premise
 onbehalfof
@@ -5618,7 +5619,6 @@ onyphe.io
 oob
 oop
 ooxml
-op
 opa
 opc
 open
@@ -5636,6 +5636,7 @@ openfiles
 openforem
 opengraph
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -5651,6 +5652,7 @@ openssl
 openstack
 openstreetmap
 openstreetmaps
+opentdb
 opentelemetry
 opentext
 openvpn
@@ -5875,7 +5877,6 @@ patchmypc
 patchtuesday
 path
 pathfinder
-pathmanagement
 patternmatching
 paulo
 pause
@@ -6041,7 +6042,6 @@ poc
 podcast
 pode
 podman
-poe
 poem
 poetry
 point
@@ -6113,6 +6113,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -6161,7 +6162,6 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
-poshy-wrap-zypper
 position
 post
 postcode
@@ -6412,7 +6412,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -7646,52 +7645,6 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
-pscommand_invoke-zypper
-pscommand_invoke-zypperaddlock
-pscommand_invoke-zypperaddservice
-pscommand_invoke-zypperadrepo
-pscommand_invoke-zypperclean
-pscommand_invoke-zyppercleanlocks
-pscommand_invoke-zypperdistupgrade
-pscommand_invoke-zypperhelp
-pscommand_invoke-zypperhelpsearch
-pscommand_invoke-zypperif
-pscommand_invoke-zypperin
-pscommand_invoke-zypperinstallnewrecommends
-pscommand_invoke-zypperlicenses
-pscommand_invoke-zypperlistlocks
-pscommand_invoke-zypperlistpackages
-pscommand_invoke-zypperlistprocesseslockingpackages
-pscommand_invoke-zypperlistrepos
-pscommand_invoke-zypperlistservices
-pscommand_invoke-zypperlistupdates
-pscommand_invoke-zyppermodifyrepo
-pscommand_invoke-zyppermodifyservice
-pscommand_invoke-zypperpackages
-pscommand_invoke-zypperpatch
-pscommand_invoke-zypperpatchcheck
-pscommand_invoke-zypperpatches
-pscommand_invoke-zypperpatchinfo
-pscommand_invoke-zypperpatterninfo
-pscommand_invoke-zypperpatterns
-pscommand_invoke-zypperproductinfo
-pscommand_invoke-zypperproducts
-pscommand_invoke-zypperrefresh
-pscommand_invoke-zypperrefreshservices
-pscommand_invoke-zypperremove
-pscommand_invoke-zypperremovelock
-pscommand_invoke-zypperremoverepo
-pscommand_invoke-zypperremoveservice
-pscommand_invoke-zypperrenamerepo
-pscommand_invoke-zyppersearch
-pscommand_invoke-zyppershell
-pscommand_invoke-zyppersourcedownload
-pscommand_invoke-zyppersourceinstall
-pscommand_invoke-zyppertargetos
-pscommand_invoke-zypperupdate
-pscommand_invoke-zypperverify
-pscommand_invoke-zypperversioncompare
-pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -8163,6 +8116,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -8176,51 +8131,6 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
-pscommand_z
-pscommand_zal
-pscommand_zar
-pscommand_zas
-pscommand_zcl
-pscommand_zdup
-pscommand_zh
-pscommand_zhse
-pscommand_zif
-pscommand_zin
-pscommand_zinr
-pscommand_zlicenses
-pscommand_zll
-pscommand_zlp
-pscommand_zlr
-pscommand_zls
-pscommand_zlu
-pscommand_zmr
-pscommand_zms
-pscommand_znr
-pscommand_zpa
-pscommand_zpatch
-pscommand_zpatch-info
-pscommand_zpattern-info
-pscommand_zpch
-pscommand_zpchk
-pscommand_zpd
-pscommand_zproduct-info
-pscommand_zps
-pscommand_zpt
-pscommand_zref
-pscommand_zrefs
-pscommand_zrl
-pscommand_zrm
-pscommand_zrr
-pscommand_zrs
-pscommand_zse
-pscommand_zshell
-pscommand_zsi
-pscommand_zsource-download
-pscommand_ztos
-pscommand_zup
-pscommand_zvcmp
-pscommand_zve
-pscommand_zwp
 pscommander
 psconfasia
 psconfeu
@@ -8259,7 +8169,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psengine
 psenv
 pses
@@ -9060,52 +8969,6 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
-psfunction_invoke-zypper
-psfunction_invoke-zypperaddlock
-psfunction_invoke-zypperaddservice
-psfunction_invoke-zypperadrepo
-psfunction_invoke-zypperclean
-psfunction_invoke-zyppercleanlocks
-psfunction_invoke-zypperdistupgrade
-psfunction_invoke-zypperhelp
-psfunction_invoke-zypperhelpsearch
-psfunction_invoke-zypperif
-psfunction_invoke-zypperin
-psfunction_invoke-zypperinstallnewrecommends
-psfunction_invoke-zypperlicenses
-psfunction_invoke-zypperlistlocks
-psfunction_invoke-zypperlistpackages
-psfunction_invoke-zypperlistprocesseslockingpackages
-psfunction_invoke-zypperlistrepos
-psfunction_invoke-zypperlistservices
-psfunction_invoke-zypperlistupdates
-psfunction_invoke-zyppermodifyrepo
-psfunction_invoke-zyppermodifyservice
-psfunction_invoke-zypperpackages
-psfunction_invoke-zypperpatch
-psfunction_invoke-zypperpatchcheck
-psfunction_invoke-zypperpatches
-psfunction_invoke-zypperpatchinfo
-psfunction_invoke-zypperpatterninfo
-psfunction_invoke-zypperpatterns
-psfunction_invoke-zypperproductinfo
-psfunction_invoke-zypperproducts
-psfunction_invoke-zypperrefresh
-psfunction_invoke-zypperrefreshservices
-psfunction_invoke-zypperremove
-psfunction_invoke-zypperremovelock
-psfunction_invoke-zypperremoverepo
-psfunction_invoke-zypperremoveservice
-psfunction_invoke-zypperrenamerepo
-psfunction_invoke-zyppersearch
-psfunction_invoke-zyppershell
-psfunction_invoke-zyppersourcedownload
-psfunction_invoke-zyppersourceinstall
-psfunction_invoke-zyppertargetos
-psfunction_invoke-zypperupdate
-psfunction_invoke-zypperverify
-psfunction_invoke-zypperversioncompare
-psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -9303,12 +9166,15 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgadget
 psgallery
 psget
 psgitlab
 psgraph
 psgraylog
+pshdhomerun
 pshost
 pshtml
 psidoit
@@ -9333,7 +9199,6 @@ psm
 psm1
 psmodule
 psmodule psedition_desktop
-psmodulebase
 psmodulepath
 psmodules
 psmp
@@ -9414,6 +9279,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publish-module
@@ -9564,6 +9430,7 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
+rapid-prototyping
 rapt
 rar
 ras
@@ -9630,6 +9497,7 @@ reconnaissance
 reconstruction
 record
 recording
+recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -10071,6 +9939,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulverwaltung
 science
 scim
@@ -10287,7 +10156,6 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
-servicedeskplus
 servicediscovery
 serviceendpoints
 servicefabric
@@ -10415,6 +10283,7 @@ signature
 signed
 signing
 signtool
+silicondust
 silk
 silver_ticket
 sim
@@ -10726,6 +10595,7 @@ ssh-keygen
 sshmanagement
 sshserver
 sshservers
+ssid
 ssis
 ssl
 sslcert
@@ -10773,7 +10643,6 @@ startmenu
 starttls
 startup
 starwars
-stash
 stat
 state
 stateless
@@ -11379,6 +11248,7 @@ trilium
 triliumnext
 triodos
 tripunkt
+trivia
 troubleshoot
 troubleshooting
 trouw
@@ -11387,6 +11257,7 @@ truecolor
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -11487,7 +11358,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -11515,12 +11385,12 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 ue4ss
 uefi
 uem
 ui
+ui-framework
 ui/ux
 ui7
 uk
@@ -11610,6 +11480,7 @@ urbac
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urldecode
 urlencode
@@ -11740,7 +11611,6 @@ vera
 veracrypt
 verbose psmodule
 verbs
-vergeos
 verification
 verify
 version
@@ -11909,7 +11779,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -11972,7 +11841,6 @@ webdav
 webdeploy
 webdeveloper
 webdriver
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -12019,7 +11887,6 @@ wemsdk
 wer
 wfp
 wget
-what3words
 whatif
 whatismyip
 whatsnew
@@ -12077,7 +11944,6 @@ wifimanager
 wifiprofiles
 wifiscanner
 wifisecurity
-wifitroubleshooting
 wifiusernamepassword
 wiki
 wildcard
@@ -12327,6 +12193,7 @@ xa
 xadcommander
 xaf
 xaml
+xaml-gui
 xbase
 xbox
 xclarity
@@ -12345,6 +12212,7 @@ xgs
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -12374,6 +12242,7 @@ xunit
 xurrent
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
@@ -12440,7 +12309,6 @@ zuora
 zvm
 zvml
 zvmlinux
-zypper
 カタカナ
 ひらがな
 ローマ字
