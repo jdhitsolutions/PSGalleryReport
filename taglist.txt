@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 February 2026 22:05:57 UTC
+Updated: Tuesday, 24 February 2026 10:09:04 UTC
 
 .bat
 .env
@@ -583,6 +583,8 @@ asciiart
 asdatabase
 asigra
 asjob
+ask-gpt
+askgpt
 asm
 asn
 asn.1
@@ -877,6 +879,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -1069,6 +1072,7 @@ books
 bool
 boolean
 bootloader psmodule
+bootsecurity
 bootstrap
 bootstrapping
 bop
@@ -1136,7 +1140,6 @@ buildautomation
 builddefinition
 builder
 buildhelpers
-building
 buildingfile
 buildingmapping
 buildkit
@@ -1262,6 +1265,7 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
@@ -1289,6 +1293,7 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certificatevalidation
 certinia
 certutil
 cf
@@ -1535,6 +1540,7 @@ code-generation
 code-page
 code-reuse
 code365
+codeagent
 codeanalysis
 codebeamer
 codebuild
@@ -1651,6 +1657,7 @@ compression
 compromised
 compute
 compute-ops-management
+computecloudatcustomer
 computefleet
 computeinstanceagent
 computer
@@ -1792,6 +1799,7 @@ converttomarkdown
 converttomd
 conway
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1839,8 +1847,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 cqrs
 crack psmodule
 crash
@@ -1913,6 +1923,7 @@ csp
 cspm
 csproj
 css
+csstools
 csv
 csv2adx
 csvhelper
@@ -2220,6 +2231,7 @@ devart
 devcenter
 devcontainer
 devdeer
+devdirmanager
 devdrive
 developer
 developer_command_prompt
@@ -3013,6 +3025,7 @@ fiche
 fiddler
 fido
 fido2
+fieldglass
 fields
 fifa
 figlet
@@ -3441,6 +3454,8 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+gitrepo
+gitrepository
 glass
 glimps
 glob
@@ -3531,6 +3546,7 @@ graphs
 graphservices
 graphviz
 graylog
+grc
 greenhouse
 greenlake
 greenplum
@@ -3617,7 +3633,6 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
-hardmatch
 hardware
 harperdb
 hartokens
@@ -4066,6 +4081,7 @@ interactive
 interactive-brokers
 interchange
 interface
+interlogix
 internal
 internationalization
 internet
@@ -4098,7 +4114,6 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
-invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -4286,6 +4301,7 @@ jwt
 jwttoken
 k8s
 k8sshell
+k8ssnapshots
 kafka
 kalilinux
 kaminario
@@ -4352,6 +4368,7 @@ kintone
 kittygraphicsprotocol
 klantcontroles
 kline
+klipper
 kms
 knapsack
 knetps
@@ -4381,6 +4398,7 @@ kubens
 kubernetes
 kubernetesconfiguration
 kubernetesruntime
+kubesnapit
 kubespray
 kubetidy
 kudu
@@ -4573,6 +4591,7 @@ localgroup
 localgroupmember
 localization
 localpolicy
+localrepo
 localrepository
 localuser
 locate
@@ -4588,7 +4607,6 @@ locking
 lockoutreport
 lockscreen
 locksmith
-locksmith2
 lockstep
 lod
 lodasoft
@@ -4606,6 +4624,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4707,7 +4727,6 @@ macos-powershell
 macosx
 macro
 macros
-madlib
 magazine
 magento
 magic8ball
@@ -4733,7 +4752,6 @@ maintenance
 maintenance-window
 maintenancewindows
 mak
-make
 maker
 malware
 mamagedidentity
@@ -4777,6 +4795,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 market
@@ -4801,7 +4820,6 @@ mass
 massmail
 masstransit
 masterconfiguration
-match
 matcharray
 matchhashtable
 materialdesign
@@ -5079,6 +5097,7 @@ monitors
 month
 monthlyupdate
 moodle
+moonraker
 moonshot
 more
 morning
@@ -6035,7 +6054,6 @@ poc
 podcast
 pode
 podman
-poe
 poem
 poetry
 point
@@ -9391,7 +9409,6 @@ psst
 psstgenerator
 pstablacus
 pstanss
-psterminalanimations
 psthread
 pstk
 pstwitter
@@ -9496,6 +9513,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qr-code
 qrcode
@@ -9882,6 +9900,7 @@ ripe
 risk
 riskassessment
 riskiq
+riskmanagement
 riskpro
 risksense
 rivermeadow
@@ -10105,7 +10124,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-signing
 script-to-assembly
@@ -10191,15 +10209,19 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
+securityassessment
 securityattribute
 securitycenter
+securitycompliance
 securitycompliancecenter
+securitycontrols
 securitygroup
 securitygroups
 securityinsights
 securityoptions
 securitypermissionschecker
 securitypolicydsc
+securityposture
 securityroles
 securityscopes
 securitytxt
@@ -10580,6 +10602,7 @@ sort
 sort-json
 sorting
 sound
+sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -10635,7 +10658,6 @@ spi
 spicetify
 spinnaker
 spinner
-splash
 splat
 splatting
 split
@@ -11228,6 +11250,7 @@ threatintelligenceplatform
 threatprotection
 threats
 threatsharing
+throughput
 thumbprint
 thunderbird
 thycotic
@@ -11338,6 +11361,7 @@ transcode
 transcribe
 transcript
 transcripts
+transfer
 transform
 transformation
 transforms
@@ -11386,6 +11410,7 @@ truecolor
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -11442,6 +11467,7 @@ typeextension
 types
 types.ps1xml
 typescript
+typing
 tzutil
 uac
 uag
@@ -11640,7 +11666,6 @@ username
 userprofile
 userprofiles
 userprofiletools
-userprovisioning
 userreports
 userright
 userrights
@@ -11864,6 +11889,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
@@ -12175,6 +12201,7 @@ windowsservices
 windowsstore
 windowsterminal
 windowstimezone
+windowsuefi
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
