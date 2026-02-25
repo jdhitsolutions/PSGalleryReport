@@ -3,6 +3,260 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AzAuth](https://www.powershellgallery.com/Packages/AzAuth/2.7.0) | 2.7.0
+
+### Published: 02/25/2026 21:06:33 by Emanuel Palm
+
+A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity MSAL library.
+
+__Downloads__: 254,678 | __Repository__: https://github.com/PalmEmanuel/AzAuth
+
+## [PSSecretScanner](https://www.powershellgallery.com/Packages/PSSecretScanner/2.0.2) | 2.0.2
+
+### Published: 02/25/2026 20:14:45 by Björn Sundling
+
+Scan for secrets in code to prevent accidentaly commited secrets
+
+__Downloads__: 5,480 | __Repository__: https://github.com/bjompen/PSSecretScanner
+
+## [AzureScout](https://www.powershellgallery.com/Packages/AzureScout/1.0.0) | 1.0.0
+
+### Published: 02/25/2026 20:05:47 by Kristopher Turner
+
+AzureScout — discover and inventory everything in your Azure environment. Generates Excel, JSON, Markdown, and AsciiDoc reports from Azure resources, Entra ID, and identity objects using Azure Resource Graph and Microsoft Graph REST APIs. See everything. Own your cloud.
+
+__Downloads__: 0 | __Repository__: https://github.com/thisismydemo/azure-scout
+
+## [IROD](https://www.powershellgallery.com/Packages/IROD/1.0.4) | 1.0.4
+
+### Published: 02/25/2026 19:59:46 by Mark Orr
+
+IROD (Intune Remediation On Demand) - Trigger Intune Proactive Remediation scripts on-demand for single or multiple devices. Features include WPF GUI for device/script selection, script preview, favorites, parallel execution for large batches, CSV/TXT import, history logging, and export capabilities.
+
+__Downloads__: 27 | __Repository__: https://github.com/markorr321/IROD
+
+## [TenantBaseline](https://www.powershellgallery.com/Packages/TenantBaseline/0.2.4) | 0.2.4
+
+### Published: 02/25/2026 19:28:46 by TenantBaseline Contributors
+
+PowerShell module for Microsoft 365 tenant configuration monitoring using the Microsoft Graph UTCM beta API. Provides baseline management, drift detection, and configuration snapshots.
+
+__Downloads__: 222 | __Repository__: https://github.com/ugurkocde/TenantBaseline
+
+## [ChocoForge](https://www.powershellgallery.com/Packages/ChocoForge/0.3.1) | 0.3.1
+
+### Published: 02/25/2026 19:26:22 by F.D.Castel
+
+PowerShell toolkit for automating the creation, management, and publishing of Chocolatey packages.
+
+__Downloads__: 352 | __Repository__: https://github.com/fdcastel/ChocoForge
+
+## [VstsRestApiHelpers](https://www.powershellgallery.com/Packages/VstsRestApiHelpers/3.30.2.260224) | 3.30.2.260224
+
+### Published: 02/25/2026 19:14:36 by Michael J. Lyons (XBOX)
+
+Tools and functions to assist in calling VSTS REST APIs.
+
+__Downloads__: 29 | __Repository__: 
+
+## [pwsh.mcp](https://www.powershellgallery.com/Packages/pwsh.mcp/0.1.0) | 0.1.0
+
+### Published: 02/25/2026 18:00:43 by igor.stepanushko@gmail.com
+
+PowerShell module for creating MCP servers
+
+__Downloads__: 0 | __Repository__: https://github.com/warm-snow-13/pwsh-mcp
+
+## [BuildMasterAutomation](https://www.powershellgallery.com/Packages/BuildMasterAutomation/5.0.0) | 5.0.0
+
+### Published: 02/25/2026 17:58:53 by WebMD Health Services
+
+BuildMasterAutomation is a PowerShell module for working with BuildMaster web APIs. BuildMaster is an application
+build and deployment automation tool by Inedo software. This module wraps its web APIs in a PowerShell interface. The
+module's functions allow you to read and create applications, releases, builds, etc. If this module doesn't have a
+function for a specific API endpoint, it has generic `Invoke-BMRestMethod` and `Invoke-BMNativeApimethod` functions that
+take the pain out of creating the proper web requests.
+
+__Downloads__: 19,794 | __Repository__: https://github.com/webmd-health-services/BuildMasterAutomation
+
+## [WifiConnectionAPI](https://www.powershellgallery.com/Packages/WifiConnectionAPI/2.2.0.0) | 2.2.0.0
+
+### Published: 02/25/2026 17:23:54 by Tvanleeuwen
+
+Wifi Management, easy connect with 1 line to a wifi network
+
+__Downloads__: 2,929 | __Repository__: 
+
+## [DllSpy](https://www.powershellgallery.com/Packages/DllSpy/0.2.1) | 0.2.1
+
+### Published: 02/25/2026 17:16:23 by Anton Lindström
+
+Discovers and analyzes input surfaces (HTTP endpoints, SignalR hubs, WCF services, gRPC services) in compiled .NET assemblies using reflection. Identifies security vulnerabilities, maps routes, and generates reports — all without running the application.
+
+__Downloads__: 0 | __Repository__: https://github.com/n7on/dllspy
+
+## [iFacto.AICodeReview](https://www.powershellgallery.com/Packages/iFacto.AICodeReview/0.5.0) | 0.5.0
+
+### Published: 02/25/2026 16:44:35 by waldo
+
+AI-powered code review system for Business Central (AL) development in Azure DevOps pipelines. Model-agnostic design supports Azure AI Foundry, Claude, OpenAI, GitHub Models, and more. Provides automated PR reviews with actionable feedback as Azure DevOps warnings/errors.
+
+__Downloads__: 1,862 | __Repository__: 
+
+## [Get-MailRecords](https://www.powershellgallery.com/Packages/Get-MailRecords/1.0.1) | 1.0.1
+
+### Published: 02/25/2026 16:12:37 by Dan Casmas
+
+Performs DNS lookups for mail-related records (A, MX, NS, SPF, DMARC, DKIM) on a given domain, email address, or URL. Supports TXT, CNAME, and BOTH record types, DKIM auto-discovery, pipeline/bulk input, and CSV/JSON export.
+
+__Downloads__: 3 | __Repository__: https://github.com/dcazman/Get-MailRecords
+
+## [MarkdownPointer](https://www.powershellgallery.com/Packages/MarkdownPointer/0.2.0) | 0.2.0
+
+### Published: 02/25/2026 15:45:07 by Yoshifumi Tsuda
+
+Vibe editing for Markdown. Point at anything, tell AI to fix it.
+
+Click any element in the rendered preview to copy a location reference:
+  "Rewrite this: [C:\docs\notes.md:42] ## My Section"
+
+Renders Markdown with Mermaid diagrams, KaTeX math, and SVG. Includes MCP server for Claude Code / Claude Desktop.
+
+Requirements:
+  .NET 8 Desktop Runtime - https://dotnet.microsoft.com/download/dotnet/8.0
+  Pandoc (optional, for .docx export) - https://pandoc.org
+
+Quick start:
+  mdp .\README.md           # Open a file
+  mdp .\docs\*.md           # Open multiple files
+  ConvertTo-Docx .\*.md     # Convert to .docx via Pandoc
+
+MCP setup for Claude Code:
+  claude mcp add MarkdownPointer -s user -- "$(Get-MarkdownPointerMCPPath)"
+
+MCP setup for Claude Desktop (add to claude_desktop_config.json):
+  { "mcpServers": { "MarkdownPointer": { "command": "C:\\...\\mdp-mcp.exe" } } }
+  Use Get-MarkdownPointerMCPPath -Escape to get the path with escaped backslashes.
+
+Example prompts for AI:
+  "open README.md in mdp"
+  "show the report in mdp and scroll to line 50"
+  "export report.md to docx"
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/MarkdownPointer
+
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.9.22) | 0.9.22
+
+### Published: 02/25/2026 15:27:52 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 3,845 | __Repository__: 
+
+## [365TUNE](https://www.powershellgallery.com/Packages/365TUNE/2.3.7) | 2.3.7
+
+### Published: 02/25/2026 15:27:05 by Metawise Consulting LLC
+
+365TUNE PowerShell toolkit for Microsoft 365 license optimization, security compliance, cost reporting, and Azure permissions management.
+
+__Downloads__: 144 | __Repository__: https://365tune.com/
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:26:37 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 26,552 | __Repository__: 
+
+## [PSSailpoint.V2026](https://www.powershellgallery.com/Packages/PSSailpoint.V2026/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:24:59 by OpenAPI Generator Team
+
+PSSailpoint.V2026 - the PowerShell module for Identity Security Cloud v2026 API
+
+__Downloads__: 109 | __Repository__: 
+
+## [PSSailpoint.V2025](https://www.powershellgallery.com/Packages/PSSailpoint.V2025/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:24:53 by OpenAPI Generator Team
+
+PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
+
+__Downloads__: 6,430 | __Repository__: 
+
+## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:24:47 by OpenAPI Generator Team
+
+PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
+
+__Downloads__: 17,229 | __Repository__: 
+
+## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:24:41 by OpenAPI Generator Team
+
+PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
+
+__Downloads__: 17,661 | __Repository__: 
+
+## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.16) | 1.7.16
+
+### Published: 02/25/2026 15:24:34 by OpenAPI Generator Team
+
+PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
+
+__Downloads__: 17,259 | __Repository__: 
+
+## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.403) | 1.0.403
+
+### Published: 02/25/2026 14:03:40 by Sascha Greven
+
+Upload and download documents to Apprxr
+
+__Downloads__: 713 | __Repository__: 
+
+## [Datum.InvokeCommand](https://www.powershellgallery.com/Packages/Datum.InvokeCommand/0.4.1) | 0.4.1
+
+### Published: 02/25/2026 13:19:22 by Raimund Andree
+
+Datum Handler module to dynamically invoke PowerShell commands and expand strings within Datum configuration data. Enables embedding script blocks and expandable strings in YAML configuration files for DSC (Desired State Configuration) data resolution.
+
+__Downloads__: 20,575 | __Repository__: https://github.com/raandree/Datum.InvokeCommand
+
+## [Microsoft-Secure-Score-Assessment-Toolkit](https://www.powershellgallery.com/Packages/Microsoft-Secure-Score-Assessment-Toolkit/2.3.0) | 2.3.0
+
+### Published: 02/25/2026 12:40:06 by Mohammed Siddiqui
+
+A powerful PowerShell toolkit for assessing Microsoft 365 security posture through the Microsoft Secure Score API. Generate comprehensive, interactive HTML reports with 400+ security controls directly from Microsoft Graph API. Features include real-time data fetching, interactive filtering, floating action buttons, and direct links to configuration portals. Perfect for security assessments, compliance reporting, and continuous security monitoring.
+
+__Downloads__: 348 | __Repository__: https://github.com/mohammedsiddiqui6872/Microsoft-Secure-Score-Assessment-Toolkit
+
+## [configmap](https://www.powershellgallery.com/Packages/configmap/1.0.14.0) | 1.0.14.0
+
+### Published: 02/25/2026 12:25:50 by jakub.pawlowski
+
+ConfigMap is a PowerShell module that extends publishmap functionality to provide build and configuration management capabilities through declarative map files.
+
+__Downloads__: 125 | __Repository__: https://github.com/qbikez/ps-publishmap/tree/master/src/configmap
+
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.30) | 0.0.30
+
+### Published: 02/25/2026 11:14:30 by M�tz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 708 | __Repository__: 
+
+## [mqsft.windowsserveradmin](https://www.powershellgallery.com/Packages/mqsft.windowsserveradmin/1.0.4) | 1.0.4
+
+### Published: 02/25/2026 10:47:46 by michaelquick
+
+Auto-generated module for mqsft.windowsserveradmin - update this description
+
+__Downloads__: 4 | __Repository__: https://github.com/michaelquick/powershellgallery
+
 ## [PS.OC.M365](https://www.powershellgallery.com/Packages/PS.OC.M365/1.0.0) | 1.0.0
 
 ### Published: 02/25/2026 09:37:50 by Nicolai Estrup Jacobsen
@@ -10,14 +264,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Collection of Microsoft 365 Report & Management Cmdlets using Microsoft Graph API.
 
 __Downloads__: 0 | __Repository__: 
-
-## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.29) | 0.0.29
-
-### Published: 02/25/2026 09:35:49 by M�tz Jensen
-
-Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
-
-__Downloads__: 708 | __Repository__: 
 
 ## [Nebula.Tools](https://www.powershellgallery.com/Packages/Nebula.Tools/1.0.5) | 1.0.5
 
@@ -54,54 +300,6 @@ __Downloads__: 27,821 | __Repository__:
 Netbox integration for PowerShell
 
 __Downloads__: 93 | __Repository__: https://github.com/NetboxTools/NetboxTools
-
-## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:16:53 by Sailpoint Developer Relations
-
-PSSailpoint - the PowerShell module for IdentityNow
-
-__Downloads__: 26,552 | __Repository__: 
-
-## [PSSailpoint.V2026](https://www.powershellgallery.com/Packages/PSSailpoint.V2026/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:15:10 by OpenAPI Generator Team
-
-PSSailpoint.V2026 - the PowerShell module for Identity Security Cloud v2026 API
-
-__Downloads__: 109 | __Repository__: 
-
-## [PSSailpoint.V2025](https://www.powershellgallery.com/Packages/PSSailpoint.V2025/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:15:05 by OpenAPI Generator Team
-
-PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
-
-__Downloads__: 6,430 | __Repository__: 
-
-## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:14:58 by OpenAPI Generator Team
-
-PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
-
-__Downloads__: 17,229 | __Repository__: 
-
-## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:14:51 by OpenAPI Generator Team
-
-PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
-
-__Downloads__: 17,661 | __Repository__: 
-
-## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.7.15) | 1.7.15
-
-### Published: 02/25/2026 08:14:45 by OpenAPI Generator Team
-
-PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
-
-__Downloads__: 17,259 | __Repository__: 
 
 ## [SinglePrompt](https://www.powershellgallery.com/Packages/SinglePrompt/0.0.1) | 0.0.1
 
@@ -142,14 +340,6 @@ __Downloads__: 0 | __Repository__: https://github.com/microsoft/PSToolset
 PowerShell module for generating rich HTML Patch Management reports from N-Central monitored-service data across multiple scoped customers.
 
 __Downloads__: 17 | __Repository__: https://github.com/daileng/NCentralReports
-
-## [365TUNE](https://www.powershellgallery.com/Packages/365TUNE/2.3.1) | 2.3.1
-
-### Published: 02/25/2026 03:33:34 by Metawise Consulting LLC
-
-365TUNE PowerShell toolkit for Microsoft 365 license optimization, security compliance, cost reporting, and Azure permissions management.
-
-__Downloads__: 144 | __Repository__: https://365tune.com/
 
 ## [ncal](https://www.powershellgallery.com/Packages/ncal/4.0.1) | 4.0.1
 
@@ -1479,14 +1669,6 @@ Windows patching and update management utilities
 
 __Downloads__: 14 | __Repository__: https://github.com/michaelquick/powershellgallery
 
-## [Repair-TakeControlAgent](https://www.powershellgallery.com/Packages/Repair-TakeControlAgent/1.0.7) | 1.0.7
-
-### Published: 02/24/2026 21:52:00 by Dailen Gunter
-
-Diagnoses, repairs, and reinstalls the N-able Take Control (N-central) Agent. Addresses "Phantom Agent" scenarios where the service appears installed but fails to start. Includes Invoke-TakeControlChaos for deliberately inducing failure states to test repair logic. Interactive documentation: https://deepwiki.com/DailenG/Repair-TakeControlAgent
-
-__Downloads__: 27 | __Repository__: http://github.com/DailenG/Repair-TakeControlAgent
-
 ## [mqsft.diskconfigvalidation](https://www.powershellgallery.com/Packages/mqsft.diskconfigvalidation/1.0.1) | 1.0.1
 
 ### Published: 02/24/2026 21:52:00 by michaelquick
@@ -1494,6 +1676,14 @@ __Downloads__: 27 | __Repository__: http://github.com/DailenG/Repair-TakeControl
 Auto-generated module for mqsft.diskconfigvalidation - update this description
 
 __Downloads__: 0 | __Repository__: https://github.com/michaelquick/powershellgallery
+
+## [Repair-TakeControlAgent](https://www.powershellgallery.com/Packages/Repair-TakeControlAgent/1.0.7) | 1.0.7
+
+### Published: 02/24/2026 21:52:00 by Dailen Gunter
+
+Diagnoses, repairs, and reinstalls the N-able Take Control (N-central) Agent. Addresses "Phantom Agent" scenarios where the service appears installed but fails to start. Includes Invoke-TakeControlChaos for deliberately inducing failure states to test repair logic. Interactive documentation: https://deepwiki.com/DailenG/Repair-TakeControlAgent
+
+__Downloads__: 27 | __Repository__: http://github.com/DailenG/Repair-TakeControlAgent
 
 ## [SimplyXD](https://www.powershellgallery.com/Packages/SimplyXD/1.10.83) | 1.10.83
 
@@ -1575,14 +1765,6 @@ PowerShell for Proxmox VE
 
 __Downloads__: 373,216 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
-## [mqsft.windowsserveradmin](https://www.powershellgallery.com/Packages/mqsft.windowsserveradmin/1.0.1) | 1.0.1
-
-### Published: 02/24/2026 17:37:58 by michaelquick
-
-Auto-generated module for mqsft.windowsserveradmin - update this description
-
-__Downloads__: 4 | __Repository__: https://github.com/michaelquick/powershellgallery
-
 ## [mqsft.dnsexternal](https://www.powershellgallery.com/Packages/mqsft.dnsexternal/1.0.4) | 1.0.4
 
 ### Published: 02/24/2026 17:32:11 by michaelquick
@@ -1590,14 +1772,6 @@ __Downloads__: 4 | __Repository__: https://github.com/michaelquick/powershellgal
 Auto-generated module for mqsft.dnsexternal - update this description
 
 __Downloads__: 11 | __Repository__: https://github.com/michaelquick/powershellgallery
-
-## [Apprxr](https://www.powershellgallery.com/Packages/Apprxr/1.0.391) | 1.0.391
-
-### Published: 02/24/2026 17:29:15 by Sascha Greven
-
-Upload and download documents to Apprxr
-
-__Downloads__: 713 | __Repository__: 
 
 ## [mqsft.powershell](https://www.powershellgallery.com/Packages/mqsft.powershell/1.0.6) | 1.0.6
 
@@ -1622,14 +1796,6 @@ __Downloads__: 10 | __Repository__: https://github.com/michaelquick/powershellga
 Comprehensive PowerShell script that audits Microsoft 365 environments against all 140 CIS Microsoft 365 Foundations Benchmark v6.0.0 controls. Features 68% automated compliance checks with HTML and CSV reporting. Covers M365 Admin Center, Defender, Purview, Intune, Entra ID, Exchange, SharePoint, Teams, and Power BI security controls.
 
 __Downloads__: 887 | __Repository__: https://github.com/mohammedsiddiqui6872/CIS-Microsoft-365-Foundations-Benchmark
-
-## [Get-MailRecords](https://www.powershellgallery.com/Packages/Get-MailRecords/1.0.0) | 1.0.0
-
-### Published: 02/24/2026 15:30:11 by Dan Casmas
-
-Performs DNS lookups for mail-related records (A, MX, NS, SPF, DMARC, DKIM) on a given domain, email address, or URL. Supports TXT, CNAME, and BOTH record types, DKIM auto-discovery, pipeline/bulk input, and CSV/JSON export.
-
-__Downloads__: 3 | __Repository__: https://github.com/dcazman/Get-MailRecords
 
 ## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/4.1.2.0) | 4.1.2.0
 
@@ -1690,14 +1856,6 @@ __Downloads__: 51 | __Repository__: https://github.com/jessehouwing/actions-semv
 Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 632,585 | __Repository__: https://github.com/f-bader/SentinelARConverter
-
-## [IROD](https://www.powershellgallery.com/Packages/IROD/1.0.2) | 1.0.2
-
-### Published: 02/24/2026 10:22:47 by Mark Orr
-
-IROD (Intune Remediation On Demand) - Trigger Intune Proactive Remediation scripts on-demand for single or multiple devices. Features include WPF GUI for device/script selection, script preview, favorites, parallel execution for large batches, CSV/TXT import, history logging, and export capabilities.
-
-__Downloads__: 27 | __Repository__: https://github.com/markorr321/IROD
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.644.0) | 1.644.0
 
@@ -1897,139 +2055,4 @@ Module provides function to configure SQL Server.
 
 __Downloads__: 9 | __Repository__: https://github.com/netsec4u/SqlServerConfiguration
 
-## [PSF](https://www.powershellgallery.com/Packages/PSF/0.13.12) | 0.13.12
-
-### Published: 02/23/2026 23:00:25 by Colin Roche Dan Anstis
-
-PowerShell Functions Module
-
-__Downloads__: 1,659 | __Repository__: https://github.com/danstis/PSF-Module
-
-## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.9.21) | 0.9.21
-
-### Published: 02/23/2026 22:19:41 by David McVicker
-
-Integris Deployment Tool
-
-__Downloads__: 3,845 | __Repository__: 
-
-## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/2.3.1) | 2.3.1
-
-### Published: 02/23/2026 22:17:56 by markorr321
-
-Manage Microsoft Entra PIM roles for both Entra ID and Azure Resources with an interactive console experience. Features browser-based authentication with ForceLogin, cross-platform support (Windows/macOS), automatic step-up MFA handling, one-command activation/deactivation of eligible roles, and auto-installation of dependencies. Just run Start-EntraPIM - no app registration or complex configuration required.
-
-__Downloads__: 298 | __Repository__: https://github.com/markorr321/Entra-PIM
-
-## [VsDevShell](https://www.powershellgallery.com/Packages/VsDevShell/2026.1.0) | 2026.1.0
-
-### Published: 02/23/2026 21:54:32 by Marc-André Moreau
-
-Visual Studio Developer PowerShell Module
-
-__Downloads__: 15,179 | __Repository__: https://github.com/awakecoding/VsDevShell
-
-## [Datum.InvokeCommand](https://www.powershellgallery.com/Packages/Datum.InvokeCommand/0.4.0) | 0.4.0
-
-### Published: 02/23/2026 21:35:22 by Raimund Andree
-
-Datum Handler module to dynamically invoke PowerShell commands and expand strings within Datum configuration data. Enables embedding script blocks and expandable strings in YAML configuration files for DSC (Desired State Configuration) data resolution.
-
-__Downloads__: 20,575 | __Repository__: https://github.com/raandree/Datum.InvokeCommand
-
-## [Pup](https://www.powershellgallery.com/Packages/Pup/0.4.4) | 0.4.4
-
-### Published: 02/23/2026 20:22:36 by Anton Lindström
-
-Browser automation for PowerShell using the Chrome DevTools Protocol. Scrape websites, fill forms, take screenshots, export PDFs, and record interactions as replayable scripts. Works with PowerShell 5.1+ on Windows, Linux, and macOS.
-
-__Downloads__: 2,321 | __Repository__: https://github.com/n7on/Pup
-
-## [PureStorage.CBS.AVS](https://www.powershellgallery.com/Packages/PureStorage.CBS.AVS/1.1.459) | 1.1.459
-
-### Published: 02/23/2026 20:16:16 by Pure Storage
-
-Pure Storage FlashArray AVS Plugin.
-
-__Downloads__: 2,994 | __Repository__: https://support.purestorage.com/Pure_Cloud_Block_Store/Azure_VMware_Solution_and_Cloud_Block_Store_Implementation_Guide
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.37.0) | 1.37.0
-
-### Published: 02/23/2026 19:03:13 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 32,741 | __Repository__: 
-
-## [silkiscsi](https://www.powershellgallery.com/Packages/silkiscsi/1.3.3) | 1.3.3
-
-### Published: 02/23/2026 17:05:22 by J.R. Phillips
-
-Silk iSCSI Services Connection Module (SISCM)
-
-__Downloads__: 1,561 | __Repository__: https://github.com/silk-us/silkiscsi
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2026.1.0) | 2026.1.0
-
-### Published: 02/23/2026 16:37:47 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 16,134 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [MicrosoftFabricMgmt](https://www.powershellgallery.com/Packages/MicrosoftFabricMgmt/1.0.5) | 1.0.5
-
-### Published: 02/23/2026 14:14:27 by Rob Sewell Jess Pomfret and Tiago Balabuch on behalf of Fabric Community
-
-PowerShell module for managing Microsoft Fabric resources via the Fabric API. Supports workspaces, lakehouses, warehouses, notebooks, and more.
-
-__Downloads__: 116 | __Repository__: https://github.com/microsoft/fabric-toolbox/
-
-## [MMADsc](https://www.powershellgallery.com/Packages/MMADsc/1.4.1) | 1.4.1
-
-### Published: 02/23/2026 13:16:57 by Jan-Hendrik Peters
-
-Module to manage settings of the Microsoft Monitoring Agent
-
-__Downloads__: 2,627 | __Repository__: https://codeberg.org/nyanhp/MmaDsc
-
-## [CAT](https://www.powershellgallery.com/Packages/CAT/2.3.0.2) | 2.3.0.2
-
-### Published: 02/23/2026 12:53:15 by Joyful Craftsmen CAT Team
-
-Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
-
-__Downloads__: 14,580 | __Repository__: https://docs.justcat.it/
-
-## [WifiConnectionAPI](https://www.powershellgallery.com/Packages/WifiConnectionAPI/2.1.1.0) | 2.1.1.0
-
-### Published: 02/23/2026 12:29:10 by Tvanleeuwen
-
-Wifi Management, easy connect with 1 line to a wifi network
-
-__Downloads__: 2,929 | __Repository__: 
-
-## [Search-GPO](https://www.powershellgallery.com/Packages/Search-GPO/1.0.3) | 1.0.3
-
-### Published: 02/23/2026 12:17:27 by Dailen Gunter
-
-Enhanced GPO Search Tool with deep-step logging.
-
-This module helps analyze GPO metadata and internal script code with a real-time progress watchdog.
-It can search for strings in GPO Names, Metadata (XML), and internal script files.
-
-🏴 Questions or suggestions? Message @dailen on X or open an Issue on GitHub
-
-Interactive documentation: https://deepwiki.com/DailenG/Search-GPO
-
-__Downloads__: 23 | __Repository__: https://github.com/DailenG/Search-GPO
-
-## [WinEOL](https://www.powershellgallery.com/Packages/WinEOL/1.2.5) | 1.2.5
-
-### Published: 02/23/2026 12:16:45 by Dailen Gunter
-
-A Windows-focused PowerShell module which uses the endoflife.date api to report on product support dates and versions. Interactive documentation: https://deepwiki.com/DailenG/WinEOL
-
-__Downloads__: 37 | __Repository__: https://github.com/DailenG/WinEOL
-
-*Updated: Wednesday, 25 February 2026 10:09:54 UTC*
+*Updated: Wednesday, 25 February 2026 21:59:16 UTC*
