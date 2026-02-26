@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 February 2026 21:59:26 UTC
+Updated: Thursday, 26 February 2026 10:08:10 UTC
 
 .bat
 .env
@@ -583,6 +583,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 ask-gpt
 askgpt
 asm
@@ -1032,6 +1033,7 @@ blackpoint
 blade
 bladeserver
 blaze
+blazor
 blinking-text
 blob
 blobstorage
@@ -2015,6 +2017,7 @@ daily
 dalle3
 dane
 dangling
+dapper
 dapr
 dare
 dark
@@ -2138,7 +2141,6 @@ debuglog
 decimal
 decimalip
 decimalzero
-decisiontree
 declarative
 decline
 decode
@@ -2325,8 +2327,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2723,7 +2723,6 @@ end-of-line
 endomondo
 endpoint
 endpointmanagement
-endpointmanager
 endpoints
 energy
 engagement
@@ -2744,7 +2743,6 @@ enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
-entertainment
 entity
 entity-framework
 entityframework
@@ -2757,6 +2755,7 @@ entraid-security-assessment
 entraidgovernance
 entrerprise
 entropy
+entrust
 enum
 enumerable
 enumerate
@@ -3257,6 +3256,7 @@ fromscratch
 front
 frontapp
 frontdoor
+frontmatter
 frontrange
 fs
 fsc-ps
@@ -3287,6 +3287,7 @@ functionality
 functionalprogramming
 functionapp
 functions
+fundamentals
 funds
 funny
 fusion
@@ -3432,6 +3433,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-open
 git-proxy
 git-rename
@@ -3488,6 +3490,7 @@ golang
 golden_ticket
 goldengate
 goldsource
+goldsource-dedicated-server
 golf
 google
 google-chrome
@@ -3679,7 +3682,6 @@ healthcheck
 healthchecks
 healthchecks.io
 healthdataaiservices
-healthscore
 healthservice
 healthz
 heartbeatdiscovery
@@ -4347,9 +4349,9 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4526,6 +4528,7 @@ lifequotes
 lifestyle
 light
 lights
+lightweight
 lime
 limesurvey
 limit
@@ -5640,6 +5643,7 @@ onyphe.io
 oob
 oop
 ooxml
+op
 opa
 opc
 open
@@ -5650,6 +5654,7 @@ openaiclient
 openamt
 openapi
 opencage
+opencloud
 opendata
 openedge
 openfiles
@@ -5786,6 +5791,7 @@ owls
 owner
 oxygen
 oxyplot
+oz
 p2000
 p2p
 p2s
@@ -6161,10 +6167,12 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -6382,7 +6390,6 @@ profilevalidation
 proget
 program
 program-association
-programming
 programs
 progress
 progressbar
@@ -6448,7 +6455,6 @@ ps5
 ps6
 ps7
 psa
-psadapter
 psadbscreencap
 psadgroupmembers
 psadt
@@ -6488,6 +6494,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6912,6 +6919,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -7018,6 +7026,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -7066,6 +7078,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -7268,6 +7281,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7869,6 +7884,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -8271,6 +8290,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psengine
 psenv
 pses
@@ -8290,6 +8310,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -8497,6 +8518,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -8561,6 +8583,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -8674,6 +8697,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -9129,6 +9154,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -9550,7 +9579,6 @@ radio
 radius
 rag
 raidcontrollercmdlets
-railways
 rainbow
 raindrop
 raindrop.io
@@ -9574,7 +9602,6 @@ rapid-prototyping
 rapt
 rar
 ras
-rasdial
 raspberry-pi
 raspberrypi
 raspbian
@@ -9584,11 +9611,13 @@ rates
 rating
 ratings
 ravendb
+razor
 razzle
 rbac
 rbacmodel
 rbsu
 rc4
+rcon
 rcs
 rcu
 rdap
@@ -9834,7 +9863,6 @@ restart
 restaurant
 restful
 restore
-restrictive
 results
 resume
 retail
@@ -9934,7 +9962,6 @@ router
 routeros
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -10246,6 +10273,7 @@ senat
 senateur
 send
 send-logtologanalytics
+send-mail
 send-mailmessage
 send-mailmessage2
 send-message
@@ -10281,6 +10309,7 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
+serverinventory
 serverless
 servermanagement
 serverprotection
@@ -10591,7 +10620,9 @@ sort
 sort-json
 sorting
 sound
+sounds
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
@@ -10599,6 +10630,7 @@ sourceindexing
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 sovcloud
 space
 spaces
@@ -10775,7 +10807,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -10807,6 +10838,7 @@ stderr
 stdio
 stdout
 steam
+steam-games
 steamcmd
 stenography
 stepmanager
@@ -10852,7 +10884,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -11211,6 +11242,7 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
+theming
 themis
 thermal
 thermostat
@@ -11943,7 +11975,9 @@ wapack
 wapi
 wara
 warning
+warp
 warplaneporn
+warpterminal
 warranty
 warraty
 warrenty
@@ -12141,6 +12175,7 @@ windowsdns
 windowsdomain
 windowsevent
 windowseventlog
+windowsfirewall
 windowsform
 windowsforms
 windowsindex
@@ -12381,6 +12416,7 @@ yamaha
 yaml
 yandex
 yandexdisk
+yapg
 yarn
 yaugeraio
 year
