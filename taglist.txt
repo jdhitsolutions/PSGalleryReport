@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 26 February 2026 10:08:10 UTC
+Updated: Thursday, 26 February 2026 21:58:41 UTC
 
 .bat
 .env
@@ -127,7 +127,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -289,7 +288,6 @@ ahk
 ai
 ai-agent
 ai-development
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -318,7 +316,6 @@ aiutilities
 aivision
 ajustee
 aka.ms
-akismet
 aks
 aks-hci
 aksarc
@@ -548,7 +545,6 @@ argcomplete
 argosccf
 argument
 argumentcompleter
-arguments
 ari
 arizeai
 arm
@@ -635,7 +631,6 @@ atproto
 atprotocol
 atrium
 ats
-att&ck
 attach
 attention
 attestation
@@ -1029,7 +1024,6 @@ blackberryuem
 blackbox
 blackbytesbox
 blacklist
-blackpoint
 blade
 bladeserver
 blaze
@@ -1490,7 +1484,6 @@ cloudformation
 cloudfoundation
 cloudfront
 cloudgovernance
-cloudguard
 cloudhsm
 cloudinairy
 cloudinit
@@ -1542,7 +1535,6 @@ code
 code-analysis
 code-completion
 code-generation
-code-page
 code-reuse
 code365
 codeagent
@@ -2141,6 +2133,7 @@ debuglog
 decimal
 decimalip
 decimalzero
+decisiontree
 declarative
 decline
 decode
@@ -2327,6 +2320,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2339,7 +2334,6 @@ discovery
 discutils
 disk
 disk_to_disk
-diskcleanup
 diskconfigvalidation
 diskfree
 diskimage
@@ -2550,7 +2544,6 @@ dual-stack
 duck
 duckdb
 duckduckgo
-ducks
 ducktyping
 dudckduckgo
 duf
@@ -2670,10 +2663,8 @@ elevation
 elevenlabs
 elgato
 eli5
-elitism
 elk
 elm
-elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2723,6 +2714,7 @@ end-of-line
 endomondo
 endpoint
 endpointmanagement
+endpointmanager
 endpoints
 energy
 engagement
@@ -2743,6 +2735,7 @@ enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
+entertainment
 entity
 entity-framework
 entityframework
@@ -2812,7 +2805,6 @@ esri
 essbase
 est
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -3184,7 +3176,6 @@ foo
 food
 football
 for
-force
 forcedelete
 forcedomaintakeover
 foreach
@@ -3268,12 +3259,10 @@ fsrm
 ftdi
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -3317,7 +3306,6 @@ gateway
 gauge
 gavin
 gavineke
-gbl
 gcbdr
 gce
 gci
@@ -3682,6 +3670,7 @@ healthcheck
 healthchecks
 healthchecks.io
 healthdataaiservices
+healthscore
 healthservice
 healthz
 heartbeatdiscovery
@@ -4037,7 +4026,6 @@ innertext
 inpainting
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -4103,7 +4091,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneadminroles
 intuneappwinutil
 intunestuff
 intunewinapputil
@@ -4313,7 +4300,6 @@ k8s
 k8sshell
 k8ssnapshots
 kafka
-kalilinux
 kaminario
 karabiner
 karabiner-elements
@@ -4349,6 +4335,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keycontrol
@@ -4445,7 +4432,6 @@ lame
 lametrictime
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4528,7 +4514,6 @@ lifequotes
 lifestyle
 light
 lights
-lightweight
 lime
 limesurvey
 limit
@@ -4545,7 +4530,6 @@ link-capability
 link-preview
 linkedin
 linkedservice
-linkedservicedependency
 linkid
 links
 linq
@@ -4587,7 +4571,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4642,7 +4625,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logical-operators
 logicapp
@@ -4661,7 +4643,6 @@ logitech
 logmail
 logmails
 logman
-logo
 logoff
 logon
 logonright
@@ -4727,7 +4708,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -5065,7 +5045,6 @@ mod
 modbus
 modding
 model
-model-management
 modelcontextprotocol
 modeldeployment
 modeling
@@ -5083,6 +5062,7 @@ module-testing
 module-testing-framework
 modulebuild
 modulecreation
+modulefactory
 modulefast
 modulemanagement
 modules
@@ -5428,7 +5408,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5437,7 +5416,6 @@ node
 node.js
 nodejs
 nogit
-non-idiomatic
 non-volatile
 none
 noneimages
@@ -5654,7 +5632,6 @@ openaiclient
 openamt
 openapi
 opencage
-opencloud
 opendata
 openedge
 openfiles
@@ -5677,7 +5654,6 @@ openssl
 openstack
 openstreetmap
 openstreetmaps
-opentdb
 opentelemetry
 opentext
 openvpn
@@ -5701,7 +5677,6 @@ optics
 optimise
 optimization
 optimize
-optimized
 optimizer
 option
 option119
@@ -5791,7 +5766,6 @@ owls
 owner
 oxygen
 oxyplot
-oz
 p2000
 p2p
 p2s
@@ -5824,7 +5798,6 @@ pages
 pagination
 paging
 palo
-paloalto
 paloaltonetworks
 pam
 pan
@@ -6224,7 +6197,6 @@ powerdex
 powerforensics
 powergraph
 powergui
-powermanagement
 powermax
 powernetbox
 powerpack
@@ -6240,7 +6212,6 @@ powershell
 powershell_universal
 powershell-5.1+
 powershell-7+
-powershell-ai
 powershell-art
 powershell-class
 powershell-cmdlets
@@ -6390,6 +6361,7 @@ profilevalidation
 proget
 program
 program-association
+programming
 programs
 progress
 progressbar
@@ -6455,6 +6427,7 @@ ps5
 ps6
 ps7
 psa
+psadapter
 psadbscreencap
 psadgroupmembers
 psadt
@@ -9360,7 +9333,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9577,8 +9549,8 @@ radarr
 radeon
 radio
 radius
-rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9602,6 +9574,7 @@ rapid-prototyping
 rapt
 rar
 ras
+rasdial
 raspberry-pi
 raspberrypi
 raspbian
@@ -9636,7 +9609,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react
 react-stockcharts
 read
 read-slog
@@ -9863,6 +9835,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9962,6 +9935,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -10052,7 +10026,6 @@ sanitization
 sanitizer
 sap
 sapazure
-sapi
 saponazure
 sapstartstopazure
 sarcasm
@@ -10140,7 +10113,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-signing
 script-to-assembly
@@ -10273,7 +10245,6 @@ senat
 senateur
 send
 send-logtologanalytics
-send-mail
 send-mailmessage
 send-mailmessage2
 send-message
@@ -10317,7 +10288,6 @@ servers
 service
 service-bus
 service-messages
-serviceaccount
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10408,7 +10378,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -10509,7 +10478,6 @@ skytap
 slack
 slash
 slashcommands
-sleep
 sleeper
 slideshow
 slmgr
@@ -10807,6 +10775,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -10884,6 +10853,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10960,17 +10930,14 @@ surveymonkey
 sus
 sushi
 suspensive
-svelte
 svesavov
 svetoslav
 svg
-svgl
 svn
 svt
 swagger
 swamid
 swarm
-swimlane
 swimmingpool
 swis
 switch
@@ -11420,7 +11387,6 @@ trilium
 triliumnext
 triodos
 tripunkt
-trivia
 troubleshoot
 troubleshooting
 trouw
@@ -11475,7 +11441,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -11618,7 +11583,6 @@ unlinked
 unlock
 unprotect
 unraid
-unsigned
 unsupported
 untis
 unzip
@@ -11784,7 +11748,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verbs
 vergeos
 verification
 verify
@@ -11943,7 +11906,6 @@ vstest
 vsts
 vsts-cli
 vtt
-vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -11975,9 +11937,7 @@ wapack
 wapi
 wara
 warning
-warp
 warplaneporn
-warpterminal
 warranty
 warraty
 warrenty
@@ -12113,7 +12073,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
@@ -12170,12 +12129,10 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
-windowsdiskcleanup
 windowsdns
 windowsdomain
 windowsevent
 windowseventlog
-windowsfirewall
 windowsform
 windowsforms
 windowsindex
@@ -12471,7 +12428,6 @@ zpr
 zsh
 zstd
 zstd-compression
-ztac
 zuora
 zvm
 zvml
