@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 February 2026 21:56:16 UTC
+Updated: Saturday, 28 February 2026 09:54:00 UTC
 
 .bat
 .env
@@ -90,7 +90,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -297,7 +296,6 @@ aiapplications
 aiautomation
 aicontext
 aid
-aidataplatform
 aider
 aidocument
 aiff
@@ -352,7 +350,6 @@ alletra
 alloydb
 alm
 almrangers
-alpha
 alphafs
 alpine
 alt3
@@ -374,7 +371,6 @@ amazonwebservices
 amd
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -629,7 +625,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atproto
 atprotocol
@@ -724,7 +719,6 @@ autowrapper
 autoyast
 auvik
 av1
-availability
 availabilityset
 avalara
 avatar
@@ -767,7 +761,6 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
-azaitranslate
 azautomation
 azcli
 azcompute
@@ -815,7 +808,6 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
-azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
@@ -1308,7 +1300,6 @@ ch9
 change
 changeanalysis
 changelog
-changemanagement
 changetracking
 channel
 channel9
@@ -1606,7 +1597,6 @@ com
 combination
 combinations
 combine
-comdata
 comedy
 comic
 comical
@@ -2154,7 +2144,6 @@ decompression
 decrypt
 decryption
 dedicatedhsm
-deduplication
 deep
 deep-security
 deep-security-manager
@@ -2165,7 +2154,6 @@ deepseek-coder-v2
 deepvisibility
 def
 default
-defaultparameter
 defaultroutes
 defaults
 defence
@@ -2201,8 +2189,6 @@ demandsignal
 demo
 democratie
 demonstration
-demultiplex
-demultiplexing
 dependencies
 dependency
 dependencyfree
@@ -2344,7 +2330,6 @@ discovery
 discutils
 disk
 disk_to_disk
-diskcleanup
 diskconfigvalidation
 diskfree
 diskimage
@@ -2575,7 +2560,6 @@ duplicate
 duplicate-files
 duplicates
 duplicatioin
-duplication
 durable
 durabletask
 dust
@@ -2613,7 +2597,6 @@ e-mail
 e1
 e2e
 eap
-earthquakes
 easy
 easy-to-use
 easylife365
@@ -2672,7 +2655,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -2682,7 +2664,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2700,7 +2681,6 @@ emailnotification
 emailnotificationcomponent
 emailsecurity
 emailserver
-embedded
 embedding
 emc
 emcomm
@@ -2728,7 +2708,6 @@ end-of-line
 endomondo
 endpoint
 endpointmanagement
-endpointmanager
 endpoints
 energy
 engagement
@@ -2754,6 +2733,7 @@ entity
 entity-framework
 entityframework
 entra
+entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2807,12 +2787,7 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
 español
-espressif
 espresso
 esri
 essbase
@@ -2984,7 +2959,6 @@ facts
 faf
 failedlogin
 failovercluster
-failure
 fake
 fake-useragent
 falcon
@@ -3051,7 +3025,6 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
-file-server
 file-share
 file-system
 file-transfer
@@ -3061,7 +3034,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -3223,7 +3195,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortra
 fortune
 fortytwo
 forum
@@ -3258,13 +3229,11 @@ freshworks
 friendly
 fritz
 fritzbox
-fromscratch
 front
 frontapp
 frontdoor
 frontmatter
 frontrange
-fs
 fsc-ps
 fscps
 fsf
@@ -3354,7 +3323,6 @@ generativeai
 generativeaiagent
 generativeaiagentruntime
 generativeaiinference
-generativeart
 generator
 generic
 genericartifactscontent
@@ -3489,7 +3457,6 @@ gnu
 gnucash
 gnuwin32
 go
-goanywhere
 gobright
 godaddy
 golang
@@ -3516,7 +3483,6 @@ gopher-tls
 gopher+
 gopherplus
 gophers
-gov
 governance
 governancerulescontrolplane
 gp
@@ -3526,8 +3492,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -3598,7 +3562,6 @@ guidtoname
 guidtranslation
 guildwars2
 gumby
-guru
 gvim
 gw2
 gwbasic
@@ -3616,7 +3579,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3923,11 +3885,8 @@ identitygovernance
 identitylifecycleengine
 identitymanagement
 identitynow
-identitysecuritycloud
-idf
 idle
 idm
-idn
 idna
 idoit
 idp
@@ -3997,7 +3956,6 @@ incident
 incident_response
 incident-response
 incidentresponse
-incidents
 includeif
 incontact
 indents
@@ -4218,7 +4176,6 @@ iterate
 iteration
 itg
 itglue
-itil
 itin
 itops
 itprofessionals
@@ -4331,7 +4288,6 @@ kaspersky
 katakana
 katex
 kb
-kb4
 kbarticle
 kdbx
 kdialog
@@ -4420,7 +4376,6 @@ kubesnapit
 kubespray
 kubetidy
 kudu
-kurukuru
 kusto
 kusto.data
 kusto.ingest
@@ -4523,8 +4478,6 @@ libsecret
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -4898,7 +4851,6 @@ mediaplayer
 mediaserver
 mediaservices
 mediawiki
-meditation
 medlemsservice
 meesman
 meeting
@@ -4957,7 +4909,6 @@ micro-framework
 micro-orm
 microfocus
 microk8s
-micropython
 microservices
 microsoft
 microsoft_365
@@ -4967,6 +4918,7 @@ microsoft_online
 microsoft_teams
 microsoft-365
 microsoft-entra
+microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
 microsoft-teams
@@ -5077,6 +5029,7 @@ modelcontextprotocol
 modeldeployment
 modeling
 models
+models.dev
 modern
 modernactivedirectoryenhanced
 modify
@@ -5157,8 +5110,6 @@ msauth
 msband
 msbi
 msbuild
-msc365
-msc365.eu
 msdeploy
 msdn
 msdtc
@@ -5219,7 +5170,6 @@ multi-tenant
 multi-thread
 multi-threading
 multi-zone
-multiagent
 multicloud
 multicultural
 multidimenstional
@@ -5272,7 +5222,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5318,7 +5267,6 @@ neonpostgres
 neovim
 neptune
 nerdfonts
-nerdio
 nerdymishka
 nessus
 nested
@@ -5349,6 +5297,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -5378,7 +5327,6 @@ networksecurity
 networksecuritygroup
 networkshares
 netwrix
-neuralnetwork
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5395,7 +5343,6 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
-new-win32app
 newpassword
 newrelic
 news
@@ -5435,7 +5382,6 @@ nlog
 nlp
 nmap
 nmbell
-nmm
 nntp
 node
 node.js
@@ -5793,7 +5739,6 @@ owls
 owner
 oxygen
 oxyplot
-oz
 p2000
 p2p
 p2s
@@ -5900,6 +5845,7 @@ paste
 patch
 patches
 patching
+patchmypc
 patchtuesday
 path
 pathfinder
@@ -6061,7 +6007,6 @@ plugins
 pluralsight
 ply
 pme
-pmp
 pncit
 png
 pnp
@@ -6319,7 +6264,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 prerequisites
@@ -9480,7 +9424,6 @@ pure
 pure1
 pureservice
 purestorage
-purfew
 purple
 purview
 push
@@ -9508,6 +9451,7 @@ pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
+pykick
 pylint
 pyranja
 python
@@ -9517,7 +9461,6 @@ qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlearning
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9605,7 +9548,6 @@ rapid-prototyping
 rapt
 rar
 ras
-rasdial
 raspberry-pi
 raspberrypi
 raspbian
@@ -9739,7 +9681,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinforcementlearning
 reinstall
 relational
 relativity
@@ -9760,7 +9701,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -10032,7 +9972,6 @@ safari
 safe
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -10044,7 +9983,6 @@ saltstack
 saltstackconfig
 saltstackenterprise
 sam
-samanage
 saml
 saml psmodule
 saml2
@@ -10233,19 +10171,16 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
-securityassessment
 securityattribute
 securitycenter
 securitycompliance
 securitycompliancecenter
-securitycontrols
 securitygroup
 securitygroups
 securityinsights
 securityoptions
 securitypermissionschecker
 securitypolicydsc
-securityposture
 securityroles
 securityscopes
 securitytxt
@@ -10427,7 +10362,6 @@ shims
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10613,6 +10547,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicos
 sonicwall
@@ -10673,6 +10608,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfcheck
@@ -10700,7 +10636,6 @@ spotify-api
 spotlight
 spotlightimages
 spp
-spread
 spreadsheet
 spreadsheets
 spring
@@ -10827,7 +10762,6 @@ static
 static-analysis
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statisticmaintenance
@@ -10956,7 +10890,6 @@ supermarket
 support
 support-tool
 support-tools
-supportability
 supporttools
 suppress
 supress-reboot
@@ -10982,8 +10915,6 @@ swimlane
 swimmingpool
 swis
 switch
-swsd
-sxs
 sybase
 sybaseiq
 symantec
@@ -11251,7 +11182,6 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 theming
-themis
 thermal
 thermostat
 thinprint
@@ -11282,7 +11212,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-tickets
 tickle
 ticks
 tictactoe
@@ -11343,6 +11272,7 @@ toolkit
 toolmaking
 tools
 tools4ever
+toolset
 toon
 topdesk
 topgrade
@@ -11394,7 +11324,6 @@ transforms
 transitionmanager
 translate
 translation
-translator
 translit
 transliteration
 transmission
@@ -11449,7 +11378,6 @@ try-and-retry
 ts
 tsa
 tsd
-tsg
 tsheets
 tsqlbestpractice
 tst
@@ -11702,7 +11630,6 @@ users
 users-management
 userworkstations
 usg
-usgs
 usps
 utc
 utcm
@@ -11741,7 +11668,6 @@ value
 values
 valve
 vami
-vao
 variable
 variables
 variance
@@ -11786,7 +11712,6 @@ venafi
 vencord
 vendir
 vendor
-vendorpam
 venue
 venv
 venvlink
@@ -11920,13 +11845,11 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
 vrops
 vrsns
-vrtu
 vs
 vs-shell
 vsa
@@ -11984,9 +11907,7 @@ wapack
 wapi
 wara
 warning
-warp
 warplaneporn
-warpterminal
 warranty
 warraty
 warrenty
@@ -11994,6 +11915,7 @@ wasabi
 watch
 watchdog
 watcher
+watchguard
 watchmen
 watery
 wave
@@ -12023,7 +11945,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webdriver
 webfrequest
 webhdfs
@@ -12135,7 +12056,6 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
-win32appmigrationtool
 win32shutdown
 winbgp
 windbg
@@ -12158,7 +12078,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -12178,7 +12097,6 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
-windowsdiskcleanup
 windowsdns
 windowsdomain
 windowsevent
@@ -12260,8 +12178,6 @@ wmifilter
 wmipermanentevents
 wms
 wol
-wolfram
-wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
