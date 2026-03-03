@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 03 March 2026 10:04:01 UTC
+Updated: Tuesday, 03 March 2026 21:58:39 UTC
 
 .bat
 .env
@@ -200,7 +200,6 @@ addon
 address
 address-book
 addresses
-addressprefix
 addressrange
 adds
 addtypeaccelerators
@@ -344,6 +343,7 @@ alias
 alias-hint
 alias-tips
 aliases
+aliens
 align
 alignment
 alive
@@ -414,7 +414,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -634,6 +633,7 @@ atp
 atproto
 atprotocol
 atrium
+ats
 att&ck
 attach
 attention
@@ -704,7 +704,6 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automations
 automationutils
 automl
 autonomoussystem
@@ -790,7 +789,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -823,7 +821,6 @@ azurearcstuff
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -847,7 +844,6 @@ azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
-azureip
 azurekeyvault
 azurekeyvaultstuff
 azurelocal
@@ -949,6 +945,7 @@ bcd
 bcdedit
 bcdr
 bconnect
+bd
 bdd
 bds
 be.stateless
@@ -1052,6 +1049,7 @@ bloxoneddi
 bls
 blue
 bluecat
+bluedolhin
 blueprint
 blueprints
 bluesky
@@ -1150,6 +1148,7 @@ buildkite
 buildmaster
 builds
 buildtool
+builtin
 bulk
 bulletin
 bullhorn
@@ -1320,7 +1319,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1726,6 +1724,7 @@ connectivity
 connector
 connectorcmd
 connectormanagement
+connectsync
 connectwise
 conservation
 console
@@ -1976,6 +1975,7 @@ customproviders
 cutehttpfileserver
 cvad
 cve
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2246,7 +2246,6 @@ deviation
 device
 devicecleanup
 devicecode
-devicehardening
 deviceid
 devicemanagement
 deviceprovisioningservice
@@ -2577,7 +2576,6 @@ durable
 durabletask
 dust
 dutch
-dutchbaseline
 dvls
 dvr
 dword
@@ -2650,7 +2648,6 @@ educational
 eduprom
 effectiveroutes
 effects
-efficiency
 efficientether
 efi
 egrep
@@ -2725,7 +2722,7 @@ encryption
 end-of-line
 endomondo
 endpoint
-endpointmanager
+endpointmanagement
 endpoints
 energy
 engagement
@@ -2775,6 +2772,7 @@ environmentvariables
 envvar
 envvars
 eol
+eol-tracking
 eop
 eperl
 ephesoft
@@ -2960,7 +2958,6 @@ extensionrisk
 extensions
 external
 external-editor
-externaldynamiclists
 externalip
 extract
 extraction
@@ -3162,11 +3159,11 @@ flex-query
 flexdesk
 flexible
 flickr
+florecruit
 flowchart
 flowy
 fluent
 fluid
-fluidrelay
 flurl
 flyway
 fmg
@@ -3398,6 +3395,7 @@ get-history
 get-inactivedevicesreport
 get-inactiveusersreport
 get-lockedusersreport
+get-madreport
 get-onlinedevicesreport
 get-openfile
 get-openfiles
@@ -3567,6 +3565,7 @@ groundspeak
 group
 group-membership
 group-policy
+groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3731,6 +3730,7 @@ hierarchy
 high-availability
 highlight
 highlighting
+highperformance
 highrise
 hijri
 hint
@@ -3816,6 +3816,7 @@ hsdp
 hsl
 html
 html-generator
+html-report
 html-templates
 htmlentity
 http
@@ -4044,7 +4045,6 @@ insight
 insightanalytics
 insights
 inspect
-inspection
 inspiration
 inspirationalquotes
 inspire
@@ -4161,7 +4161,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ipranges
 ips
 ipscan
 ipv4
@@ -4172,6 +4171,7 @@ ir
 irc
 irkit
 irl
+irod
 irregular
 isadmin
 isbn
@@ -4307,6 +4307,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4411,7 +4412,6 @@ kubesnapit
 kubespray
 kubetidy
 kudu
-kurukuru
 kusto
 kusto.data
 kusto.ingest
@@ -5041,6 +5041,7 @@ misp
 mistral
 mistralai
 mit
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -5075,6 +5076,7 @@ modeling
 models
 models.dev
 modern
+modernactivedirectoryenhanced
 modify
 module
 module-maintenance
@@ -5266,6 +5268,7 @@ mytest
 n
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -5416,6 +5419,7 @@ nhl
 ni
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -6029,7 +6033,6 @@ pkgx
 pki
 pki psmodule
 pks
-pktmon
 place
 places
 plain
@@ -6111,7 +6114,6 @@ port
 port70
 portal
 portchecker
-porthunter
 ports
 portscan
 porttest
@@ -6207,9 +6209,7 @@ potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -6260,6 +6260,7 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
+powershell-lightning
 powershell-module
 powershell-modules
 powershell-modules-convention
@@ -6271,6 +6272,7 @@ powershell-terminal
 powershell-terminal-copilot
 powershell-training
 powershell.one
+powershell5
 powershell7
 powershellai
 powershellazuresql
@@ -6348,6 +6350,7 @@ printer
 printers
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -6365,6 +6368,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+proactive
 probability
 probe
 process
@@ -9520,6 +9524,7 @@ qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
+qiita
 qlearning
 qlgc_fc_powerkit
 qlik
@@ -9677,6 +9682,7 @@ recordsmanagement
 recovery
 recoveryservices
 recruiter
+recruiting
 recrutch
 recurse
 recursion
@@ -9693,7 +9699,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9778,7 +9787,6 @@ remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
-remoteregistry
 remotesession
 remoting
 removal
@@ -9874,6 +9882,7 @@ resume
 retail
 retention
 retirement
+retro
 retry
 returnuserprofile
 retype
@@ -10007,6 +10016,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -10041,6 +10051,8 @@ salesloft
 salt
 salt-api
 saltstack
+saltstackconfig
+saltstackenterprise
 sam
 samanage
 saml
@@ -10114,6 +10126,7 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
+scim
 scissors
 scm
 scmanager
@@ -10346,7 +10359,6 @@ serviceprincipal
 services
 servicestatus
 servicestore
-servicetags
 servicing
 servicingstack
 ses
@@ -10559,7 +10571,6 @@ snapping
 snapshot
 snapshots
 sni
-sniffer
 snipe-it
 snippet
 snippets
@@ -10689,6 +10700,7 @@ spmt
 spn
 spo
 spoofing
+spooler
 sport
 sports
 sports-tracker
@@ -10761,6 +10773,7 @@ srylius-write
 ssas
 ssc
 ssdt
+sse
 ssh
 ssh-config
 ssh-keygen
@@ -10837,6 +10850,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -10920,7 +10934,6 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -11034,7 +11047,6 @@ systemadministrator
 systemadmins
 systemcenter
 systemcolors
-systemconfiguration
 systemctl
 systemdiscovery
 systemhealth
@@ -11279,6 +11291,7 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
+ticket
 tickets
 tickle
 ticks
@@ -11416,6 +11429,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -11490,6 +11504,7 @@ typeextension
 types
 types.ps1xml
 typescript
+typing
 tzutil
 uac
 uag
@@ -11932,6 +11947,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vspc
 vsphere
@@ -12054,7 +12070,6 @@ webtesting
 webtime
 webview2
 wec
-wecutil
 weekday
 weekly
 wef
@@ -12078,7 +12093,6 @@ whfb
 whisper
 whiteboard
 whitelist
-whitelisting
 whitespace
 who
 whoami
@@ -12456,6 +12470,7 @@ zip-compression
 zipfile-transform
 zipjoin
 zisson
+zivver
 zlib
 zlib-compression
 zodiac
