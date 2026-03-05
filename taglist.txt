@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 04 March 2026 21:59:17 UTC
+Updated: Thursday, 05 March 2026 10:04:34 UTC
 
 .bat
 .env
@@ -166,7 +166,6 @@ acumatica
 acumaticaerp
 ad
 ad_delegation
-ad_monitoring
 ad_security
 ad-ds
 ad-object
@@ -415,6 +414,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
+ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -581,7 +581,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -754,6 +753,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -1574,6 +1574,7 @@ cognitiveservices
 cohere
 cohesity
 coinbase
+coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1878,7 +1879,6 @@ credential-dialog
 credential-file
 credential-files
 credential-manager
-credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -2756,6 +2756,7 @@ entity-framework
 entityframework
 entra
 entra-id
+entracloudsync
 entraconnect
 entraid
 entraid-security-assessment
@@ -3396,7 +3397,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-expiredusersreport
 get-expiringusersreport
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3679,7 +3679,6 @@ header
 headhunter
 headless
 health
-health_checks
 health-check
 health-checks
 healthbot
@@ -4218,6 +4217,7 @@ items
 itemstack
 iterate
 iteration
+itfabrik.stepper
 itg
 itglue
 itil
@@ -5396,8 +5396,6 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
-new-dynamicdictionary
-new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
@@ -9815,7 +9813,6 @@ remove-tempfiles
 removefile
 removetypeaccelerators
 remux
-ren-isac
 rename
 rename-git
 rename-git-branch
@@ -10037,8 +10034,6 @@ runspacepool
 runspaces
 runtime
 runtime-manager
-runtimedefinedparameter
-runtimedefinedparameterdictionary
 russia
 rust
 rust-lang
@@ -10095,6 +10090,7 @@ save
 savedcreds
 savefile
 savings
+savingsplan
 savov
 sbc
 sc
@@ -10377,7 +10373,6 @@ servicestore
 servicetags
 servicing
 servicingstack
-ses
 session
 sessionize
 sessions
@@ -10534,6 +10529,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -10628,7 +10624,6 @@ softwareupdatepoint
 softwareupdatepointcomponent
 solar
 solarigate
-solarized
 solarwinds
 solr
 soltra
@@ -10874,7 +10869,6 @@ steam
 steam-games
 steamcmd
 stenography
-stepmanager
 stepper
 steps
 sticker
@@ -10908,6 +10902,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strangeloop
 strava
 streak
 stream
@@ -11030,7 +11025,6 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
-syntaxhighlighting
 synthesis
 synthetics
 sysadmin
@@ -11260,7 +11254,6 @@ textgeneration
 texting
 texting-emoji
 texting-emojis
-textmate
 textprocessing
 textwrapping
 tfe
@@ -11272,6 +11265,7 @@ tfsec
 tfswitch
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
