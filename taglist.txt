@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 07 March 2026 09:55:53 UTC
+Updated: Saturday, 07 March 2026 21:53:39 UTC
 
 .bat
 .env
@@ -182,7 +182,6 @@ adaptivecard
 adaptivecards
 adaudit
 adb
-adblock
 adc
 adcs
 add
@@ -717,6 +716,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -1034,7 +1034,6 @@ blade
 bladeserver
 blaze
 blazor
-blinking-text
 blob
 blobstorage
 block
@@ -1066,7 +1065,6 @@ boards
 bofh
 boilerplate
 boinc
-bold-text
 bolt
 bom
 book
@@ -1329,7 +1327,6 @@ chatroom
 chatter
 cheat
 check
-checkdb
 checker
 checklist
 checklists
@@ -1415,7 +1412,6 @@ classification
 classified
 claude
 claude3
-claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1542,6 +1538,7 @@ coa
 cockroachdb
 codaamok
 code
+code-analysis
 code-completion
 code-generation
 code-page
@@ -1577,7 +1574,6 @@ cohesity
 coinbase
 coinflip
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -1813,6 +1809,8 @@ coordinates
 copilot
 copy
 copy-item
+copyfileex
+copypaste
 copyright
 core
 coreposh
@@ -2071,7 +2069,6 @@ databaseautomation
 databasefirst
 databasemanagement
 databasemigration
-databaserecovery
 databases
 databasetools
 databooster
@@ -2270,7 +2267,6 @@ devdeer
 devdirmanager
 devdrive
 developer
-developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2647,7 +2643,6 @@ eap
 earthquakes
 easy
 easy-to-use
-easylife365
 easypim
 easyvista
 eaton
@@ -2853,6 +2848,7 @@ estimate
 estimation
 esx
 esxi
+esxi8
 eternalblue
 ether
 etherassist
@@ -2940,7 +2936,7 @@ executables
 execute
 execution
 executionalias
-executionpolicy
+exexml
 exif
 exiftool
 exists
@@ -3317,7 +3313,6 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
-fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3594,7 +3589,6 @@ greeting
 gregorian
 gremlin
 grep
-greynoise
 grid
 gridfs
 gridview
@@ -3615,7 +3609,6 @@ gsettings
 gsudo
 gsuite
 gtx1080ti
-guard
 guardedfabric
 guardicore
 gubbins
@@ -3851,7 +3844,6 @@ hris
 hrprovisioning
 hrservicedelivery
 hsdp
-hsl
 html
 html-generator
 html-report
@@ -3895,7 +3887,6 @@ hyperconverged
 hyperfine
 hyperglycemia
 hyperlink
-hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -4006,7 +3997,6 @@ imagga
 imagination
 imaging
 imap
-imb
 imei
 imi
 impala
@@ -4035,7 +4025,6 @@ incontact
 indents
 index
 indexdb
-indexmaintenance
 indicator
 indicators
 industrial
@@ -4167,8 +4156,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invoke-webrequest
 invokebuild
 invokemethod
@@ -4241,7 +4228,6 @@ it-support
 it-tool
 it-tools
 itadministration
-italic-text
 item
 itemlist
 itemobject
@@ -4259,8 +4245,6 @@ itprofessionals
 itsm
 itstore
 ivanti
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -4784,6 +4768,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -5144,7 +5129,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -5628,7 +5612,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5691,7 +5674,6 @@ onyphe
 onyphe.io
 oob
 oop
-ooxml
 op
 opa
 opc
@@ -6029,7 +6011,6 @@ phoenix
 phone
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -6187,7 +6168,6 @@ poshrsjob
 poshtemplate
 poshwsus
 poshy-code-search
-poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -6280,7 +6260,6 @@ powerpack
 powerplan
 powerplateform
 powerplatform
-powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -6571,25 +6550,6 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
-pscommand_bgblack
-pscommand_bgblue
-pscommand_bgbrightblack
-pscommand_bgbrightblue
-pscommand_bgbrightcyan
-pscommand_bgbrightgreen
-pscommand_bgbrightmagenta
-pscommand_bgbrightred
-pscommand_bgbrightwhite
-pscommand_bgbrightyellow
-pscommand_bgcolor
-pscommand_bgcyan
-pscommand_bggreen
-pscommand_bghsl
-pscommand_bgmagenta
-pscommand_bgred
-pscommand_bgrgb
-pscommand_bgwhite
-pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -6612,7 +6572,6 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
-pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -6785,41 +6744,6 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
-pscommand_fgblack
-pscommand_fgblue
-pscommand_fgbrightblack
-pscommand_fgbrightblue
-pscommand_fgbrightcyan
-pscommand_fgbrightgreen
-pscommand_fgbrightmagenta
-pscommand_fgbrightred
-pscommand_fgbrightwhite
-pscommand_fgbrightyellow
-pscommand_fgcolor
-pscommand_fgcyan
-pscommand_fggreen
-pscommand_fghsl
-pscommand_fgmagenta
-pscommand_fgred
-pscommand_fgrgb
-pscommand_fgwhite
-pscommand_fgyellow
-pscommand_fmtblink
-pscommand_fmtblinkoff
-pscommand_fmtbold
-pscommand_fmtboldoff
-pscommand_fmthidden
-pscommand_fmthiddenoff
-pscommand_fmthyperlink
-pscommand_fmtitalic
-pscommand_fmtitalicoff
-pscommand_fmtreset
-pscommand_fmtreverse
-pscommand_fmtreverseoff
-pscommand_fmtstrikethrough
-pscommand_fmtstrikethroughoff
-pscommand_fmtunderline
-pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -8377,30 +8301,10 @@ psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
-psfunction_bgblack
-psfunction_bgblue
-psfunction_bgbrightblack
-psfunction_bgbrightblue
-psfunction_bgbrightcyan
-psfunction_bgbrightgreen
-psfunction_bgbrightmagenta
-psfunction_bgbrightred
-psfunction_bgbrightwhite
-psfunction_bgbrightyellow
-psfunction_bgcolor
-psfunction_bgcyan
-psfunction_bggreen
-psfunction_bghsl
-psfunction_bgmagenta
-psfunction_bgred
-psfunction_bgrgb
-psfunction_bgwhite
-psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
-psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -8476,41 +8380,6 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
-psfunction_fgblack
-psfunction_fgblue
-psfunction_fgbrightblack
-psfunction_fgbrightblue
-psfunction_fgbrightcyan
-psfunction_fgbrightgreen
-psfunction_fgbrightmagenta
-psfunction_fgbrightred
-psfunction_fgbrightwhite
-psfunction_fgbrightyellow
-psfunction_fgcolor
-psfunction_fgcyan
-psfunction_fggreen
-psfunction_fghsl
-psfunction_fgmagenta
-psfunction_fgred
-psfunction_fgrgb
-psfunction_fgwhite
-psfunction_fgyellow
-psfunction_fmtblink
-psfunction_fmtblinkoff
-psfunction_fmtbold
-psfunction_fmtboldoff
-psfunction_fmthidden
-psfunction_fmthiddenoff
-psfunction_fmthyperlink
-psfunction_fmtitalic
-psfunction_fmtitalicoff
-psfunction_fmtreset
-psfunction_fmtreverse
-psfunction_fmtreverseoff
-psfunction_fmtstrikethrough
-psfunction_fmtstrikethroughoff
-psfunction_fmtunderline
-psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -9694,7 +9563,6 @@ rdpsign
 rds
 rdsgw
 react
-react-stockcharts
 read
 read-slog
 readable
@@ -9935,7 +9803,6 @@ retype
 reuse
 reverse-engineer
 reverse-string
-reversed-color-text
 reversedsc
 reverseengineering
 review
@@ -10262,7 +10129,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretshub
 secretsmanagement
 secretsmanager
 secretstore
@@ -10772,7 +10638,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10840,7 +10705,6 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
-sslstream
 sslvpn
 ssm
 sso
@@ -10882,14 +10746,13 @@ starwars
 stash
 stat
 state
-stateless
 static
+static-analysis
 staticanalysis
 statichtmlsites
 staticip
 staticsite
 statistical
-statisticmaintenance
 statistics
 stats
 statsd
@@ -10916,7 +10779,6 @@ stig
 stigrepo
 stingar
 stock
-stockcharts
 stockmarket
 stockmarketapi
 stocks
@@ -10951,7 +10813,6 @@ streamwriter
 stretch
 strict
 strictmode
-strikethrough-text
 string
 string-converter
 string-template
@@ -11094,6 +10955,7 @@ system.text
 systemadmin
 systemadministration
 systemadministrator
+systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -11138,7 +11000,6 @@ taglib
 tags
 tak
 takecontrol
-taken
 takeown
 tally
 talxis
@@ -11256,6 +11117,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testabledata
 testaccount
 testautomation
@@ -11334,7 +11196,6 @@ threatintelligenceplatform
 threatprotection
 threats
 threatsharing
-throughput
 thumbprint
 thunderbird
 thycotic
@@ -11347,7 +11208,6 @@ ticks
 tictactoe
 tiermodel
 time
-timedlogging
 timeout
 timer
 timeseriesinsights
@@ -11447,7 +11307,6 @@ transcode
 transcribe
 transcript
 transcripts
-transfer
 transform
 transformation
 transforms
@@ -11465,6 +11324,7 @@ trap
 travel
 trec
 tree
+tree-sitter
 tree-structure
 treesize
 treffynnon
@@ -11490,7 +11350,6 @@ trivia
 troubleshoot
 troubleshooting
 trouw
-true-color
 truecolor
 truecrypt
 truenas
@@ -11647,7 +11506,6 @@ unattendedfile
 unblock
 unc
 uncpaths
-underlined-text
 undo
 unhide
 unicode
@@ -11821,12 +11679,14 @@ vc
 vccmdlets
 vcenter
 vcf
+vcf9
 vcloud
 vclouddirector
 vcm
 vco
 vcs
 vcsa
+vcsa8
 vcvars
 vdi
 vdp
@@ -12141,7 +12001,6 @@ where
 whfb
 whisper
 whiteboard
-whitelist
 whitelisting
 whitespace
 who
@@ -12415,7 +12274,6 @@ x1
 x2
 x360recover
 x509
-x509 psmodule
 x509cerificate
 x509cerificate2
 x509certificate
@@ -12511,7 +12369,6 @@ zap
 zap-zsh
 zcat
 zendesk
-zerofailed
 zerotrust
 zerto
 zigbee

@@ -3,6 +3,206 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [VCF.TagManager](https://www.powershellgallery.com/Packages/VCF.TagManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:51 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.StorageAudit](https://www.powershellgallery.com/Packages/VCF.StorageAudit/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:46 by The Any Stack Architect
+
+Advanced Infrastructure Module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.StorageAdvanced](https://www.powershellgallery.com/Packages/VCF.StorageAdvanced/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:41 by The Any Stack Architect
+
+Advanced Infrastructure Module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.PerformanceProfiler](https://www.powershellgallery.com/Packages/VCF.PerformanceProfiler/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:12 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.NetworkManager](https://www.powershellgallery.com/Packages/VCF.NetworkManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:07 by The Any Stack Architect
+
+Advanced Infrastructure Module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.NetworkAudit](https://www.powershellgallery.com/Packages/VCF.NetworkAudit/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:03:02 by The Any Stack Architect
+
+Advanced Virtual Switch & Distributed Switch Configuration Auditor for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.LogIntelligence](https://www.powershellgallery.com/Packages/VCF.LogIntelligence/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:56 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.LifecycleManager](https://www.powershellgallery.com/Packages/VCF.LifecycleManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:51 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.IdentityManager](https://www.powershellgallery.com/Packages/VCF.IdentityManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:46 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.HostEvacuation](https://www.powershellgallery.com/Packages/VCF.HostEvacuation/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:42 by The Any Stack Architect
+
+Automated Host Evacuation Protocols for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.DRValidator](https://www.powershellgallery.com/Packages/VCF.DRValidator/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:37 by The Any Stack Architect
+
+Advanced Disaster Recovery Readiness Validator for vSphere 8.0 U3 (ESXi 8.0.3 / VCSA 8.0.3)
+
+__Downloads__: 0 | __Repository__: https://github.com/eblackrps/AnyStack
+
+## [VCF.ContentManager](https://www.powershellgallery.com/Packages/VCF.ContentManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:31 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.ComplianceAuditor](https://www.powershellgallery.com/Packages/VCF.ComplianceAuditor/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:27 by The Any Stack Architect
+
+Enterprise extension module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.ClusterManager](https://www.powershellgallery.com/Packages/VCF.ClusterManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:02:23 by The Any Stack Architect
+
+Advanced Infrastructure Module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [VCF.AlarmManager](https://www.powershellgallery.com/Packages/VCF.AlarmManager/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:01:59 by The Any Stack Architect
+
+Advanced Infrastructure Module for vSphere 8.0 U3
+
+__Downloads__: 0 | __Repository__: 
+
+## [AnyStack.vSphere](https://www.powershellgallery.com/Packages/AnyStack.vSphere/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:01:53 by The Any Stack Architect
+
+Advanced Infrastructure Automation Module for vSphere 8.0 U3 (ESXi 8.0.3 / VCSA 8.0.3)
+
+__Downloads__: 0 | __Repository__: https://github.com/eblackrps/AnyStack
+
+## [AnyStack.Reporting](https://www.powershellgallery.com/Packages/AnyStack.Reporting/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:01:48 by The Any Stack Architect
+
+Production module for vSphere 8.0 U3 and VCF
+
+__Downloads__: 0 | __Repository__: 
+
+## [AnyStack.ConfigurationAsCode](https://www.powershellgallery.com/Packages/AnyStack.ConfigurationAsCode/1.0.0.1) | 1.0.0.1
+
+### Published: 03/07/2026 20:01:44 by The Any Stack Architect
+
+Production module for vSphere 8.0 U3 and VCF
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSAToJunit](https://www.powershellgallery.com/Packages/PSSAToJunit/0.0.16) | 0.0.16
+
+### Published: 03/07/2026 19:48:39 by Tony Lea
+
+Convert PSScriptAnalyzer results to Junit XML
+
+__Downloads__: 1,840 | __Repository__: https://github.com/tonylea/PSSAToJunit
+
+## [EnvironmentVariableItems](https://www.powershellgallery.com/Packages/EnvironmentVariableItems/2.0.0) | 2.0.0
+
+### Published: 03/07/2026 19:35:36 by Mike Flynn
+
+Module with cmdlets to easily add or remove items from `'collection type`' Windows environment variables.  For example, adding `'C:\foo`' to `$env:Path.
+
+__Downloads__: 2,047 | __Repository__: https://github.com/a1publishing/Powershell_Module_EnvironmentVariableItems
+
+## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2026.3.7.1808) | 2026.3.7.1808
+
+### Published: 03/07/2026 18:09:09 by Jake Hildreth
+
+A PowerShell module for creating resumable, step-by-step automation scripts with automatic state persistence and cross-platform support.
+
+__Downloads__: 190 | __Repository__: 
+
+## [WifiConnectionAPI](https://www.powershellgallery.com/Packages/WifiConnectionAPI/2.4.0.1) | 2.4.0.1
+
+### Published: 03/07/2026 16:25:20 by Tvanleeuwen
+
+Wifi Management, easy connect with 1 line to a wifi network
+
+__Downloads__: 3,004 | __Repository__: 
+
+## [MECM7](https://www.powershellgallery.com/Packages/MECM7/0.1.68) | 0.1.68
+
+### Published: 03/07/2026 12:15:35 by Josua Burkard
+
+Powerful automation for Microsoft Endpoint Configuration Manager (MECM/SCCM): manage collections, deployments, boundaries, and more via intuitive PowerShell commands using WinRM/CIM. Streamline your MECM administration and boost productivity with this comprehensive toolkit.
+
+__Downloads__: 0 | __Repository__: https://github.com/joshburkard/MECM7
+
+## [Entra-PIM](https://www.powershellgallery.com/Packages/Entra-PIM/2.3.4) | 2.3.4
+
+### Published: 03/07/2026 11:48:48 by markorr321
+
+PowerShell module for managing Microsoft Entra PIM (Privileged Identity Management) role activations and deactivations through an interactive console experience. Supports Entra ID roles, Azure Resource roles, and Groups PIM with browser-based authentication. Features automatic step-up MFA handling, one-command activation/deactivation, and auto-installation of dependencies. Cross-platform compatible with Windows, macOS, and Linux. Just run Start-EntraPIM - works out of the box with no configuration, or bring your own app registration for full control.
+
+__Downloads__: 342 | __Repository__: https://github.com/markorr321/Entra-PIM
+
+## [ITFabrik.Logger](https://www.powershellgallery.com/Packages/ITFabrik.Logger/0.3.4) | 0.3.4
+
+### Published: 03/07/2026 10:19:30 by IT FABRIK
+
+Logger: Implemente un logger compatible ITFabrik.Stepper via la variable legacy StepManagerLogger.
+
+__Downloads__: 44 | __Repository__: 
+
 ## [QiitaDrive](https://www.powershellgallery.com/Packages/QiitaDrive/0.5.0) | 0.5.0
 
 ### Published: 03/07/2026 07:09:38 by Yoshifumi Tsuda
@@ -182,14 +382,6 @@ A module for reporting and interacting with your Rubrik Security Cloud instance
 
 __Downloads__: 1,022 | __Repository__: https://github.com/joshuastenhouse/rscreporting
 
-## [ITFabrik.Logger](https://www.powershellgallery.com/Packages/ITFabrik.Logger/0.3.2) | 0.3.2
-
-### Published: 03/06/2026 15:53:51 by IT FABRIK
-
-Logger: Implemente un logger compatible ITFabrik.Stepper via la variable legacy StepManagerLogger.
-
-__Downloads__: 44 | __Repository__: 
-
 ## [itfabrik.stepper](https://www.powershellgallery.com/Packages/itfabrik.stepper/1.0.10) | 1.0.10
 
 ### Published: 03/06/2026 15:43:50 by IT FABRIK
@@ -317,14 +509,6 @@ __Downloads__: 71,738 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTa
 MCS Assessment module for evaluating and analyzing Mission Critical Services for Azure Workloads.
 
 __Downloads__: 149 | __Repository__: 
-
-## [WifiConnectionAPI](https://www.powershellgallery.com/Packages/WifiConnectionAPI/2.4.0.0) | 2.4.0.0
-
-### Published: 03/05/2026 19:31:58 by Tvanleeuwen
-
-Wifi Management, easy connect with 1 line to a wifi network
-
-__Downloads__: 3,004 | __Repository__: 
 
 ## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.60.0) | 5.60.0
 
@@ -1916,188 +2100,4 @@ This modules provides Cmdlets for OCI Dataintegration Service
 
 __Downloads__: 14,279 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 18,647 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 14,333 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 12,672 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemigration Service
-
-__Downloads__: 13,307 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemanagement Service
-
-__Downloads__: 13,713 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:57:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Database Service
-
-__Downloads__: 59,567 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dashboardservice Service
-
-__Downloads__: 12,636 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Core](https://www.powershellgallery.com/Packages/OCI.PSModules.Core/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Core Service
-
-__Downloads__: 27,461 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerinstances](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerinstances/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerinstances Service
-
-__Downloads__: 10,463 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerengine Service
-
-__Downloads__: 13,998 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computeinstanceagent Service
-
-__Downloads__: 14,292 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computecloudatcustomer](https://www.powershellgallery.com/Packages/OCI.PSModules.Computecloudatcustomer/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computecloudatcustomer Service
-
-__Downloads__: 9,285 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Clusterplacementgroups](https://www.powershellgallery.com/Packages/OCI.PSModules.Clusterplacementgroups/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Clusterplacementgroups Service
-
-__Downloads__: 6,797 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudmigrations](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudmigrations/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:56:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudmigrations Service
-
-__Downloads__: 10,969 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudguard Service
-
-__Downloads__: 13,967 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudbridge](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudbridge/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudbridge Service
-
-__Downloads__: 11,040 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cims Service
-
-__Downloads__: 14,197 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificatesmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificatesmanagement/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificatesmanagement Service
-
-__Downloads__: 13,011 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificates Service
-
-__Downloads__: 12,882 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Capacitymanagement Service
-
-__Downloads__: 8,405 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 14,323 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:55:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 14,257 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:54:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 14,302 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 07 March 2026 09:55:43 UTC*
+*Updated: Saturday, 07 March 2026 21:53:29 UTC*
