@@ -3,9 +3,68 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [dbaship](https://www.powershellgallery.com/Packages/dbaship/0.0.45) | 0.0.45
+## [QiitaDrive](https://www.powershellgallery.com/Packages/QiitaDrive/0.5.0) | 0.5.0
 
-### Published: 03/06/2026 21:52:45 by Vlad Pertuz
+### Published: 03/07/2026 07:09:38 by Yoshifumi Tsuda
+
+PowerShell Provider for Qiita API v2. Browse Qiita articles as a virtual filesystem.
+
+__Downloads__: 5 | __Repository__: https://github.com/yotsuda/QiitaDrive
+
+## [TLSleuth](https://www.powershellgallery.com/Packages/TLSleuth/2.3.0) | 2.3.0
+
+### Published: 03/07/2026 04:28:02 by Mad Crab Cyder
+
+TLSleuth is an open-source PowerShell module for inspecting TLS
+endpoints and certificate details from scripts or the command line.
+
+It provides clean, structured, script-friendly output for operators,
+engineers, and automation pipelines that need reliable TLS insight.
+
+__Downloads__: 115 | __Repository__: https://tlsleuth.com/
+
+## [Html](https://www.powershellgallery.com/Packages/Html/1.0.0) | 1.0.0
+
+### Published: 03/07/2026 01:54:40 by Cédric Belin <cedx@outlook.com>
+
+A set of PowerShell cmdlets for rendering HTML documents.
+
+__Downloads__: 53 | __Repository__: https://github.com/cedx/html.net
+
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.207) | 2.1.207
+
+### Published: 03/07/2026 01:32:37 by devizer
+
+SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
+
+It installs Developer, Express, or LocalDB editions.
+The intended use of this project is for Continuous Integration (CI) scenarios, where:
+     1) SQL Server or LocalDB needs to be installed without user interaction.
+     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
+
+By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
+
+__Downloads__: 64,003 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+
+## [IPPretty](https://www.powershellgallery.com/Packages/IPPretty/26.306.1000) | 26.306.1000
+
+### Published: 03/07/2026 00:07:11 by Daniel Cuneo
+
+Displays formatted, colored network adapter information (IPs, MAC, DHCP, etc.)
+
+__Downloads__: 0 | __Repository__: 
+
+## [OmadaSqlTroubleShooter](https://www.powershellgallery.com/Packages/OmadaSqlTroubleShooter/2026.3.6.9) | 2026.3.6.9
+
+### Published: 03/06/2026 22:50:26 by Mark van Eijken
+
+This module contains the Omada Sql Troubleshooter application.
+
+__Downloads__: 956 | __Repository__: https://github.com/Fortigi/OmadaSqlTroubleshooter
+
+## [dbaship](https://www.powershellgallery.com/Packages/dbaship/0.0.49) | 0.0.49
+
+### Published: 03/06/2026 22:49:20 by Vlad Pertuz
 
 Basic Logshipping installation
 
@@ -58,14 +117,6 @@ __Downloads__: 9,406 | __Repository__: https://github.com/webmd-health-services/
 Dataverse data manipulation cmdlets
 
 __Downloads__: 15,525 | __Repository__: https://github.com/rnwood/Rnwood.Dataverse.Data.PowerShell
-
-## [QiitaDrive](https://www.powershellgallery.com/Packages/QiitaDrive/0.3.0) | 0.3.0
-
-### Published: 03/06/2026 17:14:34 by Yoshifumi Tsuda
-
-PowerShell Provider for Qiita API v2. Browse Qiita articles as a virtual filesystem.
-
-__Downloads__: 5 | __Repository__: https://github.com/yotsuda/QiitaDrive
 
 ## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2026.3.6.1652) | 2026.3.6.1652
 
@@ -603,14 +654,6 @@ Custom git aliases and robust tab completion helpers for PowerShell.
 
 __Downloads__: 17 | __Repository__: https://github.com/PhysShell/git-aliases-extra
 
-## [Html](https://www.powershellgallery.com/Packages/Html/0.9.0) | 0.9.0
-
-### Published: 03/04/2026 09:46:17 by Cédric Belin <cedx@outlook.com>
-
-A set of PowerShell cmdlets for rendering HTML documents.
-
-__Downloads__: 53 | __Repository__: https://github.com/cedx/html.net
-
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.7.22) | 1.7.22
 
 ### Published: 03/04/2026 08:12:01 by Sailpoint Developer Relations
@@ -860,14 +903,6 @@ __Downloads__: 198,075 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 SolarWinds Service Desk API Module - based on REST API reference https://apidoc.samanage.com/#section/General-Concepts
 
 __Downloads__: 82 | __Repository__: https://github.com/Skatterbrainz/SolarWinds.ServiceDesk
-
-## [OmadaSqlTroubleShooter](https://www.powershellgallery.com/Packages/OmadaSqlTroubleShooter/2026.3.3.1) | 2026.3.3.1
-
-### Published: 03/03/2026 20:53:25 by Mark van Eijken
-
-This module contains the Omada Sql Troubleshooter application.
-
-__Downloads__: 956 | __Repository__: https://github.com/Fortigi/OmadaSqlTroubleshooter
 
 ## [OmadaWeb.PS](https://www.powershellgallery.com/Packages/OmadaWeb.PS/2026.3.3.2) | 2026.3.3.2
 
@@ -2065,28 +2100,4 @@ This modules provides Cmdlets for OCI Bds Service
 
 __Downloads__: 14,302 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Batch](https://www.powershellgallery.com/Packages/OCI.PSModules.Batch/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:54:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Batch Service
-
-__Downloads__: 615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:54:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 13,431 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/125.0.0) | 125.0.0
-
-### Published: 03/03/2026 15:54:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 14,337 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 06 March 2026 21:56:03 UTC*
+*Updated: Saturday, 07 March 2026 09:55:43 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 06 March 2026 21:56:12 UTC
+Updated: Saturday, 07 March 2026 09:55:53 UTC
 
 .bat
 .env
@@ -416,6 +416,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
+ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -716,7 +717,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -755,6 +755,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -783,6 +784,7 @@ azops
 azpipelines
 azpublicipaddress
 azresources
+azsc
 azsdk
 azsk
 azsql
@@ -868,6 +870,7 @@ azurerestapispecs
 azurerm
 azurerms
 azurerunasconnection
+azurescout
 azuresearch
 azuresearcher
 azuresecuritycenter
@@ -1810,8 +1813,6 @@ coordinates
 copilot
 copy
 copy-item
-copyfileex
-copypaste
 copyright
 core
 coreposh
@@ -2155,6 +2156,7 @@ dc
 dcim
 dcim_b324
 dcom
+dconf
 dcr
 ddc
 ddc/ci
@@ -2939,7 +2941,6 @@ execute
 execution
 executionalias
 executionpolicy
-exexml
 exif
 exiftool
 exists
@@ -3206,6 +3207,7 @@ flyway
 fmg
 fmp
 fms
+fnm
 focus
 fod
 fog
@@ -3513,6 +3515,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnome
 gnu
 gnucash
 gnuwin32
@@ -3608,6 +3611,7 @@ grouvee
 growlnotify
 grpc
 grr
+gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -4780,7 +4784,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -5304,6 +5307,7 @@ mypstag
 mysql
 mysql-database
 mytest
+n
 n-able
 n-central
 nabu
@@ -9505,7 +9509,6 @@ publish
 publish-module
 publishedmodules
 publisher
-publishers
 publishing
 publishmap
 pubsub
@@ -10005,6 +10008,7 @@ roles
 rollback
 rollingfile
 romaji
+ron
 rooms
 ropc
 rot13
@@ -11090,7 +11094,6 @@ system.text
 systemadmin
 systemadministration
 systemadministrator
-systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -11253,7 +11256,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testabledata
 testaccount
 testautomation
@@ -11749,6 +11751,7 @@ username
 userprofile
 userprofiles
 userprofiletools
+userprovisioning
 userreports
 userright
 userrights
