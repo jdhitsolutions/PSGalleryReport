@@ -1837,9 +1837,9 @@ Download SDK Module
 
 __Downloads__: 1,879,155 | __Repository__: 
 
-## [Moc](https://www.powershellgallery.com/Packages/Moc/1.2.33) | 1.2.33
+## [Moc](https://www.powershellgallery.com/Packages/Moc/1.2.37) | 1.2.37
 
-### Published: 09/18/2025 05:40:53 by nwood
+### Published: 12/15/2025 19:36:42 by nwood
 
 MOC Module
 
@@ -2138,4 +2138,4 @@ KVA Module
 
 __Downloads__: 1,142,124 | __Repository__: 
 
-*Updated: Sunday, 08 March 2026 21:54:24 UTC*
+*Updated: Monday, 09 March 2026 10:06:55 UTC*
