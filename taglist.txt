@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 March 2026 21:58:02 UTC
+Updated: Tuesday, 10 March 2026 10:04:13 UTC
 
 .bat
 .env
@@ -17,7 +17,6 @@ Updated: Monday, 09 March 2026 21:58:02 UTC
 **psedition_desktop**
 **windows**
 🍄
-🍣
 💩
 🙇
 1&1
@@ -110,6 +109,7 @@ accordian
 account
 account-management
 accounting
+accountmanagement
 accounts
 ace
 ack
@@ -181,6 +181,7 @@ adaptivecard
 adaptivecards
 adaudit
 adb
+adblock
 adc
 adcs
 add
@@ -209,6 +210,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroupmembers
 adgroups
 adidns
@@ -276,7 +278,6 @@ aftereffects
 agenda
 agent
 agentic
-agents
 aggregates
 aggregation
 agile
@@ -413,6 +414,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
+ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -427,7 +429,6 @@ anypackage
 anypoint
 anystack.configurationascode
 anystack.reporting
-anystack.vsphere
 anywhere
 aovpn psmodule
 apache
@@ -757,6 +758,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -785,6 +787,7 @@ azops
 azpipelines
 azpublicipaddress
 azresources
+azsc
 azsdk
 azsk
 azsql
@@ -870,6 +873,7 @@ azurerestapispecs
 azurerm
 azurerms
 azurerunasconnection
+azurescout
 azuresearch
 azuresearcher
 azuresecuritycenter
@@ -943,6 +947,7 @@ bbc
 bbernhard
 bbp
 bc
+bc365
 bcd
 bcdedit
 bcdr
@@ -1299,6 +1304,7 @@ certificates
 certificateservices
 certificatesmanagement
 certificatevalidation
+certinia
 certutil
 cf
 cfn
@@ -1514,7 +1520,6 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1540,7 +1545,6 @@ coa
 cockroachdb
 codaamok
 code
-code-analysis
 code-completion
 code-generation
 code-page
@@ -1637,6 +1641,7 @@ commonmark
 commonstuff
 communication
 community
+commvault
 compare
 comparison
 compatibility
@@ -1983,34 +1988,6 @@ cve
 cve-2021-34527
 cvrf
 cvss
-cwe-1035
-cwe-113
-cwe-117
-cwe-1333
-cwe-134
-cwe-1352
-cwe-15
-cwe-209
-cwe-22
-cwe-259
-cwe-326
-cwe-327
-cwe-328
-cwe-502
-cwe-507
-cwe-601
-cwe-611
-cwe-613
-cwe-641
-cwe-643
-cwe-776
-cwe-79
-cwe-798
-cwe-89
-cwe-90
-cwe-918
-cwe-943
-cwe-99
 cwi
 cx
 cyber
@@ -2260,7 +2237,6 @@ detect
 detection
 deutschland
 dev
-dev-loop
 dev-tools
 dev.to
 devart
@@ -2340,6 +2316,7 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorycleanup
+directorylisting
 directorymanagement
 directorymarks
 directorymonitoring
@@ -2942,7 +2919,6 @@ execute
 execution
 executionalias
 executionpolicy
-exexml
 exif
 exiftool
 exists
@@ -2983,6 +2959,7 @@ extend
 extended
 extendedattributes
 extendedevents
+extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
@@ -3003,6 +2980,7 @@ extractor
 extreme-networks
 eye-candy
 eyedropper
+eza
 eztheme
 f
 f#
@@ -3043,6 +3021,7 @@ fasttrack
 fat32
 favorite
 favorites
+favouritedirectory
 fb-pro
 fciv
 fd
@@ -3511,6 +3490,7 @@ glp
 glpi
 glucommander
 glucosemonitoring
+glyphs
 gmail
 gmap
 gmaps
@@ -3782,6 +3762,7 @@ historyninja
 hitrust
 hive
 hivehome
+hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3805,7 +3786,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 horizon
 horizontal
@@ -4047,7 +4027,6 @@ influx
 influxdb
 info
 infoblox
-inforcer
 informatica
 information
 information-technology
@@ -4291,6 +4270,7 @@ jim
 jira
 jiraservicemanagement
 jitbit
+jml
 jms
 jmsjavadownloads
 jmsutils
@@ -4564,6 +4544,7 @@ licensereport
 licenses
 licensing
 life
+lifecycle
 lifequotes
 lifestyle
 light
@@ -4645,7 +4626,7 @@ localization
 localpolicy
 localrepo
 localrepository
-locate
+localuser
 location
 locationbasedservices
 locations
@@ -4685,7 +4666,6 @@ loggingingestion
 loggingsearch
 loggly
 logic
-logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -5028,7 +5008,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftentra
-microsoftentraid
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -5263,7 +5242,6 @@ multiagent
 multicloud
 multicultural
 multidimenstional
-multigeo
 multilingual
 multimedia
 multios
@@ -5298,6 +5276,8 @@ mycorp
 myhub
 myip
 myitprocess
+myjson
+myjson.com
 myob
 myposh
 mypstag
@@ -5383,6 +5363,7 @@ netillimar
 netmask
 netpdf
 netpdfps
+nets
 netsapiens
 netscaler
 netscape
@@ -5624,7 +5605,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5687,7 +5667,6 @@ onyphe
 onyphe.io
 oob
 oop
-ooxml
 op
 opa
 opc
@@ -5726,7 +5705,6 @@ opentdb
 opentelemetry
 opentofu
 openvpn
-openxml
 operating
 operating_system
 operating-system
@@ -6239,7 +6217,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -6277,7 +6254,6 @@ powerpack
 powerplan
 powerplateform
 powerplatform
-powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -9459,7 +9435,6 @@ psscriptanalyzer
 psscriptanaylzer
 psscriptsmonitoring
 pssearchgithub
-pssec
 pssendgrid
 pssession
 pssharper
@@ -9506,6 +9481,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 publishmap
 pubsub
@@ -9979,7 +9955,6 @@ risksense
 rivermeadow
 rj
 rjtenant
-rksolutions
 rlan
 rmcp
 rmm
@@ -10718,6 +10693,7 @@ specification
 specify
 specs
 spectre
+spectre.console
 spectreconsole
 spectrumconnect
 spectrumcontrolbase
@@ -10881,7 +10857,6 @@ stat
 state
 stateless
 static
-static-analysis
 staticanalysis
 statichtmlsites
 staticip
@@ -11022,7 +10997,6 @@ surveillance
 survey
 surveymonkey
 sus
-sushi
 suspensive
 svelte
 svesavov
@@ -11194,6 +11168,7 @@ techlogic
 technicalanalysis
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -11225,6 +11200,7 @@ terminal
 terminal-art
 terminal-colors
 terminal-enhancement
+terminal-icons
 terminal-interface
 terminal-services
 terminal-startup
@@ -11466,7 +11442,6 @@ trap
 travel
 trec
 tree
-tree-sitter
 tree-structure
 treesize
 treffynnon
@@ -11831,12 +11806,6 @@ vcf.certificatemanager
 vcf.clustermanager
 vcf.complianceauditor
 vcf.contentmanager
-vcf.drvalidator
-vcf.hostevacuation
-vcf.identitymanager
-vcf.lifecyclemanager
-vcf.logintelligence
-vcf.networkaudit
 vcf.networkmanager
 vcf.performanceprofiler
 vcf.resourceaudit
@@ -12112,6 +12081,7 @@ webdeveloper
 webdriver
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -12161,6 +12131,7 @@ whatif
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whisper
@@ -12363,7 +12334,6 @@ workflows
 workingdays
 workinghours
 workingtime
-workitems
 workload
 workload-automation
 workloadidentity
@@ -12439,7 +12409,6 @@ x1
 x2
 x360recover
 x509
-x509 psmodule
 x509cerificate
 x509cerificate2
 x509certificate
@@ -12572,6 +12541,5 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
-寿司
 日本語
 湯婆婆
