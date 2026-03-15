@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SinglePrompt](https://www.powershellgallery.com/Packages/SinglePrompt/0.0.3) | 0.0.3
+
+### Published: 03/15/2026 08:01:12 by Henrique do Val
+
+Clears the previous prompt on command acceptance and implements Windows Terminal shell integration
+
+__Downloads__: 16 | __Repository__: https://github.com/HenriquedoVal/SinglePrompt
+
+## [ProcessDrive](https://www.powershellgallery.com/Packages/ProcessDrive/0.1.0) | 0.1.0
+
+### Published: 03/15/2026 07:54:11 by Yoshifumi Tsuda
+
+Navigate Windows process tree as a PowerShell drive (Windows only). A CLI alternative to Process Explorer. Provides cd/dir navigation through parent-child process hierarchy, virtual folders for Modules, Threads, Services, and Network connections, detailed process properties via Get-Item, and process kill via Remove-Item.
+
+__Downloads__: 0 | __Repository__: https://github.com/yotsuda/ProcessDrive
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.657.2) | 1.657.2
+
+### Published: 03/15/2026 05:07:19 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 15,271 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [dev-loop](https://www.powershellgallery.com/Packages/dev-loop/0.3.0) | 0.3.0
+
+### Published: 03/15/2026 03:30:47 by Mark Garner
+
+Automated development loop powered by GitHub Copilot CLI. Processes numbered spec files through plan, build, review, and test phases using autonomous agents.
+
+__Downloads__: 16 | __Repository__: https://github.com/markgar/dev-loop
+
+## [Voicemeeter](https://www.powershellgallery.com/Packages/Voicemeeter/4.2.0) | 4.2.0
+
+### Published: 03/15/2026 02:02:50 by onyx_online
+
+Voicemeeter API Wrapper in Powershell
+
+__Downloads__: 2,415 | __Repository__: 
+
+## [dclaude](https://www.powershellgallery.com/Packages/dclaude/0.7.1) | 0.7.1
+
+### Published: 03/15/2026 00:03:38 by Jason Boyd
+
+Launch Docker containers with Claude Code pre-installed for isolated development environments.
+
+__Downloads__: 87 | __Repository__: https://github.com/jasonmcboyd/dclaude
+
+## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20261.32942) | 1.20261.32942
+
+### Published: 03/14/2026 22:43:46 by Eigenverft
+
+Windows-focused PowerShell module for quickly bringing up a usable Windows sandbox or fresh Windows developer environment, while also supporting the same bootstrap flow and state tracking on a normal Windows machine.
+
+__Downloads__: 42 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
+
+## [Eigenverft.Manifested.Codex](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Codex/1.20261.32898) | 1.20261.32898
+
+### Published: 03/14/2026 21:56:44 by Eigenverft
+
+Windows-focused PowerShell module that provides a thin wrapper around the OpenAI Codex CLI for task execution, named sessions, and lightweight local state inspection.
+
+__Downloads__: 8 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Codex
+
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.7.0.0) | 1.7.0.0
 
 ### Published: 03/14/2026 21:01:58 by Shivam Mathur
@@ -18,22 +82,6 @@ __Downloads__: 449 | __Repository__: https://github.com/php/php-windows-builder
 Build PHP
 
 __Downloads__: 798 | __Repository__: https://github.com/php/php-windows-builder
-
-## [dclaude](https://www.powershellgallery.com/Packages/dclaude/0.6.9) | 0.6.9
-
-### Published: 03/14/2026 20:11:06 by Jason Boyd
-
-Launch Docker containers with Claude Code pre-installed for isolated development environments.
-
-__Downloads__: 87 | __Repository__: https://github.com/jasonmcboyd/dclaude
-
-## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20261.32738) | 1.20261.32738
-
-### Published: 03/14/2026 19:06:55 by Eigenverft
-
-Windows-focused PowerShell module for quickly bringing up a usable Windows sandbox or fresh Windows developer environment, while also supporting the same bootstrap flow and state tracking on a normal Windows machine.
-
-__Downloads__: 42 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
 
 ## [JSON-LD](https://www.powershellgallery.com/Packages/JSON-LD/0.1.1) | 0.1.1
 
@@ -123,21 +171,13 @@ Manage your awtrix pixel clock.
 
 __Downloads__: 11 | __Repository__: 
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.657.0) | 1.657.0
-
-### Published: 03/14/2026 04:53:24 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 15,271 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.16.20260309) | 1.16.20260309
 
 ### Published: 03/14/2026 04:26:10 by Rubrik
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20260309-27 .
 
-__Downloads__: 99,202 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 99,204 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [MarkdownPointer](https://www.powershellgallery.com/Packages/MarkdownPointer/0.7.0) | 0.7.0
 
@@ -409,7 +449,7 @@ __Downloads__: 7,898 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 496,510 | __Repository__: https://devolutions.net/
+__Downloads__: 496,519 | __Repository__: https://devolutions.net/
 
 ## [Invoke-AsCurrentUser_WithArgs](https://www.powershellgallery.com/Packages/Invoke-AsCurrentUser_WithArgs/1.1.0) | 1.1.0
 
@@ -679,7 +719,7 @@ __Downloads__: 4 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 8,494,811 | __Repository__: https://dbatools.io/
+__Downloads__: 8,494,862 | __Repository__: https://dbatools.io/
 
 ## [myPosh_write-log](https://www.powershellgallery.com/Packages/myPosh_write-log/1.2.4) | 1.2.4
 
@@ -728,14 +768,6 @@ __Downloads__: 19,416 | __Repository__: https://github.com/PSModule/GoogleFonts
 Easily build and edit CLI menus in Powershell
 
 __Downloads__: 1,938 | __Repository__: https://github.com/torgro/cliMenu
-
-## [Eigenverft.Manifested.Codex](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Codex/0.20261.29249) | 0.20261.29249
-
-### Published: 03/12/2026 05:04:42 by Eigenverft
-
-Windows-focused PowerShell module for installing, managing, and invoking isolated OpenAI Codex CLI slots with a managed Node.js runtime, persisted session state, and task execution helpers.
-
-__Downloads__: 8 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Codex
 
 ## [EventMonitor.Windows](https://www.powershellgallery.com/Packages/EventMonitor.Windows/1.0.4) | 1.0.4
 
@@ -866,7 +898,7 @@ __Downloads__: 344 | __Repository__: https://github.com/ugurkocde/TenantBaseline
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 618,234 | __Repository__: https://docs.homotechsual.dev/modules/ninjaone
+__Downloads__: 618,406 | __Repository__: https://docs.homotechsual.dev/modules/ninjaone
 
 ## [UplinkSystems.Terraform](https://www.powershellgallery.com/Packages/UplinkSystems.Terraform/1.2.0) | 1.2.0
 
@@ -2037,36 +2069,4 @@ This modules provides Cmdlets for OCI Capacitymanagement Service
 
 __Downloads__: 8,492 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/125.1.0) | 125.1.0
-
-### Published: 03/10/2026 18:27:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 14,410 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/125.1.0) | 125.1.0
-
-### Published: 03/10/2026 18:27:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 14,344 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/125.1.0) | 125.1.0
-
-### Published: 03/10/2026 18:26:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 14,389 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Batch](https://www.powershellgallery.com/Packages/OCI.PSModules.Batch/125.1.0) | 125.1.0
-
-### Published: 03/10/2026 18:26:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Batch Service
-
-__Downloads__: 699 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 14 March 2026 21:56:04 UTC*
+*Updated: Sunday, 15 March 2026 09:58:50 UTC*
