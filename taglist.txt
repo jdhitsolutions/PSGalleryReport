@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 March 2026 21:58:22 UTC
+Updated: Friday, 20 March 2026 10:02:35 UTC
 
 .bat
 .env
@@ -321,6 +321,7 @@ aiutilities
 aivision
 ajustee
 aka.ms
+akismet
 aks
 aks-hci
 aksarc
@@ -770,6 +771,7 @@ awx
 axapta
 axcient
 axcient_x360recover
+axinom
 axis
 axium
 ayx
@@ -1212,7 +1214,6 @@ callqueue
 calvin-and-hobbes
 cam
 camera
-cameras
 campaign
 camtasia
 canarie
@@ -1297,6 +1298,8 @@ centreon
 centreon.com
 centurylink
 centurylinkcloud
+ceph
+cephfs
 cer
 cert
 certbasedauth
@@ -1321,6 +1324,7 @@ ch9
 change
 changeanalysis
 changelog
+changemanagement
 changetracking
 channel
 channel9
@@ -1386,7 +1390,6 @@ cicdpipeline
 cidr
 cidrcalculator
 ciellos
-ciem
 cif
 cifv3
 cil
@@ -1418,7 +1421,6 @@ citrixoptimizer
 citsmart
 civo
 cix
-cla
 class
 classes
 classic
@@ -1670,6 +1672,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compressedguid
 compression
@@ -1911,6 +1914,7 @@ crescendobuilt
 cresendo
 crestron
 cricket
+crime
 critical
 crlf
 crm
@@ -1921,6 +1925,7 @@ cropping
 cross-forest
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1933,7 +1938,6 @@ cryptobase
 cryptocompare
 cryptocurrency
 cryptography
-cryptopro
 cs137
 csc
 csharp
@@ -2797,6 +2801,7 @@ end-of-line
 endomondo
 endpoint
 endpointmanagement
+endpointmanager
 endpoints
 energy
 engagement
@@ -2853,6 +2858,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2938,6 +2944,7 @@ everydaypowershell
 everydayrewards
 everything
 evilprince2009
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -3018,6 +3025,7 @@ extend
 extended
 extendedattributes
 extendedevents
+extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
@@ -3052,6 +3060,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failovercluster
 failure
 fake
 fake-useragent
@@ -3224,7 +3233,6 @@ flash
 flasharray
 flatfile
 flatten
-flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3431,6 +3439,7 @@ generativeaiinference
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genxdev
 geo
 geocache
@@ -3848,6 +3857,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -4004,7 +4014,6 @@ idn
 idna
 idoit
 idp
-idrac
 ids
 ie
 iem
@@ -4073,7 +4082,6 @@ incidentresponse
 incidents
 includeif
 incontact
-incremental
 indents
 index
 indexdb
@@ -4225,7 +4233,6 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
-ip_cameras
 ip-address
 ipa
 ipaddress
@@ -4287,12 +4294,16 @@ it-tools
 itadministration
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itfabrik.stepper
 itg
 itglue
+itil
 itin
 itops
 itprofessionals
@@ -4522,7 +4533,6 @@ labtech
 labtest
 labview
 labworker
-lake
 lambda
 lambdatest
 lame
@@ -4693,6 +4703,7 @@ localllm
 localpolicy
 localrepo
 localrepository
+localuser
 locate
 location
 locationbasedservices
@@ -5096,6 +5107,8 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
+midi
+midi2.0
 midserver
 migrate
 migration
@@ -5173,7 +5186,6 @@ module-testing
 module-testing-framework
 modulebuild
 modulecreation
-modulefactory
 modulefast
 modulemanagement
 modules
@@ -5327,6 +5339,7 @@ multiuser
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -5335,6 +5348,7 @@ mvn
 mvp
 mvr
 mvradaptivecards
+mwsqlserver
 mx
 mxlookup
 mycloudrevolution
@@ -5377,6 +5391,7 @@ native
 natpool
 natural
 natural-language-to-code
+natural-selection
 nature
 nav
 naven
@@ -5605,6 +5620,7 @@ nvidia
 nvim
 nvm
 nvm-window
+nvmeof
 nxt
 nyse
 nzb
@@ -6207,6 +6223,7 @@ pop-location
 pop3
 popcorn
 popd
+population
 popup
 popy
 port
@@ -6214,7 +6231,6 @@ port70
 portal
 portchecker
 portfolio
-porthunter
 ports
 portscan
 porttest
@@ -6302,7 +6318,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -6541,9 +6556,6 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxcard
 proxmox
 proxmoxve
@@ -6570,6 +6582,7 @@ ps5
 ps6
 ps7
 psa
+psadapter
 psadbscreencap
 psadgroupmembers
 psadt
@@ -9599,7 +9612,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -9736,6 +9748,7 @@ razor
 razzle
 rbac
 rbacmodel
+rbd
 rbsu
 rc4
 rcon
@@ -9762,6 +9775,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -9778,6 +9792,7 @@ recast
 recastsoftware
 recent
 reckon
+recognition
 recommendation
 reconcile
 reconnaissance
@@ -9857,7 +9872,6 @@ regularexpressions
 reinforcementlearning
 reinstall
 relational
-relativity
 relay
 release
 releasedefinition
@@ -9913,7 +9927,6 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
-render
 renderer
 rendering
 reonboarding
@@ -9955,12 +9968,14 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
 resource
 resource_monitor
 resource_watcher
+resourceanalytics
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -10134,6 +10149,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s/mime
 s1
@@ -10342,7 +10358,6 @@ securescore
 securesphere
 securestring
 security
-security_cameras
 security-assessment
 security-awareness-training
 security-policy
@@ -10599,7 +10614,6 @@ sit
 site
 site_navigation
 site-management
-sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -11080,7 +11094,6 @@ supress-reboot
 surestacks
 surface
 surround
-surveillance
 survey
 surveymonkey
 sus
@@ -11622,7 +11635,6 @@ typeextension
 types
 types.ps1xml
 typescript
-typing
 tzutil
 uac
 uag
@@ -11677,7 +11689,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -11969,7 +11980,6 @@ video-editing
 videogeneration
 videos
 vie
-view
 view-engine
 viewer
 vigenere
@@ -12441,7 +12451,6 @@ workload
 workload-automation
 workloadidentity
 workloads
-workpoint
 workrequests
 worksheet
 workspace
@@ -12594,6 +12603,7 @@ youtube
 youtube-dl
 youtube-transcript
 youtubeextractor
+youtubemusic
 yq
 yts
 yubaba
