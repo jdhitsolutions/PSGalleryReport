@@ -2138,4 +2138,4 @@ Parse Windows release information from the Microsoft official release informatio
 
 __Downloads__: 1,198,402 | __Repository__: https://github.com/schenardie/WindowsReleaseInformation
 
-*Updated: Friday, 20 March 2026 10:02:31 UTC*
+*Updated: Friday, 20 March 2026 21:57:07 UTC*

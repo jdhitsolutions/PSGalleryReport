@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 March 2026 10:02:35 UTC
+Updated: Friday, 20 March 2026 21:57:10 UTC
 
 .bat
 .env
@@ -70,7 +70,6 @@ Updated: Friday, 20 March 2026 10:02:35 UTC
 802.1x
 8021x
 9
-a3c
 aa
 aac
 aad
@@ -290,7 +289,6 @@ agm
 agnoster
 ahk
 ai
-ai-agent
 ai-development
 ai-server
 ai21
@@ -421,7 +419,6 @@ ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
-anti-idle
 anti-malware
 antimalwarescaninterface
 antiphishing
@@ -500,7 +497,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -544,7 +540,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 archon
 archonagent
 arcresourcebridge
@@ -611,7 +606,6 @@ assemblyloadcontext
 assemblymeta
 assert
 assertion
-assertion-testing
 assessment
 asset
 assetintelligencepoint
@@ -716,8 +710,6 @@ automationaccount
 automationanywhere
 automationportal
 automations
-automationutils
-automl
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -771,7 +763,6 @@ awx
 axapta
 axcient
 axcient_x360recover
-axinom
 axis
 axium
 ayx
@@ -1214,6 +1205,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1390,6 +1382,7 @@ cicdpipeline
 cidr
 cidrcalculator
 ciellos
+ciem
 cif
 cifv3
 cil
@@ -1534,7 +1527,6 @@ cmd
 cmdb
 cmdkey
 cmdlet
-cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
@@ -1548,7 +1540,6 @@ cmsmessage
 cmtrace
 cmwt
 cnc
-cnn
 cns
 co-writer
 coa
@@ -1672,7 +1663,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compressedguid
 compression
@@ -1938,6 +1928,7 @@ cryptobase
 cryptocompare
 cryptocurrency
 cryptography
+cryptopro
 cs137
 csc
 csharp
@@ -2136,7 +2127,6 @@ datalake
 datamanipulation
 datamodel
 datanorm
-datapipeline
 dataplatform
 datapro
 dataprocessing
@@ -2221,7 +2211,6 @@ deep
 deep-security
 deep-security-manager
 deepl
-deeplearning
 deepseek
 deepseek-coder
 deepseek-coder-v2
@@ -2559,7 +2548,6 @@ dpapi
 dpi
 dps
 dq
-dqn
 dr
 draw
 drawing
@@ -2858,7 +2846,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -3060,7 +3047,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failovercluster
 failure
 fake
 fake-useragent
@@ -3233,6 +3219,7 @@ flash
 flasharray
 flatfile
 flatten
+flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3369,7 +3356,6 @@ fullscreen
 fulltextindexmaintenance
 fun
 function
-function-testing
 functionality
 functionalprogramming
 functionapp
@@ -3727,6 +3713,7 @@ hardensysvol
 hardlink
 hardmatch
 hardware
+hardwarekey
 harperdb
 hartokens
 harvest
@@ -4082,6 +4069,7 @@ incidentresponse
 incidents
 includeif
 incontact
+incremental
 indents
 index
 indexdb
@@ -4098,7 +4086,6 @@ influx
 influxdb
 info
 infoblox
-inforcer
 informatica
 information
 information-technology
@@ -4233,6 +4220,7 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
 ipa
 ipaddress
@@ -4294,10 +4282,7 @@ it-tools
 itadministration
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itfabrik.stepper
@@ -4338,7 +4323,6 @@ jekyll
 jellyfin
 jenkins
 jetbrains
-jiggler
 jim
 jinja2
 jira
@@ -4533,6 +4517,7 @@ labtech
 labtest
 labview
 labworker
+lake
 lambda
 lambdatest
 lame
@@ -4744,7 +4729,6 @@ loggingingestion
 loggingsearch
 loggly
 logic
-logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -4799,7 +4783,6 @@ lsasecrets
 lsblk
 lsd
 lspci
-lstm
 lsusb
 ltm
 lucd
@@ -4848,7 +4831,6 @@ magicpacket
 magnet
 mail
 mailbox
-mailboxes
 mailchimp
 mailflow
 mailgroup
@@ -5107,8 +5089,6 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
-midi
-midi2.0
 midserver
 migrate
 migration
@@ -5155,7 +5135,6 @@ ml
 ml.net
 mlflow
 mlmodels
-mlops
 mltools
 mmdc
 mngdmac
@@ -5316,7 +5295,6 @@ multi-tenant
 multi-thread
 multi-threading
 multi-zone
-multiagent
 multicloud
 multicultural
 multidimenstional
@@ -5479,7 +5457,6 @@ networksecurity
 networksecuritygroup
 networkshares
 netwrix
-neuralnetwork
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5676,7 +5653,6 @@ offboarding
 offence
 office
 office_365
-office-365
 office-365-security
 office2010
 office2013
@@ -6210,8 +6186,6 @@ policyinsights
 policymetadata
 policystate
 poll
-pollinations.ai
-pollinationsai
 polly
 polycom
 pomodoro
@@ -6231,6 +6205,7 @@ port70
 portal
 portchecker
 portfolio
+porthunter
 ports
 portscan
 porttest
@@ -6318,6 +6293,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -6426,7 +6402,6 @@ powertooldsc
 powertree
 ppdm
 ppk
-ppo
 pposh
 pps
 ppt
@@ -6556,6 +6531,9 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxcard
 proxmox
 proxmoxve
@@ -9612,6 +9590,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -9645,7 +9624,6 @@ qcloud
 qconvergeconsolepowerkit
 qemu
 qiita
-qlearning
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9730,7 +9708,6 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
-rapid-prototyping
 rapt
 rar
 ras
@@ -9775,7 +9752,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -9869,9 +9845,9 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinforcementlearning
 reinstall
 relational
+relativity
 relay
 release
 releasedefinition
@@ -9927,6 +9903,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 renderer
 rendering
 reonboarding
@@ -10062,7 +10039,6 @@ rmcp
 rmm
 rms
 rng
-rnn
 roarwrecker
 robbyrussel
 robinhood
@@ -10084,7 +10060,6 @@ rollback
 rollingfile
 romaji
 ron
-rooms
 ropc
 rot13
 rotate
@@ -10149,7 +10124,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s/mime
 s1
@@ -10358,6 +10332,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-assessment
 security-awareness-training
 security-policy
@@ -10433,7 +10408,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 serialnumber
@@ -10614,6 +10588,7 @@ sit
 site
 site_navigation
 site-management
+sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -11094,6 +11069,7 @@ supress-reboot
 surestacks
 surface
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -11436,6 +11412,7 @@ timesheet
 timesheets
 timespan
 timestamp
+timesynchronization
 timezone
 tinkerpop
 tinymce
@@ -11483,7 +11460,6 @@ toolkit
 toolmaking
 tools
 tools4ever
-toolset
 toon
 topdesk
 topgrade
@@ -11498,6 +11474,7 @@ torrents
 toshiba
 totp
 touch
+touchvault
 toughswitch
 tower
 tphubps
@@ -11689,6 +11666,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -11698,7 +11676,6 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 uddi
 udfeedback
 udp
@@ -11711,7 +11688,6 @@ ue4ss
 uefi
 uem
 ui
-ui-framework
 ui/ux
 ui7
 uk
@@ -11976,10 +11952,10 @@ vi
 vib
 vibecoding
 video
-video-editing
 videogeneration
 videos
 vie
+view
 view-engine
 viewer
 vigenere
@@ -12393,6 +12369,7 @@ winforms
 winget
 wingetbridge
 winnt
+winops
 winrar
 winrm
 winrs
@@ -12451,6 +12428,7 @@ workload
 workload-automation
 workloadidentity
 workloads
+workpoint
 workrequests
 worksheet
 workspace
@@ -12500,7 +12478,6 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wts
@@ -12533,7 +12510,6 @@ xa
 xadcommander
 xaf
 xaml
-xaml-gui
 xbase
 xbox
 xclarity
