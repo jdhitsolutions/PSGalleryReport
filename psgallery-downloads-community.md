@@ -1098,9 +1098,9 @@ Types definitions for the VMware.PowerCLI.VCenter module related to the applianc
 
 __Downloads__: 7,632,079 | __Repository__: https://developer.vmware.com/powercli
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26041.7838) | 5.1.26041.7838
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26082.8038) | 5.1.26082.8038
 
-### Published: 02/11/2026 06:43:43 by Red Gate Software Ltd.
+### Published: 03/23/2026 06:44:22 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -1767,7 +1767,7 @@ __Downloads__: 2,193,829 | __Repository__: https://github.com/MSEndpointMgr/Intu
 
 SplitPipeline - Parallel Data Processing in PowerShell
 
-__Downloads__: 2,183,499 | __Repository__: https://github.com/nightroman/SplitPipeline
+__Downloads__: 2,183,501 | __Repository__: https://github.com/nightroman/SplitPipeline
 
 ## [GitHubActions](https://www.powershellgallery.com/Packages/GitHubActions/1.1.0.2) | 1.1.0.2
 
@@ -2096,7 +2096,7 @@ __Downloads__: 1,337,674 | __Repository__: https://github.com/OSDeploy/OSDCloudG
 
 Provides cmdlets for configuration and usage of Local admin password management solution
 
-__Downloads__: 1,309,072 | __Repository__: 
+__Downloads__: 1,309,073 | __Repository__: 
 
 ## [GoogleCloudBeta](https://www.powershellgallery.com/Packages/GoogleCloudBeta/1.0.1.9) | 1.0.1.9
 
@@ -2138,4 +2138,4 @@ A Powershell module for Azure ARM templates. Create templates with Powershell.
 
 __Downloads__: 1,199,663 | __Repository__: https://github.com/torgro/PoshARM
 
-*Updated: Sunday, 22 March 2026 21:55:15 UTC*
+*Updated: Monday, 23 March 2026 10:12:37 UTC*

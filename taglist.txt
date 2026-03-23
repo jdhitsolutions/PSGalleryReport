@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 March 2026 21:55:18 UTC
+Updated: Monday, 23 March 2026 10:12:40 UTC
 
 .bat
 .env
@@ -129,6 +129,7 @@ action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -212,6 +213,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adidns
 adif
@@ -833,6 +835,7 @@ azurearcstuff
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1111,7 +1114,6 @@ bre
 breach
 break
 breakpoint
-brevo
 brew
 brewing
 brewzilla
@@ -1324,7 +1326,6 @@ ch9
 change
 changeanalysis
 changelog
-changemanagement
 changetracking
 channel
 channel9
@@ -1344,6 +1345,7 @@ chatroom
 chatter
 cheat
 check
+checkdb
 checker
 checklist
 checklists
@@ -1369,7 +1371,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1682,6 +1683,7 @@ compute-ops-management
 computecloudatcustomer
 computefleet
 computeinstanceagent
+computelimit
 computer
 computer-room
 computer-site
@@ -1824,6 +1826,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -2105,6 +2109,7 @@ databaseautomation
 databasefirst
 databasemanagement
 databasemigration
+databaserecovery
 databases
 databasetools
 databooster
@@ -2482,7 +2487,6 @@ dnsrecord
 dnsresolver
 dnssec
 dnsserver
-dnssuffix
 dnvm
 doc
 docfx
@@ -2762,10 +2766,8 @@ emailaddressupdate
 emailauth
 emailauthchecker
 emailautomation
-emailcampain
 emailchecker
 emaildataplane
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2797,7 +2799,6 @@ encryption
 end-of-line
 endomondo
 endpoint
-endpointmanagement
 endpointmanager
 endpoints
 energy
@@ -2980,7 +2981,6 @@ executables
 execute
 execution
 executionalias
-executionpolicy
 exexml
 exif
 exiftool
@@ -3364,6 +3364,7 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
+fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3662,7 +3663,6 @@ gsettings
 gsudo
 gsuite
 gtx1080ti
-guard
 guardedfabric
 guardicore
 gubbins
@@ -4086,6 +4086,7 @@ incremental
 indents
 index
 indexdb
+indexmaintenance
 indicator
 indicators
 industrial
@@ -4158,6 +4159,7 @@ instant
 instapush
 instorage
 insulinpump
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -4264,7 +4266,6 @@ ir
 irc
 irkit
 irl
-irod
 irregular
 isadmin
 isbn
@@ -4304,7 +4305,6 @@ iteration
 itfabrik.stepper
 itg
 itglue
-itil
 itin
 itops
 itprofessionals
@@ -4870,6 +4870,7 @@ mak
 make
 maker
 malware
+mam
 mamagedidentity
 maml
 man-highlighting
@@ -5428,7 +5429,6 @@ nessus
 nested
 net
 net4.8
-netadapter
 netapi32
 netapp
 netapp_ontap_powershell_toolkit
@@ -5475,7 +5475,6 @@ networkinfo
 networking
 networkinterfaces
 networkloadbalancer
-networklocal
 networkpolicyserver
 networkprofile
 networkscan
@@ -5610,6 +5609,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5753,6 +5753,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 ooxml
 op
 opa
@@ -5887,6 +5888,7 @@ oura
 ouraring
 out-consolegridview
 out-default
+out-file
 out-gridview
 out-json
 outerjoin
@@ -6236,7 +6238,6 @@ portfolio
 porthunter
 ports
 portscan
-porttest
 pos
 posershellise
 posh
@@ -6494,7 +6495,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-proactive
 probability
 probe
 process
@@ -6592,6 +6592,7 @@ ps7
 psa
 psadapter
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -9549,6 +9550,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssnowflake
+pssnowflakebynarymodule
+pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10008,6 +10012,7 @@ restore
 restrictive
 results
 resume
+retail
 retention
 retirement
 retro
@@ -10714,8 +10719,13 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snowflakebynarymodule
+snowflakebynarypsmodule
+snowflakemodule
 snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
+snssfsqlpsmodule
 snssqlitepsmodule
 sntp
 soap
@@ -10770,7 +10780,6 @@ sourceforge
 sourcegraph
 sourceindexing
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -10849,6 +10858,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10967,6 +10977,7 @@ statichtmlsites
 staticip
 staticsite
 statistical
+statisticmaintenance
 statistics
 stats
 statsd
@@ -11444,7 +11455,6 @@ timestamp
 timesynchronization
 timezone
 tinkerpop
-tinymce
 tip
 tips
 titan
@@ -11686,7 +11696,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -11861,6 +11870,7 @@ utf7
 utf8
 utf8-sig
 utf8bom
+utf8nobom
 util
 utilities
 utility
@@ -12256,7 +12266,6 @@ where
 whfb
 whisper
 whiteboard
-whitelist
 whitelisting
 whitespace
 who
@@ -12527,6 +12536,7 @@ wus
 wvd
 www
 x-adcommander
+x-cart
 x.509
 x1
 x2

@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26082.8038) | 5.1.26082.8038
+
+### Published: 03/23/2026 06:44:22 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 7,613,747 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [PollinationsAiPS](https://www.powershellgallery.com/Packages/PollinationsAiPS/1.0.4.2) | 1.0.4.2
+
+### Published: 03/23/2026 05:32:38 by Nabil Redmann (BananaAcid)
+
+Power up your PowerShell scripts with AI! A seamless interface for Pollinations.ai to generate images, text, and audio. 🤖
+
+__Downloads__: 35 | __Repository__: https://github.com/BananaAcid/PollinationsAiPS
+
+## [AsBuiltReport.Microsoft.Intune](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Intune/0.1.0) | 0.1.0
+
+### Published: 03/23/2026 03:23:23 by Pai Wei Sing
+
+An AsBuiltReport module used to document Microsoft Intune (Endpoint Management) configuration including device compliance policies, configuration profiles, app management, enrollment restrictions, and security baselines.
+
+__Downloads__: 0 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Intune
+
+## [AsBuiltReport.Microsoft.EntraID](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.EntraID/0.1.21) | 0.1.21
+
+### Published: 03/23/2026 01:12:56 by Pai Wei Sing
+
+An AsBuiltReport module used to document Microsoft Entra ID (Azure AD) identity and access configuration including MFA, authentication methods, Conditional Access, and user security posture.
+
+__Downloads__: 0 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.EntraID
+
 ## [yeet](https://www.powershellgallery.com/Packages/yeet/1.6.1) | 1.6.1
 
 ### Published: 03/22/2026 20:13:27 by Fabian Montoya
@@ -11,14 +43,6 @@ AI-powered Git PR Creator CLI - Generates commit messages, PR titles, and descri
 
 __Downloads__: 22 | __Repository__: https://github.com/fabmnt/yeet-ps1
 
-## [Brevo](https://www.powershellgallery.com/Packages/Brevo/0.5.0) | 0.5.0
-
-### Published: 03/22/2026 19:22:01 by Thomas Subotitsch
-
-PowerShell module for managing Brevo contacts, lists, folders, segments, attributes, email campaigns and related resources
-
-__Downloads__: 83 | __Repository__: https://github.com/tsubotitsch/Brevo
-
 ## [NetboxRest](https://www.powershellgallery.com/Packages/NetboxRest/0.1.1) | 0.1.1
 
 ### Published: 03/22/2026 19:11:22 by Charles Pick
@@ -26,14 +50,6 @@ __Downloads__: 83 | __Repository__: https://github.com/tsubotitsch/Brevo
 A PowerShell module for interacting with NetBox via the REST API
 
 __Downloads__: 0 | __Repository__: https://github.com/charlespick/NetboxPS
-
-## [PollinationsAiPS](https://www.powershellgallery.com/Packages/PollinationsAiPS/1.0.4.1) | 1.0.4.1
-
-### Published: 03/22/2026 19:03:34 by Nabil Redmann (BananaAcid)
-
-Power up your PowerShell scripts with AI! A seamless interface for Pollinations.ai to generate images, text, and audio. 🤖
-
-__Downloads__: 38 | __Repository__: https://github.com/BananaAcid/PollinationsAiPS
 
 ## [PSWinOps](https://www.powershellgallery.com/Packages/PSWinOps/0.0.11) | 0.0.11
 
@@ -124,6 +140,14 @@ __Downloads__: 1,097 | __Repository__:
 Thin CLI wrapper around CpmfUipsPack. Provides a single Invoke-CpmfUipsCLI entry point that dispatches to all CpmfUipsPack public functions. Env-var injection, SupportsShouldProcess, and machine-readable output throughout. UiPath and UiPath Studio are trademarks of UiPath Inc. This module is not affiliated with or endorsed by UiPath Inc.
 
 __Downloads__: 7 | __Repository__: https://github.com/rpapub/cpmf-uips-pwshcli
+
+## [CpmfUipsPack](https://www.powershellgallery.com/Packages/CpmfUipsPack/0.1.1) | 0.1.1
+
+### Published: 03/21/2026 12:59:38 by Christian Prior-Mamulyan
+
+Bumps projectVersion, packs a UiPath project with uipcli, and stages the .nupkg to a local NuGet feed. Supports uipcli 23.x (.NET 6) and 25.x+ (.NET 8). Self-installs required runtimes without admin rights. UiPath and UiPath Studio are trademarks of UiPath Inc. This module is not affiliated with or endorsed by UiPath Inc.
+
+__Downloads__: 24 | __Repository__: https://github.com/rpapub/cpmf-uips-pwshpack
 
 ## [PSSupermicroIPMI](https://www.powershellgallery.com/Packages/PSSupermicroIPMI/1.0.2) | 1.0.2
 
@@ -390,14 +414,6 @@ Microsoft Entra ID (Azure AD) provider implementation for IdLE using Microsoft G
 
 __Downloads__: 38 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
 
-## [IdLE.Provider.AD](https://www.powershellgallery.com/Packages/IdLE.Provider.AD/0.9.7) | 0.9.7
-
-### Published: 03/20/2026 09:17:29 by Matthias Fleschuetz
-
-Active Directory (on-prem) provider implementation for IdLE (Windows-only, requires RSAT/ActiveDirectory module).
-
-__Downloads__: 40 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
-
 ## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.27.3) | 0.27.3
 
 ### Published: 03/20/2026 09:17:29 by DEVDEER
@@ -405,6 +421,14 @@ __Downloads__: 40 | __Repository__: https://github.com/blindzero/IdentityLifecyc
 This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
 
 __Downloads__: 4,457 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
+
+## [IdLE.Provider.AD](https://www.powershellgallery.com/Packages/IdLE.Provider.AD/0.9.7) | 0.9.7
+
+### Published: 03/20/2026 09:17:29 by Matthias Fleschuetz
+
+Active Directory (on-prem) provider implementation for IdLE (Windows-only, requires RSAT/ActiveDirectory module).
+
+__Downloads__: 40 | __Repository__: https://github.com/blindzero/IdentityLifecycleEngine
 
 ## [IdLE.Steps.Mailbox](https://www.powershellgallery.com/Packages/IdLE.Steps.Mailbox/0.9.7) | 0.9.7
 
@@ -675,7 +699,7 @@ __Downloads__: 38 | __Repository__: https://github.com/gianlucanadir/tiny-vault
 
 PowerShell module for administering JIM (Junctional Identity Manager). Provides cmdlets for managing Connected Systems, Sync Rules, Run Profiles, Metaverse Objects, Activities, API Keys, Certificates, and more. Supports both interactive (SSO) and non-interactive (API Key) authentication.
 
-__Downloads__: 40 | __Repository__: https://github.com/TetronIO/JIM
+__Downloads__: 39 | __Repository__: https://github.com/TetronIO/JIM
 
 ## [Measure-Time](https://www.powershellgallery.com/Packages/Measure-Time/1.0.4) | 1.0.4
 
@@ -2045,28 +2069,4 @@ This modules provides Cmdlets for OCI Certificatesmanagement Service
 
 __Downloads__: 13,164 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/125.2.0) | 125.2.0
-
-### Published: 03/17/2026 18:19:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificates Service
-
-__Downloads__: 13,037 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/125.2.0) | 125.2.0
-
-### Published: 03/17/2026 18:19:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Capacitymanagement Service
-
-__Downloads__: 8,558 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/125.2.0) | 125.2.0
-
-### Published: 03/17/2026 18:19:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 14,477 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 22 March 2026 21:55:09 UTC*
+*Updated: Monday, 23 March 2026 10:12:30 UTC*
