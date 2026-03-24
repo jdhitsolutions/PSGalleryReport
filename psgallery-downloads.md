@@ -1093,14 +1093,6 @@ Microsoft Azure PowerShell: Workloads cmdlets
 
 __Downloads__: 65,925,205 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AzureRM.KeyVault](https://www.powershellgallery.com/Packages/AzureRM.KeyVault/5.2.2) | 5.2.2
-
-### Published: 03/23/2021 12:50:53 by Microsoft Corporation
-
-Microsoft Azure PowerShell - KeyVault service cmdlets for Azure Resource Manager
-
-__Downloads__: 64,380,635 | __Repository__: https://github.com/Azure/azure-powershell
-
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
 ### Published: 06/08/2022 07:15:18 by Damien Van Robaeys
@@ -1416,6 +1408,14 @@ __Downloads__: 35,408,921 | __Repository__: https://github.com/Azure/azure-power
 Microsoft Azure PowerShell - Data Lake Store
 
 __Downloads__: 35,381,394 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.HDInsight](https://www.powershellgallery.com/Packages/AzureRM.HDInsight/4.1.9) | 4.1.9
+
+### Published: 03/23/2021 12:50:37 by Microsoft Corporation
+
+Microsoft Azure PowerShell - HDInsight service cmdlets for Azure Resource Manager
+
+__Downloads__: 35,271,729 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Billing](https://www.powershellgallery.com/Packages/AzureRM.Billing/0.14.7) | 0.14.7
 
@@ -2017,6 +2017,15 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 23,255,933 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
+## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
+
+### Published: 07/25/2018 21:32:26 by OneScript Team
+
+This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
+It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
+
+__Downloads__: 23,185,094 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
+
 ## [Microsoft.Graph.Education](https://www.powershellgallery.com/Packages/Microsoft.Graph.Education/2.36.1) | 2.36.1
 
 ### Published: 03/18/2026 17:48:31 by Microsoft Corporation
@@ -2137,14 +2146,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 20,823,176 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/5.0.180) | 5.0.180
-
-### Published: 03/23/2026 21:19:08 by Amazon.com Inc
-
-The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 20,505,689 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Monday, 23 March 2026 21:57:52 UTC*
+*Updated: Tuesday, 24 March 2026 10:07:55 UTC*
