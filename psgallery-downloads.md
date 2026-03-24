@@ -1093,6 +1093,14 @@ Microsoft Azure PowerShell: Workloads cmdlets
 
 __Downloads__: 65,925,205 | __Repository__: https://github.com/Azure/azure-powershell
 
+## [AzureRM.KeyVault](https://www.powershellgallery.com/Packages/AzureRM.KeyVault/5.2.2) | 5.2.2
+
+### Published: 03/23/2021 12:50:53 by Microsoft Corporation
+
+Microsoft Azure PowerShell - KeyVault service cmdlets for Azure Resource Manager
+
+__Downloads__: 64,380,635 | __Repository__: https://github.com/Azure/azure-powershell
+
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
 ### Published: 06/08/2022 07:15:18 by Damien Van Robaeys
@@ -2138,12 +2146,4 @@ Microsoft Graph PowerShell module
 
 __Downloads__: 21,769,274 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.DeviceManagement.Enrollment](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Enrollment/2.36.1) | 2.36.1
-
-### Published: 03/18/2026 17:48:13 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 20,823,176 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-*Updated: Tuesday, 24 March 2026 10:07:55 UTC*
+*Updated: Tuesday, 24 March 2026 21:59:36 UTC*

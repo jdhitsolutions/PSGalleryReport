@@ -2138,4 +2138,4 @@ A Powershell module for Azure ARM templates. Create templates with Powershell.
 
 __Downloads__: 1,199,668 | __Repository__: https://github.com/torgro/PoshARM
 
-*Updated: Tuesday, 24 March 2026 10:07:56 UTC*
+*Updated: Tuesday, 24 March 2026 21:59:37 UTC*
