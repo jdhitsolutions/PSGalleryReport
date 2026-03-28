@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.668.0) | 1.668.0
+
+### Published: 03/28/2026 09:45:26 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 15,485 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [FrontNox](https://www.powershellgallery.com/Packages/FrontNox/1.0.1) | 1.0.1
+
+### Published: 03/28/2026 09:36:29 by gor-dey
+
+Frontend developer toolkit: manage project shortcuts (proj) and run a local CORS proxy (corsproxy). Zero dependencies, pure PowerShell.
+
+__Downloads__: 2 | __Repository__: https://github.com/gor-dey/frontnox
+
+## [fount-pwsh](https://www.powershellgallery.com/Packages/fount-pwsh/0.2.1) | 0.2.1
+
+### Published: 03/28/2026 03:12:59 by steve02081504
+
+Allows you:
+- easily invoke, launch, and install fount in pwsh
+- linking fount characters to pwsh for companion and AI assist
+
+__Downloads__: 3,387 | __Repository__: https://github.com/steve02081504/fount-pwsh
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/3.2.2) | 3.2.2
+
+### Published: 03/27/2026 22:35:41 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start KRaft), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 1,357 | __Repository__: https://github.com/masesgroup/KNet
+
+## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20261.50462) | 1.20261.50462
+
+### Published: 03/27/2026 22:12:34 by Eigenverft
+
+Windows-focused PowerShell module for repeatable Windows Sandbox and fresh-machine bootstrap with managed Python, PowerShell, Node.js, and tooling runtimes, plus proxy-aware package bootstraps and fact-based runtime planning.
+
+__Downloads__: 148 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
+
 ## [dbaship](https://www.powershellgallery.com/Packages/dbaship/2.1.3) | 2.1.3
 
 ### Published: 03/27/2026 21:46:44 by Vlad Pertuz
@@ -26,22 +74,6 @@ __Downloads__: 23,985 | __Repository__: https://github.com/igoravl/tfscmdlets/
 PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
 
 __Downloads__: 314 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.667.0) | 1.667.0
-
-### Published: 03/27/2026 20:05:47 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 15,485 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20261.50337) | 1.20261.50337
-
-### Published: 03/27/2026 19:58:42 by Eigenverft
-
-Windows-focused PowerShell module for repeatable Windows Sandbox and fresh-machine bootstrap with managed Python, PowerShell, Node.js, and tooling runtimes, plus proxy-aware package bootstraps and fact-based runtime planning.
-
-__Downloads__: 148 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
 
 ## [orion.xkpasswd](https://www.powershellgallery.com/Packages/orion.xkpasswd/2.2.0) | 2.2.0
 
@@ -143,7 +175,7 @@ __Downloads__: 3,556 | __Repository__:
 
 Performs a comprehensive DNS audit of mail-related records (MX, NS, SPF, DMARC, DKIM, BIMI, MTA-STS, TLS-RPT) for a domain, email address, or URL. Includes FCrDNS (PTR) validation on the primary MX host, DKIM selector auto-discovery, TXT/CNAME/BOTH record-type modes, pipeline/bulk input, and CSV/JSON export. Runs on Windows (Resolve-DnsName) and Linux/macOS (dig).
 
-__Downloads__: 29 | __Repository__: https://github.com/dcazman/Get-MailRecords
+__Downloads__: 28 | __Repository__: https://github.com/dcazman/Get-MailRecords
 
 ## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/9.1.4) | 9.1.4
 
@@ -266,7 +298,7 @@ __Downloads__: 114 | __Repository__: https://github.com/endjin/endjin-gists
 
 The unofficial API cmdlet to interact with the Microsoft Defender XDR portal
 
-__Downloads__: 250 | __Repository__: https://github.com/MSCloudInternals/XDRInternals
+__Downloads__: 251 | __Repository__: https://github.com/MSCloudInternals/XDRInternals
 
 ## [PSWinOps](https://www.powershellgallery.com/Packages/PSWinOps/0.0.14) | 0.0.14
 
@@ -331,14 +363,6 @@ __Downloads__: 203 | __Repository__: https://github.com/jasonmcboyd/dclaude
 OSD.Workspace PowerShell Module for OSDWorkspace in VS Code
 
 __Downloads__: 1,053 | __Repository__: https://github.com/OSDeploy/OSD.Workspace
-
-## [AITriad](https://www.powershellgallery.com/Packages/AITriad/0.1.0) | 0.1.0
-
-### Published: 03/25/2026 22:58:36 by Jeffrey Snover
-
-AI Triad Research — taxonomy queries, document ingestion, POV analysis
-
-__Downloads__: 4 | __Repository__: https://github.com/jsnov/ai-triad-research
 
 ## [VerifyEncoding](https://www.powershellgallery.com/Packages/VerifyEncoding/2.3.0) | 2.3.0
 
@@ -1934,7 +1958,7 @@ __Downloads__: 17 | __Repository__:
 
 Simplify Microsoft 365 Tenant Configuration Management (TCM) APIs. The EasyPIM approach for tenant-wide configuration monitoring, drift detection, and Maester integration.
 
-__Downloads__: 69 | __Repository__: https://github.com/kayasax/EasyTCM
+__Downloads__: 68 | __Repository__: https://github.com/kayasax/EasyTCM
 
 ## [PSFileIcons](https://www.powershellgallery.com/Packages/PSFileIcons/0.1.1) | 0.1.1
 
@@ -2022,7 +2046,7 @@ __Downloads__: 127,743 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 141,249 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 141,248 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.25.0.10) | 2.25.0.10
 
@@ -2040,20 +2064,4 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 112,332 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.8.0.10) | 1.8.0.10
-
-### Published: 03/24/2026 03:48:48 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 128,422 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.20.1.7) | 1.20.1.7
-
-### Published: 03/24/2026 03:48:43 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 160,993 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Friday, 27 March 2026 21:59:09 UTC*
+*Updated: Saturday, 28 March 2026 10:00:02 UTC*
