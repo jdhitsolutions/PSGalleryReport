@@ -2146,4 +2146,4 @@ Microsoft Graph PowerShell module
 
 __Downloads__: 21,891,163 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Saturday, 28 March 2026 21:56:35 UTC*
+*Updated: Sunday, 29 March 2026 10:00:54 UTC*

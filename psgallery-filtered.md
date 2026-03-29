@@ -3,13 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.668.3) | 1.668.3
+## [NativeCommandCompleter.psm](https://www.powershellgallery.com/Packages/NativeCommandCompleter.psm/0.2.0) | 0.2.0
 
-### Published: 03/28/2026 21:06:29 by Windmill Labs
+### Published: 03/29/2026 09:36:22 by teramako
+
+Native Command Completer
+
+__Downloads__: 23 | __Repository__: https://github.com/teramako/NativeCommandCompleter.psm
+
+## [NativeCommandCompleter.completions](https://www.powershellgallery.com/Packages/NativeCommandCompleter.completions/0.1.20260329) | 0.1.20260329
+
+### Published: 03/29/2026 08:28:23 by teramako
+
+Completion definitions for NativeCommandCompleter.psm
+
+__Downloads__: 0 | __Repository__: https://github.com/teramako/NativeCommandCompleter.completions
+
+## [EasyTCM](https://www.powershellgallery.com/Packages/EasyTCM/0.5.0) | 0.5.0
+
+### Published: 03/29/2026 08:04:47 by Loic MICHEL
+
+Simplify Microsoft 365 Tenant Configuration Management (TCM) APIs. The EasyPIM approach for tenant-wide configuration monitoring, drift detection, and Maester integration.
+
+__Downloads__: 70 | __Repository__: https://github.com/kayasax/EasyTCM
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.668.4) | 1.668.4
+
+### Published: 03/29/2026 07:23:41 by Windmill Labs
 
 Client for the Windmill platform.
 
 __Downloads__: 15,503 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PowerLiquid](https://www.powershellgallery.com/Packages/PowerLiquid/0.8.6) | 0.8.6
+
+### Published: 03/29/2026 01:20:12 by Paul Dash
+
+Implementation of the Liquid templating language with dialect and extension registry support.
+
+__Downloads__: 0 | __Repository__: https://github.com/PaulDash/PowerLiquid
+
+## [PSChromeDevToolsServer](https://www.powershellgallery.com/Packages/PSChromeDevToolsServer/0.2.0) | 0.2.0
+
+### Published: 03/29/2026 00:14:34 by Daniel Gong
+
+Automate any Chromium browser with Powershell using the Chrome DevTools Protocol.
+Uses anonymous pipes to connect to remote-debugging-pipes to control the browser.
+
+__Downloads__: 19 | __Repository__: https://github.com/Exathi/PSChromeDevToolsServer
 
 ## [RTShell](https://www.powershellgallery.com/Packages/RTShell/0.1.0) | 0.1.0
 
@@ -243,6 +284,18 @@ Use at own risk
 
 __Downloads__: 4 | __Repository__: 
 
+## [ImportDependency](https://www.powershellgallery.com/Packages/ImportDependency/0.4.9) | 0.4.9
+
+### Published: 03/27/2026 15:02:28 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell import dependencies
+
+Module to import dependencies from the PowerShell Gallery and NuGet.
+
+Please make sure to have the Modules WriteLog and PowerShellGet (>= 2.2.4) installed.
+
+__Downloads__: 346 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ImportDependency
+
 ## [RskToast](https://www.powershellgallery.com/Packages/RskToast/3.0.1.0) | 3.0.1.0
 
 ### Published: 03/27/2026 14:13:06 by CatalinTRSK
@@ -250,14 +303,6 @@ __Downloads__: 4 | __Repository__:
 PS Cmdlet to display Windows Toast Notifications using Microsoft.Toolkit.Uwp.Notifications.
 
 __Downloads__: 3,728 | __Repository__: 
-
-## [Get-MailRecords](https://www.powershellgallery.com/Packages/Get-MailRecords/2.0.0) | 2.0.0
-
-### Published: 03/27/2026 13:15:21 by Dan Casmas
-
-Performs a comprehensive DNS audit of mail-related records (MX, NS, SPF, DMARC, DKIM, BIMI, MTA-STS, TLS-RPT) for a domain, email address, or URL. Includes FCrDNS (PTR) validation on the primary MX host, DKIM selector auto-discovery, TXT/CNAME/BOTH record-type modes, pipeline/bulk input, and CSV/JSON export. Runs on Windows (Resolve-DnsName) and Linux/macOS (dig).
-
-__Downloads__: 30 | __Repository__: https://github.com/dcazman/Get-MailRecords
 
 ## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/9.1.4) | 9.1.4
 
@@ -274,15 +319,6 @@ __Downloads__: 422,329 | __Repository__: https://github.com/Corsinvest/cv4pve-ap
 Nexthink vSphere Hypervisor Connector Module for PowerShell
 
 __Downloads__: 77 | __Repository__: 
-
-## [PSChromeDevToolsServer](https://www.powershellgallery.com/Packages/PSChromeDevToolsServer/0.1.5) | 0.1.5
-
-### Published: 03/27/2026 04:19:32 by Daniel Gong
-
-Automate any Chromium browser with Powershell using the Chrome DevTools Protocol.
-Uses anonymous pipes to connect to remote-debugging-pipes to control the browser.
-
-__Downloads__: 19 | __Repository__: https://github.com/Exathi/PSChromeDevToolsServer
 
 ## [PowerPlatformChecker](https://www.powershellgallery.com/Packages/PowerPlatformChecker/0.2.4) | 0.2.4
 
@@ -1995,14 +2031,6 @@ Shared QAOps pipeline functions for DataMiner automation and test execution.
 
 __Downloads__: 17 | __Repository__: 
 
-## [EasyTCM](https://www.powershellgallery.com/Packages/EasyTCM/0.4.3) | 0.4.3
-
-### Published: 03/24/2026 10:51:26 by Loic MICHEL
-
-Simplify Microsoft 365 Tenant Configuration Management (TCM) APIs. The EasyPIM approach for tenant-wide configuration monitoring, drift detection, and Maester integration.
-
-__Downloads__: 70 | __Repository__: https://github.com/kayasax/EasyTCM
-
 ## [PSFileIcons](https://www.powershellgallery.com/Packages/PSFileIcons/0.1.1) | 0.1.1
 
 ### Published: 03/24/2026 10:02:11 by James Reilly
@@ -2035,28 +2063,4 @@ Tools used for Business Application Platform, One Dynamics One Platform - D365FO
 
 __Downloads__: 1,159 | __Repository__: 
 
-## [AsBuiltReport.Microsoft.ExchangeOnline](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.ExchangeOnline/0.1.0) | 0.1.0
-
-### Published: 03/24/2026 05:11:53 by Pai Wei Sing
-
-An AsBuiltReport module used to document Microsoft Exchange Online configuration including transport rules, mail flow, anti-spam/malware policies, DKIM/DMARC, connectors, shared mailboxes, and security posture. Includes ACSC Essential Eight and CIS Microsoft 365 compliance assessments.
-
-__Downloads__: 6 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.ExchangeOnline
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.1.0.10) | 12.1.0.10
-
-### Published: 03/24/2026 03:51:30 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 133,061 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.6.0.10) | 1.6.0.10
-
-### Published: 03/24/2026 03:50:18 by Taylor Lee
-
-Functions for Security Operations and Investigations
-
-__Downloads__: 7,709 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Saturday, 28 March 2026 21:56:31 UTC*
+*Updated: Sunday, 29 March 2026 10:00:50 UTC*
