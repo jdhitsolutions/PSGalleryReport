@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 April 2026 21:57:54 UTC
+Updated: Monday, 06 April 2026 10:14:14 UTC
 
 .bat
 .env
@@ -164,6 +164,7 @@ activitycount
 actor-model
 actors
 acumatica
+acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -292,7 +293,6 @@ agm
 agnoster
 ahk
 ai
-ai-agent
 ai-development
 ai-server
 ai21
@@ -420,6 +420,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -929,6 +930,7 @@ bar
 baramundi
 barcodes
 baremetal
+barerepo
 base
 base16
 base26
@@ -1839,6 +1841,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1954,6 +1958,7 @@ cryptobase
 cryptocompare
 cryptocurrency
 cryptography
+cryptopro
 cs137
 csc
 csharp
@@ -2016,6 +2021,48 @@ cve
 cve-2021-34527
 cvrf
 cvss
+cwe-1035
+cwe-1051
+cwe-113
+cwe-117
+cwe-1333
+cwe-134
+cwe-1352
+cwe-1391
+cwe-15
+cwe-209
+cwe-22
+cwe-259
+cwe-269
+cwe-290
+cwe-312
+cwe-319
+cwe-326
+cwe-327
+cwe-328
+cwe-336
+cwe-337
+cwe-346
+cwe-377
+cwe-379
+cwe-502
+cwe-507
+cwe-521
+cwe-540
+cwe-601
+cwe-611
+cwe-613
+cwe-641
+cwe-643
+cwe-776
+cwe-79
+cwe-798
+cwe-89
+cwe-90
+cwe-918
+cwe-942
+cwe-943
+cwe-99
 cwi
 cx
 cyber
@@ -2253,7 +2300,6 @@ deploymentresourceprovider
 deploymenttasks
 depute
 der
-des
 description
 deserialize
 design
@@ -2308,6 +2354,7 @@ devsecninja
 devsecops
 devtestlabs
 devtools
+devworkflow
 dexcom
 dfch
 dfir
@@ -2916,6 +2963,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3262,6 +3310,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forge
 forgit
 forgiveness
 form
@@ -3283,7 +3332,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortra
 fortune
 fortytwo
 forum
@@ -3555,7 +3603,6 @@ gnu
 gnucash
 gnuwin32
 go
-goanywhere
 gobright
 godaddy
 golang
@@ -3715,6 +3762,8 @@ hardwaredetection
 hardwarekey
 harperdb
 hartokens
+harvest
+harvestforecast
 hash
 hash-verification
 hashcat
@@ -4393,7 +4442,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4842,6 +4890,7 @@ magicpacket
 magnet
 mail
 mailbox
+mailboxes
 mailchimp
 mailflow
 mailgroup
@@ -5167,7 +5216,6 @@ modelcontextprotocol
 modeldeployment
 modeling
 models
-models.dev
 modern
 modernactivedirectoryenhanced
 modernflow
@@ -5676,12 +5724,14 @@ offboarding
 offence
 office
 office_365
+office-365
 office-365-security
 office2010
 office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -5901,6 +5951,10 @@ ovf
 ovgd
 ovh
 owasp
+owasp-6.2.2
+owasp-6.3.1
+owasp-a05
+owasp-a07
 owls
 owner
 oxygen
@@ -5971,6 +6025,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 pass-the-hash
@@ -6017,6 +6072,7 @@ patchtuesday
 path
 pathfinder
 pathlength
+pathmanagement
 patternmatching
 paulo
 pause
@@ -6205,8 +6261,6 @@ policyinsights
 policymetadata
 policystate
 poll
-pollinations.ai
-pollinationsai
 polly
 polycom
 pomodoro
@@ -9544,6 +9598,7 @@ psscriptanalyzer
 psscriptanaylzer
 psscriptsmonitoring
 pssearchgithub
+pssec
 pssendgrid
 pssession
 pssharper
@@ -9615,6 +9670,7 @@ pure
 pure1
 pureservice
 purestorage
+purfew
 purple
 purview
 push
@@ -9749,6 +9805,7 @@ raspberrypi
 raspbian
 rate
 rate-limit
+rates
 rating
 ratings
 ravendb
@@ -9879,6 +9936,7 @@ regular-expression
 regularexpression
 regularexpressions
 reinforcementlearning
+reinstall
 relational
 relations
 relativity
@@ -10098,6 +10156,7 @@ rollingfile
 rollout
 romaji
 ron
+rooms
 ropc
 rot13
 rotate
@@ -10155,7 +10214,6 @@ runspace
 runspacepool
 runspaces
 runtime
-runtime-manager
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 russia
@@ -10326,7 +10384,6 @@ scvmm
 sd
 sddl
 sdk
-sdkman
 sdn
 sdp
 search
@@ -10431,6 +10488,7 @@ send-message
 send-mgusermail
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -10931,7 +10989,6 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
-sslstream
 sslvpn
 ssm
 sso
@@ -11184,7 +11241,6 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
-system-group
 system-info
 system-service
 system-services
@@ -11416,6 +11472,7 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 theming
+themis
 thermal
 thermostat
 thinprint
@@ -11488,7 +11545,6 @@ to-do
 toast
 toasts
 tobias
-toc
 todo
 todo.txt
 toggl
@@ -12000,7 +12056,6 @@ verification
 verify
 version
 version-management
-version-manager
 versioncontrol
 versioning
 versionmanager
@@ -12280,7 +12335,6 @@ wer
 wfp
 wget
 what3words
-whatif
 whatismyip
 whatsnew
 whatsupgold
