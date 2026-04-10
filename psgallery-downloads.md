@@ -1085,6 +1085,14 @@ PowerShell module with commands for discovering, installing, and updating Docker
 
 __Downloads__: 68,676,856 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
 
+## [PS-SentinelOne](https://www.powershellgallery.com/Packages/PS-SentinelOne/2.1.2) | 2.1.2
+
+### Published: 08/12/2024 19:07:29 by davidhowell.tx
+
+A PowerShell script module that provides command-line interaction and automation for the SentinelOne API.
+
+__Downloads__: 66,670,286 | __Repository__: 
+
 ## [AzureRM.KeyVault](https://www.powershellgallery.com/Packages/AzureRM.KeyVault/5.2.2) | 5.2.2
 
 ### Published: 03/23/2021 12:50:53 by Microsoft Corporation
@@ -1823,6 +1831,14 @@ IIS Configuration management module
 
 __Downloads__: 27,108,860 | __Repository__: 
 
+## [xCertificate](https://www.powershellgallery.com/Packages/xCertificate/3.2.0.0) | 3.2.0.0
+
+### Published: 02/08/2018 01:37:45 by Microsoft Corporation
+
+This module includes DSC resources that simplify administration of certificates on a Windows Server
+
+__Downloads__: 25,849,366 | __Repository__: https://github.com/PowerShell/xCertificate
+
 ## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.36.1) | 2.36.1
 
 ### Published: 03/18/2026 17:49:29 by Microsoft Corporation
@@ -2031,6 +2047,15 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 23,282,762 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
+## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
+
+### Published: 07/25/2018 21:32:26 by OneScript Team
+
+This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
+It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
+
+__Downloads__: 23,186,092 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
+
 ## [Microsoft.Graph.CloudCommunications](https://www.powershellgallery.com/Packages/Microsoft.Graph.CloudCommunications/2.36.1) | 2.36.1
 
 ### Published: 03/18/2026 17:48:00 by Microsoft Corporation
@@ -2111,9 +2136,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 21,228,135 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/5.0.192) | 5.0.192
+## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/5.0.193) | 5.0.193
 
-### Published: 04/08/2026 23:20:58 by Amazon.com Inc
+### Published: 04/09/2026 22:15:07 by Amazon.com Inc
 
 The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -2121,29 +2146,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 20,843,962 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.4.0.24798382) | 13.4.0.24798382
-
-### Published: 06/17/2025 13:51:09 by Broadcom
-
-This PowerShell module contains PowerCLI VDS cmdlets.
-
-__Downloads__: 20,423,663 | __Repository__: https://developer.broadcom.com/powercli
-
-## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.10) | 7.8.10
-
-### Published: 10/21/2024 23:45:09 by Douglas Finke
-
-PowerShell module to import/export Excel spreadsheets, without Excel.
-Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
-
-__Downloads__: 20,346,237 | __Repository__: https://github.com/dfinke/ImportExcel
-
-## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.10.0) | 2.10.0
-
-### Published: 02/22/2026 23:07:32 by Thomas Freudenberg
-
-Powershell module for creating and extracting 7-Zip archives
-
-__Downloads__: 20,181,568 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
-
-*Updated: Thursday, 09 April 2026 22:00:52 UTC*
+*Updated: Friday, 10 April 2026 10:12:31 UTC*
