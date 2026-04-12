@@ -1735,7 +1735,7 @@ __Downloads__: 2,283,228 | __Repository__:
 
 Manages the security mitigations available in the Windows Defender Security Center
 
-__Downloads__: 2,282,002 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
+__Downloads__: 2,282,003 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
 
 ## [AuditSystemDsc](https://www.powershellgallery.com/Packages/AuditSystemDsc/1.1.0) | 1.1.0
 
@@ -1743,7 +1743,7 @@ __Downloads__: 2,282,002 | __Repository__: https://github.com/jcwalker/WindowsDe
 
 This module contains resources used to audit system settings/verify compliance.
 
-__Downloads__: 2,270,773 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
+__Downloads__: 2,270,774 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
 
 ## [DsReg](https://www.powershellgallery.com/Packages/DsReg/1.3.1) | 1.3.1
 
@@ -2142,4 +2142,4 @@ Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few 
 
 __Downloads__: 1,215,956 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
-*Updated: Sunday, 12 April 2026 10:04:40 UTC*
+*Updated: Sunday, 12 April 2026 21:59:32 UTC*
