@@ -1,3 +1,13 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 April 2026 22:01:40 UTC
+Updated: Friday, 17 April 2026 10:13:37 UTC
+activedirectory
+aes
+assessment
+des
+encryption
+kerberos
+psmodule
+rc4
+remediation
+security
