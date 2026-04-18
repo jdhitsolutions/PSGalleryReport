@@ -3,6 +3,469 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSRouterOS](https://www.powershellgallery.com/Packages/PSRouterOS/1.0.1) | 1.0.1
+
+### Published: 04/18/2026 20:32:52 by Ricardo Maritn
+
+Automation of RouterOS (MikroTik) devices.
+
+__Downloads__: 1,759 | __Repository__: 
+
+## [M365-Assess](https://www.powershellgallery.com/Packages/M365-Assess/1.16.0) | 1.16.0
+
+### Published: 04/18/2026 19:51:09 by Galvnyz
+
+Comprehensive read-only Microsoft 365 security assessment tool for IT consultants and administrators. Covers Entra ID, Exchange Online, Intune, Defender, SharePoint, Teams, Purview, and Active Directory.
+
+__Downloads__: 246 | __Repository__: https://github.com/Galvnyz/M365-Assess
+
+## [Dargslan.ResolvCheck](https://www.powershellgallery.com/Packages/Dargslan.ResolvCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:21 by Dargslan
+
+Check DNS resolver configuration and connectivity — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.ProcessKiller](https://www.powershellgallery.com/Packages/Dargslan.ProcessKiller/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:15 by Dargslan
+
+Find and terminate processes by name, PID, or resource usage — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.PortMonitor](https://www.powershellgallery.com/Packages/Dargslan.PortMonitor/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:11 by Dargslan
+
+Monitor open TCP/UDP ports and listening services — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.PasswdAudit](https://www.powershellgallery.com/Packages/Dargslan.PasswdAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:08 by Dargslan
+
+Audit local user password policies and expiration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.PackageAudit](https://www.powershellgallery.com/Packages/Dargslan.PackageAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:07 by Dargslan
+
+Audit installed software packages and versions — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NumaCheck](https://www.powershellgallery.com/Packages/Dargslan.NumaCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:04 by Dargslan
+
+Check NUMA topology and memory node configuration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NtpCheck](https://www.powershellgallery.com/Packages/Dargslan.NtpCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:19:02 by Dargslan
+
+Check time synchronization and NTP configuration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NginxAnalyzer](https://www.powershellgallery.com/Packages/Dargslan.NginxAnalyzer/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:59 by Dargslan
+
+Analyze IIS web server configuration and performance — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NfsHealth](https://www.powershellgallery.com/Packages/Dargslan.NfsHealth/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:58 by Dargslan
+
+Check SMB/CIFS share health and NFS client status — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NetworkLatency](https://www.powershellgallery.com/Packages/Dargslan.NetworkLatency/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:57 by Dargslan
+
+Measure network latency and packet loss to targets — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NetfilterCheck](https://www.powershellgallery.com/Packages/Dargslan.NetfilterCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:54 by Dargslan
+
+Check Windows Filtering Platform and network filter status — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.NetScanner](https://www.powershellgallery.com/Packages/Dargslan.NetScanner/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:53 by Dargslan
+
+Scan local network for active hosts and open ports — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.MotdManager](https://www.powershellgallery.com/Packages/Dargslan.MotdManager/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:46 by Dargslan
+
+Manage Windows login banner and legal notice messages — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.ModprobeCheck](https://www.powershellgallery.com/Packages/Dargslan.ModprobeCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:45 by Dargslan
+
+Check Windows driver loading and device manager status — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.MemoryProfiler](https://www.powershellgallery.com/Packages/Dargslan.MemoryProfiler/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:43 by Dargslan
+
+Profile memory usage and detect memory leaks — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LvmCheck](https://www.powershellgallery.com/Packages/Dargslan.LvmCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:42 by Dargslan
+
+Check Windows Storage Spaces and dynamic disk configuration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LogRotate](https://www.powershellgallery.com/Packages/Dargslan.LogRotate/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:34 by Dargslan
+
+Manage log file rotation and cleanup on Windows — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LogParser](https://www.powershellgallery.com/Packages/Dargslan.LogParser/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:32 by Dargslan
+
+Parse and analyze Windows event log files — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LocaleCheck](https://www.powershellgallery.com/Packages/Dargslan.LocaleCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:31 by Dargslan
+
+Check system locale, timezone, and regional settings — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LastlogAudit](https://www.powershellgallery.com/Packages/Dargslan.LastlogAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:27 by Dargslan
+
+Audit user last login times and login history — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.WinPersistenceAudit](https://www.powershellgallery.com/Packages/Dargslan.WinPersistenceAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:24 by Dargslan
+
+Audit Windows persistence locations: registry Run keys, scheduled tasks and unsigned autorun binaries. JSON / HTML report.
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/blog/windows-persistence-audit-powershell-2026
+
+## [Dargslan.KernelModule](https://www.powershellgallery.com/Packages/Dargslan.KernelModule/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:24 by Dargslan
+
+List loaded drivers and kernel modules on Windows — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.KernelCheck](https://www.powershellgallery.com/Packages/Dargslan.KernelCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:23 by Dargslan
+
+Check Windows kernel version and installed hotfixes — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.LocalAdminAudit](https://www.powershellgallery.com/Packages/Dargslan.LocalAdminAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:23 by Dargslan
+
+Audit Windows local users and the Administrators group: members, dormant accounts, Guest state, unknown SIDs.
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/blog/windows-local-admin-audit-powershell-2026
+
+## [Dargslan.JournaldAnalyzer](https://www.powershellgallery.com/Packages/Dargslan.JournaldAnalyzer/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:19 by Dargslan
+
+Analyze Windows Event Log patterns and anomalies — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.WinFirewallAudit](https://www.powershellgallery.com/Packages/Dargslan.WinFirewallAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:18 by Dargslan
+
+Audit Windows Firewall profiles and rules. Detect risky Allow Any Any rules, disabled profiles and GPO overrides. JSON / HTML compliance report.
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/blog/windows-firewall-audit-powershell-2026
+
+## [Dargslan.JournalExport](https://www.powershellgallery.com/Packages/Dargslan.JournalExport/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:17 by Dargslan
+
+Export Windows Event Log entries to various formats — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.Ipv6Audit](https://www.powershellgallery.com/Packages/Dargslan.Ipv6Audit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:16 by Dargslan
+
+Audit IPv6 configuration and transition mechanisms — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.IptablesExport](https://www.powershellgallery.com/Packages/Dargslan.IptablesExport/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:13 by Dargslan
+
+Export Windows Firewall rules to file for backup — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.IpGeo](https://www.powershellgallery.com/Packages/Dargslan.IpGeo/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:12 by Dargslan
+
+Look up IP geolocation and network information — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.IoMonitor](https://www.powershellgallery.com/Packages/Dargslan.IoMonitor/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:10 by Dargslan
+
+Monitor disk I/O operations and throughput per process — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.InterfaceMonitor](https://www.powershellgallery.com/Packages/Dargslan.InterfaceMonitor/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:07 by Dargslan
+
+Monitor network interface status and error counters — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.InodeMonitor](https://www.powershellgallery.com/Packages/Dargslan.InodeMonitor/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:05 by Dargslan
+
+Monitor NTFS MFT and file system metadata health — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.IisSecurityAudit](https://www.powershellgallery.com/Packages/Dargslan.IisSecurityAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:04 by Dargslan
+
+Audit IIS bindings, SChannel TLS protocols, weak ciphers and app pool identities. JSON / HTML report.
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/blog/iis-tls-security-audit-powershell-2026
+
+## [Dargslan.HyperVSecurityAudit](https://www.powershellgallery.com/Packages/Dargslan.HyperVSecurityAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:02 by Dargslan
+
+Audit Hyper-V VMs: Secure Boot, vTPM, Shielded VM, snapshot retention, integration components. JSON / HTML report.
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/blog/hyperv-vm-security-audit-powershell-2026
+
+## [Dargslan.HostnameCheck](https://www.powershellgallery.com/Packages/Dargslan.HostnameCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:01 by Dargslan
+
+Verify hostname, domain membership, and DNS registration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.HostnameInfo](https://www.powershellgallery.com/Packages/Dargslan.HostnameInfo/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:18:01 by Dargslan
+
+Display detailed hostname and system identity information — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.GrubCheck](https://www.powershellgallery.com/Packages/Dargslan.GrubCheck/1.0.1) | 1.0.1
+
+### Published: 04/18/2026 19:17:58 by Dargslan
+
+Check Windows boot configuration and BCD settings — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.GitAudit](https://www.powershellgallery.com/Packages/Dargslan.GitAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:57 by Dargslan
+
+Audit Git repositories for secrets and security issues — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.FstabCheck](https://www.powershellgallery.com/Packages/Dargslan.FstabCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:56 by Dargslan
+
+Check mounted volumes and drive mount configuration — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.FirewallAudit](https://www.powershellgallery.com/Packages/Dargslan.FirewallAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:54 by Dargslan
+
+Audit Windows Firewall rules and network security policies — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.FileIntegrity](https://www.powershellgallery.com/Packages/Dargslan.FileIntegrity/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:52 by Dargslan
+
+Check file integrity using hashes and detect unauthorized changes — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.Fail2banAudit](https://www.powershellgallery.com/Packages/Dargslan.Fail2banAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:50 by Dargslan
+
+Audit Windows account lockout policies and blocked IPs — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.EthtoolCheck](https://www.powershellgallery.com/Packages/Dargslan.EthtoolCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:48 by Dargslan
+
+Check network adapter hardware properties and driver info — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.EnvAudit](https://www.powershellgallery.com/Packages/Dargslan.EnvAudit/1.0.1) | 1.0.1
+
+### Published: 04/18/2026 19:17:46 by Dargslan
+
+Audit environment variables for sensitive data exposure — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.EntropyCheck](https://www.powershellgallery.com/Packages/Dargslan.EntropyCheck/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:44 by Dargslan
+
+Check system randomness and cryptographic entropy sources — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.DiskQuota](https://www.powershellgallery.com/Packages/Dargslan.DiskQuota/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:34 by Dargslan
+
+Monitor disk quotas and usage limits — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.DiskHealth](https://www.powershellgallery.com/Packages/Dargslan.DiskHealth/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:32 by Dargslan
+
+Monitor disk health, SMART status, and storage performance — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.DiskCleaner](https://www.powershellgallery.com/Packages/Dargslan.DiskCleaner/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:30 by Dargslan
+
+Clean temporary files and reclaim disk space — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 1 | __Repository__: https://dargslan.com/
+
+## [Dargslan.DiskBenchmark](https://www.powershellgallery.com/Packages/Dargslan.DiskBenchmark/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:27 by Dargslan
+
+Benchmark disk I/O read and write performance — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.CryptAudit](https://www.powershellgallery.com/Packages/Dargslan.CryptAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:25 by Dargslan
+
+Audit encryption settings, BitLocker status, and cipher suites — Part of the Dargslan Windows Admin Tools collection. More at https://dargslan.com
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/
+
+## [Dargslan.AdPasswordAudit](https://www.powershellgallery.com/Packages/Dargslan.AdPasswordAudit/1.0.0) | 1.0.0
+
+### Published: 04/18/2026 19:17:22 by Dargslan
+
+Audit Active Directory password and lockout policy, Fine Grained Password Policy and stale / never-expire accounts. Requires the ActiveDirectory module.
+
+__Downloads__: 0 | __Repository__: https://dargslan.com/blog/ad-password-policy-audit-powershell-2026
+
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.212) | 2.1.212
+
+### Published: 04/18/2026 18:58:09 by devizer
+
+SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
+
+It installs Developer, Express, or LocalDB editions.
+The intended use of this project is for Continuous Integration (CI) scenarios, where:
+     1) SQL Server or LocalDB needs to be installed without user interaction.
+     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
+
+By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
+
+__Downloads__: 64,501 | __Repository__: https://github.com/devizer/SqlServer-Version-Management
+
+## [VBAF-Center](https://www.powershellgallery.com/Packages/VBAF-Center/1.0.16) | 1.0.16
+
+### Published: 04/18/2026 18:25:28 by Henning
+
+VBAF-Center - Welcome Center gateway connecting business problems to the right VBAF AI agent
+
+__Downloads__: 56 | __Repository__: https://github.com/JupyterPS/VBAF-Center
+
+## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.11.2) | 0.11.2
+
+### Published: 04/18/2026 15:02:21 by kurokobo
+
+PowerShell module for Dify.
+
+__Downloads__: 218 | __Repository__: https://github.com/kurokobo/psdify
+
 ## [AITriad](https://www.powershellgallery.com/Packages/AITriad/0.7.1) | 0.7.1
 
 ### Published: 04/18/2026 09:32:55 by Jeffrey Snover
@@ -19,21 +482,13 @@ Cross-cloud PowerShell module for Azure, AWS, and GCP. Unified commands (Get-Clo
 
 __Downloads__: 28 | __Repository__: https://github.com/adilio/PSCumulus
 
-## [ShowTree](https://www.powershellgallery.com/Packages/ShowTree/1.0.1) | 1.0.1
-
-### Published: 04/18/2026 09:05:52 by Ryan Beesley
-
-Modern tree.com replacement with graphical, listing, and compatibility modes.
-
-__Downloads__: 0 | __Repository__: https://github.com/rbeesley/show-tree
-
 ## [PMPCToolkit](https://www.powershellgallery.com/Packages/PMPCToolkit/0.0.24) | 0.0.24
 
 ### Published: 04/18/2026 07:49:43 by Michael Escamilla
 
 Patch My PC Toolkit
 
-__Downloads__: 498 | __Repository__: https://github.com/MichaelEscamilla/PMPCToolkit
+__Downloads__: 499 | __Repository__: https://github.com/MichaelEscamilla/PMPCToolkit
 
 ## [AzureLocalRanger](https://www.powershellgallery.com/Packages/AzureLocalRanger/2.6.5) | 2.6.5
 
@@ -83,14 +538,6 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 
 __Downloads__: 2,704 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 
-## [M365-Assess](https://www.powershellgallery.com/Packages/M365-Assess/1.15.0) | 1.15.0
-
-### Published: 04/18/2026 02:37:27 by Galvnyz
-
-Comprehensive read-only Microsoft 365 security assessment tool for IT consultants and administrators. Covers Entra ID, Exchange Online, Intune, Defender, SharePoint, Teams, Purview, and Active Directory.
-
-__Downloads__: 246 | __Repository__: https://github.com/Galvnyz/M365-Assess
-
 ## [PSFirebird](https://www.powershellgallery.com/Packages/PSFirebird/1.2.2) | 1.2.2
 
 ### Published: 04/18/2026 00:27:49 by F.D.Castel
@@ -134,14 +581,6 @@ tree commands for Active Directory
 
 __Downloads__: 426 | __Repository__: https://github.com/santisq/PSADTree
 
-## [VBAF-Center](https://www.powershellgallery.com/Packages/VBAF-Center/1.0.14) | 1.0.14
-
-### Published: 04/17/2026 20:05:56 by Henning
-
-VBAF-Center - Welcome Center gateway connecting business problems to the right VBAF AI agent
-
-__Downloads__: 56 | __Repository__: https://github.com/JupyterPS/VBAF-Center
-
 ## [PwrSearch](https://www.powershellgallery.com/Packages/PwrSearch/1.2.0) | 1.2.0
 
 ### Published: 04/17/2026 19:11:13 by Oscar Calvo
@@ -180,7 +619,7 @@ __Downloads__: 15,832 | __Repository__: https://github.com/windmill-labs/windmil
 
 PowerNetbox - The comprehensive PowerShell module for Netbox REST API with 100% coverage. Fork of NetboxPS (Ben Claussen) with full Netbox 4.x compatibility. 488+ functions for DCIM, IPAM, Virtualization, Circuits, Tenancy, VPN, Wireless, Extras, Core, Users. Cross-platform (Windows, Linux, macOS).
 
-__Downloads__: 5,660 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
+__Downloads__: 5,656 | __Repository__: https://github.com/ctrl-alt-automate/PowerNetbox
 
 ## [Brevo](https://www.powershellgallery.com/Packages/Brevo/0.8.0) | 0.8.0
 
@@ -450,14 +889,6 @@ Common execution and self elevation
 
 __Downloads__: 105,628 | __Repository__: 
 
-## [NetillimarCitsmart](https://www.powershellgallery.com/Packages/NetillimarCitsmart/0.2.7) | 0.2.7
-
-### Published: 04/16/2026 17:14:37 by Gustavo Silveira Martinelli
-
-Provides cmdlets for configuration and usage of Citsmart API
-
-__Downloads__: 131 | __Repository__: https://gitea.netillimar.net:5443/netillimar/netillimar-citsmart.git
-
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/2.0.0.23) | 2.0.0.23
 
 ### Published: 04/16/2026 17:06:29 by Aymeric Mouillé
@@ -643,22 +1074,6 @@ __Downloads__: 29 | __Repository__: https://github.com/Vibhu2/ITAdmin_Tools
 PwrCortex - Agentic LLM swarm engine for PowerShell. Environment-aware, pipeline-native, claude.md-driven.
 
 __Downloads__: 26 | __Repository__: https://github.com/ocalvo/PwrCortex
-
-## [VB.NextCloud](https://www.powershellgallery.com/Packages/VB.NextCloud/1.4.0) | 1.4.0
-
-### Published: 04/16/2026 05:26:11 by Vibhu Bhatnagar
-
-VB.NextCloud -- WebDAV utilities for Nextcloud. Provides Set-VBNextcloudFile (single PUT), Start-VBNextcloudUpload (batch orchestrator), Get-VBNextcloudFiles (PROPFIND directory listing), and Get-VBNextcloudFolders (PROPFIND folder-only listing).
-
-__Downloads__: 25 | __Repository__: https://github.com/Vibhu2/ITAdmin_Tools
-
-## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.11.1) | 0.11.1
-
-### Published: 04/16/2026 03:44:39 by kurokobo
-
-PowerShell module for Dify.
-
-__Downloads__: 218 | __Repository__: https://github.com/kurokobo/psdify
 
 ## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/1.20262.10856) | 1.20262.10856
 
@@ -920,38 +1335,6 @@ Windows Deployment Services audit toolkit — WDS server config, boot images, in
 
 __Downloads__: 2 | __Repository__: https://dargslan.com/
 
-## [Dargslan.WinTimeSync](https://www.powershellgallery.com/Packages/Dargslan.WinTimeSync/1.0.0) | 1.0.0
-
-### Published: 04/14/2026 18:56:22 by Dargslan
-
-Windows time synchronization audit toolkit — NTP configuration, W32Time service, stratum, time drift, and sync peers
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinStorageSpaces](https://www.powershellgallery.com/Packages/Dargslan.WinStorageSpaces/1.0.0) | 1.0.0
-
-### Published: 04/14/2026 18:56:09 by Dargslan
-
-Windows Storage Spaces audit toolkit — pools, virtual disks, physical disks, tiers, resiliency, and health monitoring
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinSNMP](https://www.powershellgallery.com/Packages/Dargslan.WinSNMP/1.0.0) | 1.0.0
-
-### Published: 04/14/2026 18:56:01 by Dargslan
-
-Windows SNMP service audit toolkit — SNMP communities, trap destinations, permitted managers, agent configuration, and security
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinSMTP](https://www.powershellgallery.com/Packages/Dargslan.WinSMTP/1.0.0) | 1.0.0
-
-### Published: 04/14/2026 18:55:51 by Dargslan
-
-Windows SMTP server audit toolkit — virtual servers, relay restrictions, authentication, queue, and delivery status
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
 ## [Dargslan.WinSCCM](https://www.powershellgallery.com/Packages/Dargslan.WinSCCM/1.0.0) | 1.0.0
 
 ### Published: 04/14/2026 18:55:34 by Dargslan
@@ -984,6 +1367,14 @@ Windows Remote Desktop security audit toolkit — RDP settings, NLA enforcement,
 
 __Downloads__: 2 | __Repository__: https://dargslan.com/
 
+## [Dargslan.WinPowerBI](https://www.powershellgallery.com/Packages/Dargslan.WinPowerBI/1.0.0) | 1.0.0
+
+### Published: 04/14/2026 18:54:21 by Dargslan
+
+Windows Power BI Gateway audit toolkit — gateway service, data sources, connections, refresh schedules, and capacity monitoring
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
+
 ## [Dargslan.WinPKI](https://www.powershellgallery.com/Packages/Dargslan.WinPKI/1.0.0) | 1.0.0
 
 ### Published: 04/14/2026 18:53:54 by Dargslan
@@ -991,6 +1382,14 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 Windows PKI and certificate authority audit toolkit — CA configuration, templates, issued certs, CRL, OCSP, and PKI health
 
 __Downloads__: 3 | __Repository__: https://dargslan.com/
+
+## [Dargslan.WinNPSAudit](https://www.powershellgallery.com/Packages/Dargslan.WinNPSAudit/1.0.0) | 1.0.0
+
+### Published: 04/14/2026 18:53:40 by Dargslan
+
+Windows Network Policy Server audit toolkit — RADIUS policies, connection request policies, NAS clients, and accounting
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [Dargslan.WinNFS](https://www.powershellgallery.com/Packages/Dargslan.WinNFS/1.0.0) | 1.0.0
 
@@ -1029,14 +1428,6 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 ### Published: 04/14/2026 18:52:08 by Dargslan
 
 Windows BranchCache audit toolkit — cache status, hosted mode, distributed mode, content servers, bandwidth savings
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinBGPRoute](https://www.powershellgallery.com/Packages/Dargslan.WinBGPRoute/1.0.0) | 1.0.0
-
-### Published: 04/14/2026 18:51:45 by Dargslan
-
-Windows routing and BGP audit toolkit — routing table, persistent routes, RRAS status, BGP peers, and network interfaces
 
 __Downloads__: 2 | __Repository__: https://dargslan.com/
 
@@ -1312,14 +1703,6 @@ This modules provides Cmdlets for OCI Psql Service
 
 __Downloads__: 8,874 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [Dargslan.WinWiFiSec](https://www.powershellgallery.com/Packages/Dargslan.WinWiFiSec/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:59:26 by Dargslan
-
-Windows Wi-Fi security audit toolkit — saved profiles, encryption types, open networks, enterprise WPA, and wireless policy compliance
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
 ## [OCI.PSModules.Psa](https://www.powershellgallery.com/Packages/OCI.PSModules.Psa/128.0.0) | 128.0.0
 
 ### Published: 04/14/2026 17:59:12 by Oracle Cloud Infrastructure
@@ -1327,6 +1710,22 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 This modules provides Cmdlets for OCI Psa Service
 
 __Downloads__: 1,203 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [Dargslan.WinWMIPersis](https://www.powershellgallery.com/Packages/Dargslan.WinWMIPersis/2.0.0) | 2.0.0
+
+### Published: 04/14/2026 17:59:09 by Dargslan
+
+WMI persistence detection toolkit — event subscriptions, consumer bindings, suspicious WMI activity, and backdoor hunting
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
+
+## [Dargslan.WinThreatHunt](https://www.powershellgallery.com/Packages/Dargslan.WinThreatHunt/2.0.0) | 2.0.0
+
+### Published: 04/14/2026 17:58:50 by Dargslan
+
+Windows threat hunting toolkit — suspicious processes, network connections, unsigned DLLs, anomalous services, and IOC detection
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/128.0.0) | 128.0.0
 
@@ -1351,6 +1750,14 @@ __Downloads__: 3 | __Repository__: https://dargslan.com/
 This modules provides Cmdlets for OCI Osubsubscription Service
 
 __Downloads__: 12,315 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [Dargslan.WinSysmonConfig](https://www.powershellgallery.com/Packages/Dargslan.WinSysmonConfig/2.0.0) | 2.0.0
+
+### Published: 04/14/2026 17:58:21 by Dargslan
+
+Sysmon configuration audit toolkit — installed version, config hash, rule counts, event ID coverage, and detection gap analysis
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/128.0.0) | 128.0.0
 
@@ -1384,14 +1791,6 @@ Windows Print Spooler security audit toolkit — PrintNightmare mitigations, spo
 
 __Downloads__: 2 | __Repository__: https://dargslan.com/
 
-## [Dargslan.WinPatchTuesday](https://www.powershellgallery.com/Packages/Dargslan.WinPatchTuesday/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:56:58 by Dargslan
-
-Windows Patch Tuesday analysis toolkit — installed KBs, missing critical patches, patch age analysis, and update compliance scoring
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
 ## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/128.0.0) | 128.0.0
 
 ### Published: 04/14/2026 17:56:58 by Oracle Cloud Infrastructure
@@ -1399,14 +1798,6 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 This modules provides Cmdlets for OCI Ospgateway Service
 
 __Downloads__: 12,421 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinNetworkShare](https://www.powershellgallery.com/Packages/Dargslan.WinNetworkShare/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:56:37 by Dargslan
-
-Windows network share enumeration and security toolkit — accessible shares, null sessions, anonymous access, and share permission audit
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/128.0.0) | 128.0.0
 
@@ -1456,6 +1847,14 @@ Windows ETW (Event Tracing) audit toolkit — active trace sessions, providers, 
 
 __Downloads__: 2 | __Repository__: https://dargslan.com/
 
+## [Dargslan.WinDNSSec](https://www.powershellgallery.com/Packages/Dargslan.WinDNSSec/2.0.0) | 2.0.0
+
+### Published: 04/14/2026 17:55:06 by Dargslan
+
+Windows DNS security audit toolkit — DNSSEC validation, DNS-over-HTTPS, DNS cache poisoning defense, and resolver hardening
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
+
 ## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/128.0.0) | 128.0.0
 
 ### Published: 04/14/2026 17:55:06 by Oracle Cloud Infrastructure
@@ -1463,6 +1862,14 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 This modules provides Cmdlets for OCI Operatoraccesscontrol Service
 
 __Downloads__: 13,736 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [Dargslan.WinDLPAudit](https://www.powershellgallery.com/Packages/Dargslan.WinDLPAudit/2.0.0) | 2.0.0
+
+### Published: 04/14/2026 17:54:41 by Dargslan
+
+Windows Data Loss Prevention audit toolkit — DLP policies, sensitive data scanning, endpoint protection, and data classification
+
+__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [OCI.PSModules.Opensearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Opensearch/128.0.0) | 128.0.0
 
@@ -1503,22 +1910,6 @@ __Downloads__: 2 | __Repository__: https://dargslan.com/
 This modules provides Cmdlets for OCI Ons Service
 
 __Downloads__: 14,298 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinBluetooth](https://www.powershellgallery.com/Packages/Dargslan.WinBluetooth/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:53:40 by Dargslan
-
-Windows Bluetooth device audit toolkit — paired devices, drivers, service status, security settings, and Bluetooth policy
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinAutorunAudit](https://www.powershellgallery.com/Packages/Dargslan.WinAutorunAudit/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:53:32 by Dargslan
-
-Windows autorun/startup audit toolkit — startup programs, Run keys, scheduled tasks at boot, shell extensions, and persistence mechanisms
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
 
 ## [OCI.PSModules.Onesubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Onesubscription/128.0.0) | 128.0.0
 
@@ -1632,388 +2023,4 @@ Create straight forward REST calls in PowerShell based on API endpoints defined 
 
 __Downloads__: 1,010 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
-## [OCI.PSModules.Modeldeployment](https://www.powershellgallery.com/Packages/OCI.PSModules.Modeldeployment/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:48:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Modeldeployment Service
-
-__Downloads__: 2,300 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mngdmac](https://www.powershellgallery.com/Packages/OCI.PSModules.Mngdmac/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:47:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mngdmac Service
-
-__Downloads__: 2,717 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:47:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mediaservices Service
-
-__Downloads__: 12,531 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplacepublisher](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplacepublisher/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:46:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplacepublisher Service
-
-__Downloads__: 9,139 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplaceprivateoffer](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplaceprivateoffer/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:46:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplaceprivateoffer Service
-
-__Downloads__: 6,798 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:45:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 14,265 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:45:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 16,664 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:44:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementagent Service
-
-__Downloads__: 14,172 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managedkafka](https://www.powershellgallery.com/Packages/OCI.PSModules.Managedkafka/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:44:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managedkafka Service
-
-__Downloads__: 1,735 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Lustrefilestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Lustrefilestorage/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:44:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Lustrefilestorage Service
-
-__Downloads__: 2,607 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingsearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingsearch/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:43:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingsearch Service
-
-__Downloads__: 14,208 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [andrewplaclips](https://www.powershellgallery.com/Packages/andrewplaclips/1.0.5) | 1.0.5
-
-### Published: 04/14/2026 17:43:17 by Morten Mynster
-
-A module grabing some of the best sound bites of the one and only Andrew Pla
-
-__Downloads__: 50 | __Repository__: https://github.com/Mynster9361/andrewplaclips
-
-## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:43:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingingestion Service
-
-__Downloads__: 14,472 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:42:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Logging Service
-
-__Downloads__: 14,621 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loganalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Loganalytics/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:42:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loganalytics Service
-
-__Downloads__: 16,549 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:41:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Lockbox Service
-
-__Downloads__: 11,578 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:41:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loadbalancer Service
-
-__Downloads__: 14,543 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Limitsincrease](https://www.powershellgallery.com/Packages/OCI.PSModules.Limitsincrease/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:40:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limitsincrease Service
-
-__Downloads__: 305 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:40:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 14,767 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:39:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Licensemanager Service
-
-__Downloads__: 11,814 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:39:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Keymanagement Service
-
-__Downloads__: 14,454 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jmsutils](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsutils/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:39:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsutils Service
-
-__Downloads__: 1,488 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:38:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsjavadownloads Service
-
-__Downloads__: 9,084 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:38:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jms Service
-
-__Downloads__: 13,450 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Iot](https://www.powershellgallery.com/Packages/OCI.PSModules.Iot/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:37:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Iot Service
-
-__Downloads__: 1,381 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:37:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Integration Service
-
-__Downloads__: 14,355 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydomains](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydomains/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:36:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydomains Service
-
-__Downloads__: 10,484 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:36:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydataplane Service
-
-__Downloads__: 12,573 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinRSAT](https://www.powershellgallery.com/Packages/Dargslan.WinRSAT/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:36:20 by Dargslan
-
-Remote Server Administration Tools audit toolkit — installed RSAT features, available tools, and management console inventory
-
-__Downloads__: 4 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinProxyConfig](https://www.powershellgallery.com/Packages/Dargslan.WinProxyConfig/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:36:07 by Dargslan
-
-Windows proxy and internet settings audit toolkit — system proxy, PAC files, WinHTTP proxy, IE/Edge settings, and proxy bypass lists
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:36:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 28,541 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinPowerPlan](https://www.powershellgallery.com/Packages/Dargslan.WinPowerPlan/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:35:47 by Dargslan
-
-Windows power plan optimization toolkit — active plan analysis, custom plan detection, battery health, thermal monitoring, and energy efficiency scoring
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:35:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 28,879 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:35:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Governancerulescontrolplane Service
-
-__Downloads__: 11,874 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinNTFS](https://www.powershellgallery.com/Packages/Dargslan.WinNTFS/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:34:45 by Dargslan
-
-NTFS filesystem security audit toolkit — permission inheritance, alternate data streams, junction points, hard links, and filesystem integrity
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:34:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 13,966 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinNLAStatus](https://www.powershellgallery.com/Packages/Dargslan.WinNLAStatus/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:34:28 by Dargslan
-
-Network Location Awareness audit toolkit — network profiles, connectivity status, firewall profile mapping, and network category management
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinLocaleAudit](https://www.powershellgallery.com/Packages/Dargslan.WinLocaleAudit/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:34:09 by Dargslan
-
-Windows locale and language configuration audit toolkit — system locale, input methods, timezone, regional settings, and Unicode compliance
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:34:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 13,538 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinLSAProtection](https://www.powershellgallery.com/Packages/Dargslan.WinLSAProtection/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:33:51 by Dargslan
-
-LSA Protection and LSASS hardening audit toolkit — RunAsPPL, credential dumping defense, memory protection, and security assessment
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinKerberos](https://www.powershellgallery.com/Packages/Dargslan.WinKerberos/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:33:42 by Dargslan
-
-Kerberos authentication audit toolkit — ticket cache, SPN inventory, delegation analysis, and Kerberos policy validation
-
-__Downloads__: 2 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:33:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 8,520 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinIPSec](https://www.powershellgallery.com/Packages/Dargslan.WinIPSec/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:33:25 by Dargslan
-
-IPsec policy and SA management toolkit — main mode SAs, quick mode SAs, IPsec rules, connection security policies, and encryption analysis
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Generativeaidata](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaidata/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:33:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaidata Service
-
-__Downloads__: 179 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Dargslan.WinEventForward](https://www.powershellgallery.com/Packages/Dargslan.WinEventForward/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:33:00 by Dargslan
-
-Windows Event Forwarding (WEF) audit toolkit — subscriptions, collector status, source computers, event delivery optimization
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [Dargslan.WinDeviceEncryption](https://www.powershellgallery.com/Packages/Dargslan.WinDeviceEncryption/2.0.0) | 2.0.0
-
-### Published: 04/14/2026 17:32:39 by Dargslan
-
-Windows device encryption audit toolkit — encryption status across all drives, recovery key backup, encryption method, and compliance status
-
-__Downloads__: 3 | __Repository__: https://dargslan.com/
-
-## [OCI.PSModules.Generativeaiagentruntime](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagentruntime/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:32:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiagentruntime Service
-
-__Downloads__: 3,747 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeaiagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagent/128.0.0) | 128.0.0
-
-### Published: 04/14/2026 17:32:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiagent Service
-
-__Downloads__: 3,752 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 18 April 2026 10:04:39 UTC*
+*Updated: Saturday, 18 April 2026 21:59:30 UTC*
