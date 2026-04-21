@@ -1085,14 +1085,6 @@ Provide SSH and SCP functionality for executing commands against remote hosts. Y
 
 __Downloads__: 69,754,420 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
-## [PS-SentinelOne](https://www.powershellgallery.com/Packages/PS-SentinelOne/2.1.2) | 2.1.2
-
-### Published: 08/12/2024 19:07:29 by davidhowell.tx
-
-A PowerShell script module that provides command-line interaction and automation for the SentinelOne API.
-
-__Downloads__: 66,670,301 | __Repository__: 
-
 ## [AzureRM.KeyVault](https://www.powershellgallery.com/Packages/AzureRM.KeyVault/5.2.2) | 5.2.2
 
 ### Published: 03/23/2021 12:50:53 by Microsoft Corporation
@@ -2047,15 +2039,6 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 23,507,270 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
-
-### Published: 07/25/2018 21:32:26 by OneScript Team
-
-This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
-It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
-
-__Downloads__: 23,186,764 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
-
 ## [Microsoft.Graph.CloudCommunications](https://www.powershellgallery.com/Packages/Microsoft.Graph.CloudCommunications/2.36.1) | 2.36.1
 
 ### Published: 03/18/2026 17:48:00 by Microsoft Corporation
@@ -2146,4 +2129,21 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 21,005,130 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-*Updated: Monday, 20 April 2026 22:04:48 UTC*
+## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.10) | 7.8.10
+
+### Published: 10/21/2024 23:45:09 by Douglas Finke
+
+PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
+
+__Downloads__: 20,633,753 | __Repository__: https://github.com/dfinke/ImportExcel
+
+## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.4.0.24798382) | 13.4.0.24798382
+
+### Published: 06/17/2025 13:51:09 by Broadcom
+
+This PowerShell module contains PowerCLI VDS cmdlets.
+
+__Downloads__: 20,538,022 | __Repository__: https://developer.broadcom.com/powercli
+
+*Updated: Tuesday, 21 April 2026 10:15:08 UTC*
