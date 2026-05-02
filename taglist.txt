@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 May 2026 10:09:07 UTC
+Updated: Saturday, 02 May 2026 22:03:34 UTC
 
 .bat
 .env
@@ -433,6 +433,7 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
+antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -560,6 +561,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -604,7 +607,6 @@ ascii
 ascii85
 asciiart
 asdatabase
-aseprite
 asigra
 asjob
 ask-gpt
@@ -803,6 +805,7 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
+azaitranslate
 azautomation
 azcli
 azcompute
@@ -853,9 +856,11 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
+azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
+azurearcstuff
 azureas
 azureatp
 azureautomation
@@ -1122,6 +1127,7 @@ bool
 boolean
 boot
 boot-policy
+boot-repair
 bootloader
 bootloader psmodule
 bootsecurity
@@ -1142,6 +1148,7 @@ bpmn
 brainy
 branch
 branch-rename
+branchcache
 branding
 brave
 brawlapi
@@ -1223,7 +1230,6 @@ business_email_compromise
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1424,6 +1430,8 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1478,7 +1486,6 @@ citsmart
 civo
 cix
 clack
-claims
 class
 classdependency
 classes
@@ -1509,6 +1516,7 @@ clickfix
 clickonce
 clicktorun
 client
+client-health
 client-management
 clientpushsettings
 clientsettings
@@ -1534,6 +1542,7 @@ clihelper.core
 clihelper.logger
 clihelper.semver
 clihelper.sqlite
+clihelper.trends
 clihelper.userconfig
 clipart
 clipasswordsdk
@@ -1723,6 +1732,7 @@ commondataservice
 commonmark
 commonstuff
 communication
+communities
 community
 community-string
 commvault
@@ -1865,7 +1875,6 @@ continuousglucosemonitoring
 continuousintegration
 contrast
 control
-controlled-folder
 controller
 controlroom
 controlup
@@ -2188,7 +2197,6 @@ data_security
 data-archive
 data-backup
 data-loss-prevention
-data-protection
 data-sources
 data-tier
 data-transfer
@@ -2216,6 +2224,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2289,6 +2298,7 @@ dbwebapi
 dbx
 dc
 dcim
+dcim_b324
 dcom
 dconf
 dcr
@@ -2315,6 +2325,7 @@ decompression
 decrypt
 decryption
 dedicatedhsm
+dedup
 deduplication
 deep
 deep-security
@@ -2370,7 +2381,6 @@ dependencies
 dependency
 dependencyfree
 dependencymanagement
-dependencymap
 dependencyresolution
 dependencysearch
 deploy
@@ -2418,10 +2428,9 @@ devenv
 devexpress
 deviation
 device
-device-control
-device-encryption
 devicecleanup
 devicecode
+devicehardening
 deviceid
 devicemanagement
 deviceprovisioningservice
@@ -2766,6 +2775,7 @@ dungeonsanddragons
 duo
 duosecurity
 dupes
+duplex
 duplicate
 duplicate-files
 duplicates
@@ -2775,6 +2785,7 @@ durable
 durabletask
 dust
 dutch
+dutchbaseline
 dvls
 dvr
 dword
@@ -2831,6 +2842,7 @@ edgeaction
 edgebackup
 edgeexport
 edgegateway
+edgemarketplace
 edgeorder
 edgeprofiles
 edgezones
@@ -3027,6 +3039,7 @@ ethereum
 etherium
 ethernet
 ethr
+ethtool
 ethz
 etl
 etl2pcapng
@@ -3266,6 +3279,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-screens
 file-server
 file-share
 file-sharing
@@ -3450,6 +3464,7 @@ fortytwo
 forum
 forwardcompatibility
 forwardedevents
+forwarders
 forwarding
 foudil
 foundationmodels
@@ -3499,6 +3514,7 @@ ft232r
 ftdi
 ftp
 ftps
+ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3820,6 +3836,7 @@ guard
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3906,6 +3923,7 @@ hcl2
 hcm
 hcp
 hcx
+hdd
 hdfs
 hdhomerun
 hdinsight
@@ -3965,7 +3983,6 @@ hibernation
 hibp
 hid
 hidden
-hidden-shares
 hide
 hids
 hiera
@@ -4288,8 +4305,6 @@ initiative
 initiator
 injection
 injector
-ink-canvas
-inkcanvas
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4703,6 +4718,7 @@ kusto
 kusto.data
 kusto.ingest
 kvm
+kvp
 l-system
 l1tf
 l2tp
@@ -5058,6 +5074,7 @@ macosx
 macro
 macros
 madlib
+maester
 magazine
 magento
 magic8ball
@@ -5667,7 +5684,6 @@ neovim
 neptune
 nerdfonts
 nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -5706,6 +5722,7 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-filesystem
 network-info
 network-policy
 network-profile
@@ -5817,6 +5834,7 @@ norway
 norwegian
 nos
 nosql
+note
 notebook
 notepad
 notepad2
@@ -6024,7 +6042,6 @@ opa
 opc
 open
 open-ai
-open-files
 open-ssh
 openai
 openaiclient
@@ -6106,6 +6123,7 @@ orchestration
 orchestrator
 order
 organization
+organizational-unit
 organizationally
 organizer
 orgnetwork
@@ -6423,14 +6441,11 @@ pipelines
 pipenv
 pipescript
 piraeus
-piskel
 piv
 pivot
 pivotal
 pivottable
-pixelart
 pixoo
-pixquare
 pkce
 pkgx
 pki
@@ -6509,7 +6524,6 @@ polymarket
 pomodoro
 ponduit
 pool
-pools
 poop
 pop
 pop-location
@@ -6572,6 +6586,7 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -6593,6 +6608,7 @@ poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
+poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
@@ -6939,6 +6955,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -8335,6 +8352,21 @@ pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
 pscommand_nginx_stop
+pscommand_nmap_check_for_firewall
+pscommand_nmap_check_for_vulns
+pscommand_nmap_detect_versions
+pscommand_nmap_fast
+pscommand_nmap_fin
+pscommand_nmap_full
+pscommand_nmap_full_udp
+pscommand_nmap_full_with_scripts
+pscommand_nmap_list_interfaces
+pscommand_nmap_open_ports
+pscommand_nmap_ping_scan
+pscommand_nmap_ping_through_firewall
+pscommand_nmap_slow
+pscommand_nmap_traceroute
+pscommand_nmap_web_safe_osscan
 pscommand_notify-send
 pscommand_notify-send-null
 pscommand_notify-send-terminalnotifier
@@ -8481,9 +8513,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -8737,6 +8771,7 @@ psfoldersize
 psframework
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -9587,6 +9622,21 @@ psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
 psfunction_nginx_stop
+psfunction_nmap_check_for_firewall
+psfunction_nmap_check_for_vulns
+psfunction_nmap_detect_versions
+psfunction_nmap_fast
+psfunction_nmap_fin
+psfunction_nmap_full
+psfunction_nmap_full_udp
+psfunction_nmap_full_with_scripts
+psfunction_nmap_list_interfaces
+psfunction_nmap_open_ports
+psfunction_nmap_ping_scan
+psfunction_nmap_ping_through_firewall
+psfunction_nmap_slow
+psfunction_nmap_traceroute
+psfunction_nmap_web_safe_osscan
 psfunction_notify-send-null
 psfunction_notify-send-terminalnotifier
 psfunction_npm-disable-proxy
@@ -9678,9 +9728,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -9978,9 +10030,11 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quiz
 qumulo
 quorum
 quota
+quotas
 quote
 quotedprintable
 quoteoftheday
@@ -10023,7 +10077,6 @@ randomusers
 range
 rangescan
 rangetocidr
-ransomware
 ransomware_recovery
 rapid-prototyping
 rapt
@@ -10188,7 +10241,6 @@ releases
 relevance
 relic
 reload
-relying-party
 remediation
 remedy
 reminder
@@ -10221,7 +10273,6 @@ remotepro
 remoteregistry
 remotesession
 remoting
-removable-storage
 removal
 remove
 remove-githubsecrets
@@ -10281,7 +10332,6 @@ reset
 reshade
 resharper
 resilience
-resiliency
 resilient
 resize
 resolution
@@ -10294,6 +10344,7 @@ resolver
 resource
 resource_monitor
 resource_watcher
+resource-manager
 resourceanalytics
 resourcecontroller
 resourcegraph
@@ -10317,6 +10368,7 @@ restaurant
 restful
 restore
 restore-point
+restore-points
 restrictive
 results
 resume
@@ -10395,6 +10447,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -10587,6 +10641,7 @@ scom
 sconfig
 scoop
 scope
+scopes
 score
 scottplot
 scouterna
@@ -10892,6 +10947,7 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
+sharetru
 sheets
 shell
 shell-art
@@ -11079,6 +11135,7 @@ socketlabs
 sockets
 sodium
 software
+software-updates
 softwarecenter
 softwaredistributioncomponent
 softwaregeneration
@@ -11257,6 +11314,7 @@ ssd1306
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 ssh-keys
 sshmanagement
@@ -11381,6 +11439,7 @@ storefront
 storeonce
 storeserv
 strangeloop
+stratum
 strava
 streak
 stream
@@ -11625,6 +11684,7 @@ tauricraft
 taxjar
 taxonomy
 tcg
+tcm
 tcp
 tcp/ip
 tcpip
@@ -11651,6 +11711,7 @@ teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
+techedna2014
 techlog
 techlogic
 technicalanalysis
@@ -11682,6 +11743,7 @@ tenable
 tenable.sc
 tenant
 tenantconfig
+tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
 teradata
@@ -11786,7 +11848,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -11807,7 +11868,6 @@ threatprotection
 threats
 threatsharing
 throttling
-throughput
 thumbprint
 thunderbird
 thycotic
@@ -11926,15 +11986,16 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
-transfer
 transform
 transformation
 transforms
 transitionmanager
 translate
 translation
+translator
 translit
 transliteration
 transmission
@@ -11942,6 +12003,7 @@ transparancy
 transparency
 transpilation
 trap
+traps
 travel
 trec
 tree
@@ -12127,6 +12189,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattended
@@ -12407,7 +12470,6 @@ virole
 virsh
 virtual
 virtual-disk
-virtual-disks
 virtual-switch
 virtualappliance
 virtualbox
@@ -12567,6 +12629,7 @@ wallet
 wallpaper
 wallpapers
 wam
+wan
 wannacry
 wansi
 wap
@@ -12810,6 +12873,7 @@ windowsserver2016
 windowsserver2019
 windowsserver2022
 windowsserver2025
+windowsserveradmin
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -12830,6 +12894,7 @@ wininet
 winnt
 winops
 winrar
+winre
 winrm
 winrs
 winrt
@@ -13044,6 +13109,7 @@ ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 youtubemusic
 yq
@@ -13080,9 +13146,12 @@ zohoassist
 zoicware
 zombie
 zone
+zones
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
