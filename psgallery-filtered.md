@@ -3,6 +3,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Belin.Sql](https://www.powershellgallery.com/Packages/Belin.Sql/1.0.0) | 1.0.0
+
+### Published: 05/03/2026 21:32:55 by Cédric Belin <cedx@outlook.com>
+
+A simple micro-ORM, based on ADO.NET and data annotations.
+
+__Downloads__: 65 | __Repository__: https://github.com/cedx/sql.ps1
+
+## [AITriad](https://www.powershellgallery.com/Packages/AITriad/0.8.2) | 0.8.2
+
+### Published: 05/03/2026 21:22:22 by Jeffrey Snover
+
+AI Triad Research — taxonomy queries, document ingestion, POV analysis
+
+__Downloads__: 171 | __Repository__: https://github.com/jsnov/ai-triad-research
+
+## [systemchecks](https://www.powershellgallery.com/Packages/systemchecks/0.2.0) | 0.2.0
+
+### Published: 05/03/2026 20:43:56 by mattman-ps
+
+PowerShell module for building comprehensive system health checks and infrastructure validations
+
+__Downloads__: 33 | __Repository__: https://github.com/mattman-ps/systemchecks
+
+## [httping](https://www.powershellgallery.com/Packages/httping/1.0.1) | 1.0.1
+
+### Published: 05/03/2026 17:24:41 by Enrique Mejia
+
+Tests HTTP connectivity to a URI by sending repeated requests, measuring latency, and returning HTTP response details for diagnosis and endpoint monitoring.
+
+__Downloads__: 8 | __Repository__: https://github.com/fbe75380fbd4/httping
+
+## [pacwin](https://www.powershellgallery.com/Packages/pacwin/0.2.7) | 0.2.7
+
+### Published: 05/03/2026 17:11:50 by julesklord
+
+Advanced package manager for Windows that uses winget, chocolatey, and scoop.
+
+__Downloads__: 14 | __Repository__: https://github.com/julesklord/pacwin
+
+## [NativeCommandCompleter.completions](https://www.powershellgallery.com/Packages/NativeCommandCompleter.completions/0.2.20260504) | 0.2.20260504
+
+### Published: 05/03/2026 17:11:48 by teramako
+
+Completion definitions for NativeCommandCompleter.psm
+
+__Downloads__: 22 | __Repository__: https://github.com/teramako/NativeCommandCompleter.completions
+
+## [NativeCommandCompleter.psm](https://www.powershellgallery.com/Packages/NativeCommandCompleter.psm/0.3.0) | 0.3.0
+
+### Published: 05/03/2026 17:10:59 by teramako
+
+Native Command Completer
+
+__Downloads__: 41 | __Repository__: https://github.com/teramako/NativeCommandCompleter.psm
+
+## [Banxico.CLABE](https://www.powershellgallery.com/Packages/Banxico.CLABE/1.1.3) | 1.1.3
+
+### Published: 05/03/2026 17:06:05 by Enrique Mejia
+
+This module provides functions to retrieve/verify catalogs and to get details about a given CLABE as well as validating/testing its control digit.
+
+__Downloads__: 49 | __Repository__: https://github.com/fbe75380fbd4/Banxico.CLABE
+
+## [diager](https://www.powershellgallery.com/Packages/diager/1.1.0) | 1.1.0
+
+### Published: 05/03/2026 16:50:13 by Syntaxx
+
+Functions that help you diagnose your PC and get clear output
+
+__Downloads__: 33 | __Repository__: 
+
+## [Stepper](https://www.powershellgallery.com/Packages/Stepper/2026.5.31400) | 2026.5.31400
+
+### Published: 05/03/2026 14:00:44 by Jake Hildreth
+
+A cross-platform PowerShell utility module for creating resumable, step-by-step scripts with automatic state persistence.
+
+__Downloads__: 276 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.0.0) | 1.0.0
+
+### Published: 05/03/2026 13:54:02 by Yoshifumi Tsuda
+
+PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 3,352 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
+
+## [Hcl](https://www.powershellgallery.com/Packages/Hcl/0.0.1) | 0.0.1
+
+### Published: 05/03/2026 13:11:34 by PSModule
+
+A PowerShell module for working with HCL language.
+
+__Downloads__: 0 | __Repository__: https://github.com/PSModule/Hcl
+
 ## [Screenshot](https://www.powershellgallery.com/Packages/Screenshot/0.0.1) | 0.0.1
 
 ### Published: 05/03/2026 09:59:50 by diecknet
@@ -42,14 +138,6 @@ __Downloads__: 9 | __Repository__: https://github.com/Ebola-Chan-bot/Video-Works
 Windows-focused PowerShell module for repeatable Windows Sandbox and fresh-machine bootstrap with package-managed Python, PowerShell, Node.js, and tooling runtimes, plus proxy-aware package bootstraps.
 
 __Downloads__: 359 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
-
-## [httping](https://www.powershellgallery.com/Packages/httping/1.0.0) | 1.0.0
-
-### Published: 05/03/2026 01:30:00 by Enrique Mejia
-
-Tests HTTP connectivity to a URI by sending repeated requests, measuring latency, and returning HTTP response details for diagnosis and endpoint monitoring.
-
-__Downloads__: 8 | __Repository__: https://github.com/fbe75380fbd4/httping
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/1.0.0) | 1.0.0
 
@@ -99,13 +187,13 @@ Tree-like cmdlets for file system and registry exploration!
 
 __Downloads__: 78,775 | __Repository__: https://www.github.com/santisq/PSTree
 
-## [diager](https://www.powershellgallery.com/Packages/diager/1.0.5) | 1.0.5
+## [KeepAChangelog](https://www.powershellgallery.com/Packages/KeepAChangelog/0.1.1) | 0.1.1
 
-### Published: 05/02/2026 12:29:02 by Syntaxx
+### Published: 05/02/2026 13:49:04 by Stiwi Gabriel Courage
 
-Functions that help you diagnose your PC and get clear output
+PowerShell helpers for creating, validating, and releasing Keep a Changelog files.
 
-__Downloads__: 33 | __Repository__: 
+__Downloads__: 52 | __Repository__: https://github.com/stiwicourage/KeepAChangelog
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.8.0) | 1.8.0
 
@@ -185,7 +273,7 @@ __Downloads__: 11 | __Repository__: https://github.com/brianary/ModernConvenienc
 
 PowerShell module for listing Volkskrant articles
 
-__Downloads__: 8,364 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+__Downloads__: 8,363 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.694.0) | 1.694.0
 
@@ -316,7 +404,7 @@ __Downloads__: 3,514 | __Repository__: https://github.com/jhoek/UncommonSense.Pa
 
 Powershell Module for CIPP-API
 
-__Downloads__: 14,250 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
+__Downloads__: 14,249 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
 
 ## [PsUi](https://www.powershellgallery.com/Packages/PsUi/1.0.4) | 1.0.4
 
@@ -341,14 +429,6 @@ __Downloads__: 53,659 | __Repository__: https://github.com/Keeper-Security/keepe
 Azure cmdlets created by SixPivot
 
 __Downloads__: 2,139 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
-
-## [AITriad](https://www.powershellgallery.com/Packages/AITriad/0.8.0) | 0.8.0
-
-### Published: 04/30/2026 20:27:44 by Jeffrey Snover
-
-AI Triad Research — taxonomy queries, document ingestion, POV analysis
-
-__Downloads__: 171 | __Repository__: https://github.com/jsnov/ai-triad-research
 
 ## [ShowTree](https://www.powershellgallery.com/Packages/ShowTree/1.2.1) | 1.2.1
 
@@ -480,6 +560,14 @@ __Downloads__: 1,298 | __Repository__: https://github.com/pentawork-solutions/Pe
 Tooling to curate and distribute Endjin IP assets into projects using the vendir tool
 
 __Downloads__: 135 | __Repository__: https://github.com/endjin/endjin-gists
+
+## [NimbleHighlight](https://www.powershellgallery.com/Packages/NimbleHighlight/0.0.1) | 0.0.1
+
+### Published: 04/30/2026 05:01:59 by NimbleThing
+
+PowerShell module to Syntax Highlight Powershell Code from Powershell with Powershell
+
+__Downloads__: 5 | __Repository__: https://github.com/secretGeek/highlight
 
 ## [DBeaverCreds](https://www.powershellgallery.com/Packages/DBeaverCreds/0.1.0) | 0.1.0
 
@@ -1963,92 +2051,4 @@ This modules provides Cmdlets for OCI Apmtraces Service
 
 __Downloads__: 16,614 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 14,271 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 15,686 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 13,992 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apiplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiplatform/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiplatform Service
-
-__Downloads__: 2,083 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 15,064 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apiaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiaccesscontrol/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiaccesscontrol Service
-
-__Downloads__: 2,313 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:46:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 17,505 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:45:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 14,883 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:45:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 12,936 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:45:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 13,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/130.0.0) | 130.0.0
-
-### Published: 04/28/2026 19:45:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 16,866 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 03 May 2026 10:13:26 UTC*
+*Updated: Sunday, 03 May 2026 22:04:23 UTC*
