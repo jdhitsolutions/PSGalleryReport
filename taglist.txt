@@ -1,12 +1,33 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 05 May 2026 22:09:21 UTC
-aws
-cloud
+Updated: Wednesday, 06 May 2026 10:30:26 UTC
+activedirectory
+avd
+azure
+bridge
+changelog
+entra
+fortytwo
+gateway
+intune
+java
+jnet
+jnetps
+jvm
+keep-a-changelog
+keepachangelog
+kotlin
 linux
-mac
-macos
+microsoft
+poc
+powershell
 psedition_core
 psedition_desktop
 psmodule
+releasenotes
+scala
+security
+semanticversioning
+semver
 windows
+zerotrust
