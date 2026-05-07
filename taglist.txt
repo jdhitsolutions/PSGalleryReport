@@ -1,29 +1,3 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 May 2026 10:34:45 UTC
-activedirectory
-ad
-adcs
-admintools
-automation
-ca
-certificate
-certificateauthority
-certificateservices
-execution
-fortytwo
-locksmith
-locksmith2
-msp
-pki
-powershell
-psedition_core
-psedition_desktop
-psmodule
-self-elevation
-stub
-sysadmin
-utilities
-vbtools
-windows
-x509
+Updated: Thursday, 07 May 2026 22:11:06 UTC
