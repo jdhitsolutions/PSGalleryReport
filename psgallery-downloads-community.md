@@ -640,9 +640,9 @@ This module contains public key infrastructure and certificate management functi
 
 __Downloads__: 8,911,433 | __Repository__: https://www.sysadmins.lv/projects/pspki/default.aspx
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.8.1) | 2.8.1
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.8.2) | 2.8.2
 
-### Published: 04/21/2026 16:56:54 by the dbatools team
+### Published: 05/17/2026 01:12:30 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -2141,4 +2141,4 @@ structured output for GitHub Actions, and JSON output for tooling integration.
 
 __Downloads__: 1,285,219 | __Repository__: https://github.com/psake/psake
 
-*Updated: Saturday, 16 May 2026 22:05:47 UTC*
+*Updated: Sunday, 17 May 2026 10:17:17 UTC*
