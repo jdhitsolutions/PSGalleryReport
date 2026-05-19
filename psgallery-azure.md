@@ -3,6 +3,24 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSRule.Rules.Azure](https://www.powershellgallery.com/Packages/PSRule.Rules.Azure/1.47.0) | 1.47.0
+
+### Published: 01/08/2026 03:24:59 by Microsoft Corporation
+
+Validate Azure resources and infrastructure as code using PSRule.
+
+This project uses GitHub Issues to track bugs and feature requests. See GitHub project for more information.
+
+__Downloads__: 2,203,334 | __Repository__: https://aka.ms/ps-rule-azure
+
+## [AzureRmStorageTable](https://www.powershellgallery.com/Packages/AzureRmStorageTable/2.1.0) | 2.1.0
+
+### Published: 04/09/2021 22:12:17 by Paulo Marques (MSFT)
+
+Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
+
+__Downloads__: 2,080,474 | __Repository__: 
+
 ## [AzureRM](https://www.powershellgallery.com/Packages/AzureRM/6.13.2) | 6.13.2
 
 ### Published: 03/23/2021 12:53:05 by Microsoft Corporation
@@ -66,6 +84,14 @@ __Downloads__: 38,055,950 | __Repository__: https://github.com/Azure/azure-power
 Microsoft Azure PowerShell - Sql service cmdlets for Azure Resource Manager
 
 __Downloads__: 35,412,932 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.SignalR](https://www.powershellgallery.com/Packages/AzureRM.SignalR/1.0.1) | 1.0.1
+
+### Published: 03/23/2021 12:52:27 by Microsoft Corporation
+
+Microsoft Azure PowerShell - Azure SignalR service commands
+
+__Downloads__: 30,942,128 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServiceFabric](https://www.powershellgallery.com/Packages/AzureRM.ServiceFabric/0.3.16) | 0.3.16
 
@@ -403,6 +429,22 @@ Microsoft Azure PowerShell - Profile credential management cmdlets for Azure Res
 
 __Downloads__: 156,855,636 | __Repository__: https://github.com/Azure/azure-powershell
 
+## [Azure](https://www.powershellgallery.com/Packages/Azure/5.3.1) | 5.3.1
+
+### Published: 11/26/2020 11:40:20 by Microsoft Corporation
+
+Microsoft Azure PowerShell - Service Management
+
+__Downloads__: 14,245,934 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.Backup](https://www.powershellgallery.com/Packages/AzureRM.Backup/4.0.11) | 4.0.11
+
+### Published: 10/23/2018 17:08:59 by Microsoft Corporation
+
+Microsoft Azure PowerShell - Azure Backup service cmdlets for Azure Resource Manager
+
+__Downloads__: 12,233,864 | __Repository__: https://github.com/Azure/azure-powershell
+
 ## [Azure.Storage](https://www.powershellgallery.com/Packages/Azure.Storage/4.6.1) | 4.6.1
 
 ### Published: 10/09/2018 18:00:35 by Microsoft Corporation
@@ -410,6 +452,22 @@ __Downloads__: 156,855,636 | __Repository__: https://github.com/Azure/azure-powe
 Microsoft Azure PowerShell - Storage service cmdlets. Manages blobs, queues, tables and files in Microsoft Azure storage accounts
 
 __Downloads__: 77,992,206 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.Scheduler](https://www.powershellgallery.com/Packages/AzureRM.Scheduler/0.16.10) | 0.16.10
+
+### Published: 08/29/2018 22:42:53 by Microsoft Corporation
+
+Microsoft Azure PowerShell - Scheduler cmdlets for Azure Resource Manager
+
+__Downloads__: 10,452,463 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.MachineLearningCompute](https://www.powershellgallery.com/Packages/AzureRM.MachineLearningCompute/0.4.8) | 0.4.8
+
+### Published: 08/29/2018 22:41:56 by Microsoft Corporation
+
+Microsoft Azure PowerShell - Machine Learning Compute cmdlets for Azure Resource Manager
+
+__Downloads__: 11,033,191 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [Azure.AnalysisServices](https://www.powershellgallery.com/Packages/Azure.AnalysisServices/0.5.4) | 0.5.4
 
@@ -419,4 +477,20 @@ Microsoft Azure PowerShell - Analysis Services server management
 
 __Downloads__: 37,006,243 | __Repository__: https://github.com/Azure/azure-powershell
 
-*Updated: Tuesday, 19 May 2026 10:49:45 UTC*
+## [AzureRM.SiteRecovery](https://www.powershellgallery.com/Packages/AzureRM.SiteRecovery/5.0.6) | 5.0.6
+
+### Published: 04/10/2018 17:00:46 by Microsoft Corporation
+
+Microsoft Azure PowerShell - SiteRecovery service cmdlets for Azure Resource Manager
+
+__Downloads__: 3,093,114 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [AzureRM.ServerManagement](https://www.powershellgallery.com/Packages/AzureRM.ServerManagement/4.1.2) | 4.1.2
+
+### Published: 04/10/2018 17:00:41 by Microsoft Corporation
+
+Microsoft Azure PowerShell - ServerManagement cmdlets for Azure Resource Manager
+
+__Downloads__: 3,040,995 | __Repository__: https://github.com/Azure/azure-powershell
+
+*Updated: Tuesday, 19 May 2026 22:14:01 UTC*
