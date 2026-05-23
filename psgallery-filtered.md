@@ -3,6 +3,110 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GraphApiHelper](https://www.powershellgallery.com/Packages/GraphApiHelper/1.0.7) | 1.0.7
+
+### Published: 05/23/2026 09:37:19 by Jiri Formacek
+
+Module provides simple commands for working with Microsoft Graph API, such as GET/POST/PATCH/DELETE requests, handling large file upload, retry logic, etc.
+
+__Downloads__: 21 | __Repository__: https://github.com/GreyCorbel/GraphApiHelper
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.49.0) | 4.49.0
+
+### Published: 05/23/2026 08:55:06 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 42,700 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [TerraformCloud](https://www.powershellgallery.com/Packages/TerraformCloud/1.3.0) | 1.3.0
+
+### Published: 05/23/2026 05:59:20 by Seth T. Bacon
+
+PowerShell module for HCP Terraform (Terraform Cloud/Enterprise) API
+
+__Downloads__: 24 | __Repository__: https://github.com/sethbacon/hcp-terraform-pwsh
+
+## [InTUI](https://www.powershellgallery.com/Packages/InTUI/1.0.2) | 1.0.2
+
+### Published: 05/23/2026 05:05:27 by jorgeasaurus
+
+Intune TUI - A terminal UI for Microsoft Intune management via Graph API
+
+__Downloads__: 76 | __Repository__: https://github.com/jorgeasaurus/InTUI
+
+## [ManageEngine.ServiceDesk.OnPrem](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem/0.3.1) | 0.3.1
+
+### Published: 05/23/2026 04:44:21 by Griffeth Barker (github@griff.systems)
+
+Umbrella module for the ManageEngine ServiceDesk Plus on-premises PowerShell module family. Installing this module installs all sub-modules. Import individual sub-modules (e.g. ManageEngine.ServiceDesk.OnPrem.Requests) to load only what you need.
+
+__Downloads__: 0 | __Repository__: https://github.com/griffeth-barker/ManageEngine.ServiceDesk.OnPrem
+
+## [ManageEngine.ServiceDesk.OnPrem.Requests](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem.Requests/0.2.1) | 0.2.1
+
+### Published: 05/23/2026 04:44:11 by Griffeth Barker (github@griff.systems)
+
+Requests module for the ManageEngine ServiceDesk Plus on-premises PowerShell module family. Provides cmdlets for managing requests, notes, tasks, worklogs, resolutions, and approvals.
+
+__Downloads__: 0 | __Repository__: https://github.com/griffeth-barker/ManageEngine.ServiceDesk.OnPrem
+
+## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20262.60881) | 1.20262.60881
+
+### Published: 05/23/2026 04:30:14 by Eigenverft
+
+Windows-focused PowerShell module for repeatable Windows Sandbox and fresh-machine bootstrap with package-managed Python, PowerShell, Node.js, and tooling runtimes, plus proxy-aware package bootstraps.
+
+__Downloads__: 481 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
+
+## [ManageEngine.ServiceDesk.OnPrem.Changes](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem.Changes/0.1.0) | 0.1.0
+
+### Published: 05/23/2026 04:03:28 by Griffeth Barker (github@griff.systems)
+
+Changes module for the ManageEngine ServiceDesk Plus on-premises PowerShell module family. Provides cmdlets for managing changes, notes, tasks, worklogs, deployment schedules, associations, and change configuration data.
+
+__Downloads__: 0 | __Repository__: https://github.com/griffeth-barker/ManageEngine.ServiceDesk.OnPrem
+
+## [AzResourceAnalyzer](https://www.powershellgallery.com/Packages/AzResourceAnalyzer/2.0.2) | 2.0.2
+
+### Published: 05/23/2026 03:12:03 by NCS Dojo
+
+Azure resource collection and posture assessment with auto-discovered modular collectors and checks.
+
+__Downloads__: 0 | __Repository__: https://github.com/NCSDojo/AzResourceAnalyzer
+
+## [ScoreHunter](https://www.powershellgallery.com/Packages/ScoreHunter/2.0.1) | 2.0.1
+
+### Published: 05/23/2026 01:36:19 by AnthoChamb
+
+A score optimizer for GHTV's Score Chaser
+
+__Downloads__: 59 | __Repository__: https://github.com/AnthoChamb/ScoreHunter
+
+## [OneIAM.Tools](https://www.powershellgallery.com/Packages/OneIAM.Tools/1.0.0) | 1.0.0
+
+### Published: 05/23/2026 00:38:50 by Gayan Gunawardana
+
+Simple demo PowerShell module
+
+__Downloads__: 0 | __Repository__: 
+
+## [Connect-Office365Services](https://www.powershellgallery.com/Packages/Connect-Office365Services/4.0.6) | 4.0.6
+
+### Published: 05/22/2026 22:09:46 by Michel de Rooij
+
+Helper functions to connect to Microsoft 365 / Office 365 services and manage their PowerShell modules.
+
+__Downloads__: 60 | __Repository__: https://github.com/michelderooij/Connect-Office365Services
+
+## [PowerShellUniversal.StandardLibrary](https://www.powershellgallery.com/Packages/PowerShellUniversal.StandardLibrary/1.4.0) | 1.4.0
+
+### Published: 05/22/2026 22:09:16 by Stephen Valdinger
+
+A UI toolkit for repeatable PSU app patterns
+
+__Downloads__: 9 | __Repository__: https://github.com/steviecoaster/PowerShellUniversal.StandardLibrary
+
 ## [Specrew](https://www.powershellgallery.com/Packages/Specrew/0.25.0) | 0.25.0
 
 ### Published: 05/22/2026 21:57:42 by Alon Fliess
@@ -10,22 +114,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Specrew: specification-driven development workflow for AI-augmented teams
 
 __Downloads__: 0 | __Repository__: https://github.com/alonf/specrew
-
-## [ManageEngine.ServiceDesk.OnPrem](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem/0.2.1) | 0.2.1
-
-### Published: 05/22/2026 21:49:08 by Griffeth Barker (github@griff.systems)
-
-Umbrella module for the ManageEngine ServiceDesk Plus on-premises PowerShell module family. Installing this module installs all sub-modules. Import individual sub-modules (e.g. ManageEngine.ServiceDesk.OnPrem.Requests) to load only what you need.
-
-__Downloads__: 0 | __Repository__: https://github.com/griffeth-barker/ManageEngine.ServiceDesk.OnPrem
-
-## [ManageEngine.ServiceDesk.OnPrem.Requests](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem.Requests/0.2.0) | 0.2.0
-
-### Published: 05/22/2026 21:40:10 by Griffeth Barker (github@griff.systems)
-
-Requests module for the ManageEngine ServiceDesk Plus on-premises PowerShell module family. Provides cmdlets for managing requests, notes, tasks, worklogs, resolutions, and approvals.
-
-__Downloads__: 0 | __Repository__: https://github.com/griffeth-barker/ManageEngine.ServiceDesk.OnPrem
 
 ## [ManageEngine.ServiceDesk.OnPrem.Core](https://www.powershellgallery.com/Packages/ManageEngine.ServiceDesk.OnPrem.Core/0.2.0) | 0.2.0
 
@@ -139,14 +227,6 @@ Automate your CyberArk Certificate Manager Self-Hosted/SaaS and Palo Alto Networ
 
 __Downloads__: 77,333 | __Repository__: https://github.com/Venafi/venafips
 
-## [AzResourceAnalyzer](https://www.powershellgallery.com/Packages/AzResourceAnalyzer/1.0.2) | 1.0.2
-
-### Published: 05/22/2026 18:54:21 by NCS Dojo
-
-Azure resource collection and posture assessment with auto-discovered modular collectors and checks.
-
-__Downloads__: 0 | __Repository__: https://github.com/NCSDojo/AzResourceAnalyzer
-
 ## [PsBash](https://www.powershellgallery.com/Packages/PsBash/0.9.11) | 0.9.11
 
 ### Published: 05/22/2026 18:48:04 by Andy Brummer
@@ -162,14 +242,6 @@ __Downloads__: 544 | __Repository__: https://github.com/standardbeagle/ps-bash
 A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
 
 __Downloads__: 3,487,450 | __Repository__: https://github.com/Badgerati/Pode
-
-## [Eigenverft.Manifested.Sandbox](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Sandbox/1.20262.60260) | 1.20262.60260
-
-### Published: 05/22/2026 17:28:10 by Eigenverft
-
-Windows-focused PowerShell module for repeatable Windows Sandbox and fresh-machine bootstrap with package-managed Python, PowerShell, Node.js, and tooling runtimes, plus proxy-aware package bootstraps.
-
-__Downloads__: 481 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Sandbox
 
 ## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/2.5.1) | 2.5.1
 
@@ -330,14 +402,6 @@ __Downloads__: 45 | __Repository__: https://github.com/HerrHozi/AS2Go
 Dotmatics cloud automation tool.
 
 __Downloads__: 37,304 | __Repository__: 
-
-## [sqmSQLTool](https://www.powershellgallery.com/Packages/sqmSQLTool/1.3.0.0) | 1.3.0.0
-
-### Published: 05/21/2026 21:31:17 by Uwe Janke
-
-SQL Server administration toolkit built on dbatools. Provides reporting, health checks, maintenance automation and security auditing for SQL Server environments.
-
-__Downloads__: 0 | __Repository__: https://github.com/JankeUwe/sqmSQLTool
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.6.9) | 1.6.9
 
@@ -611,14 +675,6 @@ PowerShell helper to use Okta API
 
 __Downloads__: 1,012 | __Repository__: 
 
-## [Fortytwo.IAM.ActiveDirectory.UserProvisioning](https://www.powershellgallery.com/Packages/Fortytwo.IAM.ActiveDirectory.UserProvisioning/0.1.1) | 0.1.1
-
-### Published: 05/20/2026 13:36:19 by Marius Solbakken Mellum
-
-A module for synchronizing users from Fortytwo IAM Core into Active Directory.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [SurgicalAutodeskCleaner](https://www.powershellgallery.com/Packages/SurgicalAutodeskCleaner/2.8.0) | 2.8.0
 
 ### Published: 05/20/2026 12:19:17 by Dailen
@@ -651,6 +707,14 @@ __Downloads__: 144 | __Repository__: https://github.com/DailenG/SurgicalAutodesk
 Basic automation info for scripts in Azure Automation
 
 __Downloads__: 234 | __Repository__: https://github.com/mgajda83/Automatron
+
+## [Belin.Cli](https://www.powershellgallery.com/Packages/Belin.Cli/5.2.0) | 5.2.0
+
+### Published: 05/20/2026 09:36:54 by Cédric Belin <cedx@outlook.com>
+
+PowerShell cmdlets for common administrative tasks, such as database management, service management and software installation.
+
+__Downloads__: 40 | __Repository__: https://github.com/CedX/Cli
 
 ## [VB.WindowsDNSLogAnalysis](https://www.powershellgallery.com/Packages/VB.WindowsDNSLogAnalysis/1.1.1) | 1.1.1
 
@@ -1974,68 +2038,4 @@ This modules provides Cmdlets for OCI Cims Service
 
 __Downloads__: 14,821 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Certificatesmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificatesmanagement/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificatesmanagement Service
-
-__Downloads__: 13,631 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificates Service
-
-__Downloads__: 13,517 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Capacitymanagement Service
-
-__Downloads__: 9,022 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 14,948 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 14,891 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 14,927 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Batch](https://www.powershellgallery.com/Packages/OCI.PSModules.Batch/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:59:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Batch Service
-
-__Downloads__: 1,204 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/132.0.0) | 132.0.0
-
-### Published: 05/19/2026 14:58:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 14,056 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 22 May 2026 22:13:51 UTC*
+*Updated: Saturday, 23 May 2026 10:18:23 UTC*
