@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 May 2026 22:14:13 UTC
+Updated: Tuesday, 26 May 2026 22:16:30 UTC
 
 .bat
 .env
@@ -104,6 +104,7 @@ accesscontroldsc
 accessgovernancecp
 accessibility
 accesspackage
+accesspackages
 accesspoint
 accessrights
 accesstoken
@@ -274,6 +275,7 @@ advisor
 adwords
 adx
 adxingestion
+ae
 aegyrix
 aem
 aeries
@@ -290,7 +292,6 @@ aftereffects
 ag
 agenda
 agent
-agent-management
 agentic
 agents
 aggregates
@@ -509,12 +510,11 @@ applebusinessmanager
 appleevents
 applescript
 applescript_bridge
-applesilicon
 application
 application-control
-application-management
 application-pool
 application-transformer
+applicationenhancer
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -847,6 +847,7 @@ azsdk
 azsk
 azsql
 azstackhci
+azstate
 azsubnet
 aztools
 azts
@@ -869,7 +870,6 @@ azure-ssis
 azure-stack-hci
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadpreview
@@ -948,11 +948,13 @@ azuressas
 azurestack
 azurestackhci
 azurestackhub
+azurestate
 azurestorage
 azurestorageservices
 azuresync
 azuretable
 azuretestplan
+azureverifiedmodules
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -991,7 +993,6 @@ base85
 basecamp
 based
 baseline
-baseline-management
 basename
 bash
 basic
@@ -1159,7 +1160,6 @@ bootsecurity
 bootstrap
 bootstrapping
 bop
-border
 borg
 bot
 bots
@@ -1175,7 +1175,6 @@ brainy
 branch
 branch-rename
 branchcache
-branding
 brave
 brawlapi
 brawlstars
@@ -1495,7 +1494,6 @@ cimsession
 cinst
 ciph4
 cipher
-ciphers
 circuit-breaker
 circumlunar
 cireson
@@ -1889,6 +1887,7 @@ containerregistry
 containers
 containment
 content
+contentmanagement
 contentprep
 context
 contextmenu
@@ -1911,7 +1910,6 @@ controlled-folder
 controller
 controlroom
 controlup
-convention
 conventional
 conventional-commits
 convereter
@@ -2025,8 +2023,8 @@ credential
 credential-dialog
 credential-file
 credential-files
+credential-guard
 credential-manager
-credential-protection
 credentiallocker
 credentialmanagement
 credentialmanager
@@ -2219,7 +2217,6 @@ dapr
 dare
 dargslan
 dark
-darkmode
 darktrace
 dash
 dashboard
@@ -2231,6 +2228,7 @@ data_protection
 data_security
 data-archive
 data-backup
+data-loss-prevention
 data-protection
 data-sources
 data-tier
@@ -2351,6 +2349,7 @@ debuglog
 decimal
 decimalip
 decimalzero
+decisiontree
 declarative
 decline
 decode
@@ -2364,8 +2363,6 @@ dedicatedhsm
 dedup
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deeplearning
 deepseek
@@ -2426,6 +2423,7 @@ deployment
 deploymentconfig
 deploymentresourceprovider
 deploymenttasks
+depot
 deprecated
 depute
 der
@@ -2469,9 +2467,9 @@ deviation
 device
 device-control
 device-encryption
-device-management
 devicecleanup
 devicecode
+devicecontrol
 devicehardening
 deviceid
 devicemanagement
@@ -2563,6 +2561,7 @@ disablestartbutton
 disablestartkey
 disasm
 disaster
+disaster-recovery
 disasterrecovery
 disconnect
 disconnectedoperations
@@ -2604,7 +2603,6 @@ distributiongroup
 distributiongroups
 distributionlist
 distributionpointgroupmembers
-distro
 distrubtionpoint
 dividends
 diving
@@ -2677,6 +2675,7 @@ documentdb
 documentencryption
 documenter
 documenting
+documentmanagement
 documents
 docusaurus
 docusign
@@ -2871,6 +2870,7 @@ ebooks
 ebur128
 ec2
 echo
+ecm
 ecma2
 ecma2host
 ecommerce
@@ -2995,7 +2995,6 @@ entaid
 enteo
 enter
 enterprise
-enterprise-mobility
 enterprise-scale
 enterprisedb
 enterprisemanager
@@ -3018,6 +3017,7 @@ entrust
 enum
 enumerable
 enumerate
+enumeration
 enumerator
 env
 environment
@@ -3098,7 +3098,6 @@ evc
 event
 event_id
 event_list
-event-forwarding
 event-log
 event-timeline
 eventbridge
@@ -3193,6 +3192,7 @@ expired
 expiring
 expiry
 exploit
+exploit-protection
 exploits
 exploration
 explorer
@@ -3719,7 +3719,6 @@ ghibli
 ghost
 gif
 gifs
-giphy
 gis
 gist
 git
@@ -3988,6 +3987,7 @@ healthcheck
 healthchecks
 healthchecks.io
 healthdataaiservices
+healthscore
 healthservice
 healthz
 heartbeatdiscovery
@@ -3995,7 +3995,6 @@ heat
 heating
 heavenbay
 hebrew
-helium
 helix
 hello
 helloid
@@ -4069,6 +4068,7 @@ hmpljs
 hockey
 hol
 holiday
+hollow
 home
 home_automation
 home-assistant
@@ -4162,6 +4162,7 @@ humour
 hunk
 hunter
 hunting
+hvci
 hwid
 hwinfo64
 hybrid
@@ -4239,6 +4240,7 @@ idle
 idm
 idn
 idna
+idoit
 idp
 idrac
 ids
@@ -4286,7 +4288,6 @@ imagga
 imagination
 imaging
 imap
-imapi2
 imb
 imei
 imi
@@ -4312,7 +4313,6 @@ incidentresponse
 incidents
 includeif
 incontact
-incremental
 indents
 index
 indexdb
@@ -4351,8 +4351,6 @@ initiative
 initiator
 injection
 injector
-ink-canvas
-inkcanvas
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4464,7 +4462,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ioc
 ionos
 iops
 ios
@@ -4631,6 +4628,7 @@ json+
 json2ps
 jsonbatching
 jsonplus
+jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -4650,6 +4648,7 @@ juriba
 justenoughadministration
 justification
 jvm
+jwe
 jwk
 jws
 jwt
@@ -4815,7 +4814,6 @@ laserbeams
 last
 last.fm
 lastfm
-lastlog
 lastlogon
 lastpass
 latency
@@ -4916,9 +4914,9 @@ lint
 linter
 linting
 linux
+linux fstab
 linux inode
 linux kernel
-linux motd
 linux network
 linux pam
 linux-command
@@ -4977,6 +4975,7 @@ localllm
 localpolicy
 localrepo
 localrepository
+localstorage
 localuser
 locate
 location
@@ -5078,7 +5077,6 @@ ls_colors
 ls_icons
 lsa
 lsasecrets
-lsass
 lsblk
 lsd
 lsmod
@@ -5149,7 +5147,6 @@ mails
 mailsecurity
 mailspring
 main-menu
-main-mode
 maintain-module
 maintainability
 maintenance
@@ -5269,6 +5266,7 @@ mde
 mdep
 mdi
 mdm
+mdns
 mdo
 mdop
 mdp
@@ -5304,7 +5302,6 @@ membership
 memcm
 meme
 memory
-memory-protection
 memorydump
 memorystream
 mention
@@ -5439,7 +5436,6 @@ miscellaneous
 misp
 mistral
 mistralai
-mit
 mitigation
 mitre
 mitre_att&ck
@@ -5463,14 +5459,12 @@ mmc
 mmdc
 mngdmac
 mobile
-mobile-device-management
 mobiledevicemanagement
 mobilenetwork
 mobilitycontroller
 mock
 mocking
 mod
-modal
 modbus
 modding
 model
@@ -5786,6 +5780,7 @@ network-filesystem
 network-info
 network-policy
 network-profile
+network-shares
 networkadapter
 networkanalytics
 networkautomation
@@ -5943,6 +5938,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+null-session
 numa
 number
 numlock
@@ -5961,6 +5957,7 @@ nvim
 nvm
 nvm-window
 nvmeof
+nvoip
 nxt
 nyse
 nzb
@@ -6142,6 +6139,7 @@ openstreetmap
 openstreetmaps
 opentdb
 opentelemetry
+opentext
 opentofu
 openvpn
 openxml
@@ -6179,7 +6177,6 @@ oraenv
 oraset
 orbit
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -6375,6 +6372,7 @@ passwordvault
 passwordwolf
 paste
 patch
+patch-gap
 patch-management
 patches
 patching
@@ -6464,7 +6462,6 @@ phish
 phishing
 phishnet
 phoenix
-phone
 phoneautomation
 photo
 photograph
@@ -6517,6 +6514,7 @@ pki psmodule
 pks
 pktmon
 place
+placeholder
 places
 plain
 plain-english
@@ -6534,10 +6532,6 @@ player
 playlist
 playlists
 playwright
-plc
-plc4x™
-plconnet
-plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -6572,6 +6566,7 @@ pointer
 pokeapi
 pokedex
 pokemon
+pokemontcg
 poker
 policies
 policy
@@ -6604,7 +6599,6 @@ port
 port-scan
 port70
 portable
-portable-executable
 portablewinget
 portal
 portchecker
@@ -6695,6 +6689,7 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
+poshy-wrap-zypper
 position
 post
 postcode
@@ -6830,7 +6825,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 prefixing
 preparead
@@ -6858,6 +6852,7 @@ primera
 principal
 principle
 print
+print-queue
 print-spooler
 printer
 printers
@@ -6886,11 +6881,8 @@ pro
 proactive
 probability
 probe
-problemmanagement
-problems
 process
 process-inspector
-processes
 processexplorer
 processing
 processmitigation
@@ -6921,7 +6913,6 @@ program-association
 programming
 programs
 progress
-progress-bar
 progressbar
 progressbars
 project
@@ -8211,6 +8202,52 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
+pscommand_invoke-zypper
+pscommand_invoke-zypperaddlock
+pscommand_invoke-zypperaddservice
+pscommand_invoke-zypperadrepo
+pscommand_invoke-zypperclean
+pscommand_invoke-zyppercleanlocks
+pscommand_invoke-zypperdistupgrade
+pscommand_invoke-zypperhelp
+pscommand_invoke-zypperhelpsearch
+pscommand_invoke-zypperif
+pscommand_invoke-zypperin
+pscommand_invoke-zypperinstallnewrecommends
+pscommand_invoke-zypperlicenses
+pscommand_invoke-zypperlistlocks
+pscommand_invoke-zypperlistpackages
+pscommand_invoke-zypperlistprocesseslockingpackages
+pscommand_invoke-zypperlistrepos
+pscommand_invoke-zypperlistservices
+pscommand_invoke-zypperlistupdates
+pscommand_invoke-zyppermodifyrepo
+pscommand_invoke-zyppermodifyservice
+pscommand_invoke-zypperpackages
+pscommand_invoke-zypperpatch
+pscommand_invoke-zypperpatchcheck
+pscommand_invoke-zypperpatches
+pscommand_invoke-zypperpatchinfo
+pscommand_invoke-zypperpatterninfo
+pscommand_invoke-zypperpatterns
+pscommand_invoke-zypperproductinfo
+pscommand_invoke-zypperproducts
+pscommand_invoke-zypperrefresh
+pscommand_invoke-zypperrefreshservices
+pscommand_invoke-zypperremove
+pscommand_invoke-zypperremovelock
+pscommand_invoke-zypperremoverepo
+pscommand_invoke-zypperremoveservice
+pscommand_invoke-zypperrenamerepo
+pscommand_invoke-zyppersearch
+pscommand_invoke-zyppershell
+pscommand_invoke-zyppersourcedownload
+pscommand_invoke-zyppersourceinstall
+pscommand_invoke-zyppertargetos
+pscommand_invoke-zypperupdate
+pscommand_invoke-zypperverify
+pscommand_invoke-zypperversioncompare
+pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -8697,6 +8734,51 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
+pscommand_z
+pscommand_zal
+pscommand_zar
+pscommand_zas
+pscommand_zcl
+pscommand_zdup
+pscommand_zh
+pscommand_zhse
+pscommand_zif
+pscommand_zin
+pscommand_zinr
+pscommand_zlicenses
+pscommand_zll
+pscommand_zlp
+pscommand_zlr
+pscommand_zls
+pscommand_zlu
+pscommand_zmr
+pscommand_zms
+pscommand_znr
+pscommand_zpa
+pscommand_zpatch
+pscommand_zpatch-info
+pscommand_zpattern-info
+pscommand_zpch
+pscommand_zpchk
+pscommand_zpd
+pscommand_zproduct-info
+pscommand_zps
+pscommand_zpt
+pscommand_zref
+pscommand_zrefs
+pscommand_zrl
+pscommand_zrm
+pscommand_zrr
+pscommand_zrs
+pscommand_zse
+pscommand_zshell
+pscommand_zsi
+pscommand_zsource-download
+pscommand_ztos
+pscommand_zup
+pscommand_zvcmp
+pscommand_zve
+pscommand_zwp
 pscommander
 psconfasia
 psconfeu
@@ -9537,6 +9619,52 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
+psfunction_invoke-zypper
+psfunction_invoke-zypperaddlock
+psfunction_invoke-zypperaddservice
+psfunction_invoke-zypperadrepo
+psfunction_invoke-zypperclean
+psfunction_invoke-zyppercleanlocks
+psfunction_invoke-zypperdistupgrade
+psfunction_invoke-zypperhelp
+psfunction_invoke-zypperhelpsearch
+psfunction_invoke-zypperif
+psfunction_invoke-zypperin
+psfunction_invoke-zypperinstallnewrecommends
+psfunction_invoke-zypperlicenses
+psfunction_invoke-zypperlistlocks
+psfunction_invoke-zypperlistpackages
+psfunction_invoke-zypperlistprocesseslockingpackages
+psfunction_invoke-zypperlistrepos
+psfunction_invoke-zypperlistservices
+psfunction_invoke-zypperlistupdates
+psfunction_invoke-zyppermodifyrepo
+psfunction_invoke-zyppermodifyservice
+psfunction_invoke-zypperpackages
+psfunction_invoke-zypperpatch
+psfunction_invoke-zypperpatchcheck
+psfunction_invoke-zypperpatches
+psfunction_invoke-zypperpatchinfo
+psfunction_invoke-zypperpatterninfo
+psfunction_invoke-zypperpatterns
+psfunction_invoke-zypperproductinfo
+psfunction_invoke-zypperproducts
+psfunction_invoke-zypperrefresh
+psfunction_invoke-zypperrefreshservices
+psfunction_invoke-zypperremove
+psfunction_invoke-zypperremovelock
+psfunction_invoke-zypperremoverepo
+psfunction_invoke-zypperremoveservice
+psfunction_invoke-zypperrenamerepo
+psfunction_invoke-zyppersearch
+psfunction_invoke-zyppershell
+psfunction_invoke-zyppersourcedownload
+psfunction_invoke-zyppersourceinstall
+psfunction_invoke-zyppertargetos
+psfunction_invoke-zypperupdate
+psfunction_invoke-zypperverify
+psfunction_invoke-zypperversioncompare
+psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -9746,6 +9874,8 @@ psguerrilla
 pshdhomerun
 pshost
 pshtml
+psidoit
+psidoitng
 psign
 psimport
 psincludes_cmdlet
@@ -9962,7 +10092,6 @@ question
 queue
 queues
 queuing
-quick-mode
 quick-response
 quickaccess
 quickbase
@@ -9988,6 +10117,7 @@ r53
 rabbit
 rabbitmq
 rackspace
+rackstack
 radarr
 radeon
 radio
@@ -10137,7 +10267,6 @@ reflect
 reflection
 refresh
 refreshtoken
-refs
 reg
 reg_binary
 reg_dword
@@ -10150,7 +10279,6 @@ regcli
 regedit
 regex
 region
-regional
 regions
 regiser-argumentcompleter
 register
@@ -10262,7 +10390,6 @@ repositories
 repository
 request
 requestfiltering
-requests
 requesttracker
 requiredmodules
 requirements
@@ -10277,7 +10404,6 @@ reshade
 resharper
 resilience
 resiliency
-resilient
 resize
 resolution
 resolv
@@ -10315,6 +10441,7 @@ restore
 restore-point
 restore-points
 restrictive
+restructure
 results
 resume
 retail
@@ -10327,7 +10454,6 @@ retype
 reuse
 reverse-dns
 reverse-engineer
-reverse-engineering
 reverse-string
 reversed-color-text
 reversedsc
@@ -10347,7 +10473,6 @@ rfc4266
 rfc4291
 rfc5424
 rfc5952
-rfc8009
 rfc826
 rfc9116
 rfid
@@ -10384,6 +10509,8 @@ rng
 rnn
 roarwrecker
 robbyrussel
+robinhood
+robinhoodcrypto
 robocopy
 robopack
 robot
@@ -10405,7 +10532,6 @@ romaji
 ron
 rooms
 ropc
-rosetta
 rot13
 rotate
 rotation
@@ -10442,6 +10568,7 @@ rss
 rstudio
 rt
 rtm
+rtsp
 rtu
 rubber
 rubrik
@@ -10456,7 +10583,6 @@ run-as-user
 run-key
 run-keys
 runas
-runas-ppl
 runasuser
 runbook
 runbooks
@@ -10694,7 +10820,6 @@ securestring
 security
 security_cameras
 security-assessment
-security-association
 security-awareness-training
 security-log
 security-policy
@@ -10761,6 +10886,7 @@ sendkeys
 sendmail
 sense
 sensitive
+sensitive-data
 sensitivity
 sensitivitylabels
 sensor
@@ -10788,6 +10914,7 @@ server
 server-backup
 server-manager
 servercertificatevalidationcallback
+serverconfig
 serverinventory
 serverless
 servermanagement
@@ -10807,6 +10934,7 @@ servicedeskplus
 servicediscovery
 serviceendpoints
 servicefabric
+servicegroups
 servicelinker
 servicemanagementautomation
 servicemanagementautomationx
@@ -10823,7 +10951,6 @@ services
 servicestatus
 servicestore
 servicetags
-serviceui
 servicing
 servicingstack
 ses
@@ -10901,7 +11028,6 @@ shell-art
 shell-integration
 shells
 sherweb
-shielded-vm
 shieldedvm
 shims
 shipment
@@ -11329,6 +11455,7 @@ static-analysis
 static-site
 staticanalysis
 statichtmlsites
+staticip
 staticsite
 staticwebsite
 statistical
@@ -11470,6 +11597,7 @@ supercell
 superheros
 supermarket
 supermicro
+superseded
 supervisor
 supplychain
 support
@@ -11488,7 +11616,6 @@ surveymonkey
 sus
 sushi
 suspensive
-suspicious
 svelte
 svesavov
 svetoslav
@@ -11640,6 +11767,7 @@ tatux
 tauricraft
 taxjar
 taxonomy
+tcg
 tcm
 tcp
 tcp/ip
@@ -11676,6 +11804,7 @@ technology1
 technologyone
 techsmith
 tel
+telefonia
 telegram
 telegram-bot
 telegram-bot-api
@@ -11814,6 +11943,7 @@ threadsafe
 threadsanitizer
 threat
 threat-hunting
+threat-protection
 threatdefense
 threatdetection
 threathunting
@@ -11825,7 +11955,6 @@ threatprotection
 threats
 threatsharing
 throttling
-throughput
 thumbprint
 thunderbird
 thycotic
@@ -11951,7 +12080,6 @@ transcode
 transcribe
 transcript
 transcripts
-transfer
 transform
 transformation
 transforms
@@ -11978,7 +12106,6 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trends
 trevor
@@ -12194,6 +12321,7 @@ university
 unix
 unlinked
 unlock
+unmanaged
 unprotect
 unraid
 unsigned
@@ -12332,6 +12460,7 @@ vbaf
 vbaproject
 vbproj
 vbr
+vbs
 vbscript
 vbsinst
 vbtools
@@ -12433,6 +12562,7 @@ virsh
 virtual
 virtual-disk
 virtual-disks
+virtual-switch
 virtualappliance
 virtualbox
 virtualboxguestadditions
@@ -12507,6 +12637,7 @@ vocabularies
 voice
 voiceservices
 voidtools
+voip
 volkskrant
 volta
 volume
@@ -12564,7 +12695,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtpm
 vtt
 vue
 vulnerabilities
@@ -12682,7 +12812,6 @@ weekday
 weekly
 wef
 weixin
-welcome windows sysadmin dargslan devops administration
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -12696,6 +12825,7 @@ wget
 what3words
 whatif
 whatismyip
+whatsapp
 whatsnew
 whatsupgold
 whd
@@ -12920,7 +13050,6 @@ workpoint
 workrequests
 worksheet
 workspace
-workspace-one
 workspacemanager
 workspaceone
 workspaces
@@ -12939,10 +13068,12 @@ wql
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information
@@ -12956,9 +13087,9 @@ writeaccess
 writelog
 writeprogress
 writer
+writers
 writing
 ws-federation
-ws1
 wsapi
 wsb
 wsl
@@ -13061,7 +13192,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yfinance
@@ -13124,6 +13254,7 @@ zuora
 zvm
 zvml
 zvmlinux
+zypper
 カタカナ
 ひらがな
 ローマ字
