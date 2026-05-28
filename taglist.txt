@@ -1,3 +1,30 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 May 2026 11:03:12 UTC
+Updated: Thursday, 28 May 2026 22:21:11 UTC
+aws
+azuread
+cisa
+cloud
+configuration
+defender
+desiredstateconfiguration
+dsc
+dscresource
+dscresourcekit
+exchange
+linux
+m365
+mac
+macos
+microsoft365
+o365
+onedrive
+powerplatform
+psedition_core
+psedition_desktop
+psmodule
+report
+security
+sharepoint
+teams
+windows

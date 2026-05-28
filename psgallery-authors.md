@@ -5,5 +5,11 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
++ [CISA](#CISA) (1)
 
-*Updated: Thursday, 28 May 2026 11:03:11 UTC*
+## CISA
+
++ **[ScubaGear 1.8.0](https://github.com/cisagov/ScubaGear)**  - The Secure Cloud Business Applications (SCuBA) Gear module automates
+conformance testing about CISA M365 Secure Configuration Baselines. [*05/07/2026 21:47:15*]
+
+*Updated: Thursday, 28 May 2026 22:21:11 UTC*
