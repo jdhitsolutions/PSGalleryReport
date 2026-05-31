@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [MailcowHelper](https://www.powershellgallery.com/Packages/MailcowHelper/1.4.2) | 1.4.2
+
+### Published: 05/31/2026 20:34:36 by Dieter Koch
+
+An unofficial PowerShell module for managing mailcow via the mailcow REST API.
+
+__Downloads__: 138 | __Repository__: https://github.com/admins-little-helper/MailcowHelper
+
+## [DLLPickle](https://www.powershellgallery.com/Packages/DLLPickle/2.0.2) | 2.0.2
+
+### Published: 05/31/2026 20:22:26 by Sam Erde
+
+A PowerShell module that helps you get un-stuck from dependency version conflicts that can occur when connecting to multiple Microsoft services in the same session.
+
+__Downloads__: 1,213 | __Repository__: https://github.com/SamErde/DLLPickle
+
+## [AwakeCoding.PSRemoting](https://www.powershellgallery.com/Packages/AwakeCoding.PSRemoting/2026.5.31) | 2026.5.31
+
+### Published: 05/31/2026 20:17:08 by Marc-André Moreau
+
+AwakeCoding PSRemoting Extensions
+
+__Downloads__: 130 | __Repository__: https://github.com/awakecoding/AwakeCoding.PSRemoting
+
+## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/1.0.0) | 1.0.0
+
+### Published: 05/31/2026 16:38:32 by Jorgeasaurus
+
+Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
+
+__Downloads__: 812 | __Repository__: https://intunehydrationkit.com/
+
+## [Ciph4](https://www.powershellgallery.com/Packages/Ciph4/1.3.0) | 1.3.0
+
+### Published: 05/31/2026 14:01:01 by CIPH4 Inc.
+
+CIPH4 PowerShell Module — zero-knowledge AES-256-GCM secret sharing plus a comprehensive wrapper of the CIPH4 management API (drops, orgs, compliance, reports, threats, IP rules, webhooks, audit, GDPR).
+
+__Downloads__: 12 | __Repository__: https://ciph4.com/docs
+
+## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.11.4) | 0.11.4
+
+### Published: 05/31/2026 13:58:04 by kurokobo
+
+PowerShell module for Dify.
+
+__Downloads__: 239 | __Repository__: https://github.com/kurokobo/psdify
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.6.1) | 1.6.1
+
+### Published: 05/31/2026 13:35:41 by Yoshifumi Tsuda
+
+Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 3,488 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
+
+## [NovaModuleTools](https://www.powershellgallery.com/Packages/NovaModuleTools/3.2.0) | 3.2.0
+
+### Published: 05/31/2026 12:27:03 by Stiwi Gabriel Courage
+
+NovaModuleTools is an enterprise-focused build tool for Agentic Copilot PowerShell module development, with a strong emphasis on structure, maintainability, and automated CI/CD pipelines.
+
+__Downloads__: 2,831 | __Repository__: https://www.novamoduletools.com/
+
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.14.438) | 1.14.438
 
 ### Published: 05/31/2026 10:18:29 by Friedrich Weinmann
@@ -49,7 +113,7 @@ __Downloads__: 1 | __Repository__: https://github.com/teramako/Sabamiso.completi
 
 Native Command Completer
 
-__Downloads__: 0 | __Repository__: https://github.com/teramako/Sabamiso.psm
+__Downloads__: 1 | __Repository__: https://github.com/teramako/Sabamiso.psm
 
 ## [TrackStash.Transcode](https://www.powershellgallery.com/Packages/TrackStash.Transcode/0.1.0) | 0.1.0
 
@@ -65,7 +129,7 @@ __Downloads__: 0 | __Repository__: https://github.com/ionise/trackstash-transcod
 
 Tool for cleaning temporary files from the system
 
-__Downloads__: 93 | __Repository__: https://github.com/Emersonmrbr/PowershellModules.git
+__Downloads__: 94 | __Repository__: https://github.com/Emersonmrbr/PowershellModules.git
 
 ## [cliHelper.core](https://www.powershellgallery.com/Packages/cliHelper.core/0.3.2) | 0.3.2
 
@@ -249,7 +313,7 @@ __Downloads__: 12 | __Repository__: https://github.com/dcazman/CSVToRainbow
 
 A PowerShell module for managing project-based PowerShell resources with lockfile, inspired by package managers like npm and Cargo.
 
-__Downloads__: 674 | __Repository__: https://github.com/krymtkts/pslrm
+__Downloads__: 678 | __Repository__: https://github.com/krymtkts/pslrm
 
 ## [Sixel](https://www.powershellgallery.com/Packages/Sixel/0.7.1) | 0.7.1
 
@@ -269,7 +333,7 @@ Display images in the terminal using various protocols
     Note: Sixel requires Windows Terminal v1.22+ or VSCode 1.101+.
     VSCode requires "Enable Images", "Windows Enable Conpty", "Windows Use Conpty Dll" enabled.
 
-__Downloads__: 5,220 | __Repository__: https://github.com/trackd/Sixel
+__Downloads__: 5,218 | __Repository__: https://github.com/trackd/Sixel
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/2.1.1) | 2.1.1
 
@@ -311,14 +375,6 @@ Remote Desktop Session Host maintenance cmdlets for printer cleanup and related 
 
 __Downloads__: 11 | __Repository__: https://github.com/LISSConsulting/LISSTech.RemoteDesktopManager
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.6.0) | 1.6.0
-
-### Published: 05/29/2026 15:39:04 by Yoshifumi Tsuda
-
-Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 3,488 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
-
 ## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.38.14) | 1.38.14
 
 ### Published: 05/29/2026 14:29:22 by Platform Operations Team
@@ -357,7 +413,7 @@ __Downloads__: 8,290 | __Repository__: https://github.com/mgajda83/PSSDPAPI
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 166,882 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 166,881 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [UncommonSense.Spanish](https://www.powershellgallery.com/Packages/UncommonSense.Spanish/2.1.0) | 2.1.0
 
@@ -381,7 +437,7 @@ __Downloads__: 172 | __Repository__: https://github.com/CedX/Sql.ps1
 
 PowerShell for Proxmox VE
 
-__Downloads__: 495,057 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 495,035 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [Omnicit.PIM](https://www.powershellgallery.com/Packages/Omnicit.PIM/0.5.1) | 0.5.1
 
@@ -596,7 +652,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 7,555,036 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 7,555,089 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [Belin.Html](https://www.powershellgallery.com/Packages/Belin.Html/3.0.1) | 3.0.1
 
@@ -700,7 +756,7 @@ __Downloads__: 94 | __Repository__: https://github.com/DevPossible/power-stub
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 6,591,327 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 6,591,343 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.11.0) | 2.11.0
 
@@ -860,7 +916,7 @@ __Downloads__: 105,315 | __Repository__: https://github.com/aaronpowell/ps-nvm
 
 Plaster is a template-based file and project generator written in PowerShell. Create consistent PowerShell projects with customizable templates supporting both XML and JSON formats.
 
-__Downloads__: 1,058,757 | __Repository__: https://github.com/PowerShellOrg/Plaster
+__Downloads__: 1,058,737 | __Repository__: https://github.com/PowerShellOrg/Plaster
 
 ## [FreshService.Tools](https://www.powershellgallery.com/Packages/FreshService.Tools/1.0.2) | 1.0.2
 
@@ -886,13 +942,13 @@ Top-level manifest module to install all Akamai-related sub-modules.
 
 __Downloads__: 27,252 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.SLA](https://www.powershellgallery.com/Packages/Akamai.SLA/3.0.0) | 3.0.0
+## [Akamai.SIEM](https://www.powershellgallery.com/Packages/Akamai.SIEM/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Service Level Agreement API.
+Functions to manage the Akamai Security Information and Event Management API.
 
-__Downloads__: 22,907 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,285 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.Purge](https://www.powershellgallery.com/Packages/Akamai.Purge/3.0.0) | 3.0.0
 
@@ -902,13 +958,13 @@ Functions to manage the Akamai Fast Purge API.
 
 __Downloads__: 31,771 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.Property](https://www.powershellgallery.com/Packages/Akamai.Property/3.0.0) | 3.0.0
+## [Akamai.Reporting](https://www.powershellgallery.com/Packages/Akamai.Reporting/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Property API.
+Functions to manage the Akamai Reporting API.
 
-__Downloads__: 27,718 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,298 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.Siteshield](https://www.powershellgallery.com/Packages/Akamai.Siteshield/3.0.0) | 3.0.0
 
@@ -918,14 +974,6 @@ Functions to manage the Akamai Siteshield API.
 
 __Downloads__: 27,654 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.NetworkLists](https://www.powershellgallery.com/Packages/Akamai.NetworkLists/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Network Lists API.
-
-__Downloads__: 27,356 | __Repository__: https://github.com/akamai/powershell
-
 ## [Akamai.TestCenter](https://www.powershellgallery.com/Packages/Akamai.TestCenter/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
@@ -934,13 +982,21 @@ Functions to manage the Akamai Test Center API.
 
 __Downloads__: 27,283 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.Reporting](https://www.powershellgallery.com/Packages/Akamai.Reporting/3.0.0) | 3.0.0
+## [Akamai.Property](https://www.powershellgallery.com/Packages/Akamai.Property/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Reporting API.
+Functions to manage the Akamai Property API.
 
-__Downloads__: 27,298 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,718 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.NetworkLists](https://www.powershellgallery.com/Packages/Akamai.NetworkLists/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Network Lists API.
+
+__Downloads__: 27,356 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.Netstorage](https://www.powershellgallery.com/Packages/Akamai.Netstorage/3.0.0) | 3.0.0
 
@@ -950,53 +1006,13 @@ Functions to manage the Akamai Netstorage Usage and Configuration APIs.
 
 __Downloads__: 27,457 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.SIEM](https://www.powershellgallery.com/Packages/Akamai.SIEM/3.0.0) | 3.0.0
+## [Akamai.SLA](https://www.powershellgallery.com/Packages/Akamai.SLA/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:17 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Security Information and Event Management API.
+Functions to manage the Akamai Service Level Agreement API.
 
-__Downloads__: 27,285 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.LogDeliveryService](https://www.powershellgallery.com/Packages/Akamai.LogDeliveryService/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Log Delivery Service API.
-
-__Downloads__: 5 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.EdgeKV](https://www.powershellgallery.com/Packages/Akamai.EdgeKV/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai EdgeKV API.
-
-__Downloads__: 27,402 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.EdgeWorkers](https://www.powershellgallery.com/Packages/Akamai.EdgeWorkers/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai EdgeWorkers API.
-
-__Downloads__: 27,404 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.GTM](https://www.powershellgallery.com/Packages/Akamai.GTM/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Global Traffic Manager APIs.
-
-__Downloads__: 27,425 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.IVM](https://www.powershellgallery.com/Packages/Akamai.IVM/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Image & Video Manager API.
-
-__Downloads__: 27,360 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 22,907 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.FirewallRulesNotification](https://www.powershellgallery.com/Packages/Akamai.FirewallRulesNotification/3.0.0) | 3.0.0
 
@@ -1006,6 +1022,14 @@ Functions to manage the Akamai Firewall Rules Notification Service API.
 
 __Downloads__: 27,515 | __Repository__: https://github.com/akamai/powershell
 
+## [Akamai.METS](https://www.powershellgallery.com/Packages/Akamai.METS/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai MTLS Edge Trust Store API.
+
+__Downloads__: 22,945 | __Repository__: https://github.com/akamai/powershell
+
 ## [Akamai.IAM](https://www.powershellgallery.com/Packages/Akamai.IAM/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
@@ -1013,6 +1037,30 @@ __Downloads__: 27,515 | __Repository__: https://github.com/akamai/powershell
 Functions to manage the Akamai Identity & Access Management API.
 
 __Downloads__: 27,397 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.EdgeKV](https://www.powershellgallery.com/Packages/Akamai.EdgeKV/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai EdgeKV API.
+
+__Downloads__: 27,402 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.IVM](https://www.powershellgallery.com/Packages/Akamai.IVM/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Image & Video Manager API.
+
+__Downloads__: 27,360 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.EdgeWorkers](https://www.powershellgallery.com/Packages/Akamai.EdgeWorkers/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai EdgeWorkers API.
+
+__Downloads__: 27,404 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.MediaServicesLive](https://www.powershellgallery.com/Packages/Akamai.MediaServicesLive/3.0.0) | 3.0.0
 
@@ -1022,14 +1070,6 @@ Functions to manage the Akamai Media Services Live API.
 
 __Downloads__: 23,104 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.METS](https://www.powershellgallery.com/Packages/Akamai.METS/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai MTLS Edge Trust Store API.
-
-__Downloads__: 22,945 | __Repository__: https://github.com/akamai/powershell
-
 ## [Akamai.MOKS](https://www.powershellgallery.com/Packages/Akamai.MOKS/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
@@ -1038,37 +1078,13 @@ Functions to manage the Akamai <MOKS> API.
 
 __Downloads__: 15,494 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.ContentProtector](https://www.powershellgallery.com/Packages/Akamai.ContentProtector/3.0.0) | 3.0.0
+## [Akamai.GTM](https://www.powershellgallery.com/Packages/Akamai.GTM/3.0.0) | 3.0.0
 
-### Published: 05/26/2026 19:31:55 by Akamai Technologies Ltd.
+### Published: 05/26/2026 19:32:06 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai <Template> API.
+Functions to manage the Akamai Global Traffic Manager APIs.
 
-__Downloads__: 5 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.CloudWrapper](https://www.powershellgallery.com/Packages/Akamai.CloudWrapper/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Cloud Wrapper API.
-
-__Downloads__: 23,015 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.CPCodes](https://www.powershellgallery.com/Packages/Akamai.CPCodes/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai CP Codes & Reporting Groups API.
-
-__Downloads__: 27,375 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.Datastream](https://www.powershellgallery.com/Packages/Akamai.Datastream/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Datastream 2 API.
-
-__Downloads__: 27,388 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,425 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.DOM](https://www.powershellgallery.com/Packages/Akamai.DOM/3.0.0) | 3.0.0
 
@@ -1086,21 +1102,13 @@ Functions to manage the Akamai Contracts API.
 
 __Downloads__: 27,392 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.EdgeDNS](https://www.powershellgallery.com/Packages/Akamai.EdgeDNS/3.0.0) | 3.0.0
+## [Akamai.CPCodes](https://www.powershellgallery.com/Packages/Akamai.CPCodes/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai EdgeDNS API.
+Functions to manage the Akamai CP Codes & Reporting Groups API.
 
-__Downloads__: 28,472 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.EdgeHostnames](https://www.powershellgallery.com/Packages/Akamai.EdgeHostnames/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai Edge Hostnames API.
-
-__Downloads__: 27,396 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,375 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.CPS](https://www.powershellgallery.com/Packages/Akamai.CPS/3.0.0) | 3.0.0
 
@@ -1110,6 +1118,30 @@ Functions to manage the Akamai Certificate Provisioning Service API.
 
 __Downloads__: 27,442 | __Repository__: https://github.com/akamai/powershell
 
+## [Akamai.EdgeDNS](https://www.powershellgallery.com/Packages/Akamai.EdgeDNS/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai EdgeDNS API.
+
+__Downloads__: 28,472 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.CloudWrapper](https://www.powershellgallery.com/Packages/Akamai.CloudWrapper/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Cloud Wrapper API.
+
+__Downloads__: 23,015 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.Datastream](https://www.powershellgallery.com/Packages/Akamai.Datastream/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Datastream 2 API.
+
+__Downloads__: 27,388 | __Repository__: https://github.com/akamai/powershell
+
 ## [Akamai.EdgeDiagnostics](https://www.powershellgallery.com/Packages/Akamai.EdgeDiagnostics/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
@@ -1118,19 +1150,27 @@ Functions to manage the Akamai Edge Diagnostics API.
 
 __Downloads__: 27,453 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.AccountProtector](https://www.powershellgallery.com/Packages/Akamai.AccountProtector/3.0.0) | 3.0.0
+## [Akamai.EdgeHostnames](https://www.powershellgallery.com/Packages/Akamai.EdgeHostnames/3.0.0) | 3.0.0
 
-### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
+### Published: 05/26/2026 19:31:54 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Account Protector API.
+Functions to manage the Akamai Edge Hostnames API.
 
-__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,396 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.BotManagement](https://www.powershellgallery.com/Packages/Akamai.BotManagement/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
 
 Functions to manage the Bot Management extensions to the Akamai Application Security API.
+
+__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.AccountProtector](https://www.powershellgallery.com/Packages/Akamai.AccountProtector/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Account Protector API.
 
 __Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
 
@@ -1142,14 +1182,6 @@ Functions to manage the Akamai Cloud Access Manager API.
 
 __Downloads__: 27,453 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.APIDefinitions](https://www.powershellgallery.com/Packages/Akamai.APIDefinitions/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai API Definitions API.
-
-__Downloads__: 27,610 | __Repository__: https://github.com/akamai/powershell
-
 ## [Akamai.APIKeyManager](https://www.powershellgallery.com/Packages/Akamai.APIKeyManager/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
@@ -1158,21 +1190,13 @@ Functions to manage the Akamai API Key Manager API.
 
 __Downloads__: 23,209 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.Billing](https://www.powershellgallery.com/Packages/Akamai.Billing/3.0.0) | 3.0.0
+## [Akamai.APIDefinitions](https://www.powershellgallery.com/Packages/Akamai.APIDefinitions/3.0.0) | 3.0.0
 
-### Published: 05/26/2026 19:31:43 by Akamai Technologies Ltd.
+### Published: 05/26/2026 19:31:44 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Billing API.
+Functions to manage the Akamai API Definitions API.
 
-__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
-
-## [Akamai.CCM](https://www.powershellgallery.com/Packages/Akamai.CCM/3.0.0) | 3.0.0
-
-### Published: 05/26/2026 19:31:43 by Akamai Technologies Ltd.
-
-Functions to manage the Akamai <Template> API.
-
-__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 27,610 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.ClientLists](https://www.powershellgallery.com/Packages/Akamai.ClientLists/3.0.0) | 3.0.0
 
@@ -1182,13 +1206,21 @@ Functions to manage the Akamai Client Lists API.
 
 __Downloads__: 23,185 | __Repository__: https://github.com/akamai/powershell
 
-## [Akamai.Cloudlets](https://www.powershellgallery.com/Packages/Akamai.Cloudlets/3.0.0) | 3.0.0
+## [Akamai.CCM](https://www.powershellgallery.com/Packages/Akamai.CCM/3.0.0) | 3.0.0
 
 ### Published: 05/26/2026 19:31:43 by Akamai Technologies Ltd.
 
-Functions to manage the Akamai Cloudlets API.
+Functions to manage the Akamai <Template> API.
 
-__Downloads__: 27,589 | __Repository__: https://github.com/akamai/powershell
+__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.Billing](https://www.powershellgallery.com/Packages/Akamai.Billing/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:43 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Billing API.
+
+__Downloads__: 4 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.ChinaCDN](https://www.powershellgallery.com/Packages/Akamai.ChinaCDN/3.0.0) | 3.0.0
 
@@ -1197,6 +1229,14 @@ __Downloads__: 27,589 | __Repository__: https://github.com/akamai/powershell
 Functions to manage the Akamai China CDN API.
 
 __Downloads__: 23,019 | __Repository__: https://github.com/akamai/powershell
+
+## [Akamai.Cloudlets](https://www.powershellgallery.com/Packages/Akamai.Cloudlets/3.0.0) | 3.0.0
+
+### Published: 05/26/2026 19:31:43 by Akamai Technologies Ltd.
+
+Functions to manage the Akamai Cloudlets API.
+
+__Downloads__: 27,589 | __Repository__: https://github.com/akamai/powershell
 
 ## [Akamai.AppSec](https://www.powershellgallery.com/Packages/Akamai.AppSec/3.0.0) | 3.0.0
 
@@ -2055,44 +2095,4 @@ This modules provides Cmdlets for OCI Fleetappsmanagement Service
 
 __Downloads__: 4,783 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/133.0.0) | 133.0.0
-
-### Published: 05/26/2026 17:42:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Filestorage Service
-
-__Downloads__: 17,497 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/133.0.0) | 133.0.0
-
-### Published: 05/26/2026 17:42:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 14,747 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/133.0.0) | 133.0.0
-
-### Published: 05/26/2026 17:42:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emwarehouse Service
-
-__Downloads__: 12,186 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emaildataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Emaildataplane/133.0.0) | 133.0.0
-
-### Published: 05/26/2026 17:42:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emaildataplane Service
-
-__Downloads__: 7,653 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Email](https://www.powershellgallery.com/Packages/OCI.PSModules.Email/133.0.0) | 133.0.0
-
-### Published: 05/26/2026 17:41:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Email Service
-
-__Downloads__: 14,670 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 31 May 2026 10:30:29 UTC*
+*Updated: Sunday, 31 May 2026 22:11:05 UTC*
