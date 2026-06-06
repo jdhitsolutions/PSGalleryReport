@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 June 2026 10:30:38 UTC
+Updated: Saturday, 06 June 2026 22:12:54 UTC
 
 .bat
 .env
@@ -205,7 +205,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressprefix
 addressrange
@@ -444,7 +443,6 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
-antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -687,7 +685,6 @@ attacksimulation
 attention
 attestation
 attila
-attilakrick
 attribute
 attributes
 attribution
@@ -980,6 +977,7 @@ badge
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -1121,6 +1119,7 @@ block-kit
 blockchain
 blocking
 blocks
+blog
 blogger
 blogs
 bloodglucose
@@ -1443,6 +1442,7 @@ checkdb
 checker
 checklist
 checklists
+checkmk
 checkout
 checkov
 checkpoint
@@ -1540,6 +1540,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 cldr
+clean
 clean-architecture
 clean-up
 cleanmgr
@@ -1626,6 +1627,7 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
+cloudmigration
 cloudmigrations
 cloudml
 cloudpc
@@ -1775,6 +1777,7 @@ commondataservice
 commonmark
 commonstuff
 communication
+communities
 community
 community-string
 commvault
@@ -1798,7 +1801,6 @@ components
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compressedguid
 compression
@@ -1917,6 +1919,7 @@ continuousglucosemonitoring
 continuousintegration
 contrast
 control
+controlled-folder
 controller
 controlroom
 controlup
@@ -2037,6 +2040,7 @@ credential-file
 credential-files
 credential-guard
 credential-manager
+credential-protection
 credentiallocker
 credentialmanagement
 credentialmanager
@@ -2415,7 +2419,6 @@ delete
 delete-orphan-branches
 deletefile
 deleteuserprofile
-deliverability
 delivery
 dell
 dellemc
@@ -2499,7 +2502,6 @@ deviceupdate
 devolutions
 devops
 devops psmodule
-devops-tools
 devsecninja
 devsecops
 devtestlabs
@@ -2974,7 +2976,6 @@ emc
 emcomm
 emergency
 emissions
-emlcheck
 emoji
 emojis
 emotion
@@ -3029,6 +3030,7 @@ entityframework
 entra
 entra-id
 entraauth
+entracloudsync
 entraconnect
 entraid
 entraid-security-assessment
@@ -3038,7 +3040,6 @@ entrust
 enum
 enumerable
 enumerate
-enumeration
 enumerator
 env
 environment
@@ -3059,7 +3060,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -3119,7 +3119,6 @@ evc
 event
 event_id
 event_list
-event-forwarding
 event-log
 event-timeline
 eventbridge
@@ -3531,6 +3530,7 @@ fortytwo
 forum
 forwardcompatibility
 forwardedevents
+forwarders
 forwarding
 foudil
 foundationmodels
@@ -4037,7 +4037,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 here-now
@@ -4155,7 +4154,6 @@ hrservicedelivery
 hsdp
 hsl
 html
-html-generator
 html-report
 html-templates
 htmlentity
@@ -4345,6 +4343,7 @@ incontact
 incremental
 indents
 index
+indexdb
 indexmaintenance
 indicator
 indicators
@@ -4403,6 +4402,7 @@ inspector
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -4419,6 +4419,7 @@ installofficertool
 instance
 instant
 instapush
+instorage
 insulinpump
 int
 intacct
@@ -4431,6 +4432,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -4457,7 +4459,6 @@ intrusion
 intuitive
 intune
 intune-laps
-intuneadminroles
 intuneapp
 intuneappwinutil
 intuneql
@@ -4566,10 +4567,7 @@ it-tools
 itadministration
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itfabrik.stepper
@@ -4588,7 +4586,6 @@ iwi
 j
 j81
 j81-blog
-jade-templates
 jamba
 japanese
 jar
@@ -4947,11 +4944,11 @@ lint
 linter
 linting
 linux
+linux fstab
 linux inode
 linux kernel
 linux motd
 linux network
-linux pam
 linux-command
 linux-style
 linuxssh
@@ -5008,6 +5005,7 @@ localllm
 localpolicy
 localrepo
 localrepository
+localstorage
 localuser
 locate
 location
@@ -5109,6 +5107,7 @@ ls_colors
 ls_icons
 lsa
 lsasecrets
+lsass
 lsblk
 lsd
 lsmod
@@ -5155,6 +5154,7 @@ macos
 macos-powershell
 macosx
 macro
+macros
 madlib
 maester
 magazine
@@ -5272,6 +5272,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -5335,6 +5336,7 @@ membership
 memcm
 meme
 memory
+memory-protection
 memorydump
 memorymanagement
 memorystream
@@ -5428,6 +5430,7 @@ microsoftintune
 microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5513,7 +5516,6 @@ models.dev
 modern
 modernactivedirectoryenhanced
 modernflow
-modernstandby
 modify
 module
 module-maintenance
@@ -5527,6 +5529,7 @@ modulebuild
 modulebuilder
 modulecreation
 modulefactory
+modulefast
 modulemanagement
 modules
 modulesearch
@@ -5816,7 +5819,6 @@ network-filesystem
 network-info
 network-policy
 network-profile
-network-shares
 networkadapter
 networkanalytics
 networkautomation
@@ -5974,7 +5976,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-null-session
 numa
 number
 numlock
@@ -6624,6 +6625,7 @@ pollinationsai
 polly
 poly1305
 polycom
+polyglot
 polymarket
 pomodoro
 ponduit
@@ -6660,6 +6662,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 posh-weather.gov
 poshbot
 poshcommence
@@ -6701,6 +6704,7 @@ poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
+poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -6819,7 +6823,6 @@ powershell5
 powershell7
 powershellai
 powershellazuresql
-powershellbuddy
 powershellcolors
 powershellconferenceeurope
 powershellcore
@@ -6956,7 +6959,6 @@ profiles
 profileupdater
 profilevalidation
 proget
-program
 program-association
 programming
 programs
@@ -7139,9 +7141,31 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
+pscommand_dcb
+pscommand_dcdn
+pscommand_dce
 pscommand_dcin
+pscommand_dck
+pscommand_dcl
+pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
+pscommand_dco
+pscommand_dcofresh
+pscommand_dcol
+pscommand_dcou
+pscommand_dcouns
+pscommand_dcps
+pscommand_dcpull
+pscommand_dcr
+pscommand_dcrestart
+pscommand_dcrm
+pscommand_dcstart
+pscommand_dcstop
+pscommand_dcup
+pscommand_dcupb
+pscommand_dcupbd
+pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -7200,6 +7224,7 @@ pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
+pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -7760,6 +7785,25 @@ pscommand_invoke-dnfreinstall
 pscommand_invoke-dnfremove
 pscommand_invoke-dnfsearch
 pscommand_invoke-dnfupgrade
+pscommand_invoke-dockercomposebuild
+pscommand_invoke-dockercomposedown
+pscommand_invoke-dockercomposeexec
+pscommand_invoke-dockercomposekill
+pscommand_invoke-dockercomposelogs
+pscommand_invoke-dockercomposelogsfollow
+pscommand_invoke-dockercomposelogsfollowtail
+pscommand_invoke-dockercomposeps
+pscommand_invoke-dockercomposepull
+pscommand_invoke-dockercomposerestart
+pscommand_invoke-dockercomposerm
+pscommand_invoke-dockercomposerun
+pscommand_invoke-dockercomposestart
+pscommand_invoke-dockercomposestop
+pscommand_invoke-dockercomposeup
+pscommand_invoke-dockercomposeupdetached
+pscommand_invoke-dockercomposeupdetachedwithbuild
+pscommand_invoke-dockercomposeupnostart
+pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -8890,6 +8934,7 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
+psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -9157,6 +9202,25 @@ psfunction_invoke-dnfreinstall
 psfunction_invoke-dnfremove
 psfunction_invoke-dnfsearch
 psfunction_invoke-dnfupgrade
+psfunction_invoke-dockercomposebuild
+psfunction_invoke-dockercomposedown
+psfunction_invoke-dockercomposeexec
+psfunction_invoke-dockercomposekill
+psfunction_invoke-dockercomposelogs
+psfunction_invoke-dockercomposelogsfollow
+psfunction_invoke-dockercomposelogsfollowtail
+psfunction_invoke-dockercomposeps
+psfunction_invoke-dockercomposepull
+psfunction_invoke-dockercomposerestart
+psfunction_invoke-dockercomposerm
+psfunction_invoke-dockercomposerun
+psfunction_invoke-dockercomposestart
+psfunction_invoke-dockercomposestop
+psfunction_invoke-dockercomposeup
+psfunction_invoke-dockercomposeupdetached
+psfunction_invoke-dockercomposeupdetachedwithbuild
+psfunction_invoke-dockercomposeupnostart
+psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -9933,6 +9997,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssnowflake
+pssnowflakebynarymodule
+pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9952,6 +10019,7 @@ pswa
 psweekly
 pswindocumentation
 pswinreporting
+pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -9977,9 +10045,6 @@ publishing
 publishmap
 pubsub
 pubxml
-pug
-pug-templates
-pugjs
 pull
 pull-request
 pulldistributionpoint
@@ -10129,6 +10194,7 @@ randomusers
 range
 rangescan
 rangetocidr
+ransomware
 ransomware_recovery
 rapid-prototyping
 rapt
@@ -10151,7 +10217,6 @@ rbac
 rbacmodel
 rbd
 rbi
-rbl
 rbsu
 rc4
 rcon
@@ -10179,7 +10244,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -10252,7 +10316,6 @@ reflect
 reflection
 refresh
 refreshtoken
-refs
 reg
 reg_binary
 reg_dword
@@ -10265,6 +10328,7 @@ regcli
 regedit
 regex
 region
+regional
 regions
 regiser-argumentcompleter
 register
@@ -10304,6 +10368,7 @@ remote-access
 remote-admin
 remote-browser
 remote-desktop
+remote-management
 remote'
 remoteaccess
 remoteadmin
@@ -10390,7 +10455,6 @@ reshade
 resharper
 resilience
 resiliency
-resilient
 resize
 resolution
 resolv
@@ -10472,7 +10536,6 @@ ribbon
 ribcl
 rich
 richtext
-ricoh
 rightcloud
 rightjoin
 rights
@@ -10573,6 +10636,7 @@ run-as-user
 run-key
 run-keys
 runas
+runas-ppl
 runasuser
 runbook
 runbooks
@@ -10789,7 +10853,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -11017,6 +11080,7 @@ sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
 sharetru
+sharpdown
 sheets
 shell
 shell-art
@@ -11185,9 +11249,13 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snowflakebynarymodule
+snowflakebynarypsmodule
+snowflakemodule
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssfsqlpsmodule
 snssqlitepsmodule
 sntp
 soap
@@ -11427,7 +11495,6 @@ standard
 standarderror
 standardoutput
 standards
-standby
 standbypool
 stansummary
 start
@@ -11440,6 +11507,7 @@ startmenu
 starttls
 startup
 starwars
+stash
 stat
 state
 stateless
@@ -11450,6 +11518,7 @@ staticanalysis
 statichtmlsites
 staticip
 staticsite
+staticwebsite
 statistical
 statisticmaintenance
 statistics
@@ -11627,7 +11696,6 @@ switch
 switcher
 swsd
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -11736,7 +11804,6 @@ tak
 takecontrol
 taken
 takeown
-tally
 talxis
 tandem
 tanss
@@ -11894,6 +11961,7 @@ text-menu
 text-templates
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -12092,6 +12160,7 @@ transparancy
 transparency
 transpilation
 trap
+traps
 travel
 trec
 tree
@@ -12212,7 +12281,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -12297,7 +12365,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -12549,7 +12616,6 @@ videogeneration
 videos
 vie
 view
-view-engine
 viewer
 viewmodel
 viewsonic
@@ -12642,6 +12708,7 @@ volta
 volume
 volumelicense
 volumelicenseagreement
+volumes
 volumeshadowcopy
 volumesnapshot
 volumio
@@ -12908,8 +12975,6 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
-windows-registry
-windows-remoting
 windows-server-2016
 windows-switcher
 windows-terminal
@@ -12934,6 +12999,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktop
+windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdns
@@ -13091,7 +13157,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writers
 writing
 ws-federation
 ws1
@@ -13246,6 +13311,7 @@ zohoassist
 zoicware
 zombie
 zone
+zones
 zoom
 zoomapi
 zoommeeting
