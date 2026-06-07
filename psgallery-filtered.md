@@ -3,6 +3,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UtilModule](https://www.powershellgallery.com/Packages/UtilModule/2.0.0) | 2.0.0
+
+### Published: 06/07/2026 21:26:11 by Chandan Bhagat
+
+A utility module with many functions
+
+__Downloads__: 15,423 | __Repository__: https://github.com/thechandanbhagat/powershell-utilities
+
+## [LDXLogging](https://www.powershellgallery.com/Packages/LDXLogging/1.0.1) | 1.0.1
+
+### Published: 06/07/2026 20:34:00 by Leif Almberg
+
+AB Lindex Log Module
+
+__Downloads__: 842 | __Repository__: 
+
+## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/2.1.0) | 2.1.0
+
+### Published: 06/07/2026 20:13:22 by Dan Madsen
+
+Creates a diagram of your Azure infrastructure.
+
+__Downloads__: 425 | __Repository__: https://github.com/dan-madsen/AzNetworkDiagram
+
+## [Specrew](https://www.powershellgallery.com/Packages/Specrew/0.32.0) | 0.32.0
+
+### Published: 06/07/2026 20:10:29 by Alon Fliess
+
+Specrew: specification-driven development workflow for AI-augmented teams
+
+__Downloads__: 334 | __Repository__: https://github.com/alonf/specrew
+
+## [D365GitOps](https://www.powershellgallery.com/Packages/D365GitOps/0.1.0) | 0.1.0
+
+### Published: 06/07/2026 19:48:57 by BE-terna
+
+GitOps utilities for Dynamics 365 Finance and Operations: AxLabel merge driver and daily-build branch automation.
+
+__Downloads__: 0 | __Repository__: https://github.com/BE-terna/D365-GitOps-MPL
+
+## [EXORBACforAppManagement](https://www.powershellgallery.com/Packages/EXORBACforAppManagement/0.5.1) | 0.5.1
+
+### Published: 06/07/2026 18:46:26 by Ziemek Borowski
+
+Exchange Online RBAC governance for Entra application service principals: register apps, assign EXO application role scopes, and read them back. Requires the Microsoft.Graph and ExchangeOnlineManagement modules to be installed and connected at runtime (not declared as RequiredModules so the module imports without them for unit testing).
+
+__Downloads__: 0 | __Repository__: https://github.com/ziembor/new-RBACforAppEntry
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.24) | 3.0.24
+
+### Published: 06/07/2026 17:30:37 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 15,590 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [Pax8-API](https://www.powershellgallery.com/Packages/Pax8-API/0.2.1) | 0.2.1
+
+### Published: 06/07/2026 16:49:29 by Terry Wilson
+
+A PowerShell Module for the Pax8 REST API
+
+__Downloads__: 9,870 | __Repository__: https://github.com/dkschruteBeets/Pax8-API
+
+## [PSInfisicalAPI](https://www.powershellgallery.com/Packages/PSInfisicalAPI/2026.6.7.1438) | 2026.6.7.1438
+
+### Published: 06/07/2026 14:39:29 by Grace Solutions
+
+PSInfisicalAPI is a C# binary PowerShell module for the Infisical REST API, providing cmdlets for authentication, secret retrieval, and export with automatic environment-variable discovery across Process, User, and Machine scopes.
+
+__Downloads__: 28 | __Repository__: https://prod.git.gracesolution.info/gsadmin/PSInfisicalAPI
+
+## [UnitAutogen](https://www.powershellgallery.com/Packages/UnitAutogen/0.12.0) | 0.12.0
+
+### Published: 06/07/2026 13:11:29 by Munaf Ibrahim Khatri
+
+PowerShell module for UnitAutogen — auto-generated tSQLt unit tests with real branch coverage for SQL Server. Installs the framework AND the in-database (SQLCLR) predicate parser, runs generation and coverage, and exports Cobertura XML, JUnit XML, and HTML reports for Azure DevOps, GitHub Actions, Jenkins, GitLab CI, and SonarQube. The single C# predicate parser runs inside SQL Server (no PowerShell-side parser); installation registers it and requires sysadmin once plus 'clr enabled'=1.
+
+__Downloads__: 79 | __Repository__: https://github.com/unitautogen/unitautogen-public-repo
+
+## [GCSContact](https://www.powershellgallery.com/Packages/GCSContact/1.5.0) | 1.5.0
+
+### Published: 06/07/2026 12:01:31 by Glen Scales
+
+Flexible Microsoft Graph Contact Management module.
+
+__Downloads__: 16 | __Repository__: 
+
+## [HexDump](https://www.powershellgallery.com/Packages/HexDump/1.0.0) | 1.0.0
+
+### Published: 06/07/2026 10:58:33 by teramako
+
+like 'hexdump'
+
+__Downloads__: 44 | __Repository__: https://github.com/teramako/HexDump
+
 ## [ValidateUnion](https://www.powershellgallery.com/Packages/ValidateUnion/0.1.2) | 0.1.2
 
 ### Published: 06/07/2026 09:52:43 by vike
@@ -10,14 +106,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 A union type argument validation attribute written and for use in pwsh .ps1 code. Currently only supporting one to eight types in the union set.
 
 __Downloads__: 23 | __Repository__: https://github.com/vike2000/PSValidateUnion
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.23) | 3.0.23
-
-### Published: 06/07/2026 09:17:50 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 15,590 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [ps2exe](https://www.powershellgallery.com/Packages/ps2exe/1.0.18) | 1.0.18
 
@@ -93,14 +181,6 @@ __Downloads__: 568 | __Repository__: https://github.com/Nick2bad4u/ps-color-scri
 
 __Downloads__: 3 | __Repository__: https://github.com/Ebola-Chan/GitHub-Acceleration
 
-## [Pax8-API](https://www.powershellgallery.com/Packages/Pax8-API/0.2.0) | 0.2.0
-
-### Published: 06/07/2026 02:48:19 by Terry Wilson
-
-A PowerShell Module for the Pax8 REST API
-
-__Downloads__: 9,870 | __Repository__: https://github.com/dkschruteBeets/Pax8-API
-
 ## [ModuleTools](https://www.powershellgallery.com/Packages/ModuleTools/1.8.1) | 1.8.1
 
 ### Published: 06/07/2026 02:21:04 by Manjunath Beli
@@ -116,14 +196,6 @@ __Downloads__: 4,906 | __Repository__: https://github.com/belibug/ModuleTools
 Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
 
 __Downloads__: 3,587 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
-
-## [PSInfisicalAPI](https://www.powershellgallery.com/Packages/PSInfisicalAPI/2026.6.7.21) | 2026.6.7.21
-
-### Published: 06/07/2026 00:22:34 by Grace Solutions
-
-PSInfisicalAPI is a C# binary PowerShell module for the Infisical REST API, providing cmdlets for authentication, secret retrieval, and export with automatic environment-variable discovery across Process, User, and Machine scopes.
-
-__Downloads__: 28 | __Repository__: https://prod.git.gracesolution.info/gsadmin/PSInfisicalAPI
 
 ## [PSJsonWebToken](https://www.powershellgallery.com/Packages/PSJsonWebToken/1.22.0) | 1.22.0
 
@@ -181,14 +253,6 @@ Client for the Windmill platform.
 
 __Downloads__: 16,879 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [UnitAutogen](https://www.powershellgallery.com/Packages/UnitAutogen/0.11.0) | 0.11.0
-
-### Published: 06/06/2026 07:02:33 by Munaf Ibrahim Khatri
-
-PowerShell module for UnitAutogen — auto-generated tSQLt unit tests with real branch coverage for SQL Server. Installs the framework AND the in-database (SQLCLR) predicate parser, runs generation and coverage, and exports Cobertura XML, JUnit XML, and HTML reports for Azure DevOps, GitHub Actions, Jenkins, GitLab CI, and SonarQube. The single C# predicate parser runs inside SQL Server (no PowerShell-side parser); installation registers it and requires sysadmin once plus 'clr enabled'=1.
-
-__Downloads__: 79 | __Repository__: https://github.com/unitautogen/unitautogen-public-repo
-
 ## [Gatekeeper](https://www.powershellgallery.com/Packages/Gatekeeper/1.0.0) | 1.0.0
 
 ### Published: 06/06/2026 03:54:07 by Gilbert Sanchez
@@ -203,7 +267,7 @@ __Downloads__: 99 | __Repository__: https://github.com/HeyItsGilbert/Gatekeeper/
 
 Get Tokens from Entra ID
 
-__Downloads__: 49,339 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
+__Downloads__: 49,344 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
 
 ## [trymsae.memeshell](https://www.powershellgallery.com/Packages/trymsae.memeshell/1.1.0) | 1.1.0
 
@@ -624,6 +688,14 @@ Hyper-V VM utilities (SSH, host file server) for infrastructure repos.
 
 __Downloads__: 111 | __Repository__: 
 
+## [AzureUtils](https://www.powershellgallery.com/Packages/AzureUtils/0.1.9) | 0.1.9
+
+### Published: 06/03/2026 15:29:07 by Henderson Andrade
+
+Practical utility cmdlets for Azure administration, governance, inventory and operational automation. Complements (does not replace) the Az modules. Includes Export-AzureUtilsTagInventory, which reads every resource in scope via Azure Resource Graph and exports a tag inventory to Excel (one TAG_<name> column per tag).
+
+__Downloads__: 48 | __Repository__: https://github.com/hendersonandrade/powershell-module-azureUtils
+
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/4.32) | 4.32
 
 ### Published: 06/03/2026 14:10:39 by Ken Lasko
@@ -632,13 +704,44 @@ PowerShell module for Nectar DXP
 
 __Downloads__: 2,490 | __Repository__: 
 
+## [NodeWebhook](https://www.powershellgallery.com/Packages/NodeWebhook/0.0.1) | 0.0.1
+
+### Published: 06/03/2026 13:23:16 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Node.js Webhook Receiver
+
+A Fastify-based Node.js webhook receiver with a SQLite queue and a SQL Server worker.
+Use Copy-NodeWebhook to deploy the application files to a target directory,
+then run setup.ps1 to install pm2, configure IIS ARR, and register the autostart task.
+
+Requires Node.js >= 22.5.0 and npm on the target machine.
+
+__Downloads__: 9 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/NodeWebhook
+
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.14.441) | 1.14.441
 
 ### Published: 06/03/2026 13:19:30 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 10,694,019 | __Repository__: http://psframework.org/
+__Downloads__: 10,694,180 | __Repository__: http://psframework.org/
+
+## [DataDispatch](https://www.powershellgallery.com/Packages/DataDispatch/0.0.1) | 0.0.1
+
+### Published: 06/03/2026 13:14:31 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Webhook Data Dispatcher
+
+Reads processed webhook events from SQL Server (dbo.WebhookEvents) and distributes
+them to configurable targets: SQL Server tables, stored procedures, CSV, JSON, DuckDB.
+Runs as a Windows Scheduled Task every N minutes.
+
+Use Copy-DataDispatch to deploy the dispatcher files to a target directory,
+then edit .env and endpoints/*.yaml before running setup-task.ps1 -Action install.
+
+Requires PowerShell modules: WriteLog, SimplySql, powershell-yaml.
+
+__Downloads__: 9 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/DataDispatch
 
 ## [PowerBGInfo](https://www.powershellgallery.com/Packages/PowerBGInfo/1.0.2) | 1.0.2
 
@@ -647,14 +750,6 @@ __Downloads__: 10,694,019 | __Repository__: http://psframework.org/
 PowerBGInfo is a module that allows you to create background images with information about your environment.
 
 __Downloads__: 580,667 | __Repository__: https://github.com/EvotecIT/PowerBGInfo
-
-## [Specrew](https://www.powershellgallery.com/Packages/Specrew/0.31.0) | 0.31.0
-
-### Published: 06/03/2026 12:00:17 by Alon Fliess
-
-Specrew: specification-driven development workflow for AI-augmented teams
-
-__Downloads__: 334 | __Repository__: https://github.com/alonf/specrew
 
 ## [Varibill.SourceCollector.Core](https://www.powershellgallery.com/Packages/Varibill.SourceCollector.Core/1.0.4703) | 1.0.4703
 
@@ -682,7 +777,7 @@ __Downloads__: 218 | __Repository__: https://github.com/jsnov/ai-triad-research
 
 Automation tools for production quality database deployment
 
-__Downloads__: 7,759,182 | __Repository__: https://www.red-gate.com/products/sql-change-automation/support/
+__Downloads__: 7,759,183 | __Repository__: https://www.red-gate.com/products/sql-change-automation/support/
 
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/7.0.135) | 7.0.135
 
@@ -901,14 +996,6 @@ This modules provides Cmdlets for OCI Streaming Service
 
 __Downloads__: 14,526 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [DSC-DocsGenerator](https://www.powershellgallery.com/Packages/DSC-DocsGenerator/1.0.0) | 1.0.0
-
-### Published: 06/02/2026 18:44:25 by Michal Machniak
-
-Generates Markdown compliance reports from DSC config test and get output. Requires DSC V3 to be installed on the system where this module is used.
-
-__Downloads__: 12 | __Repository__: https://github.com/mimachniak/DSC-DocsGenerator
-
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/134.0.0) | 134.0.0
 
 ### Published: 06/02/2026 18:44:25 by Oracle Cloud Infrastructure
@@ -916,6 +1003,14 @@ __Downloads__: 12 | __Repository__: https://github.com/mimachniak/DSC-DocsGenera
 This modules provides Cmdlets for OCI Stackmonitoring Service
 
 __Downloads__: 12,369 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [DSC-DocsGenerator](https://www.powershellgallery.com/Packages/DSC-DocsGenerator/1.0.0) | 1.0.0
+
+### Published: 06/02/2026 18:44:25 by Michal Machniak
+
+Generates Markdown compliance reports from DSC config test and get output. Requires DSC V3 to be installed on the system where this module is used.
+
+__Downloads__: 12 | __Repository__: https://github.com/mimachniak/DSC-DocsGenerator
 
 ## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/134.0.0) | 134.0.0
 
@@ -2021,84 +2116,4 @@ This modules provides Cmdlets for OCI Apmconfig Service
 
 __Downloads__: 14,293 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apiplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiplatform/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:22:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiplatform Service
-
-__Downloads__: 2,373 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:22:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 15,372 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apiaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiaccesscontrol/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:22:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiaccesscontrol Service
-
-__Downloads__: 2,601 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:22:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 17,808 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:22:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 15,184 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:21:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 13,237 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:21:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 13,555 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:20:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 17,172 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:20:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 11,619 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidataplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidataplatform/134.0.0) | 134.0.0
-
-### Published: 06/02/2026 18:20:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidataplatform Service
-
-__Downloads__: 2,058 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 07 June 2026 10:37:12 UTC*
+*Updated: Sunday, 07 June 2026 22:13:27 UTC*
