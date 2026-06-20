@@ -3,13 +3,125 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PoshPalette](https://www.powershellgallery.com/Packages/PoshPalette/0.3.0) | 0.3.0
+## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.13.0) | 0.13.0
 
-### Published: 06/20/2026 10:06:07 by PoshPalette contributors
+### Published: 06/20/2026 21:31:50 by Cédric Belin <cedx@outlook.com>
 
-VS Code-style theme picker for PowerShell + Windows Terminal. Styles all 4 layers (Terminal scheme, PSReadLine, $PSStyle, oh-my-posh) at once, with live preview, 26 bundled themes, scheme import (iTerm2/base16), and palette-aware prompt generation.
+Component library by Cédric Belin, full stack developer.
+
+__Downloads__: 122 | __Repository__: https://github.com/CedX/UI
+
+## [Brownserve.PSSourceControl](https://www.powershellgallery.com/Packages/Brownserve.PSSourceControl/0.4.0) | 0.4.0
+
+### Published: 06/20/2026 21:30:35 by Brownserve UK
+
+Git, GitHub, and GitLab source control operations used across Brownserve projects.
+
+__Downloads__: 15 | __Repository__: https://github.com/Brownserve-UK/PSSourceControl
+
+## [IntuneHydrationKit](https://www.powershellgallery.com/Packages/IntuneHydrationKit/1.0.1) | 1.0.1
+
+### Published: 06/20/2026 19:35:36 by Jorgeasaurus
+
+Hydrates Microsoft Intune tenants with best-practice baseline configurations including policies, compliance packs, enrollment profiles, dynamic groups, security baselines, and conditional access starter packs.
+
+__Downloads__: 871 | __Repository__: https://intunehydrationkit.com/
+
+## [LicenseMeterScan](https://www.powershellgallery.com/Packages/LicenseMeterScan/1.4.0) | 1.4.0
+
+### Published: 06/20/2026 19:20:33 by Ugur Koc
+
+Free, read-only Microsoft 365 license-waste scanner. Runs locally in your own tenant.
+
+__Downloads__: 0 | __Repository__: https://github.com/ugurkocde/licensemeter
+
+## [AgentHandoff](https://www.powershellgallery.com/Packages/AgentHandoff/1.0.1) | 1.0.1
+
+### Published: 06/20/2026 19:10:34 by jalicia
+
+PowerShell wrapper for the Agent Handoff Middleware. Clean, enrich and route messages between AI agents with built-in Stripe metered billing. Works with LangChain, CrewAI, and AutoGen pipelines. Per-handoff billing at USD 0.001 per call with Pro tier available.
+
+__Downloads__: 0 | __Repository__: https://agent-handoff-production-573c.up.railway.app/
+
+## [RAGPostProcessor](https://www.powershellgallery.com/Packages/RAGPostProcessor/1.0.1) | 1.0.1
+
+### Published: 06/20/2026 19:09:42 by jalicia
+
+PowerShell wrapper for the RAG Post Processor Apify actor. Clean and chunk scraped text for RAG and LLM pipelines in one command. Strips HTML, collapses whitespace, splits into overlapping chunks ready for OpenAI embeddings, Pinecone, Weaviate, LangChain, and LlamaIndex. Supports direct text input, file input, and Apify dataset chaining.
+
+__Downloads__: 0 | __Repository__: https://console.apify.com/actors/rPRQKJP9bsGxsU9Ed
+
+## [LibreDevOpsHelpers](https://www.powershellgallery.com/Packages/LibreDevOpsHelpers/2.1.0) | 2.1.0
+
+### Published: 06/20/2026 18:07:31 by Craig Thacker
+
+Enterprise grade PowerShell helpers for Azure, Terraform, Microsoft Graph, and DevOps tooling. All commands use the Ldo prefix.
+
+__Downloads__: 668 | __Repository__: https://github.com/libre-devops/powershell-helpers
+
+## [VSCode-Updater](https://www.powershellgallery.com/Packages/VSCode-Updater/2.1.0) | 2.1.0
+
+### Published: 06/20/2026 17:59:26 by Leon McClatchey
+
+Deterministic, audit-transparent VS Code updater for Windows.
+
+__Downloads__: 10 | __Repository__: https://github.com/Linktech-Engineering-LLC/VSCode-Updater
+
+## [HexDump](https://www.powershellgallery.com/Packages/HexDump/2.0.0) | 2.0.0
+
+### Published: 06/20/2026 16:08:52 by teramako
+
+like 'hexdump'
+
+__Downloads__: 57 | __Repository__: https://github.com/teramako/HexDump
+
+## [PaperinikDB](https://www.powershellgallery.com/Packages/PaperinikDB/1.5.4) | 1.5.4
+
+### Published: 06/20/2026 15:48:22 by OpusTecnica
+
+PaperinikDB is a PowerShell module that provides seamless integration with DuckDB.
+
+__Downloads__: 46 | __Repository__: https://github.com/OpusTecnica/PaperinikDB
+
+## [PoshPalette](https://www.powershellgallery.com/Packages/PoshPalette/0.4.2) | 0.4.2
+
+### Published: 06/20/2026 15:05:37 by PoshPalette contributors
+
+Interactive theme picker for PowerShell + Windows Terminal. Browse, preview, and apply a look across all 4 layers (Terminal scheme, PSReadLine, $PSStyle, oh-my-posh) at once, with live preview, 26 bundled themes, scheme import (iTerm2/base16), and palette-aware prompt generation.
 
 __Downloads__: 0 | __Repository__: https://github.com/livlign/posh-palette
+
+## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.6.201453) | 2026.6.201453
+
+### Published: 06/20/2026 14:53:55 by Jake Hildreth
+
+An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
+
+__Downloads__: 813 | __Repository__: https://github.com/jakehildreth/Locksmith2
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.734.0) | 1.734.0
+
+### Published: 06/20/2026 14:33:59 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 17,098 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.9.6) | 1.9.6
+
+### Published: 06/20/2026 13:25:59 by Yoshifumi Tsuda
+
+Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 3,674 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
+
+## [nevaris-build-powershell](https://www.powershellgallery.com/Packages/nevaris-build-powershell/0.1.5) | 0.1.5
+
+### Published: 06/20/2026 12:27:03 by NEVARIS
+
+PowerShell cmdlets for NEVARIS Build automation.
+
+__Downloads__: 31 | __Repository__: https://build.featurebase.app/de/help/articles/0786628-allgemeines-zu-powershell
 
 ## [AzureCostManagementTool](https://www.powershellgallery.com/Packages/AzureCostManagementTool/2.0.0) | 2.0.0
 
@@ -83,22 +195,6 @@ PERFECT FOR
 
 __Downloads__: 618 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
 
-## [AgentHandoff](https://www.powershellgallery.com/Packages/AgentHandoff/1.0.0) | 1.0.0
-
-### Published: 06/20/2026 05:19:27 by jalicia
-
-PowerShell wrapper for the Agent Handoff Middleware. Clean, enrich and route messages between AI agents with built-in Stripe metered billing.
-
-__Downloads__: 0 | __Repository__: https://agent-handoff-production-573c.up.railway.app/
-
-## [RAGPostProcessor](https://www.powershellgallery.com/Packages/RAGPostProcessor/1.0.0) | 1.0.0
-
-### Published: 06/20/2026 05:19:12 by jalicia
-
-PowerShell wrapper for the RAG Post Processor Apify actor. Clean and chunk text for RAG/LLM pipelines.
-
-__Downloads__: 0 | __Repository__: https://console.apify.com/actors/rPRQKJP9bsGxsU9Ed
-
 ## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.34) | 0.5.34
 
 ### Published: 06/20/2026 04:02:24 by Dan Damit
@@ -113,7 +209,7 @@ __Downloads__: 97 | __Repository__: https://github.com/dan-damit/TechToolbox
 
 System for organizing PowerShell scripts or other tools using a stub function.
 
-__Downloads__: 101 | __Repository__: https://github.com/DevPossible/power-stub
+__Downloads__: 102 | __Repository__: https://github.com/DevPossible/power-stub
 
 ## [PSRandomUser](https://www.powershellgallery.com/Packages/PSRandomUser/2.0.0) | 2.0.0
 
@@ -121,7 +217,15 @@ __Downloads__: 101 | __Repository__: https://github.com/DevPossible/power-stub
 
 The PSRandomUser Module enables you to create random user accounts. This module can be used to create random user accounts for testing purposes. Commands included enable the easy creation of Temporary Active Directory user accounts. This module is not intended for use in production environments. The AD-related functions (New-TempADUser, New-TempADUserDetails -Path ...) additionally require the ActiveDirectory RSAT module to be installed on the host.
 
-__Downloads__: 4,118 | __Repository__: https://github.com/BanterBoy/CreateTestAccounts
+__Downloads__: 4,119 | __Repository__: https://github.com/BanterBoy/CreateTestAccounts
+
+## [ClaudeHooks](https://www.powershellgallery.com/Packages/ClaudeHooks/0.2.0) | 0.2.0
+
+### Published: 06/20/2026 02:08:52 by Gilbert Sanchez
+
+PowerShell helpers for writing and registering Claude Code hook scripts.
+
+__Downloads__: 96 | __Repository__: https://github.com/heyitsgilbert/ClaudeHooks
 
 ## [PSIISCrypto](https://www.powershellgallery.com/Packages/PSIISCrypto/0.2.0) | 0.2.0
 
@@ -137,23 +241,7 @@ __Downloads__: 2,541 | __Repository__: https://github.com/BanterBoy/PSNartacIISC
 
 AKS HCI Module
 
-__Downloads__: 1,178,465 | __Repository__: 
-
-## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.11.0) | 0.11.0
-
-### Published: 06/19/2026 22:30:06 by Cédric Belin <cedx@outlook.com>
-
-Component library by Cédric Belin, full stack developer.
-
-__Downloads__: 122 | __Repository__: https://github.com/CedX/UI
-
-## [Brownserve.PSSourceControl](https://www.powershellgallery.com/Packages/Brownserve.PSSourceControl/0.3.0) | 0.3.0
-
-### Published: 06/19/2026 22:05:09 by Brownserve UK
-
-Git, GitHub, and GitLab source control operations used across Brownserve projects.
-
-__Downloads__: 15 | __Repository__: https://github.com/Brownserve-UK/PSSourceControl
+__Downloads__: 1,178,460 | __Repository__: 
 
 ## [XurrentHelpers](https://www.powershellgallery.com/Packages/XurrentHelpers/0.4.2) | 0.4.2
 
@@ -219,21 +307,13 @@ Module to support Microsoft Dynamics 365 Busines Central and integration with th
 
 __Downloads__: 986 | __Repository__: https://github.com/spookymattress/BCPowerTools
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.733.1) | 1.733.1
-
-### Published: 06/19/2026 15:39:38 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 17,098 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.14.450) | 1.14.450
 
 ### Published: 06/19/2026 14:52:39 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 10,792,663 | __Repository__: http://psframework.org/
+__Downloads__: 10,792,558 | __Repository__: http://psframework.org/
 
 ## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.25.0) | 1.25.0
 
@@ -383,14 +463,6 @@ Hyper-V Distributed Resource Scheduler — VM Happiness-based compute and storag
 
 __Downloads__: 8 | __Repository__: https://github.com/jhuebel/HvDRS
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.9.5) | 1.9.5
-
-### Published: 06/19/2026 04:08:45 by Yoshifumi Tsuda
-
-Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 3,674 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
-
 ## [AsBuiltReport.Microsoft.Windows](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Windows/0.6.0) | 0.6.0
 
 ### Published: 06/19/2026 02:23:43 by Andrew Ramsay
@@ -413,7 +485,7 @@ __Downloads__: 15,456 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 Plaster is a template-based file and project generator written in PowerShell. Create consistent PowerShell projects with customizable templates supporting both XML and JSON formats.
 
-__Downloads__: 1,078,583 | __Repository__: https://github.com/PowerShellOrg/Plaster
+__Downloads__: 1,078,569 | __Repository__: https://github.com/PowerShellOrg/Plaster
 
 ## [WindowsFever](https://www.powershellgallery.com/Packages/WindowsFever/1.3.0) | 1.3.0
 
@@ -485,7 +557,7 @@ __Downloads__: 17 | __Repository__: https://git.asger.xyz/hyperbooru-powershell
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,796,774 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,795,977 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Infrastructure.Network.Windows](https://www.powershellgallery.com/Packages/Infrastructure.Network.Windows/1.1.0) | 1.1.0
 
@@ -541,7 +613,7 @@ __Downloads__: 288 | __Repository__: https://github.com/rodcordeiro/PSROD
 
 PowerShell Module for VMware Cloud Foundation Instance Recovery
 
-__Downloads__: 1,719 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-instance-recovery
+__Downloads__: 1,720 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-instance-recovery
 
 ## [RenderKit](https://www.powershellgallery.com/Packages/RenderKit/0.3.9) | 0.3.9
 
@@ -557,7 +629,7 @@ __Downloads__: 193 | __Repository__: https://github.com/djtroi/RenderKit
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 1,243,044 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 1,243,041 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [RKSolutions](https://www.powershellgallery.com/Packages/RKSolutions/1.2.1) | 1.2.1
 
@@ -574,14 +646,6 @@ __Downloads__: 170 | __Repository__: https://github.com/royklo/RKSolutions-Modul
 Helps to integrate Azure Automation scripts with RealmJoin.
 
 __Downloads__: 1,604 | __Repository__: https://github.com/realmjoin/RealmJoin.RunbookHelper
-
-## [Locksmith2](https://www.powershellgallery.com/Packages/Locksmith2/2026.6.181018) | 2026.6.181018
-
-### Published: 06/18/2026 10:19:22 by Jake Hildreth
-
-An AD CS toolkit for AD Admins, Defensive Security Professionals, and Filthy Red Teamers
-
-__Downloads__: 813 | __Repository__: https://github.com/jakehildreth/Locksmith2
 
 ## [IntuneWinAppUtilGUI](https://www.powershellgallery.com/Packages/IntuneWinAppUtilGUI/1.0.8) | 1.0.8
 
@@ -613,7 +677,7 @@ __Downloads__: 22,059 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 DSC composite resource for configuring Microsoft 365
 
-__Downloads__: 19,845 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+__Downloads__: 19,844 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.10.0) | 1.10.0
 
@@ -630,14 +694,6 @@ __Downloads__: 4,575 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 A simple micro-ORM, based on ADO.NET and data annotations.
 
 __Downloads__: 258 | __Repository__: https://github.com/CedX/Sql.ps1
-
-## [LibreDevOpsHelpers](https://www.powershellgallery.com/Packages/LibreDevOpsHelpers/2.0.0) | 2.0.0
-
-### Published: 06/17/2026 21:07:14 by Craig Thacker
-
-Enterprise grade PowerShell helpers for Azure, Terraform, Microsoft Graph, and DevOps tooling. All commands use the Ldo prefix.
-
-__Downloads__: 668 | __Repository__: https://github.com/libre-devops/powershell-helpers
 
 ## [CIPPAPIModule](https://www.powershellgallery.com/Packages/CIPPAPIModule/1.2.13) | 1.2.13
 
@@ -1870,7 +1926,7 @@ __Downloads__: 259 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Core Service
 
-__Downloads__: 29,623 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 29,622 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Containerregistry](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerregistry/135.0.0) | 135.0.0
 
@@ -2000,60 +2056,4 @@ This modules provides Cmdlets for OCI Bds Service
 
 __Downloads__: 15,228 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Batch](https://www.powershellgallery.com/Packages/OCI.PSModules.Batch/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Batch Service
-
-__Downloads__: 1,488 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 14,362 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 15,274 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 16,171 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 14,689 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:43:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 13,760 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/135.0.0) | 135.0.0
-
-### Published: 06/16/2026 20:42:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 17,005 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 20 June 2026 10:40:11 UTC*
+*Updated: Saturday, 20 June 2026 22:13:50 UTC*
