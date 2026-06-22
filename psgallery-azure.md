@@ -3,13 +3,13 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AzureCostManagementTool](https://www.powershellgallery.com/Packages/AzureCostManagementTool/2.1.0) | 2.1.0
+## [azure.datafactory.tools](https://www.powershellgallery.com/Packages/azure.datafactory.tools/1.16.0) | 1.16.0
 
-### Published: 06/22/2026 10:32:08 by Darshit Shah (PM); Allen Liu (Developer)
+### Published: 06/09/2026 21:09:44 by Kamil Nowinski
 
-An interactive PowerShell module for streamlining Azure Cost Management operations. Features include Enterprise Agreement (EA) role assignments to Service Principals, on-demand usage report generation via the Cost Details API, and historical cost data ingestion through the Azure Cost Management Exports v2 API. Provides a guided menu-driven interface with Azure context management, scope selection across EA Enrollments, MCA Billing Accounts, Billing Profiles, and Subscriptions. Includes an optional AI-powered assistant (via Azure AI Foundry) for natural language interaction with all supported operations. Requires the Az PowerShell module.
+PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/Azure-Player/azure.datafactory.tools/ & https://azureplayer.net/adf/
 
-__Downloads__: 89 | __Repository__: 
+__Downloads__: 809,191 | __Repository__: https://github.com/Azure-Player/azure.datafactory.tools/
 
 ## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.6.13) | 3.6.13
 
@@ -18,6 +18,14 @@ __Downloads__: 89 | __Repository__:
 Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
 
 __Downloads__: 90,535 | __Repository__: https://github.com/microsoft/ARI
+
+## [AsBuiltReport.Microsoft.Azure](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Azure/0.2.0) | 0.2.0
+
+### Published: 02/10/2026 23:50:06 by Tim Carman
+
+A PowerShell module to generate an as built report on the configuration of Microsoft Azure.
+
+__Downloads__: 16,348 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Azure
 
 ## [AzureFunctions.PowerShell.Durable.SDK](https://www.powershellgallery.com/Packages/AzureFunctions.PowerShell.Durable.SDK/2.2.0) | 2.2.0
 
@@ -36,6 +44,30 @@ Validate Azure resources and infrastructure as code using PSRule.
 This project uses GitHub Issues to track bugs and feature requests. See GitHub project for more information.
 
 __Downloads__: 2,327,614 | __Repository__: https://aka.ms/ps-rule-azure
+
+## [Azure.Arc.Jumpstart.Common](https://www.powershellgallery.com/Packages/Azure.Arc.Jumpstart.Common/1.0.8) | 1.0.8
+
+### Published: 10/15/2025 16:27:10 by Azure Arc Jumpstart
+
+Azure Arc Jumpstart module for common functions
+
+__Downloads__: 15,388 | __Repository__: 
+
+## [azure.synapse.tools](https://www.powershellgallery.com/Packages/azure.synapse.tools/0.27.0) | 0.27.0
+
+### Published: 08/26/2025 21:23:53 by Kamil Nowinski
+
+PowerShell module to help with CI&CD for Azure Synapse, mainly to publish to Synapse Workspace service in multiple environments. Check https://github.com/Azure-Player/azure.synapse.tools/ & https://azureplayer.net/synapse/
+
+__Downloads__: 58,895 | __Repository__: https://github.com/Azure-Player/azure.synapse.tools/
+
+## [AzureDevOpsLogging](https://www.powershellgallery.com/Packages/AzureDevOpsLogging/1.1.1) | 1.1.1
+
+### Published: 05/28/2025 08:15:03 by Marius Solbakken Mellum
+
+A module for logging in Azure DevOps Pipelines
+
+__Downloads__: 435,595 | __Repository__: https://github.com/goodworkaround/PS-ADOLogging
 
 ## [spec.azure.tables](https://www.powershellgallery.com/Packages/spec.azure.tables/2.0.5) | 2.0.5
 
@@ -61,6 +93,14 @@ The Azure AD Hybrid Authentication Management module enables hybrid identity org
 
 __Downloads__: 333,945 | __Repository__: 
 
+## [AzureADKerberosTest](https://www.powershellgallery.com/Packages/AzureADKerberosTest/2.4.71.1) | 2.4.71.1
+
+### Published: 11/22/2024 16:26:18 by Microsoft Corporation
+
+The Azure AD Hybrid Authentication Management module enables hybrid identity organizations (those with Active Directory on-premises) to use modern credentials for their applications and enables Azure AD to become the trusted source for both cloud and on-premises authentication.
+
+__Downloads__: 5,629 | __Repository__: 
+
 ## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
 
 ### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
@@ -75,15 +115,7 @@ __Downloads__: 20,193 | __Repository__:
 
 Module for Azure management used for Omnia.
 
-__Downloads__: 166,333 | __Repository__: 
-
-## [AzureStack](https://www.powershellgallery.com/Packages/AzureStack/2.4.0) | 2.4.0
-
-### Published: 08/03/2023 07:37:47 by Microsoft Corporation
-
-Azure Stack Adminisitration Module
-
-__Downloads__: 192,039 | __Repository__: https://github.com/Azure/azurestack-powershell
+__Downloads__: 166,335 | __Repository__: 
 
 ## [AzureAD.Standard.Preview](https://www.powershellgallery.com/Packages/AzureAD.Standard.Preview/0.0.0.10) | 0.0.0.10
 
@@ -95,13 +127,29 @@ For detailed information on how to install and run this module from the PowerShe
 
 __Downloads__: 118,095 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
-## [Azs.Azurebridge.Admin](https://www.powershellgallery.com/Packages/Azs.Azurebridge.Admin/1.0.2) | 1.0.2
+## [AzureFunctionConfiguration](https://www.powershellgallery.com/Packages/AzureFunctionConfiguration/1.0.2) | 1.0.2
 
-### Published: 12/16/2021 19:28:44 by Microsoft Corporation
+### Published: 03/25/2023 20:57:05 by WMoselhy
 
-Microsoft AzureStack PowerShell: AzureBridge Admin cmdlets
+A PowerShell module for Azure Function Apps running PowerShell to load configuration from defaults or environment variables.
 
-__Downloads__: 129,268 | __Repository__: https://github.com/Azure/azurestack-powershell
+__Downloads__: 55,747 | __Repository__: 
+
+## [OSDCloudAzure](https://www.powershellgallery.com/Packages/OSDCloudAzure/22.10.19.1) | 22.10.19.1
+
+### Published: 10/19/2022 05:15:00 by David Segura
+
+OSDCloudAzure PowerShell Module
+
+__Downloads__: 10,563 | __Repository__: https://github.com/OSDeploy/OSDCloudAzure
+
+## [KeDo_AzureGraphAPI](https://www.powershellgallery.com/Packages/KeDo_AzureGraphAPI/3.0.1) | 3.0.1
+
+### Published: 08/16/2022 15:28:38 by Ken Dobrunz
+
+AZ Graph generic functions
+
+__Downloads__: 1,898 | __Repository__: 
 
 ## [azure.databricks.cicd.tools](https://www.powershellgallery.com/Packages/azure.databricks.cicd.tools/2.2.5727) | 2.2.5727
 
@@ -110,6 +158,14 @@ __Downloads__: 129,268 | __Repository__: https://github.com/Azure/azurestack-pow
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
 __Downloads__: 1,426,831 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+
+## [AzurePowerShellUtilityFunctions](https://www.powershellgallery.com/Packages/AzurePowerShellUtilityFunctions/1.2) | 1.2
+
+### Published: 05/12/2021 18:25:31 by Keith Babinec Arian T. Kulp
+
+A collection of Azure related PowerShell utility functions.  Updated by Arian T. Kulp, 2021
+
+__Downloads__: 44,283 | __Repository__: 
 
 ## [AzureRmStorageTable](https://www.powershellgallery.com/Packages/AzureRmStorageTable/2.1.0) | 2.1.0
 
@@ -189,7 +245,7 @@ __Downloads__: 35,880,583 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Azure SignalR service commands
 
-__Downloads__: 31,406,243 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 31,405,971 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServiceFabric](https://www.powershellgallery.com/Packages/AzureRM.ServiceFabric/0.3.16) | 0.3.16
 
@@ -525,7 +581,7 @@ __Downloads__: 38,087,481 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Profile credential management cmdlets for Azure Resource Manager
 
-__Downloads__: 157,717,590 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 157,717,924 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [Azure](https://www.powershellgallery.com/Packages/Azure/5.3.1) | 5.3.1
 
@@ -549,7 +605,7 @@ __Downloads__: 12,241,280 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Storage service cmdlets. Manages blobs, queues, tables and files in Microsoft Azure storage accounts
 
-__Downloads__: 78,570,918 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 78,571,221 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [Microsoft.Azure.ActiveDirectory.PIM.PSModule](https://www.powershellgallery.com/Packages/Microsoft.Azure.ActiveDirectory.PIM.PSModule/2.0.0.1762) | 2.0.0.1762
 
@@ -589,7 +645,7 @@ __Downloads__: 37,495,471 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - SiteRecovery service cmdlets for Azure Resource Manager
 
-__Downloads__: 3,097,887 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 3,097,889 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServerManagement](https://www.powershellgallery.com/Packages/AzureRM.ServerManagement/4.1.2) | 4.1.2
 
@@ -597,6 +653,6 @@ __Downloads__: 3,097,887 | __Repository__: https://github.com/Azure/azure-powers
 
 Microsoft Azure PowerShell - ServerManagement cmdlets for Azure Resource Manager
 
-__Downloads__: 3,045,821 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 3,045,823 | __Repository__: https://github.com/Azure/azure-powershell
 
-*Updated: Monday, 22 June 2026 11:44:31 UTC*
+*Updated: Monday, 22 June 2026 22:23:53 UTC*
