@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 June 2026 10:44:33 UTC
+Updated: Thursday, 25 June 2026 22:16:17 UTC
 
 .bat
 .env
@@ -124,7 +124,6 @@ acl
 acme
 acmesharp
 acmesharp_ext
-acoustid
 acr
 act-on
 act!
@@ -207,7 +206,6 @@ addon
 address
 address-book
 addresses
-addressprefix
 addressrange
 adds
 addtypeaccelerators
@@ -254,7 +252,6 @@ adp
 adr
 adreplication
 ads
-adsecurity
 adsi
 adsite
 adsp
@@ -269,6 +266,7 @@ adv190013
 adv220002
 advanced
 advapi32
+adversaryemulation
 advice
 advisor
 adwords
@@ -279,6 +277,7 @@ aegyrix
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -303,6 +302,7 @@ agnoster
 ahk
 ai
 ai-agent
+ai-development
 ai-server
 ai-workflow
 ai21
@@ -344,7 +344,6 @@ alac
 alain
 alarm
 alb
-albuild
 albums
 alc
 alero
@@ -474,6 +473,7 @@ apify
 apigateway
 apigee
 apigeeedge
+apikeys
 apimanagement
 apiplatform
 apis
@@ -682,12 +682,14 @@ ats
 att&ck
 attach
 attack-surface-reduction
+attacksimulation
 attention
 attestation
 attila
 attilakrick
 attribute
 attributes
+attribution
 au
 audio
 audiocd
@@ -845,6 +847,7 @@ azops
 azpipelines
 azpublicipaddress
 azqr
+azresources
 azsc
 azsdk
 azsk
@@ -913,7 +916,6 @@ azurehybridbenefit
 azureinformationprotection
 azureiot
 azureiothub
-azureip
 azurekeyvault
 azurekeyvaultstuff
 azurelandingzone
@@ -951,7 +953,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -1040,7 +1041,6 @@ bedrock
 beep
 beer
 beginnerfriendly
-behavior
 behavioralanalytics
 belin
 benchmark
@@ -1108,7 +1108,6 @@ blackberryuem
 blackbox
 blackbytesbox
 blacklist
-blackpoint
 blade
 bladeserver
 blaze
@@ -1137,6 +1136,7 @@ blueprint
 blueprints
 bluesky
 bluestacks
+blueteam
 bluetooth
 bluetraitio
 bluetuxedo
@@ -1199,6 +1199,7 @@ brewzilla
 brickset
 brickstore
 bridge
+brief
 brightbooking
 brightness
 britannica
@@ -1227,7 +1228,6 @@ btm
 btmp
 bubbletea
 bubbsy
-bucket
 buddhist
 budget
 bugbounty
@@ -1314,6 +1314,7 @@ candlestick
 canonical
 cantara
 canvasapp
+capabilities
 capability
 capacity
 capacitymanagement
@@ -1478,12 +1479,10 @@ choose_folder
 chooser
 christaylorcodes
 christmas
-chromaprint
 chrome
 chromium
 chrony
 chunk
-chunked
 chunking
 churchofjesuschrist
 ci
@@ -1637,7 +1636,6 @@ cloudmigration
 cloudmigrations
 cloudml
 cloudpc
-cloudsecurity
 cloudservice
 cloudshell
 cloudstorage
@@ -1692,6 +1690,7 @@ code-page
 code-reuse
 code-snippets
 code365
+codeagent
 codeanalysis
 codebeamer
 codebuild
@@ -1777,6 +1776,7 @@ comments
 commerce
 commfort
 commit
+commit-analysis
 commits
 common
 common-data-service
@@ -1791,7 +1791,6 @@ commvault
 compare
 comparison
 compatibility
-compatible
 compile
 compiler
 complete
@@ -1812,7 +1811,6 @@ compoundproperty
 compress
 compressedguid
 compression
-compromiseassessment
 compromised
 compute
 compute-ops-management
@@ -1830,6 +1828,7 @@ computeschedule
 comulativeupdate
 concatenate
 concerts
+concur
 concurrent
 conda
 condition
@@ -1886,6 +1885,7 @@ connectorcmd
 connectormanagement
 connectsync
 connectwise
+conntrack
 conservation
 console
 consoleguitools
@@ -1989,7 +1989,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costad
 costmanagement
 costoptimization
 costsaving
@@ -2101,7 +2100,6 @@ csp
 cspm
 csproj
 css
-csstools
 csv
 csv2adx
 csvhelper
@@ -2141,8 +2139,6 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
-custominformationservices
-customis
 customisation
 customization
 customlocation
@@ -2222,7 +2218,6 @@ d365fo
 d365fsc
 daas
 dac
-dacfx
 dacl
 dacpac
 dacpackage
@@ -2414,6 +2409,7 @@ defenderforidentity
 defenderforservers
 defenderxdr
 defense
+defensivesecurity
 deferrals
 definition
 deflate
@@ -2512,6 +2508,7 @@ deviceupdate
 devolutions
 devops
 devops psmodule
+devops-tools
 devsecninja
 devsecops
 devtestlabs
@@ -2530,6 +2527,7 @@ dhash
 dhcp
 di
 diabetes
+diacritics
 diagnostic
 diagnostics
 diagram
@@ -2546,6 +2544,7 @@ diff
 difference
 dify
 dig
+digest
 digikam
 digital
 digital-forensics
@@ -2904,8 +2903,6 @@ ec2
 ecdsa
 echo
 ecm
-ecma2
-ecma2host
 ecommerce
 ecovadis
 ed25519
@@ -3137,6 +3134,7 @@ event_list
 event-forwarding
 event-log
 event-timeline
+eventbridge
 eventchannel
 eventchannels
 eventcollector
@@ -3203,7 +3201,6 @@ executable
 executables
 execute
 execution
-execution-policy
 executionalias
 executionpolicy
 exexml
@@ -3261,7 +3258,6 @@ extensionrisk
 extensions
 external
 external-editor
-externaldynamiclists
 externalip
 extract
 extraction
@@ -3439,7 +3435,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-fingerprint
 finops
 firebird
 firefox
@@ -3484,6 +3479,7 @@ flow
 flowchart
 flowy
 fluent
+fluid
 fluidrelay
 flurl
 flutter
@@ -3583,7 +3579,6 @@ frontapp
 frontdoor
 frontend
 frontlineworker
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3867,7 +3862,6 @@ gps
 gpt
 gpu
 gpx
-gracesolutions
 gradient
 gradientgenerator
 gradle
@@ -4179,6 +4173,7 @@ hrservicedelivery
 hsdp
 hsl
 html
+html-generator
 html-report
 html-templates
 htmlentity
@@ -4552,7 +4547,6 @@ ipmaths
 ipmi
 ipp
 iprange
-ipranges
 ips
 ipscan
 ipsec
@@ -4568,7 +4562,6 @@ irl
 irod
 irregular
 isadmin
-isbn
 isc
 iscsi
 isdate
@@ -4621,6 +4614,7 @@ j
 j81
 j81-blog
 ja-jp
+jade-templates
 jamba
 japanese
 jar
@@ -4784,6 +4778,7 @@ kibana
 kickstart
 kidrsa
 kill
+killchain
 kindle
 kinetic
 kinopoisk
@@ -4798,7 +4793,6 @@ knetps
 knob
 knowbe4
 knowledge
-knowledgearticle
 knowledgebase
 koans
 kodi
@@ -4896,12 +4890,12 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 lcov
 lcs
 ldap
+leadforge
 leaflet
 leafs
 league
@@ -4958,7 +4952,6 @@ lights
 lightweight
 lime
 limesurvey
-limit
 limit-job
 limits
 limitsincrease
@@ -5006,6 +4999,7 @@ literature
 litetouch
 live
 livemigration
+livingdoc
 llama
 llama2
 llama3
@@ -5419,7 +5413,6 @@ mfa
 mfr
 mft
 mga
-mggraph
 mgn
 mi
 micro
@@ -5508,7 +5501,6 @@ minifier
 minimal
 minimalist-framework
 minimum
-minio
 mip
 mipsdk
 miration-step
@@ -5610,6 +5602,7 @@ moohelper
 moonraker
 moonshot
 more
+morning
 mos
 mosaic
 motd
@@ -5712,6 +5705,7 @@ multi-threading
 multi-zone
 multiadminapproval
 multiagent
+multicast
 multicloud
 multicultural
 multidimenstional
@@ -5787,7 +5781,6 @@ nanoleaf
 nartac
 nasdaq
 nationalinstruments
-nationalweatherservice
 native
 natpool
 natural
@@ -5842,6 +5835,7 @@ netboxtools
 netcease
 netcore
 netextender
+netfilter
 netfirewallrule
 netherlands
 netillimar
@@ -5861,7 +5855,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-filesystem
 network-info
 network-policy
 network-profile
@@ -6016,7 +6009,7 @@ ntds
 ntfs
 ntfy
 ntfypwsh
-ntlmrelay
+ntlm
 ntp
 ntsystems
 nuget
@@ -6043,7 +6036,6 @@ nvim
 nvm
 nvm-window
 nvmeof
-nvoip
 nxt
 nyse
 nzb
@@ -6099,6 +6091,7 @@ oem-charset
 oembed
 offboarding
 offence
+offense
 office
 office_365
 office-365
@@ -6195,7 +6188,6 @@ openaiclient
 openamt
 openapi
 opencage
-opencloud
 opencode
 opendata
 openedge
@@ -6242,6 +6234,7 @@ operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
+opportunity
 ops
 opsi
 opsmgr
@@ -6253,6 +6246,7 @@ optimized
 optimizer
 option
 option119
+optional-features
 options
 optionstring
 opus
@@ -6315,7 +6309,6 @@ osubusage
 osx
 ot
 otel
-otlp
 otp
 otp-verification
 ou
@@ -6465,7 +6458,6 @@ passwordvault
 passwordwolf
 paste
 patch
-patch-gap
 patch-management
 patches
 patching
@@ -6584,6 +6576,7 @@ pinget
 pinging
 pingsweep
 pinneditem
+pinterest
 pinvoke
 pip
 pip3
@@ -6718,7 +6711,6 @@ posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
-posh-weather.gov
 poshbot
 poshcommence
 poshde
@@ -6785,7 +6777,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -8274,17 +8265,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -8777,16 +8757,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -9691,17 +9661,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -9980,7 +9939,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-psguerrilla
 pshdhomerun
 pshost
 pshtml
@@ -10108,6 +10066,9 @@ publishing
 publishmap
 pubsub
 pubxml
+pug
+pug-templates
+pugjs
 pull
 pull-request
 pull-requests
@@ -10128,6 +10089,7 @@ purestorage
 purfew
 purge
 purple
+purpleteam
 purview
 push
 push-location
@@ -10152,6 +10114,7 @@ pwshake
 pwshfw
 pwshrc
 pwshspectreconsole
+pxe
 pxedistributionpoint
 pyenv
 pygmentize
@@ -10370,6 +10333,7 @@ redistributables
 redkite
 redseal
 redshift
+redteam
 redteaming
 redundancy
 refactor
@@ -10382,7 +10346,6 @@ reflect
 reflection
 refresh
 refreshtoken
-refs
 reg
 reg_binary
 reg_dword
@@ -10481,7 +10444,6 @@ render
 renderer
 rendering
 renderkit
-reonboarding
 repackaging
 repair
 repair-msauth
@@ -10490,6 +10452,7 @@ reparsepoint
 repeat
 repl
 replace
+replacement
 replaygain
 replication
 repo
@@ -10523,9 +10486,9 @@ reshade
 resharper
 resilience
 resiliency
-resilient
 resize
 resolution
+resolv
 resolve
 resolve-dnsname
 resolve-stache
@@ -10540,6 +10503,7 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
+resourceid
 resourceinventory
 resourcekit
 resourcemanager
@@ -10632,7 +10596,6 @@ robbyrussel
 robinhood
 robinhoodcrypto
 robocopy
-robopack
 robot
 roca
 rock
@@ -10806,7 +10769,6 @@ sccmpackage
 sccmprereqs
 scene
 scep
-scepman
 sch
 schannel
 schannelpolicydsc
@@ -11038,6 +11000,7 @@ serilog-for-powershell
 serilog-sink
 server
 server-backup
+server-manager
 servercertificatevalidationcallback
 serverconfig
 serverinventory
@@ -11075,7 +11038,6 @@ serviceprincipalname
 services
 servicestatus
 servicestore
-servicetags
 serviceui
 servicing
 servicingstack
@@ -11408,6 +11370,7 @@ spec
 specification
 specify
 specrew
+specs
 spectre
 spectre.console
 spectreconsole
@@ -11588,6 +11551,7 @@ staticanalysis
 statichtmlsites
 staticip
 staticsite
+staticwebsite
 statistical
 statisticmaintenance
 statistics
@@ -11622,6 +11586,8 @@ stockmarketapi
 stocks
 stockscreener
 stockscreenerapi
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -11640,7 +11606,6 @@ storagespaces
 storagespacesdirect
 storagesync
 store
-stored
 storedcredentials
 storefront
 storeonce
@@ -11709,6 +11674,7 @@ subset
 substation
 subsystem
 subtitle
+subtitles
 subversion
 success
 successfactors
@@ -11726,7 +11692,6 @@ supercell
 superheros
 supermarket
 supermicro
-superseded
 supervisor
 supplychain
 support
@@ -11936,7 +11901,6 @@ technology1
 technologyone
 techsmith
 tel
-telefonia
 telegram
 telegram-bot
 telegram-bot-api
@@ -12052,6 +12016,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -12066,6 +12031,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -12101,7 +12067,6 @@ ticks
 tictactoe
 tiering
 tiermodel
-tierzero
 tiktok
 time
 timedlogging
@@ -12405,7 +12370,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 ue4ss
 uefi
@@ -12697,6 +12661,7 @@ videogeneration
 videos
 vie
 view
+view-engine
 viewer
 viewmodel
 viewsonic
@@ -12784,7 +12749,6 @@ vocabularies
 voice
 voiceservices
 voidtools
-voip
 volkskrant
 volta
 volume
@@ -12810,6 +12774,7 @@ vpn-tunnel
 vpro
 vps
 vra
+vram
 vrchat
 vrealize
 vrising
@@ -12976,7 +12941,6 @@ wget
 what3words
 whatif
 whatismyip
-whatsapp
 whatsnew
 whatsupgold
 whd
@@ -13162,6 +13126,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wiz
 wizard
@@ -13383,7 +13348,6 @@ zerto
 zigbee
 zip
 zip-compression
-zipcode
 zipfile-transform
 zipjoin
 zisson
@@ -13408,7 +13372,6 @@ zpr
 zsh
 zstd
 zstd-compression
-ztac
 zuora
 zvm
 zvml
