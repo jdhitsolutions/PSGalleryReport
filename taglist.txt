@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 June 2026 22:14:44 UTC
+Updated: Saturday, 27 June 2026 10:31:44 UTC
 
 .bat
 .env
@@ -103,7 +103,6 @@ accesscontrol
 accesscontroldsc
 accessgovernancecp
 accessibility
-accesspackage
 accesspackages
 accesspoint
 accessrights
@@ -305,7 +304,6 @@ agnoster
 ahk
 ai
 ai-agent
-ai-development
 ai-server
 ai-workflow
 ai21
@@ -567,7 +565,6 @@ arabic
 arangodb
 arc
 arcade
-arcenabledinfrastructure
 arcgateway
 arcgis
 arch
@@ -603,8 +600,6 @@ armtemplates
 arp
 array
 arrays
-arrow
-arrow-key
 art
 artefactual
 articles
@@ -620,7 +615,6 @@ as-rep-roasting
 asa
 asa.unittest
 asana
-asbuilt
 asbuiltreport
 asc
 ascii
@@ -694,7 +688,6 @@ attila
 attilakrick
 attribute
 attributes
-attribution
 au
 audio
 audiocd
@@ -717,6 +710,7 @@ auditsysvol
 aumid
 aut
 auth
+auth-log
 auth0
 authenticate
 authentication
@@ -842,7 +836,6 @@ azdisk
 azdo
 azereo
 azforensics
-azgovviz
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -850,7 +843,6 @@ aznicdetails
 azops
 azpipelines
 azpublicipaddress
-azqr
 azresources
 azsc
 azsdk
@@ -924,7 +916,6 @@ azureip
 azurekeyvault
 azurekeyvaultstuff
 azurelandingzone
-azurelandingzones
 azurelocal
 azuremaps
 azuremigrate
@@ -1016,7 +1007,6 @@ batch
 batch-install
 batchclass
 batching
-batchprocessing
 batman
 battery
 bayern
@@ -1287,7 +1277,6 @@ bytearray
 bytt.email
 bzip2
 bzip2-compression
-c
 c#
 c++
 c2r
@@ -1573,7 +1562,6 @@ clickonce
 clicktodo
 clicktorun
 client
-client-health
 client-management
 clientpushsettings
 clientsettings
@@ -1611,6 +1599,7 @@ clojure
 clone
 close-openfile
 cloud
+cloud_data_management
 cloud-backup
 cloud-clipboard
 cloud-computing
@@ -1787,7 +1776,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -2002,7 +1990,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costad
 costmanagement
 costoptimization
 costsaving
@@ -2160,7 +2147,6 @@ customisation
 customization
 customlocation
 customlogs
-custommodules
 customproviders
 customsecurityattributes
 cutehttpfileserver
@@ -2267,6 +2253,7 @@ data_security
 data-archive
 data-backup
 data-loss-prevention
+data-protection
 data-sources
 data-tier
 data-transfer
@@ -2321,7 +2308,6 @@ datanorm
 datapipeline
 dataplatform
 datapro
-dataprocessing
 dataprotection
 dataquality
 datarow
@@ -2374,6 +2360,7 @@ dc
 dcim
 dcim_b324
 dcom
+dconf
 dcr
 ddc
 ddc/ci
@@ -2483,7 +2470,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-loop
@@ -2507,6 +2493,7 @@ devexpress
 deviation
 device
 device-control
+device-encryption
 device-management
 devicecleanup
 devicecode
@@ -2793,7 +2780,6 @@ drive
 drive letter
 drivemap
 drivemapping
-driven
 driver
 driverpacks
 drivers
@@ -2976,6 +2962,7 @@ elm
 elmah-io
 elmarchitecture
 elonmusk
+eloomi
 eloqua
 elvish
 elvui
@@ -3061,7 +3048,6 @@ entracloudsync
 entraconnect
 entraid
 entraid-security-assessment
-entraidgovernance
 entropy
 entrust
 enum
@@ -3139,6 +3125,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 euc
 eulanda
 evaluation
@@ -3150,6 +3137,7 @@ event_list
 event-forwarding
 event-log
 event-timeline
+eventbridge
 eventchannel
 eventchannels
 eventcollector
@@ -3300,7 +3288,6 @@ fail2ban
 failedlogin
 failover
 failovercluster
-failoverclustering
 failure
 fake
 fake-useragent
@@ -3318,7 +3305,6 @@ fast
 fast-dds
 fast-ping
 fastcharge
-fastdata
 faster
 fastfilepub
 fastgit
@@ -3441,6 +3427,8 @@ financialstatement
 financialstatements
 financialstatementsapi
 find
+find-call
+find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -3604,6 +3592,7 @@ fsf
 fsharp
 fslogix
 fsrm
+fstab
 ft232h
 ft232r
 ftdi
@@ -3627,7 +3616,6 @@ function-testing
 functionality
 functionalprogramming
 functionapp
-functionlibrary
 functions
 fundamentals
 funds
@@ -3774,6 +3762,7 @@ ghost
 gif
 gifs
 giphy
+gis
 gist
 git
 git-client
@@ -3826,6 +3815,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnome
 gnu
 gnucash
 gnuwin32
@@ -3895,7 +3885,6 @@ graphical
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3927,6 +3916,7 @@ grpc
 grr
 grub
 gruvbox
+gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -4182,7 +4172,6 @@ hpesynergy
 hponeview
 hr
 hris
-hrprovisioning
 hrservicedelivery
 hsdp
 hsl
@@ -4693,7 +4682,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-ld
 json-transform
 json+
 json2ps
@@ -4737,6 +4725,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 katex
 kb
@@ -4814,6 +4803,7 @@ koans
 kodi
 korn
 kotlin
+kpi
 kql
 kraken
 krane
@@ -4913,9 +4903,9 @@ lcov
 lcs
 ldap
 leadforge
+leaflet
 leafs
 league
-leak
 lean
 learn
 learn-powershell
@@ -4981,7 +4971,6 @@ lingeringobjects
 link
 link-capability
 link-preview
-linkeddata
 linkedin
 linkedservice
 linkedservicedependency
@@ -4998,6 +4987,7 @@ linux inode
 linux kernel
 linux motd
 linux network
+linux pam
 linux-command
 linux-style
 linuxssh
@@ -5084,6 +5074,7 @@ log-files
 log-mail
 log-mails
 log-management
+log-parser
 log-rotation
 log4net
 loganalytics
@@ -5339,6 +5330,7 @@ mcp
 mcpserver
 mcs
 mcsb
+mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mda
@@ -5721,6 +5713,7 @@ multi-threading
 multi-zone
 multiadminapproval
 multiagent
+multicast
 multicloud
 multicultural
 multidimenstional
@@ -5810,6 +5803,7 @@ navenps
 navigation
 navigator
 nbi
+nbx
 ncal
 ncrestapi
 ndes
@@ -5845,6 +5839,7 @@ netappfiles
 netbios
 netbox
 netboxapi
+netboxtools
 netcease
 netcore
 netextender
@@ -5941,6 +5936,7 @@ ni
 nic
 nic-teaming
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -6122,6 +6118,7 @@ officegraph
 officeimo
 officemessageencryption
 officeopenxml
+officertool
 offline
 offlinewimservicing
 ofx
@@ -6229,6 +6226,7 @@ openssh
 opensshserver
 openssl
 openstack
+openstreetmap
 openstreetmaps
 opentdb
 opentelemetry
@@ -6283,6 +6281,7 @@ organizationally
 organizer
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -6362,6 +6361,7 @@ oxygen
 oxyplot
 oz
 p2000
+p2p
 p2s
 pa1reg
 paas
@@ -6792,6 +6792,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -8280,6 +8281,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -8772,6 +8784,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -9676,6 +9698,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -10130,6 +10163,7 @@ pwshake
 pwshfw
 pwshrc
 pwshspectreconsole
+pxe
 pxedistributionpoint
 pyenv
 pygmentize
@@ -10462,6 +10496,7 @@ rendering
 renderkit
 reonboarding
 repackaging
+repadmin
 repair
 repair-msauth
 reparse
@@ -10648,6 +10683,7 @@ routeros
 routes
 routetable
 routine
+routing
 rover
 royalapps
 royaldocument
@@ -10776,7 +10812,6 @@ scanner
 scanning
 scap
 scatter
-scavenging
 scb
 scc
 sccm
@@ -10803,7 +10838,6 @@ scheduler
 schedules-execution
 scheduling
 schema
-schema.org
 schemaextensions
 scheme
 school-information-system
@@ -10858,7 +10892,6 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
-scriptmanagement
 scriptmodule
 scriptoform
 scriptrunner
@@ -10936,7 +10969,6 @@ security.txt
 securityandcompliance
 securityassertionmarkuplanguage
 securityattribute
-securityawareness
 securitybaseline
 securitycenter
 securitycompliancecenter
@@ -11139,6 +11171,7 @@ shell-art
 shell-integration
 shells
 sherweb
+shielded-vm
 shieldedvm
 shims
 shipment
@@ -11169,7 +11202,6 @@ sid
 sidechannel
 siem
 sif
-sigma
 sigmund
 sign
 signal
@@ -11320,7 +11352,6 @@ socketlabs
 sockets
 sodium
 software
-software-updates
 softwarecenter
 softwaredistributioncomponent
 softwaregeneration
@@ -11361,7 +11392,6 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -11419,6 +11449,7 @@ splatting
 split
 split-tunnel
 splunk
+spmt
 spn
 spo
 spoofing
@@ -11487,7 +11518,6 @@ squire
 squishedguid
 srcds
 srcsrv
-srcsvr
 sre
 srm
 srr
@@ -11714,7 +11744,6 @@ supermarket
 supermicro
 superseded
 supervisor
-supplychain
 support
 support-tool
 support-tools
@@ -12010,7 +12039,6 @@ testusers
 tetris
 text
 text_to_speech
-text-based
 text-emoji
 text-emojis
 text-menu
@@ -12283,6 +12311,7 @@ ttd
 ttrpg
 tts
 tube
+tubedownloader
 tuesday
 tui
 tulpep
@@ -12405,6 +12434,7 @@ uipath
 uk
 ukg
 ulid
+ultimatetool
 um
 uml
 umn
@@ -12512,7 +12542,6 @@ user
 user-environment
 user-management
 user-rights
-useradminmodule
 useragent
 usercontext
 userdiscovery
@@ -12695,6 +12724,7 @@ virsh
 virtual
 virtual-disk
 virtual-disks
+virtual-switch
 virtualappliance
 virtualbox
 virtualboxguestadditions
@@ -12828,6 +12858,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vtpm
 vtt
 vue
 vulnerabilities
@@ -12952,7 +12983,6 @@ welcome windows sysadmin dargslan devops administration
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
-wellarchitected
 wellarchitectedframework
 wem
 wemsdk
@@ -13027,7 +13057,6 @@ win32app
 win32appmigrationtool
 win32shutdown
 winbgp
-windbg
 windchillrv&s
 window
 windows
@@ -13086,6 +13115,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
