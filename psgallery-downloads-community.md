@@ -1559,11 +1559,11 @@ SNMP Functions for Get and Walk both pipeline aware
 
 __Downloads__: 3,171,230 | __Repository__: http://www.proxx.nl/Module/SNMP/
 
-## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/5.1.0.0) | 5.1.0.0
+## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/5.2.0.1) | 5.2.0.1
 
-### Published: 05/19/2025 06:53:01 by Hewlett Packard Enterprise Co.
+### Published: 07/03/2026 12:31:46 by Hewlett Packard Enterprise Co.
 
-Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen10, Gen10 Plus, Gen11 or Gen12 servers.
+Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen10, Gen10 Plus, Gen11 or Gen12 servers. PowerShell cmdlets built on .NET 8. Requires PowerShell 7.4 or later (CoreCLR). Windows PowerShell 5.1 and .NET Framework are not supported.
 
 __Downloads__: 3,164,027 | __Repository__: https://www.hpe.com/servers/powershell
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 03 July 2026 11:56:01 UTC*
+*Updated: Friday, 03 July 2026 22:43:02 UTC*
