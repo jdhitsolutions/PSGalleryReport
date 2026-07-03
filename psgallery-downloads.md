@@ -1417,6 +1417,14 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 36,643,457 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
+## [AzureRM.DataFactories](https://www.powershellgallery.com/Packages/AzureRM.DataFactories/5.0.4) | 5.0.4
+
+### Published: 03/23/2021 12:49:49 by Microsoft Corporation
+
+Microsoft Azure PowerShell - DataFactories service cmdlets for Azure Resource Manager
+
+__Downloads__: 36,593,844 | __Repository__: https://github.com/Azure/azure-powershell
+
 ## [AzureRM.CognitiveServices](https://www.powershellgallery.com/Packages/AzureRM.CognitiveServices/0.9.13) | 0.9.13
 
 ### Published: 03/23/2021 12:49:21 by Microsoft Corporation
@@ -2137,13 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
-
-### Published: 07/25/2018 21:32:26 by OneScript Team
-
-This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
-It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
-
-__Downloads__: 23,190,705 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
-
-*Updated: Thursday, 02 July 2026 22:46:49 UTC*
+*Updated: Friday, 03 July 2026 11:55:59 UTC*
