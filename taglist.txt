@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 03 July 2026 22:43:05 UTC
+Updated: Saturday, 04 July 2026 11:12:26 UTC
 
 .bat
 .env
@@ -104,6 +104,7 @@ accesscontroldsc
 accessgovernancecp
 accessibility
 accesspackage
+accesspackages
 accesspoint
 accessrights
 accesstoken
@@ -291,6 +292,7 @@ aftereffects
 ag
 agenda
 agent
+agent-management
 agentic
 agentplugin
 agents
@@ -409,6 +411,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -464,6 +467,7 @@ apachekafka
 apexlegends
 api
 api-client
+api-gateway
 api-generation
 api-rest
 api-wrapper
@@ -516,6 +520,7 @@ applescript_bridge
 applesilicon
 application
 application-control
+application-management
 application-pool
 application-transformer
 applicationenhancer
@@ -702,7 +707,6 @@ audit-policy
 auditad
 auditing
 auditlaps
-auditlog
 auditnetlogon
 auditpol
 auditpol.exe
@@ -896,6 +900,7 @@ azureautomation
 azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
+azureblob
 azurecli
 azurecodesigning
 azurecognitiveservices
@@ -934,6 +939,7 @@ azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
+azurequeue
 azurerepos
 azureresourceinventory
 azureresourcemanager
@@ -1003,6 +1009,7 @@ base85
 basecamp
 based
 baseline
+baseline-management
 basename
 bash
 basic
@@ -1013,6 +1020,7 @@ batch
 batch-install
 batchclass
 batching
+batchprocessing
 batman
 battery
 bayern
@@ -1186,8 +1194,10 @@ bpmn
 brainy
 branch
 branch-rename
+branchcache
 branchcoverage
 branchprotection
+branding
 brave
 brawlapi
 brawlstars
@@ -1253,7 +1263,6 @@ buildmaster
 builds
 buildscript
 buildtool
-builtin
 bulk
 bulletin
 bullhorn
@@ -1341,6 +1350,7 @@ cardwirth
 careport
 cares
 cargo
+carol
 carousel
 carrier
 cartoon
@@ -1639,6 +1649,7 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
+cloudmigration
 cloudmigrations
 cloudml
 cloudpc
@@ -1840,6 +1851,7 @@ computersite
 computeschedule
 comulativeupdate
 concatenate
+concerts
 concur
 concurrent
 conda
@@ -1980,6 +1992,8 @@ conway
 cookie
 cool
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copilotplus
@@ -2254,6 +2268,7 @@ dare
 dargslan
 dark
 dark-theme
+darkmode
 darktrace
 dash
 dashboard
@@ -2322,6 +2337,7 @@ datanorm
 datapipeline
 dataplatform
 datapro
+dataprocessing
 dataprotection
 dataquality
 datarow
@@ -2399,7 +2415,6 @@ decompression
 decrypt
 decryption
 dedicatedhsm
-dedup
 deduplication
 deep
 deep-security
@@ -2440,6 +2455,7 @@ delete
 delete-orphan-branches
 deletefile
 deleteuserprofile
+deliverability
 delivery
 dell
 dellemc
@@ -2508,6 +2524,7 @@ deviation
 device
 device-control
 device-encryption
+device-management
 devicecleanup
 devicecode
 devicecontrol
@@ -2669,6 +2686,7 @@ dlp
 dm-crypt
 dmarc
 dmarccheck
+dmesg
 dmgr
 dmi
 dmtf
@@ -3003,6 +3021,7 @@ emc
 emcomm
 emergency
 emissions
+emlcheck
 emoji
 emojis
 emotion
@@ -3045,6 +3064,7 @@ entaid
 enteo
 enter
 enterprise
+enterprise-mobility
 enterprise-scale
 enterprisedb
 enterprisemanager
@@ -3139,6 +3159,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 euc
 eulanda
 evaluation
@@ -3165,7 +3186,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -3173,7 +3193,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3369,6 +3388,8 @@ file-extension
 file-extension-association
 file-invalidchar
 file-management
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -3392,6 +3413,7 @@ filelog
 filelogger
 filemaintenance
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -3409,6 +3431,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3900,6 +3925,7 @@ graphical
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3987,6 +4013,7 @@ handy
 hangouts
 hannelstoolbox
 hanwha
+happy
 har
 harbor
 hard
@@ -4195,6 +4222,7 @@ html-generator
 html-report
 html-templates
 htmlentity
+htop
 http
 http_proxy
 http-listener
@@ -4288,6 +4316,7 @@ identifier
 identities
 identity
 identity-management
+identity-mapping
 identitycenter
 identitydataplane
 identitydirector
@@ -4658,6 +4687,7 @@ jenkins
 jetbrains
 jiggler
 jim
+jingle
 jinja2
 jira
 jiraservicemanagement
@@ -4895,6 +4925,7 @@ laserbeams
 last
 last.fm
 lastfm
+lastlog
 lastlogon
 lastpass
 latency
@@ -5385,8 +5416,6 @@ meditation
 medlemsservice
 meesman
 meeting
-meetup
-meetup.com
 meewind
 megabyte
 melamed
@@ -5561,12 +5590,14 @@ mmc
 mmdc
 mngdmac
 mobile
+mobile-device-management
 mobiledevicemanagement
 mobilenetwork
 mobilitycontroller
 mock
 mocking
 mod
+modal
 modbus
 modding
 model
@@ -5792,6 +5823,7 @@ nagios
 nakivo
 name
 name-of-dogs
+name-resolution
 namedpipe
 nameit
 nameresolution
@@ -5806,6 +5838,7 @@ nanoleaf
 nartac
 nasdaq
 nationalinstruments
+nationalweatherservice
 native
 natpool
 natural
@@ -5936,6 +5969,7 @@ newsletter
 newspaper
 newtonsoft
 newtonsoft.json
+newyear
 nexacore
 nexenta
 nexentastor
@@ -5952,6 +5986,7 @@ ngts
 nhl
 ni
 nic
+nic-teaming
 nic.ru
 nightmare
 ninite
@@ -6298,6 +6333,7 @@ organizationally
 organizer
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -6437,6 +6473,7 @@ parcel
 parclient
 parenting
 parititions
+parity
 parool
 parquet
 parse
@@ -6575,7 +6612,9 @@ phi
 philips
 philosophical
 philpritchett
+phish
 phishing
+phishnet
 phoenix
 phone
 phoneautomation
@@ -6726,6 +6765,7 @@ portable-executable
 portablewinget
 portal
 portchecker
+portfolio
 porthunter
 ports
 portscan
@@ -6740,6 +6780,7 @@ posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
+posh-weather.gov
 poshbot
 poshcommence
 poshde
@@ -6806,7 +6847,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -7045,7 +7085,6 @@ programs
 progress
 progress-bar
 progressbar
-progressbars
 project
 project-management
 project-manager
@@ -7125,6 +7164,7 @@ psbicep
 psc
 pscalendar
 pscandy
+pschristmastree
 psclient
 pscmdlet
 pscommand__python3
@@ -8295,17 +8335,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -8798,16 +8827,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -9712,17 +9731,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -10309,6 +10317,7 @@ rbac
 rbacmodel
 rbd
 rbi
+rbl
 rbsu
 rc4
 rcon
@@ -10668,6 +10677,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -10730,6 +10741,7 @@ rulesengine
 run
 run-as-user
 run-key
+run-keys
 runas
 runas-ppl
 runasuser
@@ -10822,6 +10834,7 @@ scanner
 scanning
 scap
 scatter
+scavenging
 scb
 scc
 sccm
@@ -11104,6 +11117,7 @@ services
 servicestatus
 servicestore
 servicetags
+serviceui
 servicing
 servicingstack
 ses
@@ -11611,6 +11625,7 @@ starwars
 stash
 stat
 state
+stateless
 static
 static-analysis
 static-site
@@ -12335,6 +12350,7 @@ ttrpg
 tts
 tube
 tubedownloader
+tuesday
 tui
 tulpep
 tuner
@@ -12569,7 +12585,6 @@ useradminmodule
 useragent
 usercontext
 userdiscovery
-usergroup
 usergroups
 userinterface
 usermail
@@ -12651,6 +12666,7 @@ vc
 vccmdlets
 vcenter
 vcf
+vcf.alarmmanager
 vcf.appliancemanager
 vcf.automationorchestrator
 vcf.capacityplanner
@@ -12908,6 +12924,7 @@ wallet
 wallpaper
 wallpapers
 wam
+wan
 wannacry
 wansi
 wap
@@ -12960,7 +12977,6 @@ webcmdlets
 webdav
 webdeploy
 webdev
-webdeveloper
 webdriver
 webfrequest
 webhdfs
@@ -13060,6 +13076,7 @@ wiegand
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
@@ -13074,6 +13091,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32app
 win32appmigrationtool
 win32shutdown
 winbgp
@@ -13150,7 +13168,6 @@ windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
-windowssecurity
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -13244,6 +13261,7 @@ workpoint
 workrequests
 worksheet
 workspace
+workspace-one
 workspacemanager
 workspaceone
 workspaces
@@ -13281,8 +13299,10 @@ writeaccess
 writelog
 writeprogress
 writer
+writers
 writing
 ws-federation
+ws1
 wsapi
 wsb
 wsl
@@ -13421,6 +13441,7 @@ zerto
 zigbee
 zip
 zip-compression
+zipcode
 zipfile-transform
 zipjoin
 zisson
