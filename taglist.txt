@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 July 2026 11:12:26 UTC
+Updated: Saturday, 04 July 2026 22:40:28 UTC
 
 .bat
 .env
@@ -103,7 +103,6 @@ accesscontrol
 accesscontroldsc
 accessgovernancecp
 accessibility
-accesspackage
 accesspackages
 accesspoint
 accessrights
@@ -262,7 +261,6 @@ adsync
 adt
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -296,6 +294,7 @@ agent-management
 agentic
 agentplugin
 agents
+aggregate
 aggregates
 aggregation
 agile
@@ -438,7 +437,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansiblectl
 ansibletower
 ansicolor
 ansicolors
@@ -446,7 +444,6 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
-antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -464,15 +461,12 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
-apexlegends
 api
 api-client
 api-gateway
 api-generation
 api-rest
-api-wrapper
 apiaccesscontrol
-apichecks
 apiclient
 apify
 apigateway
@@ -687,9 +681,9 @@ atrium
 ats
 att&ck
 attach
+attachment
 attack-surface-reduction
 attacksimulation
-attention
 attestation
 attila
 attilakrick
@@ -707,6 +701,7 @@ audit-policy
 auditad
 auditing
 auditlaps
+auditlog
 auditnetlogon
 auditpol
 auditpol.exe
@@ -786,7 +781,6 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
-av1
 availability
 availabilitygroups
 availabilityset
@@ -1257,12 +1251,12 @@ buildhelpers
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
 buildscript
 buildtool
+builtin
 bulk
 bulletin
 bullhorn
@@ -1319,7 +1313,6 @@ cam
 camera
 cameras
 campaign
-camtasia
 canarie
 canary
 cancel
@@ -1513,7 +1506,6 @@ cidrcalculator
 ciellos
 ciem
 cif
-cifs
 cifv3
 cil
 cim
@@ -1760,7 +1752,6 @@ colorful
 colorful-output
 colorful-scripts
 colorful-terminal
-colorize
 colorized
 coloroutput
 colorpicker
@@ -1852,7 +1843,6 @@ computeschedule
 comulativeupdate
 concatenate
 concerts
-concur
 concurrent
 conda
 condition
@@ -2256,7 +2246,6 @@ dacpackage
 dad
 dadjoke
 dag
-dagger
 dailen
 daily
 dalle3
@@ -2282,7 +2271,6 @@ data-archive
 data-backup
 data-boar
 data-loss-prevention
-data-protection
 data-sources
 data-tier
 data-transfer
@@ -2415,6 +2403,7 @@ decompression
 decrypt
 decryption
 dedicatedhsm
+dedup
 deduplication
 deep
 deep-security
@@ -2523,9 +2512,7 @@ devexpress
 deviation
 device
 device-control
-device-encryption
 device-management
-devicecleanup
 devicecode
 devicecontrol
 devicehardening
@@ -3186,6 +3173,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -3193,6 +3181,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3397,7 +3386,6 @@ file-name-extension-association
 file-screens
 file-server
 file-share
-file-sharing
 file-system
 file-transfer
 file-transform
@@ -3670,7 +3658,6 @@ gainz-keepass
 gainz-sqldb
 gal
 gallery
-gam7
 game
 game-of-life
 gamecategory:cards
@@ -4244,7 +4231,6 @@ hubspotcrm
 hubspotps
 hudson
 hue
-human-friendly
 humanizer
 humanly
 humor
@@ -4292,7 +4278,6 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -4432,7 +4417,6 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructure-as-code
@@ -4571,7 +4555,6 @@ iotoperationsservice
 ip
 ip_cameras
 ip-address
-ip-address-sort
 ip-camera
 ipa
 ipaddress
@@ -4649,6 +4632,7 @@ itg
 itglue
 itil
 itin
+itom
 itops
 itpro
 itprofessionals
@@ -4714,7 +4698,6 @@ joke
 jokes
 jotform
 journal
-journalctl
 journald
 joyride
 jpg
@@ -4762,7 +4745,6 @@ k8s
 k8sshell
 k8ssnapshots
 kafka
-kalilinux
 kaminario
 karabiner
 karabiner-elements
@@ -4777,7 +4759,6 @@ kb4
 kbarticle
 kdbx
 kdialog
-kebab-case
 keenetic
 keep-a-changelog
 keepachangelog
@@ -5004,7 +4985,6 @@ light
 light-theme
 lighthouse
 lights
-lightweight
 lime
 limesurvey
 limit
@@ -5035,7 +5015,6 @@ linux
 linux fstab
 linux inode
 linux kernel
-linux motd
 linux network
 linux pam
 linux-command
@@ -5271,7 +5250,6 @@ mails
 mailsecurity
 mailspring
 main-menu
-main-mode
 maintain-module
 maintainability
 maintenance
@@ -5384,7 +5362,6 @@ mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mda
-mdadm
 mdatp
 mdb
 mdbc
@@ -5416,6 +5393,8 @@ meditation
 medlemsservice
 meesman
 meeting
+meetup
+meetup.com
 meewind
 megabyte
 melamed
@@ -5844,7 +5823,6 @@ natpool
 natural
 natural-language-to-code
 natural-selection
-natural-sort
 nature
 nav
 naven
@@ -6069,7 +6047,6 @@ ntdll
 ntds
 ntfs
 ntfy
-ntfypwsh
 ntlm
 ntlmrelay
 ntp
@@ -6081,7 +6058,6 @@ nuget.org
 null-session
 numa
 number
-numerical
 numlock
 nummapper
 nunit
@@ -6328,7 +6304,6 @@ orchestration
 orchestrator
 order
 organization
-organizational-unit
 organizationally
 organizer
 orgnetwork
@@ -6847,6 +6822,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -7049,6 +7025,7 @@ pro
 proactive
 probability
 probe
+problem
 problemmanagement
 problems
 process
@@ -7085,6 +7062,7 @@ programs
 progress
 progress-bar
 progressbar
+progressbars
 project
 project-management
 project-manager
@@ -8335,6 +8313,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -8827,6 +8816,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -9731,6 +9730,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -10086,9 +10096,6 @@ pssession
 pssharedgoods
 pssharper
 psslack
-pssnowflake
-pssnowflakebynarymodule
-pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10132,7 +10139,6 @@ publish
 publish-module
 publishedmodules
 publisher
-publishers
 publishing
 publishmap
 pubsub
@@ -10238,7 +10244,6 @@ question
 queue
 queues
 queuing
-quick-mode
 quick-response
 quickaccess
 quickbase
@@ -10272,7 +10277,6 @@ radeon
 radio
 radius
 rag
-raid
 raidcontrollercmdlets
 railways
 rainbow
@@ -10596,8 +10600,8 @@ restart
 restaurant
 restful
 restore
-restore-point
 restore-points
+restrictive
 restructure
 results
 resume
@@ -10656,6 +10660,7 @@ riskassessment
 riskiq
 riskpro
 risksense
+ritm
 rivermeadow
 rj
 rjtenant
@@ -10985,7 +10990,6 @@ securestring
 security
 security_cameras
 security-assessment
-security-association
 security-awareness-training
 security-log
 security-policy
@@ -11040,7 +11044,6 @@ senat
 senateur
 send
 send-logtologanalytics
-send-mail
 send-mailmessage
 send-mailmessage2
 send-message
@@ -11108,6 +11111,8 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+servicenowapi
+servicenowpowershell
 servicepack
 serviceplan
 servicepointmanager
@@ -11361,14 +11366,11 @@ snmpget
 snmpset
 snmpv3
 snmpwalk
+snow
 snowflake
-snowflakebynarymodule
-snowflakebynarypsmodule
-snowflakemodule
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssfsqlpsmodule
 snssqlitepsmodule
 sntp
 soap
@@ -11599,7 +11601,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -11674,7 +11675,6 @@ stolpe.io
 stop
 storablecolortheme
 storage
-storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -11702,13 +11702,12 @@ stream
 streamanalytics
 streaming
 streamreader
-streams
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
-string-converter
 string-template
 stringbuilder
 stringmanager
@@ -11983,7 +11982,6 @@ technician
 technology
 technology1
 technologyone
-techsmith
 tel
 telefonia
 telegram
@@ -12151,7 +12149,6 @@ tickets
 tickle
 ticks
 tictactoe
-tiering
 tiermodel
 tierzero
 tiktok
@@ -12288,7 +12285,6 @@ transport
 trap
 traps
 travel
-trec
 tree
 tree-sitter
 tree-structure
@@ -12308,7 +12304,6 @@ tribeloo
 trick
 tricks
 trigger
-triggers
 trilium
 triliumnext
 triodos
@@ -12459,7 +12454,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 ue4ss
 uefi
@@ -12485,7 +12479,6 @@ unc
 uncpaths
 underground
 underlined-text
-undo
 unhide
 unicode
 unicode-emoji
@@ -12585,7 +12578,7 @@ useradminmodule
 useragent
 usercontext
 userdiscovery
-usergroups
+usergroup
 userinterface
 usermail
 usermanagement
@@ -12685,7 +12678,6 @@ vcf.performanceprofiler
 vcf.resourceaudit
 vcf.sddcmanager
 vcf.securityadvanced
-vcf.securitybaseline
 vcf.snapshotmanager
 vcf.storageadvanced
 vcf.storageaudit
@@ -12724,14 +12716,12 @@ vera
 veracrypt
 verbose psmodule
 verbs
-vergeos
 verification
 verify
 version
 version-control
 version-management
 version-manager
-version-sort
 versioncontrol
 versioning
 versionmanager
@@ -12761,7 +12751,6 @@ vimode
 virole
 virsh
 virtual
-virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -12853,7 +12842,6 @@ voperator
 vorbis
 voting
 vovin
-vp9
 vpas
 vpasmodule
 vpc
@@ -12876,7 +12864,6 @@ vrtu
 vs
 vs-shell
 vsa
-vsa9
 vsan
 vsan+
 vscode
@@ -12898,7 +12885,6 @@ vstest
 vsts
 vsts-cli
 vtpm
-vtt
 vue
 vulnerabilities
 vulnerability
@@ -12976,7 +12962,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdev
+webdeveloper
 webdriver
 webfrequest
 webhdfs
@@ -12985,10 +12971,8 @@ webhistory
 webhook
 webinspect
 webjea
-webm
 webmanagement
 webmanagementservice
-webp
 webpage
 webpi
 webreport
@@ -13017,7 +13001,6 @@ weekday
 weekly
 wef
 weixin
-welcome windows sysadmin dargslan devops administration
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -13117,7 +13100,6 @@ windows-registry
 windows-remoting
 windows-server
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-update
 windows-user-folder
@@ -13168,6 +13150,7 @@ windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
+windowssecurity
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -13408,7 +13391,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yfinance

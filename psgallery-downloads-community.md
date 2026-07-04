@@ -1138,9 +1138,9 @@ Automation tools for production quality database deployment
 
 __Downloads__: 7,793,786 | __Repository__: https://www.red-gate.com/products/sql-change-automation/support/
 
-## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/7.0) | 7.0
+## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/7.1) | 7.1
 
-### Published: 05/28/2026 10:57:29 by Michael Grafnetter
+### Published: 07/04/2026 12:32:32 by Michael Grafnetter
 
 The DSInternals PowerShell Module exposes several internal features of Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups, and password hash calculation.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Saturday, 04 July 2026 11:12:22 UTC*
+*Updated: Saturday, 04 July 2026 22:40:25 UTC*
