@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 July 2026 22:40:28 UTC
+Updated: Sunday, 05 July 2026 11:20:33 UTC
 
 .bat
 .env
@@ -261,6 +261,7 @@ adsync
 adt
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -437,6 +438,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansiblectl
 ansibletower
 ansicolor
 ansicolors
@@ -444,6 +446,7 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
+antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -461,12 +464,15 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
 api-generation
 api-rest
+api-wrapper
 apiaccesscontrol
+apichecks
 apiclient
 apify
 apigateway
@@ -515,7 +521,6 @@ applesilicon
 application
 application-control
 application-management
-application-pool
 application-transformer
 applicationenhancer
 applicationgateway
@@ -684,6 +689,7 @@ attach
 attachment
 attack-surface-reduction
 attacksimulation
+attention
 attestation
 attila
 attilakrick
@@ -781,6 +787,7 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
+av1
 availability
 availabilitygroups
 availabilityset
@@ -835,7 +842,6 @@ azcopy
 azd
 azdisk
 azdo
-azereo
 azforensics
 azgovviz
 azkeyvault
@@ -1054,7 +1060,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practice
 best-practices
 bestpractice
 bestpractices
@@ -1251,12 +1256,12 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
 buildscript
 buildtool
-builtin
 bulk
 bulletin
 bullhorn
@@ -1313,6 +1318,7 @@ cam
 camera
 cameras
 campaign
+camtasia
 canarie
 canary
 cancel
@@ -1506,6 +1512,7 @@ cidrcalculator
 ciellos
 ciem
 cif
+cifs
 cifv3
 cil
 cim
@@ -1752,6 +1759,7 @@ colorful
 colorful-output
 colorful-scripts
 colorful-terminal
+colorize
 colorized
 coloroutput
 colorpicker
@@ -1843,6 +1851,7 @@ computeschedule
 comulativeupdate
 concatenate
 concerts
+concur
 concurrent
 conda
 condition
@@ -2143,7 +2152,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 cursor
 custom
 customchecks
@@ -2246,6 +2254,7 @@ dacpackage
 dad
 dadjoke
 dag
+dagger
 dailen
 daily
 dalle3
@@ -2271,6 +2280,7 @@ data-archive
 data-backup
 data-boar
 data-loss-prevention
+data-protection
 data-sources
 data-tier
 data-transfer
@@ -2403,7 +2413,6 @@ decompression
 decrypt
 decryption
 dedicatedhsm
-dedup
 deduplication
 deep
 deep-security
@@ -2512,7 +2521,9 @@ devexpress
 deviation
 device
 device-control
+device-encryption
 device-management
+devicecleanup
 devicecode
 devicecontrol
 devicehardening
@@ -2546,7 +2557,6 @@ dhash
 dhcp
 di
 diabetes
-diacritics
 diagnostic
 diagnostics
 diagram
@@ -2653,7 +2663,6 @@ distributionlist
 distributionpointgroupmembers
 distro
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2841,7 +2850,6 @@ dsreg
 dsregcmd
 dsutils
 dtc
-dto
 dts
 dtsx
 dtx
@@ -3074,7 +3082,6 @@ entrust
 enum
 enumerable
 enumerate
-enumeration
 enumerator
 env
 environment
@@ -3377,8 +3384,6 @@ file-extension
 file-extension-association
 file-invalidchar
 file-management
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -3386,6 +3391,7 @@ file-name-extension-association
 file-screens
 file-server
 file-share
+file-sharing
 file-system
 file-transfer
 file-transform
@@ -3401,7 +3407,6 @@ filelog
 filelogger
 filemaintenance
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -3419,9 +3424,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3615,7 +3617,6 @@ fsf
 fsharp
 fslogix
 fsrm
-fstab
 ft232h
 ft232r
 ftdi
@@ -3658,6 +3659,7 @@ gainz-keepass
 gainz-sqldb
 gal
 gallery
+gam7
 game
 game-of-life
 gamecategory:cards
@@ -4209,7 +4211,6 @@ html-generator
 html-report
 html-templates
 htmlentity
-htop
 http
 http_proxy
 http-listener
@@ -4231,6 +4232,7 @@ hubspotcrm
 hubspotps
 hudson
 hue
+human-friendly
 humanizer
 humanly
 humor
@@ -4278,6 +4280,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -4330,7 +4333,6 @@ igr
 ihs
 iiittttt
 iis
-iis-crypto
 iis-smtp
 iisadministration
 iiscrypto
@@ -4417,6 +4419,7 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
+informix
 infosec
 infrastructure
 infrastructure-as-code
@@ -4555,6 +4558,7 @@ iotoperationsservice
 ip
 ip_cameras
 ip-address
+ip-address-sort
 ip-camera
 ipa
 ipaddress
@@ -4577,6 +4581,7 @@ ipp
 iprange
 ipranges
 ips
+ipsc
 ipscan
 ipsec
 iptables
@@ -4698,6 +4703,7 @@ joke
 jokes
 jotform
 journal
+journalctl
 journald
 joyride
 jpg
@@ -4745,6 +4751,7 @@ k8s
 k8sshell
 k8ssnapshots
 kafka
+kalilinux
 kaminario
 karabiner
 karabiner-elements
@@ -4759,6 +4766,7 @@ kb4
 kbarticle
 kdbx
 kdialog
+kebab-case
 keenetic
 keep-a-changelog
 keepachangelog
@@ -4985,6 +4993,7 @@ light
 light-theme
 lighthouse
 lights
+lightweight
 lime
 limesurvey
 limit
@@ -5015,6 +5024,7 @@ linux
 linux fstab
 linux inode
 linux kernel
+linux motd
 linux network
 linux pam
 linux-command
@@ -5362,6 +5372,7 @@ mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mda
+mdadm
 mdatp
 mdb
 mdbc
@@ -5555,7 +5566,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 mkv
 ml
@@ -5766,7 +5776,6 @@ musiccast
 musicforprogramming
 mustache
 mutation
-mutation-testing
 mute
 mutex
 mva
@@ -5802,7 +5811,6 @@ nagios
 nakivo
 name
 name-of-dogs
-name-resolution
 namedpipe
 nameit
 nameresolution
@@ -5823,6 +5831,7 @@ natpool
 natural
 natural-language-to-code
 natural-selection
+natural-sort
 nature
 nav
 naven
@@ -5897,7 +5906,6 @@ network-filesystem
 network-info
 network-policy
 network-profile
-network-shares
 networkadapter
 networkanalytics
 networkautomation
@@ -6047,6 +6055,7 @@ ntdll
 ntds
 ntfs
 ntfy
+ntfypwsh
 ntlm
 ntlmrelay
 ntp
@@ -6055,9 +6064,9 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-null-session
 numa
 number
+numerical
 numlock
 nummapper
 nunit
@@ -6304,6 +6313,7 @@ orchestration
 orchestrator
 order
 organization
+organizational-unit
 organizationally
 organizer
 orgnetwork
@@ -6500,7 +6510,6 @@ passwordvault
 passwordwolf
 paste
 patch
-patch-gap
 patch-management
 patches
 patching
@@ -6614,7 +6623,6 @@ pin
 pinecone
 ping
 ping-async
-ping-sweep
 pinget
 pinging
 pingsweep
@@ -10096,6 +10104,9 @@ pssession
 pssharedgoods
 pssharper
 psslack
+pssnowflake
+pssnowflakebynarymodule
+pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10139,6 +10150,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 publishmap
 pubsub
@@ -10277,6 +10289,7 @@ radeon
 radio
 radius
 rag
+raid
 raidcontrollercmdlets
 railways
 rainbow
@@ -10530,7 +10543,6 @@ reparsepoint
 repeat
 repl
 replace
-replacement
 replaygain
 replication
 repo
@@ -10600,6 +10612,7 @@ restart
 restaurant
 restful
 restore
+restore-point
 restore-points
 restrictive
 restructure
@@ -10745,7 +10758,6 @@ rules
 rulesengine
 run
 run-as-user
-run-key
 run-keys
 runas
 runas-ppl
@@ -10839,7 +10851,6 @@ scanner
 scanning
 scap
 scatter
-scavenging
 scb
 scc
 sccm
@@ -10931,7 +10942,6 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
-scrubbing
 scsm
 scuba
 scvmm
@@ -10967,7 +10977,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -11044,6 +11053,7 @@ senat
 senateur
 send
 send-logtologanalytics
+send-mail
 send-mailmessage
 send-mailmessage2
 send-message
@@ -11163,13 +11173,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadow-copy
 shadowai
@@ -11368,9 +11372,13 @@ snmpv3
 snmpwalk
 snow
 snowflake
+snowflakebynarymodule
+snowflakebynarypsmodule
+snowflakemodule
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssfsqlpsmodule
 snssqlitepsmodule
 sntp
 soap
@@ -11601,6 +11609,7 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
+staff
 staffhub
 staging
 stale
@@ -11675,6 +11684,7 @@ stolpe.io
 stop
 storablecolortheme
 storage
+storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -11702,12 +11712,14 @@ stream
 streamanalytics
 streaming
 streamreader
+streams
 streamwriter
 stretch
 strict
 strictmode
 strikethrough-text
 string
+string-converter
 string-template
 stringbuilder
 stringmanager
@@ -11773,7 +11785,6 @@ supercell
 superheros
 supermarket
 supermicro
-superseded
 supervisor
 supplychain
 support
@@ -11982,6 +11993,7 @@ technician
 technology
 technology1
 technologyone
+techsmith
 tel
 telefonia
 telegram
@@ -12047,7 +12059,6 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
-test-quality
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -12149,6 +12160,7 @@ tickets
 tickle
 ticks
 tictactoe
+tiering
 tiermodel
 tierzero
 tiktok
@@ -12199,7 +12211,6 @@ toggl-api-ps
 toggle
 token
 tokencounter
-tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12285,6 +12296,7 @@ transport
 trap
 traps
 travel
+trec
 tree
 tree-sitter
 tree-structure
@@ -12304,6 +12316,7 @@ tribeloo
 trick
 tricks
 trigger
+triggers
 trilium
 triliumnext
 triodos
@@ -12454,6 +12467,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 ue4ss
 uefi
@@ -12479,6 +12493,7 @@ unc
 uncpaths
 underground
 underlined-text
+undo
 unhide
 unicode
 unicode-emoji
@@ -12579,6 +12594,7 @@ useragent
 usercontext
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermail
 usermanagement
@@ -12678,6 +12694,7 @@ vcf.performanceprofiler
 vcf.resourceaudit
 vcf.sddcmanager
 vcf.securityadvanced
+vcf.securitybaseline
 vcf.snapshotmanager
 vcf.storageadvanced
 vcf.storageaudit
@@ -12716,12 +12733,14 @@ vera
 veracrypt
 verbose psmodule
 verbs
+vergeos
 verification
 verify
 version
 version-control
 version-management
 version-manager
+version-sort
 versioncontrol
 versioning
 versionmanager
@@ -12751,6 +12770,7 @@ vimode
 virole
 virsh
 virtual
+virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -12842,6 +12862,7 @@ voperator
 vorbis
 voting
 vovin
+vp9
 vpas
 vpasmodule
 vpc
@@ -12864,6 +12885,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
@@ -12885,6 +12907,7 @@ vstest
 vsts
 vsts-cli
 vtpm
+vtt
 vue
 vulnerabilities
 vulnerability
@@ -12962,7 +12985,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
+webdev
 webdriver
 webfrequest
 webhdfs
@@ -12971,8 +12994,10 @@ webhistory
 webhook
 webinspect
 webjea
+webm
 webmanagement
 webmanagementservice
+webp
 webpage
 webpi
 webreport
@@ -13001,6 +13026,7 @@ weekday
 weekly
 wef
 weixin
+welcome windows sysadmin dargslan devops administration
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -13059,7 +13085,6 @@ wiegand
 wif
 wifi
 wiki
-wildcard
 wildfire
 wildfly
 wim
@@ -13100,6 +13125,7 @@ windows-registry
 windows-remoting
 windows-server
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-update
 windows-user-folder
@@ -13282,7 +13308,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writers
 writing
 ws-federation
 ws1
@@ -13391,6 +13416,7 @@ yandex
 yandexdisk
 yapg
 yarn
+yaugeraio
 year
 yetanotherhelloworld
 yfinance
@@ -13458,11 +13484,9 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
-加速
 字幕
 寿司
 日本語
 杜比视界
 湯婆婆
 视频合并
-镜像
