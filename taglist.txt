@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 July 2026 11:20:33 UTC
+Updated: Sunday, 05 July 2026 22:41:42 UTC
 
 .bat
 .env
@@ -103,6 +103,7 @@ accesscontrol
 accesscontroldsc
 accessgovernancecp
 accessibility
+accesspackage
 accesspackages
 accesspoint
 accessrights
@@ -490,7 +491,6 @@ apmsynthetics
 apmtraces
 aportal
 app
-app-installer
 app-only
 app-v
 app-volumes
@@ -521,6 +521,7 @@ applesilicon
 application
 application-control
 application-management
+application-pool
 application-transformer
 applicationenhancer
 applicationgateway
@@ -842,6 +843,7 @@ azcopy
 azd
 azdisk
 azdo
+azereo
 azforensics
 azgovviz
 azkeyvault
@@ -868,8 +870,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-arc
-azure-artifacts
 azure-backup
 azure-cli
 azure-data-explorer
@@ -1060,6 +1060,7 @@ benchmarking
 benchmarks
 benchpress
 ber
+best-practice
 best-practices
 bestpractice
 bestpractices
@@ -1167,7 +1168,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 boot
 boot-policy
 boot-repair
@@ -1262,6 +1262,7 @@ buildmaster
 builds
 buildscript
 buildtool
+builtin
 bulk
 bulletin
 bullhorn
@@ -1373,7 +1374,6 @@ cbs
 cbz
 cchoco
 cchocoex
-cci
 ccm
 cd
 cd_path
@@ -1512,7 +1512,6 @@ cidrcalculator
 ciellos
 ciem
 cif
-cifs
 cifv3
 cil
 cim
@@ -2152,6 +2151,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 cursor
 custom
 customchecks
@@ -2413,6 +2413,7 @@ decompression
 decrypt
 decryption
 dedicatedhsm
+dedup
 deduplication
 deep
 deep-security
@@ -2453,7 +2454,6 @@ delete
 delete-orphan-branches
 deletefile
 deleteuserprofile
-deliverability
 delivery
 dell
 dellemc
@@ -2520,7 +2520,6 @@ devenv
 devexpress
 deviation
 device
-device-control
 device-encryption
 device-management
 devicecleanup
@@ -2557,6 +2556,7 @@ dhash
 dhcp
 di
 diabetes
+diacritics
 diagnostic
 diagnostics
 diagram
@@ -2663,6 +2663,7 @@ distributionlist
 distributionpointgroupmembers
 distro
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -2850,6 +2851,7 @@ dsreg
 dsregcmd
 dsutils
 dtc
+dto
 dts
 dtsx
 dtx
@@ -3016,7 +3018,6 @@ emc
 emcomm
 emergency
 emissions
-emlcheck
 emoji
 emojis
 emotion
@@ -3039,7 +3040,6 @@ encryption
 end-of-line
 endomondo
 endpoint
-endpoint-management
 endpoint-manager
 endpointmanagement
 endpointmanager
@@ -3082,6 +3082,7 @@ entrust
 enum
 enumerable
 enumerate
+enumeration
 enumerator
 env
 environment
@@ -3154,7 +3155,6 @@ etrade
 ets
 etw
 etymology
-euc
 eulanda
 evaluation
 evaluator
@@ -3232,7 +3232,6 @@ executable
 executables
 execute
 execution
-execution-policy
 executionalias
 executionpolicy
 exexml
@@ -3258,7 +3257,6 @@ expired
 expiring
 expiry
 exploit
-exploit-protection
 exploits
 exploration
 explorer
@@ -3314,7 +3312,6 @@ facts
 faf
 fail2ban
 failedlogin
-failover
 failovercluster
 failoverclustering
 failure
@@ -3384,6 +3381,8 @@ file-extension
 file-extension-association
 file-invalidchar
 file-management
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -3391,7 +3390,6 @@ file-name-extension-association
 file-screens
 file-server
 file-share
-file-sharing
 file-system
 file-transfer
 file-transform
@@ -3407,6 +3405,7 @@ filelog
 filelogger
 filemaintenance
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -3424,6 +3423,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3617,6 +3619,7 @@ fsf
 fsharp
 fslogix
 fsrm
+fstab
 ft232h
 ft232r
 ftdi
@@ -3858,7 +3861,6 @@ golf
 google
 google-chrome
 google-fonts
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -4333,6 +4335,7 @@ igr
 ihs
 iiittttt
 iis
+iis-crypto
 iis-smtp
 iisadministration
 iiscrypto
@@ -4497,7 +4500,6 @@ interchange
 interface
 interlogix
 internal
-internal-gallery
 internationalization
 internet
 internet-explorer
@@ -4581,7 +4583,6 @@ ipp
 iprange
 ipranges
 ips
-ipsc
 ipscan
 ipsec
 iptables
@@ -4660,7 +4661,6 @@ java
 javamanager
 javascript
 javaversion
-jbc.citrixwem
 jboss
 jdbc
 jde
@@ -4803,7 +4803,6 @@ keymap
 keymapping
 keypair
 keyring
-keys
 keysms
 keytab
 keyusage
@@ -5054,7 +5053,6 @@ llm
 llmnr
 llms
 lmhost
-lmhosts
 lms
 load
 loadbalancer
@@ -5238,7 +5236,6 @@ macosx
 macro
 macros
 madlib
-maester
 magazine
 magento
 magic8ball
@@ -5260,6 +5257,7 @@ mails
 mailsecurity
 mailspring
 main-menu
+main-mode
 maintain-module
 maintainability
 maintenance
@@ -5476,7 +5474,6 @@ microsoft-365
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
-microsoft-intune
 microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
@@ -5566,6 +5563,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 mkv
 ml
@@ -5776,6 +5774,7 @@ musiccast
 musicforprogramming
 mustache
 mutation
+mutation-testing
 mute
 mutex
 mva
@@ -5811,6 +5810,7 @@ nagios
 nakivo
 name
 name-of-dogs
+name-resolution
 namedpipe
 nameit
 nameresolution
@@ -5825,7 +5825,6 @@ nanoleaf
 nartac
 nasdaq
 nationalinstruments
-nationalweatherservice
 native
 natpool
 natural
@@ -5902,10 +5901,10 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-filesystem
 network-info
 network-policy
 network-profile
+network-shares
 networkadapter
 networkanalytics
 networkautomation
@@ -5972,7 +5971,6 @@ ngts
 nhl
 ni
 nic
-nic-teaming
 nic.ru
 nightmare
 ninite
@@ -6064,6 +6062,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+null-session
 numa
 number
 numerical
@@ -6083,7 +6082,6 @@ nvim
 nvm
 nvm-window
 nvmeof
-nvoip
 nxt
 nyse
 nzb
@@ -6458,7 +6456,6 @@ parcel
 parclient
 parenting
 parititions
-parity
 parool
 parquet
 parse
@@ -6510,6 +6507,7 @@ passwordvault
 passwordwolf
 paste
 patch
+patch-gap
 patch-management
 patches
 patching
@@ -6623,6 +6621,7 @@ pin
 pinecone
 ping
 ping-async
+ping-sweep
 pinget
 pinging
 pingsweep
@@ -6748,7 +6747,6 @@ portable-executable
 portablewinget
 portal
 portchecker
-portfolio
 porthunter
 ports
 portscan
@@ -6763,7 +6761,6 @@ posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
-posh-weather.gov
 poshbot
 poshcommence
 poshde
@@ -7022,7 +7019,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilege-escalation
 privilegeaudit
 privilegecloud
 privileged
@@ -10104,9 +10100,6 @@ pssession
 pssharedgoods
 pssharper
 psslack
-pssnowflake
-pssnowflakebynarymodule
-pssnowflakemodule
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -10241,7 +10234,6 @@ qrcode
 qrcodes
 qrp
 qrs
-quack
 quality
 qualys
 quandl
@@ -10256,6 +10248,7 @@ question
 queue
 queues
 queuing
+quick-mode
 quick-response
 quickaccess
 quickbase
@@ -10265,7 +10258,6 @@ quill
 quillmark
 quiz
 qumulo
-quorum
 quota
 quotas
 quote
@@ -10334,7 +10326,6 @@ rbac
 rbacmodel
 rbd
 rbi
-rbl
 rbsu
 rc4
 rcon
@@ -10511,7 +10502,6 @@ remotepro
 remoteregistry
 remotesession
 remoting
-removable-storage
 removal
 remove
 remove-githubsecrets
@@ -10543,10 +10533,10 @@ reparsepoint
 repeat
 repl
 replace
+replacement
 replaygain
 replication
 repo
-repofabric
 repoo
 report
 reporting
@@ -10758,6 +10748,7 @@ rules
 rulesengine
 run
 run-as-user
+run-key
 run-keys
 runas
 runas-ppl
@@ -10851,6 +10842,7 @@ scanner
 scanning
 scap
 scatter
+scavenging
 scb
 scc
 sccm
@@ -10942,6 +10934,7 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
+scrubbing
 scsm
 scuba
 scvmm
@@ -10961,7 +10954,6 @@ searching
 searchmanager
 searchplace
 searchquery
-searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -10977,6 +10969,7 @@ secretsanta
 secretscanner
 secretserver
 secretshub
+secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -10999,6 +10992,7 @@ securestring
 security
 security_cameras
 security-assessment
+security-association
 security-awareness-training
 security-log
 security-policy
@@ -11173,7 +11167,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadow-copy
 shadowai
@@ -11372,13 +11372,9 @@ snmpv3
 snmpwalk
 snow
 snowflake
-snowflakebynarymodule
-snowflakebynarypsmodule
-snowflakemodule
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssfsqlpsmodule
 snssqlitepsmodule
 sntp
 soap
@@ -11785,6 +11781,7 @@ supercell
 superheros
 supermarket
 supermicro
+superseded
 supervisor
 supplychain
 support
@@ -11995,7 +11992,6 @@ technology1
 technologyone
 techsmith
 tel
-telefonia
 telegram
 telegram-bot
 telegram-bot-api
@@ -12021,7 +12017,6 @@ tenable
 tenable.sc
 tenant
 tenantconfig
-tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
 teradata
@@ -12059,6 +12054,7 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-quality
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -12136,7 +12132,6 @@ threadsafe
 threadsanitizer
 threat
 threat-hunting
-threat-protection
 threatdefense
 threatdetection
 threathunting
@@ -12211,6 +12206,7 @@ toggl-api-ps
 toggle
 token
 tokencounter
+tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12733,7 +12729,6 @@ vera
 veracrypt
 verbose psmodule
 verbs
-vergeos
 verification
 verify
 version
@@ -12772,7 +12767,6 @@ virsh
 virtual
 virtual-disk
 virtual-disks
-virtual-switch
 virtualappliance
 virtualbox
 virtualboxguestadditions
@@ -12848,7 +12842,6 @@ vocabularies
 voice
 voiceservices
 voidtools
-voip
 volkskrant
 volta
 volume
@@ -12986,6 +12979,7 @@ webcmdlets
 webdav
 webdeploy
 webdev
+webdeveloper
 webdriver
 webfrequest
 webhdfs
@@ -13040,7 +13034,6 @@ wget
 what3words
 whatif
 whatismyip
-whatsapp
 whatsupgold
 whd
 where
@@ -13085,6 +13078,7 @@ wiegand
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
@@ -13099,7 +13093,6 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
-win32app
 win32appmigrationtool
 win32shutdown
 winbgp
@@ -13198,8 +13191,6 @@ windowsvirtualdesktop
 winform
 winforms
 winget
-winget-cli
-winget-source
 wingetbridge
 winhttp
 wininet
@@ -13308,6 +13299,7 @@ writeaccess
 writelog
 writeprogress
 writer
+writers
 writing
 ws-federation
 ws1
@@ -13449,7 +13441,6 @@ zerto
 zigbee
 zip
 zip-compression
-zipcode
 zipfile-transform
 zipjoin
 zisson
@@ -13484,9 +13475,11 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
+加速
 字幕
 寿司
 日本語
 杜比视界
 湯婆婆
 视频合并
+镜像
