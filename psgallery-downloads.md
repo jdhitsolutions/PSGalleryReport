@@ -11,9 +11,9 @@ This module contain cmdlets to manage Windows Update Client.
 
 __Downloads__: 2,147,474,038 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
-## [Az.Accounts](https://www.powershellgallery.com/Packages/Az.Accounts/5.5.0) | 5.5.0
+## [Az.Accounts](https://www.powershellgallery.com/Packages/Az.Accounts/5.5.1) | 5.5.1
 
-### Published: 06/02/2026 01:56:38 by Microsoft Corporation
+### Published: 07/07/2026 03:27:21 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Accounts credential management cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -49,9 +49,9 @@ This module provides the ability to query the speculation control settings for t
 
 __Downloads__: 522,406,428 | __Repository__: 
 
-## [Az.Storage](https://www.powershellgallery.com/Packages/Az.Storage/9.7.0) | 9.7.0
+## [Az.Storage](https://www.powershellgallery.com/Packages/Az.Storage/9.7.1) | 9.7.1
 
-### Published: 06/02/2026 01:56:39 by Microsoft Corporation
+### Published: 07/07/2026 03:27:24 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Storage service data plane and management cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.  Creates and manages storage accounts in Azure Resource Manager.
 
@@ -78,9 +78,9 @@ Alternative modules, AWSPowerShell.NetCore and AWSPowerShell, provide support fo
 
 __Downloads__: 297,198,173 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/10.0.0) | 10.0.0
+## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/10.0.1) | 10.0.1
 
-### Published: 06/02/2026 01:58:41 by Microsoft Corporation
+### Published: 07/07/2026 03:31:15 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure Resource Manager and Active Directory cmdlets in Windows PowerShell and PowerShell Core.  Manages subscriptions, tenants, resource groups, deployment templates, providers, and resource permissions in Azure Resource Manager.  Provides cmdlets for managing resources generically across resource providers.
 For more information on Resource Manager, please visit the following: https://learn.microsoft.com/azure/azure-resource-manager/
@@ -88,9 +88,9 @@ For more information on Active Directory, please visit the following: https://le
 
 __Downloads__: 296,919,922 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Compute](https://www.powershellgallery.com/Packages/Az.Compute/11.6.0) | 11.6.0
+## [Az.Compute](https://www.powershellgallery.com/Packages/Az.Compute/11.7.0) | 11.7.0
 
-### Published: 06/02/2026 01:57:04 by Microsoft Corporation
+### Published: 07/07/2026 03:28:16 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Compute service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.  Manages virtual machines, hosted services, and related resources in Azure Resource Manager.
 
@@ -99,9 +99,9 @@ For more information on Virtual Machine Scale Sets, please visit the following: 
 
 __Downloads__: 291,419,905 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.KeyVault](https://www.powershellgallery.com/Packages/Az.KeyVault/6.5.0) | 6.5.0
+## [Az.KeyVault](https://www.powershellgallery.com/Packages/Az.KeyVault/6.5.1) | 6.5.1
 
-### Published: 06/02/2026 01:57:54 by Microsoft Corporation
+### Published: 07/07/2026 03:29:55 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Key Vault service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -109,9 +109,9 @@ For more information on Key Vault, please visit the following: https://learn.mic
 
 __Downloads__: 287,103,559 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Network](https://www.powershellgallery.com/Packages/Az.Network/8.0.0) | 8.0.0
+## [Az.Network](https://www.powershellgallery.com/Packages/Az.Network/8.0.1) | 8.0.1
 
-### Published: 06/02/2026 01:58:16 by Microsoft Corporation
+### Published: 07/07/2026 03:30:32 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Networking service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -158,9 +158,9 @@ For more information Api Management, please visit the following: https://learn.m
 
 __Downloads__: 223,402,071 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Automation](https://www.powershellgallery.com/Packages/Az.Automation/1.12.0) | 1.12.0
+## [Az.Automation](https://www.powershellgallery.com/Packages/Az.Automation/1.12.1) | 1.12.1
 
-### Published: 06/02/2026 01:56:54 by Microsoft Corporation
+### Published: 07/07/2026 03:27:54 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Automation service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -168,9 +168,9 @@ For more information on Automation, please visit the following: https://learn.mi
 
 __Downloads__: 222,572,881 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Aks](https://www.powershellgallery.com/Packages/Az.Aks/7.2.0) | 7.2.0
+## [Az.Aks](https://www.powershellgallery.com/Packages/Az.Aks/7.2.1) | 7.2.1
 
-### Published: 06/02/2026 01:56:41 by Microsoft Corporation
+### Published: 07/07/2026 03:27:29 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure managed Kubernetes cmdlets for Windows PowerShell and PowerShell Core.
 
@@ -198,9 +198,9 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 221,576,951 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [Az.Batch](https://www.powershellgallery.com/Packages/Az.Batch/4.1.0) | 4.1.0
+## [Az.Batch](https://www.powershellgallery.com/Packages/Az.Batch/4.1.1) | 4.1.1
 
-### Published: 06/02/2026 01:56:55 by Microsoft Corporation
+### Published: 07/07/2026 03:27:58 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Batch service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -232,9 +232,9 @@ Microsoft Azure PowerShell: ApplicationInsights cmdlets
 
 __Downloads__: 220,386,448 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.DataFactory](https://www.powershellgallery.com/Packages/Az.DataFactory/1.20.0) | 1.20.0
+## [Az.DataFactory](https://www.powershellgallery.com/Packages/Az.DataFactory/1.20.1) | 1.20.1
 
-### Published: 06/02/2026 01:57:19 by Microsoft Corporation
+### Published: 07/07/2026 03:28:46 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Data Factory service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -278,9 +278,9 @@ For more information on Container Registry, please visit the following: https://
 
 __Downloads__: 218,033,715 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.CognitiveServices](https://www.powershellgallery.com/Packages/Az.CognitiveServices/1.17.0) | 1.17.0
+## [Az.CognitiveServices](https://www.powershellgallery.com/Packages/Az.CognitiveServices/1.17.1) | 1.17.1
 
-### Published: 06/02/2026 01:57:03 by Microsoft Corporation
+### Published: 07/07/2026 03:28:12 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Cognitive Services management cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core. Creates and manages cognitive services accounts in Azure Resource Manager.
 
@@ -288,9 +288,9 @@ For more information on Cognitive Services, please visit the following: https://
 
 __Downloads__: 217,895,745 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.OperationalInsights](https://www.powershellgallery.com/Packages/Az.OperationalInsights/3.4.0) | 3.4.0
+## [Az.OperationalInsights](https://www.powershellgallery.com/Packages/Az.OperationalInsights/3.4.1) | 3.4.1
 
-### Published: 06/02/2026 01:58:21 by Microsoft Corporation
+### Published: 07/07/2026 03:30:41 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Operational Insights service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -316,9 +316,9 @@ For more information on Data Lake Store, please visit the following: https://lea
 
 __Downloads__: 216,568,369 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Dns](https://www.powershellgallery.com/Packages/Az.Dns/2.1.0) | 2.1.0
+## [Az.Dns](https://www.powershellgallery.com/Packages/Az.Dns/2.2.0) | 2.2.0
 
-### Published: 06/02/2026 01:57:32 by Microsoft Corporation
+### Published: 07/07/2026 03:29:12 by Microsoft Corporation
 
 Microsoft Azure PowerShell - DNS service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -354,9 +354,9 @@ Microsoft Azure PowerShell: EventGrid cmdlets
 
 __Downloads__: 215,757,693 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.RecoveryServices](https://www.powershellgallery.com/Packages/Az.RecoveryServices/7.12.0) | 7.12.0
+## [Az.RecoveryServices](https://www.powershellgallery.com/Packages/Az.RecoveryServices/7.13.0) | 7.13.0
 
-### Published: 06/02/2026 01:58:33 by Microsoft Corporation
+### Published: 07/07/2026 03:31:03 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Recovery Services cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -375,9 +375,9 @@ For more information on DevTest Labs, please visit the following: https://learn.
 
 __Downloads__: 215,156,703 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.IotHub](https://www.powershellgallery.com/Packages/Az.IotHub/2.9.0) | 2.9.0
+## [Az.IotHub](https://www.powershellgallery.com/Packages/Az.IotHub/2.9.1) | 2.9.1
 
-### Published: 06/02/2026 01:57:53 by Microsoft Corporation
+### Published: 07/07/2026 03:29:52 by Microsoft Corporation
 
 Microsoft Azure PowerShell - IoT Hub service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -617,9 +617,9 @@ Microsoft Azure PowerShell - DataShare service cmdlets for Azure Resource Manage
 
 __Downloads__: 206,382,021 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az](https://www.powershellgallery.com/Packages/Az/16.0.0) | 16.0.0
+## [Az](https://www.powershellgallery.com/Packages/Az/16.1.0) | 16.1.0
 
-### Published: 06/02/2026 01:59:16 by Microsoft Corporation
+### Published: 07/07/2026 03:32:20 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Cmdlets to manage resources in Azure. This module is compatible with PowerShell and Windows PowerShell.
 For more information about the Az module, please visit the following: https://learn.microsoft.com/powershell/azure/
@@ -650,9 +650,9 @@ Microsoft Azure PowerShell: Kusto cmdlets
 
 __Downloads__: 202,371,611 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.AppConfiguration](https://www.powershellgallery.com/Packages/Az.AppConfiguration/2.1.0) | 2.1.0
+## [Az.AppConfiguration](https://www.powershellgallery.com/Packages/Az.AppConfiguration/2.2.0) | 2.2.0
 
-### Published: 05/05/2026 03:38:08 by Microsoft Corporation
+### Published: 07/07/2026 03:27:41 by Microsoft Corporation
 
 Microsoft Azure PowerShell: AppConfiguration cmdlets
 
@@ -802,9 +802,9 @@ PowerShell Module for the Windows Package Manager Client.
 
 __Downloads__: 164,455,797 | __Repository__: https://github.com/microsoft/winget-cli
 
-## [Az.DataProtection](https://www.powershellgallery.com/Packages/Az.DataProtection/3.0.0) | 3.0.0
+## [Az.DataProtection](https://www.powershellgallery.com/Packages/Az.DataProtection/3.0.1) | 3.0.1
 
-### Published: 06/02/2026 01:57:22 by Microsoft Corporation
+### Published: 07/07/2026 03:28:54 by Microsoft Corporation
 
 Microsoft Azure PowerShell: DataProtection cmdlets
 
@@ -1205,9 +1205,9 @@ Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍�
 
 __Downloads__: 53,693,928 | __Repository__: https://www.github.com/jantari/LSUClient
 
-## [Az.DataMigration](https://www.powershellgallery.com/Packages/Az.DataMigration/1.1.0) | 1.1.0
+## [Az.DataMigration](https://www.powershellgallery.com/Packages/Az.DataMigration/1.1.1) | 1.1.1
 
-### Published: 06/02/2026 01:57:21 by Microsoft Corporation
+### Published: 07/07/2026 03:28:52 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Database Migration Service cmdlets for Azure Sql in Windows PowerShell and PowerShell Core.
 
@@ -1273,9 +1273,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 43,098,842 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Pester](https://www.powershellgallery.com/Packages/Pester/5.8.0) | 5.8.0
+## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.0) | 6.0.0
 
-### Published: 06/30/2026 19:37:58 by Pester Team
+### Published: 07/07/2026 07:40:53 by Pester Team
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Monday, 06 July 2026 22:48:39 UTC*
+*Updated: Tuesday, 07 July 2026 12:18:26 UTC*
