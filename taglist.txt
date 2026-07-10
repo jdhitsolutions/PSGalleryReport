@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 July 2026 12:15:45 UTC
+Updated: Friday, 10 July 2026 22:42:08 UTC
 
 .bat
 .env
@@ -220,7 +220,6 @@ adfstoolkit
 adfstools
 adgroup
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -294,7 +293,6 @@ agenda
 agent
 agent-management
 agentic
-agenticoperatingmodel
 agentplugin
 agents
 aggregate
@@ -307,6 +305,7 @@ agnoster
 ahk
 ai
 ai-agent
+ai-cli
 ai-development
 ai-server
 ai-workflow
@@ -379,6 +378,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alto
 always-on
 alwayson
@@ -489,6 +489,7 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
+aportal
 app
 app-installer
 app-only
@@ -676,7 +677,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atom
@@ -832,6 +832,7 @@ axinom
 axis
 axium
 axlabel
+ayx
 az
 az-cli
 az.runtimeenvironment
@@ -1021,6 +1022,7 @@ bat
 batcat
 batch
 batch-install
+batchclass
 batching
 batchprocessing
 batman
@@ -1170,7 +1172,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 boot
 boot-policy
 boot-repair
@@ -1329,7 +1330,6 @@ candlestick
 canonical
 cantara
 canvasapp
-capabilities
 capability
 capacity
 capacitymanagement
@@ -1854,7 +1854,6 @@ computeschedule
 comulativeupdate
 concatenate
 concerts
-concur
 concurrent
 conda
 condition
@@ -1882,7 +1881,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationmonitoring
 configurationprofile
 configurations
 configure
@@ -1903,6 +1901,7 @@ connectednetwork
 connectedvmware
 connectexchange
 connection
+connection-security
 connections
 connectionsmanager
 connectionstring
@@ -1971,6 +1970,7 @@ convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
+convertdns
 converter
 convertfrom
 convertfrom-json
@@ -2108,7 +2108,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crx
 crypto
@@ -2134,7 +2133,6 @@ csvhelper
 ctap
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -2173,6 +2171,7 @@ customisation
 customization
 customlocation
 customlogs
+custommodules
 customproviders
 customsecurityattributes
 cutehttpfileserver
@@ -2282,7 +2281,6 @@ data-backup
 data-boar
 data-loss-prevention
 data-protection
-data-sources
 data-tier
 data-transfer
 data-uri
@@ -2390,7 +2388,6 @@ dc
 dcim
 dcim_b324
 dcom
-dconf
 dcr
 ddc
 ddc/ci
@@ -2541,6 +2538,7 @@ deviceupdate
 devolutions
 devops
 devops psmodule
+devops-tools
 devsecninja
 devsecops
 devtestlabs
@@ -3045,7 +3043,6 @@ end-of-line
 endomondo
 endpoint
 endpoint-management
-endpoint-manager
 endpointmanagement
 endpointmanager
 endpoints
@@ -3103,6 +3100,7 @@ eol
 eol-tracking
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -3159,7 +3157,6 @@ etrade
 ets
 etw
 etymology
-euc
 eulanda
 evaluation
 evaluator
@@ -3363,8 +3360,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -3408,7 +3403,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-fileformat
 fileintegrity
 filelist
 filelog
@@ -3464,6 +3458,8 @@ financialstatement
 financialstatements
 financialstatementsapi
 find
+find-call
+find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -3628,7 +3624,6 @@ fsf
 fsharp
 fslogix
 fsrm
-fstab
 ft232h
 ft232r
 ftdi
@@ -3652,6 +3647,7 @@ function-testing
 functionality
 functionalprogramming
 functionapp
+functionlibrary
 functions
 fundamentals
 funds
@@ -3751,6 +3747,7 @@ get-dellwarranty
 get-devicesorgunitreport
 get-directorycontents
 get-disabledusersreport
+get-dnsserverresourcerecord
 get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
@@ -3851,7 +3848,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnome
 gnu
 gnucash
 gnuwin32
@@ -3956,7 +3952,6 @@ grpc
 grr
 grub
 gruvbox
-gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -4157,6 +4152,7 @@ hmpljs
 hockey
 hol
 holiday
+hollow
 home
 home_automation
 home-assistant
@@ -4216,6 +4212,7 @@ hrservicedelivery
 hsdp
 hsl
 html
+html-generator
 html-report
 html-templates
 htmlentity
@@ -4241,6 +4238,7 @@ hubspotcrm
 hubspotps
 hudson
 hue
+human-friendly
 humanizer
 humanly
 humor
@@ -4296,6 +4294,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -4413,6 +4412,8 @@ industrial
 inedo
 inetfwrule
 inetum
+infinitecampus
+infinity
 infisical
 influx
 influxdb
@@ -4426,6 +4427,7 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
+informix
 infosec
 infrastructure
 infrastructure-as-code
@@ -4564,6 +4566,7 @@ iotoperationsservice
 ip
 ip_cameras
 ip-address
+ip-address-sort
 ip-camera
 ipa
 ipaddress
@@ -4629,7 +4632,6 @@ it-tool
 it-tools
 itadministration
 italic-text
-itam
 item
 itemlist
 itemobject
@@ -4637,7 +4639,6 @@ items
 itemstack
 iterate
 iteration
-itfabrik.stepper
 itg
 itglue
 itil
@@ -4656,6 +4657,7 @@ j
 j81
 j81-blog
 ja-jp
+jade-templates
 jamba
 japanese
 jar
@@ -4664,7 +4666,6 @@ java
 javamanager
 javascript
 javaversion
-jbc.citrixwem
 jboss
 jdbc
 jde
@@ -4679,6 +4680,7 @@ jellyfin
 jenkins
 jetbrains
 jiggler
+jim
 jingle
 jinja2
 jira
@@ -4752,7 +4754,6 @@ jwt
 jwttoken
 k8s
 k8sshell
-k8ssnapshots
 kafka
 kalilinux
 kaminario
@@ -4806,7 +4807,6 @@ keymap
 keymapping
 keypair
 keyring
-keys
 keysms
 keytab
 keyusage
@@ -4861,7 +4861,6 @@ kubens
 kubernetes
 kubernetesconfiguration
 kubernetesruntime
-kubesnapit
 kubespray
 kubetidy
 kudu
@@ -5420,7 +5419,6 @@ member
 members
 membership
 memcm
-meme
 memory
 memory-protection
 memorydump
@@ -5676,8 +5674,6 @@ mpc
 mpeg
 mpn
 mqsft
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -5845,6 +5841,7 @@ natpool
 natural
 natural-language-to-code
 natural-selection
+natural-sort
 nature
 nav
 naven
@@ -6054,6 +6051,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -6079,6 +6077,7 @@ nuget.org
 null-session
 numa
 number
+numerical
 numlock
 nummapper
 nunit
@@ -6244,7 +6243,6 @@ open-ai
 open-files
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opencage
@@ -6307,7 +6305,6 @@ optimized
 optimizer
 option
 option119
-optional-features
 options
 optionstring
 opus
@@ -6411,7 +6408,6 @@ oxygen
 oxyplot
 oz
 p2000
-p2p
 p2s
 pa1reg
 paas
@@ -7153,7 +7149,6 @@ ps7
 psa
 psadapter
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -10170,6 +10165,9 @@ publishing
 publishmap
 pubsub
 pubxml
+pug
+pug-templates
+pugjs
 pull
 pull-request
 pull-requests
@@ -10264,7 +10262,6 @@ query
 querybuilder
 queryexcel
 querystring
-question
 queue
 queues
 queuing
@@ -10715,6 +10712,7 @@ rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
+rolemanagement
 roles
 rollback
 rollingfile
@@ -10908,7 +10906,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scottplot
 scouterna
@@ -10948,6 +10945,7 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
+scriptmanagement
 scriptmodule
 scriptoform
 scriptrunner
@@ -11023,7 +11021,6 @@ security-policy
 security-score
 security-txt
 security.txt
-securityandcompliance
 securityassertionmarkuplanguage
 securityattribute
 securityawareness
@@ -11110,7 +11107,6 @@ serilog-for-powershell
 serilog-sink
 server
 server-backup
-server-manager
 servercertificatevalidationcallback
 serverconfig
 serverinventory
@@ -11231,7 +11227,6 @@ sheets
 shell
 shell-art
 shell-integration
-shellpilot
 shells
 sherweb
 shielded-vm
@@ -11296,6 +11291,7 @@ singleton
 sinks
 sintez
 sintez.module.rds
+sis
 sit
 site
 site_navigation
@@ -11330,6 +11326,7 @@ skypeforbusiness
 skypeforbusinessonline
 skypeonline
 skytap
+skyward
 slack
 slash
 slashcommands
@@ -11402,7 +11399,6 @@ snowflakebynarymodule
 snowflakebynarypsmodule
 snowflakemodule
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssfsqlpsmodule
 snssqlitepsmodule
@@ -11847,7 +11843,6 @@ swimlane
 swimmingpool
 swis
 switch
-switcher
 swsd
 sxs
 sybase
@@ -11863,6 +11858,7 @@ symmetric
 synapse
 sync
 synccenter
+synchronisation
 synchronization
 synchronize
 syndication
@@ -11952,7 +11948,6 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
-tagging
 taglib
 tags
 tak
@@ -12052,6 +12047,7 @@ tenantconfig
 tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
+tenanttoolbox
 teradata
 termbin
 terminal
@@ -12154,6 +12150,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -12248,6 +12245,8 @@ tonoref
 tookit
 tool
 toolbox
+toolchain
+toolchains
 toolcraft
 tooling
 toolkit
@@ -12616,6 +12615,7 @@ user
 user-environment
 user-management
 user-rights
+useradminmodule
 useragent
 usercontext
 userdiscovery
@@ -12766,6 +12766,7 @@ version
 version-control
 version-management
 version-manager
+version-sort
 versioncontrol
 versioning
 versionmanager
@@ -12785,6 +12786,7 @@ videogeneration
 videos
 vie
 view
+view-engine
 viewer
 viewmodel
 viewsonic
@@ -13267,6 +13269,7 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
+wms
 wol
 wolfram
 wolframalpha
@@ -13444,7 +13447,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yfinance

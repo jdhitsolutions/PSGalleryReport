@@ -1312,9 +1312,9 @@ See https://github.com/jborean93/omi for more details.
 
 __Downloads__: 5,548,143 | __Repository__: https://github.com/jborean93/omi
 
-## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.12.28) | 2025.12.28
+## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2026.5.3) | 2026.5.3
 
-### Published: 12/28/2025 10:18:23 by the dbatools team
+### Published: 07/10/2026 22:19:52 by the dbatools team
 
 The library that powers dbatools, the community module for SQL Server Pros
 
@@ -1575,9 +1575,9 @@ Module for interacting with UEFI from PowerShell
 
 __Downloads__: 3,111,761 | __Repository__: https://github.com/mtniehaus/UEFIv2
 
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9.4) | 7.9.4
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9.5) | 7.9.5
 
-### Published: 06/10/2026 15:51:42 by Steven Villardi
+### Published: 07/10/2026 18:31:19 by Steven Villardi
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 10 July 2026 12:15:42 UTC*
+*Updated: Friday, 10 July 2026 22:42:04 UTC*
