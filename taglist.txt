@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 July 2026 12:23:04 UTC
+Updated: Monday, 13 July 2026 22:39:57 UTC
 
 .bat
 .env
@@ -71,6 +71,7 @@ Updated: Monday, 13 July 2026 12:23:04 UTC
 802.1x
 8021x
 9
+a11y
 a3c
 aa
 aac
@@ -80,6 +81,7 @@ aadc
 aadconnect
 aadgraph
 aadsecurity
+aadsts
 aam
 aas
 aatp
@@ -295,6 +297,7 @@ agentic
 agenticoperatingmodel
 agentplugin
 agents
+aggregate
 aggregates
 aggregation
 agile
@@ -377,6 +380,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alto
 always-on
 alwayson
@@ -562,9 +566,7 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
 arabic
-arangodb
 arc
 arcade
 arcenabledinfrastructure
@@ -686,9 +688,9 @@ atrium
 ats
 att&ck
 attach
+attachment
 attack-surface-reduction
 attacksimulation
-attendance
 attention
 attestation
 attila
@@ -735,6 +737,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authorized_keys
 authz
 autify
 auto
@@ -747,6 +750,7 @@ autocomplete
 autocompletion
 autodesk
 autoenv
+autogen
 autograph
 autohotkey
 autolabeling
@@ -828,6 +832,7 @@ axinom
 axis
 axium
 axlabel
+ayx
 az
 az-cli
 az.runtimeenvironment
@@ -859,7 +864,6 @@ azsql
 azstackhci
 azstate
 azsubnet
-aztableapi
 aztools
 azts
 azuead
@@ -981,6 +985,7 @@ backconnectionhostname
 backdoor
 backend
 background
+backlog
 backup
 backup_validation
 badge
@@ -1058,7 +1063,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practice
 best-practices
 bestpractice
 bestpractices
@@ -1256,7 +1260,6 @@ buildhelpers
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1276,11 +1279,8 @@ business
 business_email_compromise
 business-central
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1318,6 +1318,7 @@ calvin-and-hobbes
 cam
 camera
 cameras
+camp
 campaign
 camtasia
 canarie
@@ -1487,6 +1488,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chokidar
 choose_file
 choose_file_name
 choose_folder
@@ -1496,6 +1498,7 @@ christmas
 chromaprint
 chrome
 chromium
+chrony
 chunk
 chunked
 chunking
@@ -1866,6 +1869,7 @@ config
 configapi
 configascode
 configdata
+configdrift
 configkey
 configmap
 configmgr
@@ -1990,8 +1994,6 @@ conway
 cookie
 cool
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copilotplus
@@ -2087,6 +2089,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crewai
 cricket
 crime
 critical
@@ -2105,6 +2108,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crx
 crypto
@@ -2130,6 +2134,7 @@ csvhelper
 ctap
 ctf
 ctglobal
+ctl
 ctrl+c
 ctx
 ctype
@@ -2251,7 +2256,6 @@ dacpackage
 dad
 dadjoke
 dag
-dagger
 dailen
 daily
 dalle3
@@ -2278,6 +2282,7 @@ data-backup
 data-boar
 data-loss-prevention
 data-protection
+data-sources
 data-tier
 data-transfer
 data-uri
@@ -2519,6 +2524,7 @@ devenv
 devexpress
 deviation
 device
+device-control
 device-encryption
 device-management
 devicecleanup
@@ -2547,6 +2553,8 @@ dfch
 dfir
 dfplayermini
 dfs
+dfs-replication
+dfsr
 dfw
 dg
 dhash
@@ -2680,6 +2688,7 @@ dlp
 dm-crypt
 dmarc
 dmarccheck
+dmesg
 dmgr
 dmi
 dmtf
@@ -2883,7 +2892,6 @@ durabletask
 dust
 dutch
 dutchbaseline
-dutybeat
 dvls
 dvr
 dword
@@ -3109,6 +3117,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errorhandling
 errors
@@ -3941,6 +3950,7 @@ groundspeak
 group
 group-membership
 group-policy
+groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -4001,6 +4011,7 @@ hanaon
 handle
 handlebars
 handler
+handoff
 handshake
 handy
 hangouts
@@ -4014,7 +4025,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4161,7 +4171,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 hooks
 horizon
@@ -4179,7 +4188,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotcakex
 hotfix
 hotkey
 hotkeys
@@ -4338,7 +4346,6 @@ igr
 ihs
 iiittttt
 iis
-iis-crypto
 iis-smtp
 iisadministration
 iiscrypto
@@ -4387,6 +4394,7 @@ import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
+importexcel
 importexport
 importteams
 inactive
@@ -4587,6 +4595,7 @@ ipp
 iprange
 ipranges
 ips
+ipsc
 ipscan
 ipsec
 iptables
@@ -4642,6 +4651,7 @@ itg
 itglue
 itil
 itin
+itom
 itops
 itpro
 itprofessionals
@@ -4807,6 +4817,7 @@ keymap
 keymapping
 keypair
 keyring
+keys
 keysms
 keytab
 keyusage
@@ -4928,6 +4939,7 @@ latin
 latitude
 launch
 launcher
+launchpad
 laws
 layer
 layman
@@ -5072,6 +5084,7 @@ loandepot
 loc
 local
 local-account
+local-admin
 local-ai
 local-caching
 local-gpo
@@ -5135,6 +5148,7 @@ loggingsearch
 loggly
 logic
 logical-operators
+logical-volume
 logicapp
 logicapps
 logiclesstemplate
@@ -5209,6 +5223,7 @@ lunar
 lunches
 lunisolar
 lustrefilestorage
+lvm
 lwa
 lxca
 lxcapstool
@@ -5376,6 +5391,7 @@ mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mda
+mdadm
 mdatp
 mdb
 mdbc
@@ -5522,7 +5538,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftpurview
-microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5712,7 +5727,6 @@ msgraphreport
 msgraphstuff
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -5916,6 +5930,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-filesystem
 network-info
+network-policy
 network-profile
 network-shares
 networkadapter
@@ -6189,6 +6204,7 @@ omada
 omaha
 ome
 omg
+omniframework
 omnisphere
 omnissa
 omnistack
@@ -6327,7 +6343,9 @@ orchestration
 orchestrator
 order
 organization
+organizational-unit
 organizationally
+organize
 organizer
 orgnetwork
 oriflame
@@ -6348,6 +6366,7 @@ osdcloud
 osdcloud.michael
 osdeploy
 osdeployment
+osdetect
 osdprogress
 osdsus
 osdworkspace
@@ -6591,6 +6610,7 @@ permutations
 persian
 persistence
 persistent
+persistenthandler
 personal
 personalisation
 personalization
@@ -6763,7 +6783,6 @@ portable-executable
 portablewinget
 portal
 portchecker
-portfolio
 porthunter
 ports
 portscan
@@ -7038,6 +7057,7 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
+privilege-escalation
 privilegeaudit
 privilegecloud
 privileged
@@ -7048,6 +7068,7 @@ pro
 proactive
 probability
 probe
+problem
 problemmanagement
 problems
 process
@@ -8957,7 +8978,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -10115,6 +10135,7 @@ pssearchgithub
 pssec
 pssendgrid
 pssession
+pssharedgoods
 pssharper
 psslack
 pssnowflake
@@ -10142,6 +10163,8 @@ pswindocumentation
 pswinreporting
 pswinreportingv2
 psword
+pswritehtml
+pswriteoffice
 pswriteword
 psyaml
 pszabbix
@@ -10252,6 +10275,7 @@ qrcode
 qrcodes
 qrp
 qrs
+quack
 quality
 qualys
 quandl
@@ -10300,6 +10324,7 @@ radeon
 radio
 radius
 rag
+raid
 raidcontrollercmdlets
 railways
 rainbow
@@ -10374,6 +10399,7 @@ readable
 reader
 readiness
 readme
+readonly
 readpdf
 readthedocs
 real-time
@@ -10444,6 +10470,7 @@ reflect
 reflection
 refresh
 refreshtoken
+refs
 reg
 reg_binary
 reg_dword
@@ -10521,6 +10548,7 @@ remoteregistry
 remotesession
 remotessh
 remoting
+removable-storage
 removal
 remove
 remove-githubsecrets
@@ -10573,6 +10601,7 @@ repository
 request
 requestfiltering
 requests
+requesttracker
 requiredmodules
 requirements
 res
@@ -10586,6 +10615,7 @@ reshade
 resharper
 resilience
 resiliency
+resilient
 resize
 resolution
 resolv
@@ -10623,6 +10653,7 @@ restful
 restore
 restore-point
 restore-points
+restrictive
 restructure
 results
 resume
@@ -10681,6 +10712,7 @@ riskassessment
 riskiq
 riskpro
 risksense
+ritm
 rivermeadow
 rj
 rjtenant
@@ -10893,6 +10925,7 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
+scim
 scissors
 scm
 scmanager
@@ -10950,6 +10983,7 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
+scrubbing
 scsm
 scuba
 scvmm
@@ -10969,6 +11003,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchscript
 searchstring
 searchsuffixlist
 secaas
@@ -11057,6 +11092,7 @@ selfsigned
 semantic
 semantic-versioning
 semanticversioning
+semaphore
 semver
 senat
 senateur
@@ -11132,6 +11168,8 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+servicenowapi
+servicenowpowershell
 servicepack
 serviceplan
 servicepointmanager
@@ -11202,7 +11240,6 @@ share
 share-permission
 share-stat
 shared
-sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11388,6 +11425,7 @@ snmpget
 snmpset
 snmpv3
 snmpwalk
+snow
 snowflake
 snowflakebynarymodule
 snowflakebynarypsmodule
@@ -11440,7 +11478,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 sound
 soundcore
@@ -11595,6 +11632,7 @@ ssdt
 sse
 ssh
 ssh-config
+ssh-import-id
 ssh-keygen
 ssh-keys
 sshmanagement
@@ -11732,6 +11770,7 @@ streamreader
 streams
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -12175,6 +12214,7 @@ thycotic
 tibber
 tic-tac-toe
 ticket
+ticketing
 tickets
 tickle
 ticks
@@ -12192,6 +12232,7 @@ timesheet
 timesheets
 timespan
 timestamp
+timesyncd
 timesynchronization
 timetracking
 timezone
@@ -12228,6 +12269,7 @@ toggl-api-ps
 toggle
 token
 tokencounter
+tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12977,6 +13019,7 @@ watery
 wav
 wave
 wbem
+wcag
 wcf
 wcry
 wdac
@@ -13119,7 +13162,6 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
-win32app
 win32appmigrationtool
 win32shutdown
 winbgp
@@ -13196,6 +13238,7 @@ windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearch
 windowssearchmanager
 windowssecurity
 windowsserver
@@ -13278,8 +13321,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
 workingtime
 workitems
 workload
@@ -13475,6 +13516,7 @@ zipcode
 zipfile-transform
 zipjoin
 zisson
+zivver
 zlib
 zlib-compression
 zodiac
