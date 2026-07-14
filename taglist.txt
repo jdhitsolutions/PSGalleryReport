@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 July 2026 22:39:57 UTC
+Updated: Tuesday, 14 July 2026 11:12:46 UTC
 
 .bat
 .env
@@ -294,7 +294,6 @@ agenda
 agent
 agent-management
 agentic
-agenticoperatingmodel
 agentplugin
 agents
 aggregate
@@ -566,7 +565,9 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
 arabic
+arangodb
 arc
 arcade
 arcenabledinfrastructure
@@ -691,6 +692,7 @@ attach
 attachment
 attack-surface-reduction
 attacksimulation
+attendance
 attention
 attestation
 attila
@@ -864,6 +866,7 @@ azsql
 azstackhci
 azstate
 azsubnet
+aztableapi
 aztools
 azts
 azuead
@@ -1063,6 +1066,7 @@ benchmarking
 benchmarks
 benchpress
 ber
+best-practice
 best-practices
 bestpractice
 bestpractices
@@ -1260,6 +1264,7 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1279,8 +1284,11 @@ business
 business_email_compromise
 business-central
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1398,6 +1406,8 @@ ce
 celcat
 celerium
 censor
+censorchecker
+censorship
 center
 centered
 centra
@@ -1445,8 +1455,10 @@ chaos
 char
 character
 charactergenerator
+chardet
 charger
 charging
+charset
 chart
 charting
 charts
@@ -1498,7 +1510,6 @@ christmas
 chromaprint
 chrome
 chromium
-chrony
 chunk
 chunked
 chunking
@@ -1824,7 +1835,6 @@ completions
 complex
 complexity
 compliance
-compliancemessagetraceanalyzer
 compliancepolicy
 compliant
 component
@@ -1843,7 +1853,6 @@ compute-ops-management
 computecloudatcustomer
 computefleet
 computeinstanceagent
-computelimit
 computer
 computer-room
 computer-site
@@ -1859,7 +1868,6 @@ concurrent
 conda
 condition
 conditional
-conditional-access
 conditionalaccess
 conduit
 conference
@@ -1994,6 +2002,8 @@ conway
 cookie
 cool
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copilotplus
@@ -2256,6 +2266,7 @@ dacpackage
 dad
 dadjoke
 dag
+dagger
 dailen
 daily
 dalle3
@@ -2329,7 +2340,6 @@ datakwaliteit
 datalabelingservice
 datalabelingservicedataplane
 datalake
-datalossprevention
 datamanipulation
 dataminer
 datamodel
@@ -2848,7 +2858,6 @@ dscresource
 dscresourcekit
 dscresources
 dsctools
-dscv3
 dsl
 dsm
 dsr
@@ -2856,7 +2865,6 @@ dsreg
 dsregcmd
 dsutils
 dtc
-dto
 dts
 dtsx
 dtx
@@ -2892,6 +2900,7 @@ durabletask
 dust
 dutch
 dutchbaseline
+dutybeat
 dvls
 dvr
 dword
@@ -3035,7 +3044,6 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -3163,6 +3171,7 @@ ets
 etw
 etymology
 euc
+euc-jp
 eulanda
 evaluation
 evaluator
@@ -3589,7 +3598,6 @@ fortytwo
 forum
 forwardcompatibility
 forwardedevents
-forwarders
 forwarding
 foudil
 foundationmodels
@@ -3704,6 +3712,7 @@ gdap
 gdp
 gdpr
 gdrive
+gds
 gedit
 gem
 gemini
@@ -3891,8 +3900,11 @@ gopher+
 gopherplus
 gophers
 gov
+gov.uk
 governance
 governancerulescontrolplane
+government
+govuk
 gp
 gpedit
 gpg
@@ -4025,6 +4037,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4171,6 +4184,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 hooks
 horizon
@@ -4188,6 +4202,7 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotcakex
 hotfix
 hotkey
 hotkeys
@@ -4317,7 +4332,6 @@ identifier
 identities
 identity
 identity-management
-identity-mapping
 identitycenter
 identitydataplane
 identitydirector
@@ -4346,6 +4360,7 @@ igr
 ihs
 iiittttt
 iis
+iis-crypto
 iis-smtp
 iisadministration
 iiscrypto
@@ -4638,7 +4653,6 @@ it-tool
 it-tools
 itadministration
 italic-text
-itam
 item
 itemlist
 itemobject
@@ -4842,7 +4856,6 @@ klipper
 kms
 knapsack
 knetps
-knob
 knowbe4
 knowledge
 knowledgearticle
@@ -4932,8 +4945,6 @@ lastlog
 lastlogon
 lastpass
 latency
-lateralmovement
-latest_powershell_version
 latestupdate
 latin
 latitude
@@ -4984,6 +4995,7 @@ lens
 less
 lesspass
 letsencrypt
+letter
 lf
 lgpo
 libgit2
@@ -5147,7 +5159,6 @@ loggingingestion
 loggingsearch
 loggly
 logic
-logical-operators
 logical-volume
 logicapp
 logicapps
@@ -5235,6 +5246,7 @@ lzip-compression
 m365
 m365defenderstuff
 m365dsc
+m365permissions
 maa
 maas360
 maatschap-fortigi
@@ -5454,8 +5466,6 @@ message-emoji
 message-emojis
 messagebox
 messages
-messagetrace
-messagetraceanalyzer
 messaging
 messaging-emoji
 messaging-emojis
@@ -5537,7 +5547,7 @@ microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
 microsoftonline
-microsoftpurview
+microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5727,6 +5737,7 @@ msgraphreport
 msgraphstuff
 msgraphtokenlifetimepolicy
 msi
+msi psmodule
 msiexec
 msil
 msix
@@ -5799,7 +5810,6 @@ musiccast
 musicforprogramming
 mustache
 mutation
-mutation-testing
 mute
 mutex
 mva
@@ -5928,7 +5938,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-filesystem
 network-info
 network-policy
 network-profile
@@ -5999,7 +6008,6 @@ ngts
 nhl
 ni
 nic
-nic-teaming
 nic.ru
 nightmare
 ninite
@@ -6168,7 +6176,6 @@ oembed
 offboarding
 offence
 offense
-offensivesecurity
 office
 office_365
 office-365
@@ -6272,8 +6279,6 @@ opendata
 openedge
 openfiles
 openforem
-opengraph
-opengraphprotocol
 openhere
 openholidaysapi
 openid
@@ -6591,7 +6596,6 @@ pemfile
 pendingreboot
 penetration
 penetrationtesting
-pentest
 pentesting
 pentia
 people
@@ -6694,7 +6698,6 @@ places
 plain
 plainenglish
 plan
-planetarycomputer
 planner
 plantuml
 plaster
@@ -6760,7 +6763,6 @@ pollinationsai
 polly
 poly1305
 polycom
-polyglot
 polymarket
 pomodoro
 ponduit
@@ -6783,6 +6785,7 @@ portable-executable
 portablewinget
 portal
 portchecker
+portfolio
 porthunter
 ports
 portscan
@@ -8978,6 +8981,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -10359,7 +10363,6 @@ raspbian
 rate
 rate-limit
 ratelimit
-rates
 rating
 ratings
 ravendb
@@ -11057,7 +11060,6 @@ securityawareness
 securitybaseline
 securitycenter
 securitycompliancecenter
-securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -11111,7 +11113,6 @@ sendmail
 sense
 sensitive
 sensitive-data
-sensitiveinformationtype
 sensitivity
 sensitivitylabels
 sensor
@@ -11145,7 +11146,6 @@ serverless
 servermanagement
 serverprotection
 servers
-serversideautolabeling
 service
 service-bus
 service-messages
@@ -11240,6 +11240,7 @@ share
 share-permission
 share-stat
 shared
+sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11253,16 +11254,15 @@ sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
 sharetru
-sharpdown
 sheets
 shell
 shell-art
 shell-integration
-shellpilot
 shells
 sherweb
 shielded-vm
 shieldedvm
+shift-jis
 shim
 shims
 shipment
@@ -11478,6 +11478,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 sound
 soundcore
@@ -11739,7 +11740,6 @@ stolpe.io
 stop
 storablecolortheme
 storage
-storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -12081,7 +12081,6 @@ tenantconfig
 tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
-tenanttoolbox
 teradata
 termbin
 terminal
@@ -12117,7 +12116,6 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
-test-quality
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -12219,7 +12217,6 @@ tickets
 tickle
 ticks
 tictactoe
-tiering
 tiermodel
 tierzero
 tiktok
@@ -12232,7 +12229,6 @@ timesheet
 timesheets
 timespan
 timestamp
-timesyncd
 timesynchronization
 timetracking
 timezone
@@ -12311,7 +12307,6 @@ tpm
 tr-064
 tr064
 trace
-traceanalyzer
 traceevent
 tracer
 traceroute
@@ -12418,7 +12413,6 @@ ttrpg
 tts
 tube
 tubedownloader
-tuesday
 tui
 tulpep
 tuner
@@ -12504,7 +12498,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -12830,7 +12823,6 @@ vimode
 virole
 virsh
 virtual
-virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -13162,6 +13154,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32app
 win32appmigrationtool
 win32shutdown
 winbgp
@@ -13321,6 +13314,8 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
 workingtime
 workitems
 workload
@@ -13370,7 +13365,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writers
 writing
 ws-federation
 ws1
@@ -13526,7 +13520,6 @@ zohoassist
 zoicware
 zombie
 zone
-zones
 zoom
 zoomapi
 zoommeeting

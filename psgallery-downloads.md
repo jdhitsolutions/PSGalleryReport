@@ -21,9 +21,9 @@ For more information on account credential management, please visit the followin
 
 __Downloads__: 1,112,710,388 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [DellBIOSProvider](https://www.powershellgallery.com/Packages/DellBIOSProvider/2.10.1) | 2.10.1
+## [DellBIOSProvider](https://www.powershellgallery.com/Packages/DellBIOSProvider/2.10.2) | 2.10.2
 
-### Published: 04/02/2026 05:51:34 by Dell BizClient Team
+### Published: 07/14/2026 10:13:52 by Dell BizClient Team
 
 The 'Dell Command | PowerShell Provider' provides native configuration capability of Dell Optiplex, Latitude, Precision, XPS Notebook and Venue 11 systems within PowerShell.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Monday, 13 July 2026 22:39:52 UTC*
+*Updated: Tuesday, 14 July 2026 11:12:40 UTC*
