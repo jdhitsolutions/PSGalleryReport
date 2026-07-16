@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 July 2026 11:22:29 UTC
+Updated: Thursday, 16 July 2026 22:39:38 UTC
 
 .bat
 .env
@@ -220,6 +220,7 @@ adfstoolkit
 adfstools
 adgroup
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adidns
 adif
@@ -379,6 +380,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alto
 always-on
 alwayson
@@ -473,7 +475,6 @@ api-generation
 api-rest
 api-wrapper
 apiaccesscontrol
-apichecks
 apiclient
 apify
 apigateway
@@ -589,6 +590,7 @@ area
 arg
 argcomplete
 argocd
+argosccf
 argument
 argumentcompleter
 arguments
@@ -616,7 +618,6 @@ artificial-intelligence
 artificialintelligence
 aruba
 as
-as-rep-roasting
 asa
 asa.unittest
 asana
@@ -832,6 +833,7 @@ axinom
 axis
 axium
 axlabel
+ayx
 az
 az-cli
 az.runtimeenvironment
@@ -863,7 +865,6 @@ azsql
 azstackhci
 azstate
 azsubnet
-aztableapi
 aztools
 azts
 azuead
@@ -984,6 +985,7 @@ backconnectionhostname
 backdoor
 backend
 background
+backlog
 backup
 backup_validation
 badge
@@ -1175,7 +1177,6 @@ boot
 boot-policy
 boot-repair
 bootentry
-bootloader
 bootloader psmodule
 bootsecurity
 bootstrap
@@ -1240,7 +1241,6 @@ bson
 bssid
 btdf
 btm
-btmp
 bubbletea
 bubbsy
 bucket
@@ -1323,6 +1323,7 @@ camera
 cameras
 camp
 campaign
+camtasia
 canarie
 canary
 cancel
@@ -1547,6 +1548,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 citsmart
 civo
 cix
@@ -1663,7 +1665,6 @@ cloudservice
 cloudshell
 cloudstorage
 cloudsync
-clr
 clsid
 clueser
 cluster
@@ -1699,7 +1700,6 @@ cnc
 cnn
 cnpc
 cns
-co-writer
 coa
 cobertura
 cockroachdb
@@ -1857,13 +1857,11 @@ computersite
 computeschedule
 comulativeupdate
 concatenate
-concerts
 concur
 concurrent
 conda
 condition
 conditional
-conditional-access
 conditionalaccess
 conduit
 conference
@@ -2560,6 +2558,8 @@ dfch
 dfir
 dfplayermini
 dfs
+dfs-replication
+dfsr
 dfw
 dg
 dhash
@@ -2671,7 +2671,6 @@ distributiongroup
 distributiongroups
 distributionlist
 distributionpointgroupmembers
-distro
 distrubtionpoint
 dividends
 diving
@@ -2886,7 +2885,6 @@ dungeonsanddragons
 duo
 duosecurity
 dupes
-duplex
 duplicate
 duplicate-files
 duplicates
@@ -3161,7 +3159,6 @@ ethereum
 etherium
 ethernet
 ethr
-ethtool
 ethz
 etl
 etl2pcapng
@@ -3420,7 +3417,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-fileformat
 fileintegrity
 filelist
 filelog
@@ -3970,7 +3966,6 @@ grouvee
 growlnotify
 grpc
 grr
-grub
 gruvbox
 gsettings
 gsudo
@@ -4038,7 +4033,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4203,7 +4197,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotcakex
 hotfix
 hotkey
 hotkeys
@@ -4309,7 +4302,6 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -4333,7 +4325,6 @@ identifier
 identities
 identity
 identity-management
-identity-mapping
 identitycenter
 identitydataplane
 identitydirector
@@ -4398,6 +4389,7 @@ imaging
 imap
 imapi2
 imb
+imei
 imi
 impala
 impersonation
@@ -4463,6 +4455,8 @@ initiative
 initiator
 injection
 injector
+ink-canvas
+inkcanvas
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4480,7 +4474,6 @@ insightanalytics
 insights
 inspect
 inspection
-inspector
 inspiration
 inspirationalquotes
 inspire
@@ -4771,6 +4764,7 @@ justification
 jvm
 jwe
 jwk
+jwks
 jws
 jwt
 jwttoken
@@ -4807,7 +4801,6 @@ kelverion
 kelvin
 kentico
 kerb
-kerberoasting
 kerberos
 kerberosauthentication
 kernel
@@ -5058,6 +5051,7 @@ linux inode
 linux kernel
 linux motd
 linux network
+linux pam
 linux-command
 linux-style
 linuxssh
@@ -5162,7 +5156,6 @@ loggingsearch
 loggly
 logic
 logical-operators
-logical-volume
 logicapp
 logicapps
 logiclesstemplate
@@ -5237,7 +5230,6 @@ lunar
 lunches
 lunisolar
 lustrefilestorage
-lvm
 lwa
 lxca
 lxcapstool
@@ -5552,7 +5544,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftpurview
-microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5947,6 +5938,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-filesystem
 network-info
+network-policy
 network-profile
 network-shares
 networkadapter
@@ -6170,7 +6162,6 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-ocx
 od4b
 oda
 odata
@@ -6554,6 +6545,7 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
+passwordwolf
 paste
 patch
 patch-gap
@@ -6645,9 +6637,7 @@ phi
 philips
 philosophical
 philpritchett
-phish
 phishing
-phishnet
 phoenix
 phone
 phoneautomation
@@ -6673,6 +6663,7 @@ pin
 pinecone
 ping
 ping-async
+ping-sweep
 pinget
 pinging
 pingsweep
@@ -7038,7 +7029,6 @@ prerequisites
 presentation
 presentationframework
 presenter
-preset
 presto
 preston-k-parsard
 prettifier
@@ -7073,7 +7063,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilege-escalation
 privilegeaudit
 privilegecloud
 privileged
@@ -7190,6 +7179,7 @@ psa
 psaction1
 psadapter
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8994,6 +8984,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -10266,7 +10257,6 @@ python3
 qaops
 qatam
 qcloud
-qconvergeconsolepowerkit
 qemu
 qiita
 qlearning
@@ -10633,6 +10623,7 @@ resiliency
 resilient
 resize
 resolution
+resolv
 resolve
 resolve-dnsname
 resolve-stache
@@ -10677,6 +10668,7 @@ retro
 retry
 returnuserprofile
 retype
+reuse
 reverse-dns
 reverse-engineer
 reverse-engineering
@@ -11252,7 +11244,6 @@ share
 share-permission
 share-stat
 shared
-sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11445,6 +11436,7 @@ snowflakebynarymodule
 snowflakebynarypsmodule
 snowflakemodule
 snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
 snssfsqlpsmodule
 snssqlitepsmodule
@@ -11495,7 +11487,6 @@ sort-json
 sorting
 sound
 soundcore
-sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -11921,7 +11912,6 @@ sysadmin
 sysadmin windows sysadmin dargslan devops administration
 sysadmin-tool
 sysadmin-tools
-sysctl
 sysctr
 sysinfo
 sysinfocmdlets
@@ -11994,6 +11984,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 taglib
 tags
 tak
@@ -12062,6 +12053,7 @@ technician
 technology
 technology1
 technologyone
+techsmith
 tel
 telefonia
 telegram
@@ -12092,7 +12084,6 @@ tenantconfig
 tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
-tenanttoolbox
 teradata
 termbin
 terminal
@@ -12366,6 +12357,7 @@ transport
 trap
 traps
 travel
+trec
 tree
 tree-sitter
 tree-structure
@@ -12427,7 +12419,6 @@ ttrpg
 tts
 tube
 tubedownloader
-tuesday
 tui
 tulpep
 tuner
@@ -12459,7 +12450,6 @@ typeaccelerators
 typed-objects
 typedata
 typeextension
-typelib
 types
 types.ps1xml
 typescript
@@ -13381,7 +13371,6 @@ writelog
 writeprogress
 writer
 writers
-writing
 ws-federation
 ws1
 wsapi
@@ -13394,7 +13383,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wtmp
 wts
 wtsapi32
 wttr
@@ -13485,7 +13473,6 @@ yahoo
 yahw
 yamaha
 yaml
-yamlscript
 yandex
 yandexdisk
 yapg
