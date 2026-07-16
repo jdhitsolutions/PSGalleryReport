@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 15 July 2026 22:41:35 UTC
+Updated: Thursday, 16 July 2026 11:22:29 UTC
 
 .bat
 .env
@@ -220,7 +220,6 @@ adfstoolkit
 adfstools
 adgroup
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -380,7 +379,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alto
 always-on
 alwayson
@@ -591,7 +589,6 @@ area
 arg
 argcomplete
 argocd
-argosccf
 argument
 argumentcompleter
 arguments
@@ -619,6 +616,7 @@ artificial-intelligence
 artificialintelligence
 aruba
 as
+as-rep-roasting
 asa
 asa.unittest
 asana
@@ -719,6 +717,7 @@ auditpolicy
 audits
 auditsysvol
 aumid
+australia
 aut
 auth
 auth-log
@@ -833,7 +832,6 @@ axinom
 axis
 axium
 axlabel
-ayx
 az
 az-cli
 az.runtimeenvironment
@@ -865,6 +863,7 @@ azsql
 azstackhci
 azstate
 azsubnet
+aztableapi
 aztools
 azts
 azuead
@@ -985,7 +984,6 @@ backconnectionhostname
 backdoor
 backend
 background
-backlog
 backup
 backup_validation
 badge
@@ -1177,6 +1175,7 @@ boot
 boot-policy
 boot-repair
 bootentry
+bootloader
 bootloader psmodule
 bootsecurity
 bootstrap
@@ -1194,6 +1193,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 branch-rename
 branchcache
@@ -1321,6 +1321,7 @@ calvin-and-hobbes
 cam
 camera
 cameras
+camp
 campaign
 canarie
 canary
@@ -1367,6 +1368,7 @@ category
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1420,7 +1422,6 @@ certera
 certes
 certificat
 certificate
-certificate-authority
 certificateauthority
 certificatechain
 certificatemanager
@@ -1502,6 +1503,7 @@ christmas
 chromaprint
 chrome
 chromium
+chrony
 chunk
 chunked
 chunking
@@ -1545,7 +1547,6 @@ ciscoucsdsc
 citation
 cite
 citrix
-citrixoptimizer
 citsmart
 civo
 cix
@@ -1782,6 +1783,7 @@ combine
 comdata
 comedy
 comic
+comical
 comics
 command
 command_line
@@ -1861,6 +1863,7 @@ concurrent
 conda
 condition
 conditional
+conditional-access
 conditionalaccess
 conduit
 conference
@@ -1963,6 +1966,7 @@ conventional
 conventional-commits
 convereter
 converged_data_management
+conversational
 converse
 converseapi
 conversion
@@ -2095,7 +2099,6 @@ crewai
 cricket
 crime
 critical
-crl
 crlf
 crm
 crm2016
@@ -2175,6 +2178,7 @@ customisation
 customization
 customlocation
 customlogs
+custommodules
 customproviders
 customsecurityattributes
 cutehttpfileserver
@@ -2545,6 +2549,7 @@ deviceupdate
 devolutions
 devops
 devops psmodule
+devops-tools
 devsecninja
 devsecops
 devtestlabs
@@ -2555,8 +2560,6 @@ dfch
 dfir
 dfplayermini
 dfs
-dfs-replication
-dfsr
 dfw
 dg
 dhash
@@ -2631,6 +2634,7 @@ disconnect
 disconnectedoperations
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2935,6 +2939,7 @@ easypim
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecdsa
@@ -3047,14 +3052,17 @@ encryption
 end-of-line
 endomondo
 endpoint
+endpoint-manager
 endpointjobs
 endpointmanagement
 endpointmanager
 endpoints
 energy
+enforcement
 engagement
 engine
 engineevent
+english
 enhanced-terminal
 enhancement
 enrichers
@@ -3123,6 +3131,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -3159,6 +3168,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 euc
 euc-jp
 eulanda
@@ -3410,6 +3420,7 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
+fileformat
 fileintegrity
 filelist
 filelog
@@ -3465,6 +3476,8 @@ financialstatement
 financialstatements
 financialstatementsapi
 find
+find-call
+find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -3517,6 +3530,7 @@ flickr
 florecruit
 flow
 flowchart
+flowy
 fluent
 fluid
 fluidrelay
@@ -3652,6 +3666,7 @@ function-testing
 functionality
 functionalprogramming
 functionapp
+functionlibrary
 functions
 fundamentals
 funds
@@ -3955,13 +3970,16 @@ grouvee
 growlnotify
 grpc
 grr
+grub
 gruvbox
 gsettings
+gsudo
 gsuite
 gtx1080ti
 guard
 guardedfabric
 guardicore
+guardrails
 gubbins
 guerrilla
 guest
@@ -4217,6 +4235,7 @@ hrservicedelivery
 hsdp
 hsl
 html
+html-generator
 html-report
 html-templates
 htmlentity
@@ -4231,6 +4250,8 @@ httpqscollection
 https
 https_proxy
 httpserver
+huawei
+huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -4242,7 +4263,9 @@ hudson
 hue
 human-friendly
 humanizer
+humanly
 humor
+humorous
 humour
 hunk
 hunter
@@ -4278,6 +4301,7 @@ iap
 ias
 ib
 ibm
+ibmc
 ibmhttpserver
 icacl
 icann
@@ -4374,7 +4398,6 @@ imaging
 imap
 imapi2
 imb
-imei
 imi
 impala
 impersonation
@@ -4440,8 +4463,6 @@ initiative
 initiator
 injection
 injector
-ink-canvas
-inkcanvas
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4517,6 +4538,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intune-laps
 intuneadminroles
@@ -4630,6 +4652,7 @@ it-tool
 it-tools
 itadministration
 italic-text
+itam
 item
 itemlist
 itemobject
@@ -4656,6 +4679,7 @@ j
 j81
 j81-blog
 ja-jp
+jade-templates
 jamba
 japanese
 jar
@@ -4747,7 +4771,6 @@ justification
 jvm
 jwe
 jwk
-jwks
 jws
 jwt
 jwttoken
@@ -4784,6 +4807,7 @@ kelverion
 kelvin
 kentico
 kerb
+kerberoasting
 kerberos
 kerberosauthentication
 kernel
@@ -4931,6 +4955,7 @@ launcher
 launchpad
 laws
 layer
+layman
 layout
 lazygit
 lazywinadmin
@@ -5033,7 +5058,6 @@ linux inode
 linux kernel
 linux motd
 linux network
-linux pam
 linux-command
 linux-style
 linuxssh
@@ -5138,6 +5162,7 @@ loggingsearch
 loggly
 logic
 logical-operators
+logical-volume
 logicapp
 logicapps
 logiclesstemplate
@@ -5212,6 +5237,7 @@ lunar
 lunches
 lunisolar
 lustrefilestorage
+lvm
 lwa
 lxca
 lxcapstool
@@ -5860,6 +5886,7 @@ ncal
 ncdu
 ncrestapi
 ndes
+ndjson
 ndt
 nebula
 nebulon
@@ -5920,7 +5947,6 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-filesystem
 network-info
-network-policy
 network-profile
 network-shares
 networkadapter
@@ -6137,7 +6163,6 @@ ocgv
 oci
 ocicontrolcenter
 ocr
-ocsp
 octoprint
 octopus
 octopus-deploy
@@ -6239,6 +6264,8 @@ ontap_9.8.0
 ontap_pstk_9.18.1
 ontap_pstk_9.8.0
 onvif
+onyphe
+onyphe.io
 oob
 oobe
 oop
@@ -6255,6 +6282,7 @@ openaiclient
 openamt
 openapi
 opencage
+opencloud
 opencode
 opendata
 openedge
@@ -6337,6 +6365,7 @@ organize
 organizer
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -6525,7 +6554,6 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
-passwordwolf
 paste
 patch
 patch-gap
@@ -6615,6 +6643,7 @@ phabricator
 phantom
 phi
 philips
+philosophical
 philpritchett
 phish
 phishing
@@ -6644,7 +6673,6 @@ pin
 pinecone
 ping
 ping-async
-ping-sweep
 pinget
 pinging
 pingsweep
@@ -7010,6 +7038,7 @@ prerequisites
 presentation
 presentationframework
 presenter
+preset
 presto
 preston-k-parsard
 prettifier
@@ -7044,6 +7073,7 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
+privilege-escalation
 privilegeaudit
 privilegecloud
 privileged
@@ -7160,7 +7190,6 @@ psa
 psaction1
 psadapter
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8965,7 +8994,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -8974,6 +9002,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -10176,6 +10205,9 @@ publishing
 publishmap
 pubsub
 pubxml
+pug
+pug-templates
+pugjs
 pull
 pull-request
 pull-requests
@@ -10383,6 +10415,7 @@ readable
 reader
 readiness
 readme
+readonly
 readpdf
 readthedocs
 real-time
@@ -10600,7 +10633,6 @@ resiliency
 resilient
 resize
 resolution
-resolv
 resolve
 resolve-dnsname
 resolve-stache
@@ -10645,7 +10677,6 @@ retro
 retry
 returnuserprofile
 retype
-reuse
 reverse-dns
 reverse-engineer
 reverse-engineering
@@ -10819,6 +10850,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -10850,6 +10882,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -10952,6 +10985,7 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
+scriptmanagement
 scriptmodule
 scriptoform
 scriptrunner
@@ -11218,6 +11252,7 @@ share
 share-permission
 share-stat
 shared
+sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11410,7 +11445,6 @@ snowflakebynarymodule
 snowflakebynarypsmodule
 snowflakemodule
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssfsqlpsmodule
 snssqlitepsmodule
@@ -11837,6 +11871,7 @@ survey
 surveymonkey
 sus
 sushi
+suspensive
 suspicious
 svelte
 svesavov
@@ -12207,6 +12242,7 @@ timesheet
 timesheets
 timespan
 timestamp
+timesyncd
 timesynchronization
 timetracking
 timezone
@@ -12391,6 +12427,7 @@ ttrpg
 tts
 tube
 tubedownloader
+tuesday
 tui
 tulpep
 tuner
@@ -12565,8 +12602,10 @@ unraid
 unsigned
 unsupported
 untis
+unused
 unzip
 up
+upbank
 update
 update-module
 update-modulemanifest
@@ -12620,6 +12659,7 @@ user
 user-environment
 user-management
 user-rights
+useradminmodule
 useragent
 usercontext
 userdiscovery
@@ -12790,6 +12830,7 @@ videogeneration
 videos
 vie
 view
+view-engine
 viewer
 viewmodel
 viewsonic
@@ -12983,6 +13024,7 @@ watchdog
 watcher
 watchguard
 watchmen
+watery
 wav
 wave
 wbem
@@ -13414,6 +13456,7 @@ xml
 xml-rpc
 xml-transform
 xmla
+xmlns
 xmlrpc
 xmlutils
 xoauth2
@@ -13430,6 +13473,7 @@ xsa
 xsalsa20
 xsiam
 xsl
+xslt
 xtremio
 xtrude
 xunit
