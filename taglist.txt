@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 July 2026 11:10:33 UTC
+Updated: Friday, 17 July 2026 22:32:58 UTC
 
 .bat
 .env
@@ -81,6 +81,7 @@ aadc
 aadconnect
 aadgraph
 aadsecurity
+aadsts
 aam
 aas
 aatp
@@ -185,6 +186,7 @@ adapters
 adaptive-card
 adaptivecard
 adaptivecards
+adaudit
 adb
 adblock
 adc
@@ -471,6 +473,7 @@ api-generation
 api-rest
 api-wrapper
 apiaccesscontrol
+apichecks
 apiclient
 apify
 apigateway
@@ -674,9 +677,9 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atproto
 atprotocol
@@ -705,6 +708,7 @@ audit-log
 audit-policy
 auditad
 auditing
+auditlaps
 auditlog
 auditnetlogon
 auditpol
@@ -861,7 +865,6 @@ azsql
 azstackhci
 azstate
 azsubnet
-aztableapi
 aztools
 azts
 azuead
@@ -1321,8 +1324,8 @@ calvin-and-hobbes
 cam
 camera
 cameras
+camp
 campaign
-camtasia
 canarie
 canary
 cancel
@@ -1532,7 +1535,6 @@ cimsession
 cinst
 ciph4
 cipher
-ciphers
 circuit-breaker
 circumlunar
 cireson
@@ -1665,7 +1667,6 @@ cloudservice
 cloudshell
 cloudstorage
 cloudsync
-clr
 clsid
 clueser
 cluster
@@ -1842,7 +1843,6 @@ compress
 compressedguid
 compression
 compromiseassessment
-compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1864,7 +1864,6 @@ concurrent
 conda
 condition
 conditional
-conditional-access
 conditionalaccess
 conduit
 conference
@@ -2180,6 +2179,7 @@ customisation
 customization
 customlocation
 customlogs
+custommodules
 customproviders
 customsecurityattributes
 cutehttpfileserver
@@ -2508,6 +2508,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionengineering
 detectionrule
 deutschland
 dev
@@ -2675,7 +2676,6 @@ distributionlist
 distributionpointgroupmembers
 distro
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2855,7 +2855,6 @@ dscresource
 dscresourcekit
 dscresources
 dsctools
-dscv3
 dsl
 dsm
 dsr
@@ -3056,7 +3055,6 @@ endomondo
 endpoint
 endpoint-management
 endpoint-manager
-endpointjobs
 endpointmanagement
 endpointmanager
 endpoints
@@ -3127,6 +3125,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errorhandling
 errors
@@ -3278,7 +3277,6 @@ expired
 expiring
 expiry
 exploit
-exploit-protection
 exploits
 exploration
 explorer
@@ -3599,7 +3597,6 @@ forum
 forwardcompatibility
 forwardedevents
 forwarders
-forwarding
 foudil
 foundationmodels
 foundry
@@ -3643,7 +3640,6 @@ fsf
 fsharp
 fslogix
 fsrm
-fstab
 ft232h
 ft232r
 ftdi
@@ -3667,6 +3663,7 @@ function-testing
 functionality
 functionalprogramming
 functionapp
+functionlibrary
 functions
 fundamentals
 funds
@@ -3712,7 +3709,6 @@ gdap
 gdp
 gdpr
 gdrive
-gds
 gedit
 gem
 gemini
@@ -3900,11 +3896,8 @@ gopher+
 gopherplus
 gophers
 gov
-gov.uk
 governance
 governancerulescontrolplane
-government
-govuk
 gp
 gpedit
 gpg
@@ -4038,7 +4031,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4203,7 +4195,6 @@ hosts
 hosts-file
 hostsfile
 hot-water
-hotcakex
 hotfix
 hotkey
 hotkeys
@@ -4309,6 +4300,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -4410,11 +4402,9 @@ import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
-importexcel
 importexport
 importteams
 inactive
-inbox_rules
 inboxrule
 incident
 incident_response
@@ -4589,7 +4579,6 @@ ip
 ip_cameras
 ip-address
 ip-address-sort
-ip-camera
 ipa
 ipaddress
 ipam
@@ -4611,6 +4600,7 @@ ipp
 iprange
 ipranges
 ips
+ipsc
 ipscan
 ipsec
 iptables
@@ -4804,7 +4794,6 @@ keepass
 keepasslib
 keepawake
 keeper
-keepit
 kelverion
 kelvin
 kentico
@@ -4935,6 +4924,7 @@ languagepack
 lansweeper
 laplace
 laps
+lapslegacy
 laragon
 laravel
 largefiles
@@ -4968,6 +4958,7 @@ lcminternals
 lcov
 lcs
 ldap
+ldif
 leadforge
 leaflet
 leafs
@@ -4998,12 +4989,10 @@ lens
 less
 lesspass
 letsencrypt
-letter
 lf
 lgpo
 libgit2
 libmagic
-libphonenumber
 libraries
 library
 libsecret
@@ -5252,6 +5241,7 @@ m365
 m365defenderstuff
 m365dsc
 m365permissions
+maa
 maas360
 maatschap-fortigi
 mac
@@ -5303,6 +5293,7 @@ mak
 make
 maker
 malware
+malwareanalysis
 mamagedidentity
 maml
 man-highlighting
@@ -5553,7 +5544,6 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftpurview
-microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5787,6 +5777,7 @@ multi-tenant
 multi-thread
 multi-threading
 multi-zone
+multiadminapproval
 multiagent
 multicast
 multicloud
@@ -5814,7 +5805,6 @@ musiccast
 musicforprogramming
 mustache
 mutation
-mutation-testing
 mute
 mutex
 mva
@@ -5862,6 +5852,7 @@ naming
 nana
 nano
 nanoleaf
+napster
 nartac
 nasdaq
 nationalinstruments
@@ -6203,6 +6194,7 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
+offsetanalysis
 ofx
 ogg
 oh-my-posh
@@ -6219,7 +6211,6 @@ omada
 omaha
 ome
 omg
-omniframework
 omnisphere
 omnissa
 omnistack
@@ -6251,7 +6242,6 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
-onnx
 onprem
 onpremises
 onpremisesdatagatewayhamgmt
@@ -6262,7 +6252,6 @@ ontap_9.18.1
 ontap_9.8.0
 ontap_pstk_9.18.1
 ontap_pstk_9.8.0
-onvif
 onyphe
 onyphe.io
 oob
@@ -6287,13 +6276,12 @@ opendata
 openedge
 openfiles
 openforem
-opengraph
-opengraphprotocol
 openhere
 openholidaysapi
 openid
 openidconnect
 openinghours
+openldap
 openpackage
 openplatform
 openport
@@ -6381,7 +6369,6 @@ osdcloud
 osdcloud.michael
 osdeploy
 osdeployment
-osdetect
 osdprogress
 osdsus
 osdworkspace
@@ -6504,6 +6491,7 @@ parcel
 parclient
 parenting
 parititions
+parity
 parool
 parquet
 parse
@@ -6624,6 +6612,7 @@ permutations
 persian
 persistence
 persistent
+persistenthandler
 personal
 personalisation
 personalization
@@ -6639,7 +6628,6 @@ pfy
 pgp
 phabricator
 phantom
-phi
 philips
 philosophical
 philpritchett
@@ -6649,7 +6637,6 @@ phishnet
 phoenix
 phone
 phoneautomation
-phonenumber
 photo
 photograph
 photos
@@ -6750,7 +6737,6 @@ pocketblog
 podcast
 pode
 podman
-poe
 poem
 poetry
 point
@@ -7073,6 +7059,7 @@ privatemethods
 privateprofilestring
 privilege
 privilege-escalation
+privilegeaudit
 privilegecloud
 privileged
 privilegedaccess
@@ -10151,7 +10138,6 @@ pssearchgithub
 pssec
 pssendgrid
 pssession
-pssharedgoods
 pssharper
 psslack
 pssnowflake
@@ -10179,8 +10165,6 @@ pswindocumentation
 pswinreporting
 pswinreportingv2
 psword
-pswritehtml
-pswriteoffice
 pswriteword
 psyaml
 pszabbix
@@ -10414,6 +10398,7 @@ readable
 reader
 readiness
 readme
+readonly
 readpdf
 readthedocs
 real-time
@@ -10428,6 +10413,7 @@ rebootnodeifneeded
 recall
 recast
 recastsoftware
+recent
 reckon
 recognition
 recommendation
@@ -10664,6 +10650,7 @@ restart
 restaurant
 restful
 restore
+restore-point
 restore-points
 restrictive
 restructure
@@ -10671,12 +10658,12 @@ results
 resume
 retail
 retention
-retirement
 retro
 retry
 returnuserprofile
 retype
 reuse
+reverse-dns
 reverse-engineer
 reverse-engineering
 reverse-string
@@ -10691,6 +10678,7 @@ rexec
 rfc1305
 rfc1436
 rfc2030
+rfc2849
 rfc3164
 rfc3986
 rfc4007
@@ -10945,7 +10933,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scottplot
 scouterna
@@ -10985,6 +10972,7 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
+scriptmanagement
 scriptmodule
 scriptoform
 scriptrunner
@@ -10994,6 +10982,7 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
+scrubbing
 scsm
 scuba
 scvmm
@@ -11251,7 +11240,6 @@ share
 share-permission
 share-stat
 shared
-sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11753,6 +11741,7 @@ stolpe.io
 stop
 storablecolortheme
 storage
+storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -11766,13 +11755,13 @@ storagespaces
 storagespacesdirect
 storagesync
 store
-stored
 storedcredentials
 storefront
 storeonce
 storeserv
 strangeloop
 stratacloudmanager
+stratum
 strava
 streak
 stream
@@ -11963,6 +11952,7 @@ systemmonitor
 systems
 systemsplash
 systray
+sysvol
 t
 t-sql
 t1
@@ -12061,7 +12051,6 @@ technician
 technology
 technology1
 technologyone
-techsmith
 tel
 telefonia
 telegram
@@ -12128,7 +12117,6 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
-test-quality
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -12206,7 +12194,6 @@ threadsafe
 threadsanitizer
 threat
 threat-hunting
-threat-protection
 threatdefense
 threatdetection
 threathunting
@@ -12230,6 +12217,7 @@ tickets
 tickle
 ticks
 tictactoe
+tiering
 tiermodel
 tierzero
 tiktok
@@ -12279,6 +12267,7 @@ toggl-api-ps
 toggle
 token
 tokencounter
+tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12365,7 +12354,6 @@ transport
 trap
 traps
 travel
-trec
 tree
 tree-sitter
 tree-structure
@@ -12427,7 +12415,6 @@ ttrpg
 tts
 tube
 tubedownloader
-tuesday
 tui
 tulpep
 tuner
@@ -12659,6 +12646,7 @@ user
 user-environment
 user-management
 user-rights
+useradminmodule
 useragent
 usercontext
 userdiscovery
@@ -12751,7 +12739,6 @@ vcf.capacityplanner
 vcf.certificatemanager
 vcf.clustermanager
 vcf.complianceauditor
-vcf.contentmanager
 vcf.drvalidator
 vcf.hostevacuation
 vcf.identitymanager
@@ -12839,6 +12826,7 @@ vimode
 virole
 virsh
 virtual
+virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -12894,7 +12882,6 @@ vmimage
 vmmanagement
 vmnic
 vmrole
-vms
 vmss
 vmtovmhostrule
 vmtovmrule
@@ -13194,7 +13181,6 @@ windows-path
 windows-powershell
 windows-registry
 windows-remoting
-windows-server
 windows-server-2016
 windows-subsystem-for-linux
 windows-switcher
@@ -13247,6 +13233,7 @@ windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearch
 windowssearchmanager
 windowssecurity
 windowsserver
@@ -13380,7 +13367,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writers
 writing
 ws-federation
 ws1
