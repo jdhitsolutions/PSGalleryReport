@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 July 2026 22:39:38 UTC
+Updated: Friday, 17 July 2026 11:10:33 UTC
 
 .bat
 .env
@@ -81,7 +81,6 @@ aadc
 aadconnect
 aadgraph
 aadsecurity
-aadsts
 aam
 aas
 aatp
@@ -186,7 +185,6 @@ adapters
 adaptive-card
 adaptivecard
 adaptivecards
-adaudit
 adb
 adblock
 adc
@@ -287,8 +285,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 ag
 agenda
 agent
@@ -492,6 +488,7 @@ apmsynthetics
 apmtraces
 aportal
 app
+app-installer
 app-only
 app-v
 app-volumes
@@ -618,6 +615,7 @@ artificial-intelligence
 artificialintelligence
 aruba
 as
+as-rep-roasting
 asa
 asa.unittest
 asana
@@ -679,7 +677,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atproto
 atprotocol
@@ -708,7 +705,6 @@ audit-log
 audit-policy
 auditad
 auditing
-auditlaps
 auditlog
 auditnetlogon
 auditpol
@@ -865,6 +861,7 @@ azsql
 azstackhci
 azstate
 azsubnet
+aztableapi
 aztools
 azts
 azuead
@@ -872,6 +869,7 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-arc
 azure-artifacts
 azure-backup
 azure-cli
@@ -955,6 +953,7 @@ azurerunasconnection
 azurescout
 azuresearch
 azuresearcher
+azuresecurity
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -1177,6 +1176,7 @@ boot
 boot-policy
 boot-repair
 bootentry
+bootloader
 bootloader psmodule
 bootsecurity
 bootstrap
@@ -1241,9 +1241,9 @@ bson
 bssid
 btdf
 btm
+btmp
 bubbletea
 bubbsy
-bucket
 buddhist
 budget
 bugbounty
@@ -1321,7 +1321,6 @@ calvin-and-hobbes
 cam
 camera
 cameras
-camp
 campaign
 camtasia
 canarie
@@ -1423,6 +1422,7 @@ certera
 certes
 certificat
 certificate
+certificate-authority
 certificateauthority
 certificatechain
 certificatemanager
@@ -1506,7 +1506,6 @@ chrome
 chromium
 chrony
 chunk
-chunked
 chunking
 churchofjesuschrist
 ci
@@ -1542,6 +1541,7 @@ ciresonportal
 cis
 cis-benchmark
 cisa
+cisbenchmark
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1665,6 +1665,7 @@ cloudservice
 cloudshell
 cloudstorage
 cloudsync
+clr
 clsid
 clueser
 cluster
@@ -1700,6 +1701,7 @@ cnc
 cnn
 cnpc
 cns
+co-writer
 coa
 cobertura
 cockroachdb
@@ -1817,7 +1819,6 @@ commvault
 compare
 comparison
 compatibility
-compatible
 compile
 compiler
 complete
@@ -1857,11 +1858,13 @@ computersite
 computeschedule
 comulativeupdate
 concatenate
+concerts
 concur
 concurrent
 conda
 condition
 conditional
+conditional-access
 conditionalaccess
 conduit
 conference
@@ -2097,6 +2100,7 @@ crewai
 cricket
 crime
 critical
+crl
 crlf
 crm
 crm2016
@@ -2176,7 +2180,6 @@ customisation
 customization
 customlocation
 customlogs
-custommodules
 customproviders
 customsecurityattributes
 cutehttpfileserver
@@ -2505,7 +2508,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionengineering
 detectionrule
 deutschland
 dev
@@ -2671,6 +2673,7 @@ distributiongroup
 distributiongroups
 distributionlist
 distributionpointgroupmembers
+distro
 distrubtionpoint
 dividends
 diving
@@ -2885,6 +2888,7 @@ dungeonsanddragons
 duo
 duosecurity
 dupes
+duplex
 duplicate
 duplicate-files
 duplicates
@@ -3050,6 +3054,7 @@ encryption
 end-of-line
 endomondo
 endpoint
+endpoint-management
 endpoint-manager
 endpointjobs
 endpointmanagement
@@ -3122,7 +3127,6 @@ erb
 erp
 error
 error-log
-errorcode
 errorfile
 errorhandling
 errors
@@ -3159,6 +3163,7 @@ ethereum
 etherium
 ethernet
 ethr
+ethtool
 ethz
 etl
 etl2pcapng
@@ -3296,7 +3301,6 @@ extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extensible
 extension
@@ -3417,6 +3421,7 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
+fileformat
 fileintegrity
 filelist
 filelog
@@ -3662,7 +3667,6 @@ function-testing
 functionality
 functionalprogramming
 functionapp
-functionlibrary
 functions
 fundamentals
 funds
@@ -3966,6 +3970,7 @@ grouvee
 growlnotify
 grpc
 grr
+grub
 gruvbox
 gsettings
 gsudo
@@ -4033,6 +4038,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4197,6 +4203,7 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotcakex
 hotfix
 hotkey
 hotkeys
@@ -4325,6 +4332,7 @@ identifier
 identities
 identity
 identity-management
+identity-mapping
 identitycenter
 identitydataplane
 identitydirector
@@ -4474,6 +4482,7 @@ insightanalytics
 insights
 inspect
 inspection
+inspector
 inspiration
 inspirationalquotes
 inspire
@@ -4602,7 +4611,6 @@ ipp
 iprange
 ipranges
 ips
-ipsc
 ipscan
 ipsec
 iptables
@@ -4801,6 +4809,7 @@ kelverion
 kelvin
 kentico
 kerb
+kerberoasting
 kerberos
 kerberosauthentication
 kernel
@@ -4926,7 +4935,6 @@ languagepack
 lansweeper
 laplace
 laps
-lapslegacy
 laragon
 laravel
 largefiles
@@ -5156,6 +5164,7 @@ loggingsearch
 loggly
 logic
 logical-operators
+logical-volume
 logicapp
 logicapps
 logiclesstemplate
@@ -5230,6 +5239,7 @@ lunar
 lunches
 lunisolar
 lustrefilestorage
+lvm
 lwa
 lxca
 lxcapstool
@@ -5242,7 +5252,6 @@ m365
 m365defenderstuff
 m365dsc
 m365permissions
-maa
 maas360
 maatschap-fortigi
 mac
@@ -5294,7 +5303,6 @@ mak
 make
 maker
 malware
-malwareanalysis
 mamagedidentity
 maml
 man-highlighting
@@ -5504,6 +5512,7 @@ microsoft-365
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
+microsoft-intune
 microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
@@ -5544,6 +5553,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftpurview
+microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5576,7 +5586,6 @@ minifier
 minimal
 minimalist-framework
 minimum
-minio
 mip
 mipsdk
 miration-step
@@ -5778,7 +5787,6 @@ multi-tenant
 multi-thread
 multi-threading
 multi-zone
-multiadminapproval
 multiagent
 multicast
 multicloud
@@ -5854,7 +5862,6 @@ naming
 nana
 nano
 nanoleaf
-napster
 nartac
 nasdaq
 nationalinstruments
@@ -6155,6 +6162,7 @@ ocgv
 oci
 ocicontrolcenter
 ocr
+ocsp
 octoprint
 octopus
 octopus-deploy
@@ -6162,6 +6170,7 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
+ocx
 od4b
 oda
 odata
@@ -6194,7 +6203,6 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
-offsetanalysis
 ofx
 ogg
 oh-my-posh
@@ -6496,7 +6504,6 @@ parcel
 parclient
 parenting
 parititions
-parity
 parool
 parquet
 parse
@@ -6617,7 +6624,6 @@ permutations
 persian
 persistence
 persistent
-persistenthandler
 personal
 personalisation
 personalization
@@ -6637,7 +6643,9 @@ phi
 philips
 philosophical
 philpritchett
+phish
 phishing
+phishnet
 phoenix
 phone
 phoneautomation
@@ -7029,6 +7037,7 @@ prerequisites
 presentation
 presentationframework
 presenter
+preset
 presto
 preston-k-parsard
 prettifier
@@ -7063,7 +7072,7 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegeaudit
+privilege-escalation
 privilegecloud
 privileged
 privilegedaccess
@@ -10405,7 +10414,6 @@ readable
 reader
 readiness
 readme
-readonly
 readpdf
 readthedocs
 real-time
@@ -10420,7 +10428,6 @@ rebootnodeifneeded
 recall
 recast
 recastsoftware
-recent
 reckon
 recognition
 recommendation
@@ -10590,6 +10597,7 @@ replacement
 replaygain
 replication
 repo
+repofabric
 repoo
 report
 reporting
@@ -10669,7 +10677,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-dns
 reverse-engineer
 reverse-engineering
 reverse-string
@@ -10690,6 +10697,7 @@ rfc4007
 rfc4266
 rfc4291
 rfc5424
+rfc5905
 rfc5952
 rfc8009
 rfc826
@@ -10977,7 +10985,6 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
-scriptmanagement
 scriptmodule
 scriptoform
 scriptrunner
@@ -10987,7 +10994,6 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
-scrubbing
 scsm
 scuba
 scvmm
@@ -11057,6 +11063,7 @@ securityandcompliance
 securityassertionmarkuplanguage
 securityassessment
 securityattribute
+securityaudit
 securityawareness
 securitybaseline
 securitycenter
@@ -11244,6 +11251,7 @@ share
 share-permission
 share-stat
 shared
+sharedkey
 sharefile
 sharepoint
 sharepoint_online
@@ -11487,6 +11495,7 @@ sort-json
 sorting
 sound
 soundcore
+sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -11764,7 +11773,6 @@ storeonce
 storeserv
 strangeloop
 stratacloudmanager
-stratum
 strava
 streak
 stream
@@ -11912,6 +11920,7 @@ sysadmin
 sysadmin windows sysadmin dargslan devops administration
 sysadmin-tool
 sysadmin-tools
+sysctl
 sysctr
 sysinfo
 sysinfocmdlets
@@ -11954,7 +11963,6 @@ systemmonitor
 systems
 systemsplash
 systray
-sysvol
 t
 t-sql
 t1
@@ -12084,6 +12092,7 @@ tenantconfig
 tenantconfiguration
 tenantmanagement
 tenantmanagercontrolplane
+tenanttoolbox
 teradata
 termbin
 terminal
@@ -12270,7 +12279,6 @@ toggl-api-ps
 toggle
 token
 tokencounter
-tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12419,6 +12427,7 @@ ttrpg
 tts
 tube
 tubedownloader
+tuesday
 tui
 tulpep
 tuner
@@ -12450,6 +12459,7 @@ typeaccelerators
 typed-objects
 typedata
 typeextension
+typelib
 types
 types.ps1xml
 typescript
@@ -12649,7 +12659,6 @@ user
 user-environment
 user-management
 user-rights
-useradminmodule
 useragent
 usercontext
 userdiscovery
@@ -13238,7 +13247,6 @@ windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearch
 windowssearchmanager
 windowssecurity
 windowsserver
@@ -13262,6 +13270,8 @@ windowsvirtualdesktop
 winform
 winforms
 winget
+winget-cli
+winget-source
 wingetbridge
 winhttp
 wininet
@@ -13371,6 +13381,7 @@ writelog
 writeprogress
 writer
 writers
+writing
 ws-federation
 ws1
 wsapi
@@ -13383,6 +13394,7 @@ wsmanlistener
 wso2
 wsus
 wt
+wtmp
 wts
 wtsapi32
 wttr
@@ -13473,6 +13485,7 @@ yahoo
 yahw
 yamaha
 yaml
+yamlscript
 yandex
 yandexdisk
 yapg

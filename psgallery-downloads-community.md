@@ -320,9 +320,9 @@ PowerShell Module for interacting with the Atera API
 
 __Downloads__: 20,873,775 | __Repository__: https://github.com/davejlong/PSAtera
 
-## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.11.0) | 2.11.0
+## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.12.0) | 2.12.0
 
-### Published: 05/27/2026 19:00:58 by Thomas Freudenberg
+### Published: 07/17/2026 08:25:42 by Thomas Freudenberg
 
 Powershell module for creating and extracting 7-Zip archives
 
@@ -1130,9 +1130,9 @@ Windows PowerShell Module for managing file and folder security on NTFS volumes
 
 __Downloads__: 7,796,945 | __Repository__: https://github.com/raandree/NTFSSecurity
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26167.8664) | 5.1.26167.8664
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26198.8910) | 5.1.26198.8910
 
-### Published: 06/17/2026 07:11:41 by Red Gate Software Ltd.
+### Published: 07/17/2026 05:30:57 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 16 July 2026 22:39:35 UTC*
+*Updated: Friday, 17 July 2026 11:10:29 UTC*
