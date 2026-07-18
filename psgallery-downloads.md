@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Saturday, 18 July 2026 10:50:31 UTC*
+*Updated: Saturday, 18 July 2026 22:33:36 UTC*
