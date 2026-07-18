@@ -183,9 +183,9 @@ MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables 
 
 __Downloads__: 44,690,110 | __Repository__: https://github.com/jasoth/MSAL.PS
 
-## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.0) | 6.0.0
+## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.1) | 6.0.1
 
-### Published: 07/07/2026 07:40:53 by Pester Team
+### Published: 07/18/2026 09:48:27 by Pester Team
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 17 July 2026 22:32:54 UTC*
+*Updated: Saturday, 18 July 2026 10:50:33 UTC*

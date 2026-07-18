@@ -3,6 +3,142 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Eigenverft.Manifested.Package](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Package/1.20264.5748) | 1.20264.5748
+
+### Published: 07/18/2026 10:32:36 by Eigenverft
+
+Windows-focused PowerShell package-assignment engine for signed catalogs, verified multi-file artifacts, shared depots, and offline developer-machine bootstrap.
+
+__Downloads__: 318 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Package
+
+## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.1) | 6.0.1
+
+### Published: 07/18/2026 09:48:27 by Pester Team
+
+Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
+
+__Downloads__: 40,923,786 | __Repository__: https://github.com/Pester/Pester
+
+## [PSParseHTML](https://www.powershellgallery.com/Packages/PSParseHTML/2.2.0) | 2.2.0
+
+### Published: 07/18/2026 08:47:16 by Przemyslaw Klys
+
+Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS
+
+__Downloads__: 244,953 | __Repository__: https://github.com/EvotecIT/HtmlTinkerX
+
+## [PoshPalette](https://www.powershellgallery.com/Packages/PoshPalette/0.13.2) | 0.13.2
+
+### Published: 07/18/2026 08:33:51 by PoshPalette contributors
+
+Interactive theme picker for PowerShell + Windows Terminal. Browse, preview, and apply a look across all 4 layers (Terminal scheme, PSReadLine, $PSStyle, oh-my-posh) at once, with live preview, 47 bundled themes, scheme import (iTerm2/base16), palette-aware prompt generation, and an auto-updating community catalog.
+
+__Downloads__: 137 | __Repository__: https://github.com/livlign/posh-palette
+
+## [PsBash](https://www.powershellgallery.com/Packages/PsBash/0.10.22) | 0.10.22
+
+### Published: 07/18/2026 08:25:43 by Andy Brummer
+
+Real bash commands for PowerShell with typed objects. 76 commands (ls, grep, sort, awk, sed, jq, find, ps, du, tar, etc.) that accept real bash flags and return structured PowerShell objects while producing identical text output. Pipeline bridge pattern preserves typed objects through grep, sort, head, tail.
+
+__Downloads__: 759 | __Repository__: https://github.com/standardbeagle/ps-bash
+
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2026.7.18.710) | 2026.7.18.710
+
+### Published: 07/18/2026 07:19:19 by Nick2bad4u
+
+🎨 ColorScripts-Enhanced: Professional ANSI Art Terminal Experience
+
+![ColorScripts Mascot](https://raw.githubusercontent.com/Nick2bad4u/ps-color-scripts-enhanced/main/assets/ColorScripts-Mascot-Dark.jpeg)
+
+A powerful PowerShell module that brings beautiful ANSI art colorscripts to your terminal with enterprise-grade performance. Choose from 3156 stunning visual scripts and enjoy lightning-fast loading with intelligent caching.
+
+⚡ PERFORMANCE BOOST
+• 6-19x faster performance with smart caching
+• 5-20ms average load time (cached)
+• OS-wide cache across all terminal sessions
+• Automatic cache invalidation on script updates
+
+✨ FEATURES
+• 3156 beautiful colorscripts included
+• Professional-grade ANSI art collection
+• Cross-platform support (Windows, macOS, Linux)
+• PowerShell 5.1+ and PowerShell 7+ compatible
+• Tab completion and intelligent parameter handling
+• Centralized cache in AppData/ColorScripts-Enhanced
+• Configuration persistence for user preferences
+• Rich metadata and script discovery
+
+🚀 QUICK START
+Display random art: Show-ColorScript (or use alias: scs)
+List available scripts: Get-ColorScriptList
+Pre-build cache: New-ColorScriptCache
+
+📖 DOCUMENTATION
+Full guide: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+Issues & Discussions: https://github.com/Nick2bad4u/ps-color-scripts-enhanced/issues
+
+COMMANDS INCLUDED
+• Show-ColorScript - Display colorscripts with caching
+• Get-ColorScriptList - Browse available scripts
+• New-ColorScriptCache - Pre-generate cache for speed
+• Clear-ColorScriptCache - Manage cache storage
+• Add-ColorScriptProfile - Integrate into PowerShell profile
+• Get-ColorScriptConfiguration - View settings
+• Set-ColorScriptConfiguration - Persist preferences
+• Export-ColorScriptMetadata - Export script metadata
+• New-ColorScript - Create new colorscripts
+
+PERFECT FOR
+✓ Making your terminal visually stunning
+✓ Terminal startup customization
+✓ System administration dashboards
+✓ Development environments
+✓ DevOps automation
+✓ Learning ANSI art and terminal graphics
+
+__Downloads__: 644 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.762.2) | 1.762.2
+
+### Published: 07/18/2026 06:51:27 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [XDRInternals](https://www.powershellgallery.com/Packages/XDRInternals/1.0.29) | 1.0.29
+
+### Published: 07/18/2026 06:30:28 by Fabian Bader & Nathan McNulty
+
+The unofficial API cmdlet to interact with the Microsoft Defender XDR portal
+
+__Downloads__: 502 | __Repository__: https://github.com/MSCloudInternals/XDRInternals
+
+## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.2.6) | 1.2.6
+
+### Published: 07/18/2026 04:10:44 by Brian Lalonde
+
+Converts HTML to Markdown/CommonMark.
+
+__Downloads__: 24,011 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+
+## [OpenEndpointEvents](https://www.powershellgallery.com/Packages/OpenEndpointEvents/1.1.1) | 1.1.1
+
+### Published: 07/18/2026 03:06:42 by OpenEndpointEvents contributors
+
+Lightweight PowerShell module for writing user-defined endpoint events as daily NDJSON files for simple analytics.
+
+__Downloads__: 0 | __Repository__: https://github.com/OpenEndpointEvents/OpenEndpointEvents
+
+## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.16.0) | 0.16.0
+
+### Published: 07/17/2026 23:47:57 by dbosoft GmbH and eryph contributors
+
+Cmdlets for the eryph compute API.
+
+__Downloads__: 2,073 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
+
 ## [ADEHM](https://www.powershellgallery.com/Packages/ADEHM/1.0.1) | 1.0.1
 
 ### Published: 07/17/2026 22:14:40 by Angelo OUSSATCHEDJI
@@ -10,14 +146,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 ADEHM - Active Directory Enterprise Health Monitor. Agentless health monitoring for Active Directory domain controllers: pure PowerShell + CIM/WinRM, no agents, no database, least-privilege by design (works on hardened DCs). Professional HTML report, Outlook-safe email delivery, structured incident log. Part of the AD Enterprise Suite.
 
 __Downloads__: 0 | __Repository__: https://github.com/oussangelo/ADEHM
-
-## [XurrentHelpers](https://www.powershellgallery.com/Packages/XurrentHelpers/0.7.0) | 0.7.0
-
-### Published: 07/17/2026 22:10:16 by Ing. Fabian Steiner BSc.
-
-A PowerShell Module by techwork data GmbH containing cmdlets making Xurrent adminstration easier and more efficient
-
-__Downloads__: 57 | __Repository__: https://github.com/fasteiner/Xurrent-Helpers
 
 ## [Compex.VMWare](https://www.powershellgallery.com/Packages/Compex.VMWare/0.2.0) | 0.2.0
 
@@ -35,17 +163,9 @@ Read and write LDIF (RFC 2849): ConvertFrom-Ldif, ConvertTo-Ldif, Import-Ldif, E
 
 __Downloads__: 0 | __Repository__: https://github.com/joshmakestuff/ldifdotnet
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.762.1) | 1.762.1
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.67) | 3.0.67
 
-### Published: 07/17/2026 20:54:41 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.68) | 3.0.68
-
-### Published: 07/17/2026 20:13:04 by Przemyslaw Klys
+### Published: 07/17/2026 19:56:45 by Przemyslaw Klys
 
 Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
 
@@ -435,14 +555,6 @@ PSSailpoint.AccessModelMetadata - the PowerShell module for Identity Security Cl
 
 __Downloads__: 8 | __Repository__: 
 
-## [Eigenverft.Manifested.Package](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Package/1.20264.4730) | 1.20264.4730
-
-### Published: 07/17/2026 16:26:41 by Eigenverft
-
-Windows-focused PowerShell package-assignment engine for signed catalogs, verified multi-file artifacts, shared depots, and offline developer-machine bootstrap.
-
-__Downloads__: 318 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Package
-
 ## [SPClean](https://www.powershellgallery.com/Packages/SPClean/1.3.0) | 1.3.0
 
 ### Published: 07/17/2026 15:42:33 by David Pham
@@ -596,14 +708,6 @@ __Downloads__: 1,727 | __Repository__: https://github.com/JankeUwe/sqmSQLTool
 cdp - A fast and intuitive project directory switcher for PowerShell. Fuzzy-find your way to any project instantly.
 
 __Downloads__: 126 | __Repository__: https://github.com/GoldenZqqq/cdp
-
-## [OpenEndpointEvents](https://www.powershellgallery.com/Packages/OpenEndpointEvents/1.0.1) | 1.0.1
-
-### Published: 07/17/2026 05:40:17 by OpenEndpointEvents contributors
-
-Lightweight PowerShell module for writing user-defined endpoint events as daily NDJSON files for simple analytics.
-
-__Downloads__: 0 | __Repository__: https://github.com/Flock-Master/OpenEndpointEvents
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26198.8910) | 5.1.26198.8910
 
@@ -1249,6 +1353,14 @@ PSSailpoint.Identities - the PowerShell module for Identity Security Cloud API -
 
 __Downloads__: 9 | __Repository__: 
 
+## [MappingEncrypt](https://www.powershellgallery.com/Packages/MappingEncrypt/1.0.0) | 1.0.0
+
+### Published: 07/16/2026 07:41:18 by MD Faisal Qureshi
+
+A custom character encoding module for encrypting PowerShell scripts. PowerShell port of the mapping-encrypt package; uses the same private Cloudflare mapping worker.
+
+__Downloads__: 0 | __Repository__: https://github.com/mfq2412/Mapping
+
 ## [AuditM365](https://www.powershellgallery.com/Packages/AuditM365/2.1.0) | 2.1.0
 
 ### Published: 07/16/2026 07:25:51 by AuditM365 Team
@@ -1264,14 +1376,6 @@ __Downloads__: 0 | __Repository__: https://auditm365.dev/
 PowerShell Module for Up Bank
 
 __Downloads__: 368 | __Repository__: https://github.com/darrenjrobinson/UpBank
-
-## [PoshPalette](https://www.powershellgallery.com/Packages/PoshPalette/0.13.1) | 0.13.1
-
-### Published: 07/16/2026 04:56:00 by PoshPalette contributors
-
-Interactive theme picker for PowerShell + Windows Terminal. Browse, preview, and apply a look across all 4 layers (Terminal scheme, PSReadLine, $PSStyle, oh-my-posh) at once, with live preview, 47 bundled themes, scheme import (iTerm2/base16), palette-aware prompt generation, and an auto-updating community catalog.
-
-__Downloads__: 137 | __Repository__: https://github.com/livlign/posh-palette
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.26.715.100) | 1.26.715.100
 
@@ -1305,6 +1409,14 @@ NovaModuleTools is an enterprise-focused build tool for PowerShell module develo
 
 __Downloads__: 11,906 | __Repository__: https://www.novamoduletools.com/
 
+## [DattoRMM.Core](https://www.powershellgallery.com/Packages/DattoRMM.Core/0.6.0) | 0.6.0
+
+### Published: 07/15/2026 20:08:56 by Robert Faddes
+
+PowerShell module for the Datto RMM API v2. Provides typed, object-oriented access to devices, sites, alerts, jobs, components, filters, and variables with built-in adaptive throttling, secure credential handling, and CSV export support. Requires PowerShell 7.4+.
+
+__Downloads__: 0 | __Repository__: https://github.com/TheShadowTek/DattoRMM.Core
+
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/3.3.0) | 3.3.0
 
 ### Published: 07/15/2026 19:28:06 by JumpCloud Solutions Architect Team
@@ -1337,13 +1449,13 @@ A WPF GUI tool for comparing Microsoft Intune configuration policies and device 
 
 __Downloads__: 126 | __Repository__: https://github.com/sandytsang/IntuneDiff
 
-## [PSParseHTML](https://www.powershellgallery.com/Packages/PSParseHTML/2.0.19) | 2.0.19
+## [EndpointJobs](https://www.powershellgallery.com/Packages/EndpointJobs/0.1.0) | 0.1.0
 
-### Published: 07/15/2026 14:00:54 by Przemyslaw Klys
+### Published: 07/15/2026 13:39:18 by jorgeasaurus
 
-Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS
+PowerShell client for the public EndpointJobs API.
 
-__Downloads__: 244,953 | __Repository__: https://github.com/EvotecIT/PSParseHTML
+__Downloads__: 0 | __Repository__: https://github.com/jorgeasaurus/EndpointJobs
 
 ## [Sashimi](https://www.powershellgallery.com/Packages/Sashimi/1.3.0) | 1.3.0
 
@@ -1438,6 +1550,14 @@ A technician-grade toolbox for automation, diagnostics, and enterprise workflows
 
 __Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
 
+## [Lerp](https://www.powershellgallery.com/Packages/Lerp/0.1) | 0.1
+
+### Published: 07/15/2026 00:45:40 by James Brundage
+
+Linear Interpolation in PowerShell
+
+__Downloads__: 0 | __Repository__: https://github.com/PoshWeb/Lerp
+
 ## [Carbon.Accounts](https://www.powershellgallery.com/Packages/Carbon.Accounts/2.1.0) | 2.1.0
 
 ### Published: 07/15/2026 00:41:11 by WebMD Health Services
@@ -1445,6 +1565,14 @@ __Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
 Manages accounts, identities, principals, users, groups, and privileges.
 
 __Downloads__: 2,284 | __Repository__: https://github.com/webmd-health-services/Carbon.Accounts
+
+## [PSPhoneNumber](https://www.powershellgallery.com/Packages/PSPhoneNumber/9.0.34.1) | 9.0.34.1
+
+### Published: 07/14/2026 22:22:47 by Jan Elhause
+
+PowerShell implementation for libphonenumber
+
+__Downloads__: 0 | __Repository__: https://github.com/elhaus/PSPhoneNumber
 
 ## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.120.0) | 0.120.0
 
@@ -1943,84 +2071,4 @@ This modules provides Cmdlets for OCI Multicloud Service
 
 __Downloads__: 2,385 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Monitoring Service
-
-__Downloads__: 15,097 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Modeldeployment](https://www.powershellgallery.com/Packages/OCI.PSModules.Modeldeployment/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Modeldeployment Service
-
-__Downloads__: 2,864 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mngdmac](https://www.powershellgallery.com/Packages/OCI.PSModules.Mngdmac/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mngdmac Service
-
-__Downloads__: 3,280 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mediaservices Service
-
-__Downloads__: 13,150 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplacepublisher](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplacepublisher/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplacepublisher Service
-
-__Downloads__: 9,724 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplaceprivateoffer](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplaceprivateoffer/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:04:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplaceprivateoffer Service
-
-__Downloads__: 7,378 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:03:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 14,855 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:03:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 17,252 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:03:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementagent Service
-
-__Downloads__: 14,760 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managedkafka](https://www.powershellgallery.com/Packages/OCI.PSModules.Managedkafka/138.0.0) | 138.0.0
-
-### Published: 07/14/2026 19:03:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managedkafka Service
-
-__Downloads__: 2,295 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 17 July 2026 22:32:48 UTC*
+*Updated: Saturday, 18 July 2026 10:50:27 UTC*
