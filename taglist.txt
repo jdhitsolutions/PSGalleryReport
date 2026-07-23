@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 July 2026 22:42:18 UTC
+Updated: Thursday, 23 July 2026 11:34:34 UTC
 
 .bat
 .env
@@ -134,7 +134,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -188,6 +187,7 @@ adaptivecard
 adaptivecards
 adaudit
 adb
+adblock
 adc
 adcomputer
 adcs
@@ -294,6 +294,7 @@ agenda
 agent
 agent-management
 agentic
+agenticoperatingmodel
 agentplugin
 agents
 aggregate
@@ -470,7 +471,6 @@ apexlegends
 api
 api-client
 api-gateway
-api-generation
 api-rest
 api-wrapper
 apiaccesscontrol
@@ -634,8 +634,6 @@ asdatabase
 aseprite
 asigra
 asjob
-ask-gpt
-askgpt
 asm
 asn
 asn.1
@@ -724,6 +722,7 @@ aumid
 australia
 aut
 auth
+auth-log
 auth0
 authenticate
 authentication
@@ -740,7 +739,6 @@ authority
 authorization
 authorizationheaders
 authorize.net
-authorized_keys
 authz
 autify
 auto
@@ -912,6 +910,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -957,6 +957,7 @@ azurerunasconnection
 azurescout
 azuresearch
 azuresearcher
+azuresecurity
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -987,7 +988,6 @@ backconnectionhostname
 backdoor
 backend
 background
-backlog
 backup
 backup_validation
 badge
@@ -1058,7 +1058,6 @@ beep
 beer
 beginnerfriendly
 behavior
-behavioralanalytics
 belin
 benchmark
 benchmarking
@@ -1500,9 +1499,9 @@ choco-bear
 chocobear
 chocolatey
 choice
-chokidar
 choose_file
 choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1547,6 +1546,7 @@ ciresonportal
 cis
 cis-benchmark
 cisa
+cisbenchmark
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1575,7 +1575,6 @@ clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
-clean-architecture
 clean-up
 cleanarchitecture
 cleanmgr
@@ -1620,6 +1619,7 @@ clihelper.semver
 clihelper.sqlite
 clihelper.trends
 clihelper.twilio
+clihelper.userconfig
 clipart
 clipasswordsdk
 clipboard
@@ -1670,7 +1670,6 @@ cloudservice
 cloudshell
 cloudstorage
 cloudsync
-clr
 clsid
 clueser
 cluster
@@ -1714,9 +1713,9 @@ codaamok
 code
 code-analysis
 code-completion
-code-generation
 code-integrity
 code-page
+code-quality
 code-reuse
 code-snippets
 code365
@@ -1742,6 +1741,7 @@ codesign
 codesigning
 codex
 coercion
+cognitive
 cognitiveservice
 cognitiveservices
 cohere
@@ -1828,6 +1828,7 @@ completion
 completionresult
 completions
 complex
+complexity
 compliance
 compliancemessagetraceanalyzer
 compliancepolicy
@@ -1864,7 +1865,6 @@ concurrent
 conda
 condition
 conditional
-conditional-access
 conditionalaccess
 conduit
 conference
@@ -1874,7 +1874,6 @@ config
 configapi
 configascode
 configdata
-configdrift
 configkey
 configmap
 configmgr
@@ -1918,7 +1917,6 @@ connectorcmd
 connectormanagement
 connectsync
 connectwise
-conntrack
 conservation
 console
 consoleguitools
@@ -1995,6 +1993,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 cool
 coolq
@@ -2054,7 +2053,6 @@ cq
 cqd
 cqdpowershell
 cqhttp
-cqrs
 crack psmodule
 crash
 crashdump
@@ -2106,7 +2104,6 @@ crm2016
 cron
 crontab
 cropping
-cross-forest
 cross-platform
 crossforest
 crossjoin
@@ -2245,6 +2242,7 @@ cybersecurity
 cyberwatch
 cyclic
 cyclicredundancycheck
+cyclomatic
 cygwin
 cylance
 cypher
@@ -2297,7 +2295,6 @@ data-uri-converter
 dataadapter
 dataagent
 database
-database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2412,7 +2409,6 @@ debuglog
 decimal
 decimalip
 decimalzero
-decisiontree
 declarative
 decline
 decode
@@ -2447,7 +2443,6 @@ defenderasr
 defenderast
 defenderforendpoint
 defenderforidentity
-defenderforservers
 defenderxdr
 defense
 defensivesecurity
@@ -2508,6 +2503,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionengineering
 detectionrule
 deutschland
 dev
@@ -2540,6 +2536,8 @@ devicecontrol
 devicehardening
 deviceid
 devicemanagement
+devicemanager
+devicepreparation
 deviceprovisioningservice
 devicequery
 deviceregistry
@@ -2560,8 +2558,6 @@ dfch
 dfir
 dfplayermini
 dfs
-dfs-replication
-dfsr
 dfw
 dg
 dhash
@@ -2586,6 +2582,7 @@ diff
 difference
 dify
 dig
+digest
 digikam
 digital
 digital-forensics
@@ -2615,7 +2612,6 @@ directoryservices
 directorysync
 directrouting
 directsend
-directus
 direnv
 dirkjan
 dirname
@@ -2770,6 +2766,7 @@ domains
 domino
 done.land
 donothing
+dorado
 dos
 dot
 dotbot
@@ -2940,7 +2937,6 @@ easy-to-use
 easylife365
 easypim
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -3084,7 +3080,6 @@ enterprisevoice
 entertainment
 entitlementmanagement
 entity
-entity-framework
 entityframework
 entra
 entra-id
@@ -3184,6 +3179,7 @@ event_list
 event-forwarding
 event-log
 event-timeline
+eventbridge
 eventchannel
 eventchannels
 eventcollector
@@ -3304,7 +3300,6 @@ extendedproperties
 extendedproperty
 extendscript
 extensibility
-extensible
 extension
 extensionmethods
 extensionrisk
@@ -3366,7 +3361,6 @@ fasttrack
 fat32
 favorite
 favorites
-favouritedirectory
 fb-pro
 fci
 fciv
@@ -3573,7 +3567,6 @@ forensics
 forest
 forestdiscovery
 forge
-forgit
 forgiveness
 form
 format
@@ -3690,6 +3683,7 @@ gal
 gallery
 gam7
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3702,7 +3696,6 @@ gateway
 gauge
 gavin
 gavineke
-gbl
 gcbdr
 gce
 gci
@@ -3938,6 +3931,7 @@ graphconnector
 grapheme
 graphexplorer
 graphic
+graphical
 graphics
 graphite
 graphql
@@ -3967,6 +3961,7 @@ groupmanagement
 groupmembership
 grouppolicy
 groups
+grouvee
 growlnotify
 grpc
 grr
@@ -4090,7 +4085,6 @@ healthcheck
 healthchecks
 healthchecks.io
 healthdataaiservices
-healthscore
 healthservice
 healthz
 heartbeatdiscovery
@@ -4410,7 +4404,6 @@ import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
-importexcel
 importexport
 importteams
 inactive
@@ -4806,6 +4799,7 @@ keepass
 keepasslib
 keepawake
 keeper
+keepit
 kelverion
 kelvin
 kentico
@@ -4832,6 +4826,7 @@ keymanagementserver
 keymap
 keymapping
 keypair
+keyring
 keys
 keysms
 keytab
@@ -4947,6 +4942,7 @@ lastlog
 lastlogon
 lastpass
 latency
+lateralmovement
 latest_powershell_version
 latestupdate
 latex
@@ -4954,7 +4950,6 @@ latin
 latitude
 launch
 launcher
-launchpad
 laws
 layer
 layman
@@ -4996,7 +4991,6 @@ lemonai
 lenel
 length
 lenovo
-lens
 less
 lesspass
 letsencrypt
@@ -5008,6 +5002,7 @@ libmagic
 libphonenumber
 libraries
 library
+libsecret
 libsodium
 libvirt
 licence
@@ -5029,6 +5024,7 @@ lighthouse
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
 limitsincrease
@@ -5069,6 +5065,7 @@ list_files
 list-directory
 list-item
 listener
+listing
 litecoin
 litedb
 literature
@@ -5098,6 +5095,7 @@ loandepot
 loc
 local
 local-account
+local-admin
 local-ai
 local-caching
 local-gpo
@@ -5143,6 +5141,7 @@ log-files
 log-mail
 log-mails
 log-management
+log-parser
 log-rotation
 log4net
 loganalytics
@@ -5250,7 +5249,6 @@ m365defenderstuff
 m365dsc
 m365permissions
 maa
-maas360
 maatschap-fortigi
 mac
 mac-address
@@ -5290,6 +5288,7 @@ mailmessage
 mails
 mailsecurity
 mailspring
+main-menu
 main-mode
 maintain-module
 maintainability
@@ -5300,6 +5299,7 @@ mak
 make
 maker
 malware
+malwareanalysis
 mamagedidentity
 maml
 man-highlighting
@@ -5454,6 +5454,7 @@ memorymanagement
 memorystream
 mention
 menu
+menus
 meraki
 merakiapi
 mercurial
@@ -5513,7 +5514,6 @@ microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
-microsoft-windows-subsystem-for-linux
 microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
@@ -5773,9 +5773,7 @@ mule
 mulesoft
 multi
 multi-agent
-multi-domain
 multi-factor
-multi-forest
 multi-language
 multi-platform
 multi-repo
@@ -5789,6 +5787,7 @@ multicast
 multicloud
 multicultural
 multidimenstional
+multigeo
 multilingual
 multimedia
 multimonitor
@@ -5807,8 +5806,10 @@ multithreading
 multiuser
 music
 musiccast
+musicforprogramming
 mustache
 mutation
+mutation-testing
 mute
 mutex
 mva
@@ -5917,7 +5918,6 @@ netboxtools
 netcease
 netcore
 netextender
-netfilter
 netfirewallrule
 netherlands
 netillimar
@@ -5927,6 +5927,7 @@ netpdfps
 nets
 netsapiens
 netscaler
+netscalertoolkit
 netscape
 netscoot
 netsec
@@ -5958,6 +5959,7 @@ networkinfo
 networking
 networkinterfaces
 networkloadbalancer
+networklocal
 networkpolicyserver
 networkprofile
 networkscan
@@ -6019,6 +6021,7 @@ ninjarmm
 nios
 nipkg
 nist
+nitro
 nitrox
 nixos
 njclipsh
@@ -6151,6 +6154,7 @@ obs
 observability
 observeit
 oce
+oceanstor
 ocg
 ocgv
 oci
@@ -6178,6 +6182,7 @@ oembed
 offboarding
 offence
 offense
+offensivesecurity
 office
 office_365
 office-365
@@ -6196,6 +6201,7 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
+offsetanalysis
 ofx
 ogg
 oh-my-posh
@@ -6212,7 +6218,6 @@ omada
 omaha
 ome
 omg
-omniframework
 omnisphere
 omnissa
 omnistack
@@ -6356,6 +6361,7 @@ order
 organization
 organizational-unit
 organizationally
+organize
 organizer
 orgnetwork
 oriflame
@@ -6376,7 +6382,6 @@ osdcloud
 osdcloud.michael
 osdeploy
 osdeployment
-osdetect
 osdprogress
 osdsus
 osdworkspace
@@ -6425,6 +6430,7 @@ outsystems
 overbite
 overpowered
 override
+oversharing
 ovf
 ovgd
 ovh
@@ -6499,7 +6505,6 @@ parcel
 parclient
 parenting
 parititions
-parity
 parool
 parquet
 parse
@@ -6561,6 +6566,7 @@ path
 pathfinder
 pathlength
 pathmanagement
+pattern
 patternmatching
 paulo
 pause
@@ -6601,6 +6607,7 @@ pemfile
 pendingreboot
 penetration
 penetrationtesting
+pentest
 pentesting
 pentia
 people
@@ -6742,6 +6749,7 @@ pnp.powershell
 pnpm
 poa
 poc
+pocketblog
 podcast
 pode
 podman
@@ -6850,7 +6858,6 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
-poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -6883,7 +6890,6 @@ poshy-wrap-zypper
 position
 post
 postcode
-postdeployment
 postgre
 postgres
 postgresql
@@ -6934,8 +6940,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-5.1+
-powershell-7+
 powershell-ai
 powershell-art
 powershell-class
@@ -7028,11 +7032,9 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-prerequisites
 presentation
 presentationframework
 presenter
-preset
 presto
 preston-k-parsard
 prettifier
@@ -7497,29 +7499,6 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
-pscommand_forgit-add
-pscommand_forgit-blame
-pscommand_forgit-branch-delete
-pscommand_forgit-checkout-branch
-pscommand_forgit-checkout-commit
-pscommand_forgit-checkout-file
-pscommand_forgit-checkout-tag
-pscommand_forgit-cherry-pick
-pscommand_forgit-cherry-pick-from-branch
-pscommand_forgit-clean
-pscommand_forgit-diff
-pscommand_forgit-fixup
-pscommand_forgit-ignore
-pscommand_forgit-ignore-clean
-pscommand_forgit-ignore-list
-pscommand_forgit-ignore-update
-pscommand_forgit-ignoreget
-pscommand_forgit-log
-pscommand_forgit-rebase
-pscommand_forgit-reset-head
-pscommand_forgit-revert-commit
-pscommand_forgit-stash-push
-pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -7562,7 +7541,6 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
-pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -7710,7 +7688,6 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
-pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -7719,7 +7696,6 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
-pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -7827,7 +7803,6 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
-pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -7852,7 +7827,6 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
-pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -9189,29 +9163,6 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
-psfunction_forgit-add
-psfunction_forgit-blame
-psfunction_forgit-branch-delete
-psfunction_forgit-checkout-branch
-psfunction_forgit-checkout-commit
-psfunction_forgit-checkout-file
-psfunction_forgit-checkout-tag
-psfunction_forgit-cherry-pick
-psfunction_forgit-cherry-pick-from-branch
-psfunction_forgit-clean
-psfunction_forgit-diff
-psfunction_forgit-fixup
-psfunction_forgit-ignore
-psfunction_forgit-ignore-clean
-psfunction_forgit-ignore-list
-psfunction_forgit-ignore-update
-psfunction_forgit-ignoreget
-psfunction_forgit-log
-psfunction_forgit-rebase
-psfunction_forgit-reset-head
-psfunction_forgit-revert-commit
-psfunction_forgit-stash-push
-psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
@@ -10148,7 +10099,6 @@ pssearchgithub
 pssec
 pssendgrid
 pssession
-pssharedgoods
 pssharper
 psslack
 pssnowflake
@@ -10176,8 +10126,6 @@ pswindocumentation
 pswinreporting
 pswinreportingv2
 psword
-pswritehtml
-pswriteoffice
 pswriteword
 psyaml
 pszabbix
@@ -10264,6 +10212,7 @@ qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
+qiita
 qlearning
 qlgc_fc_powerkit
 qlik
@@ -10757,7 +10706,6 @@ rolemanagement
 roles
 rollback
 rollingfile
-rollout
 romaji
 ron
 rooms
@@ -11028,7 +10976,6 @@ secretbox
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretshub
@@ -11066,6 +11013,7 @@ securityandcompliance
 securityassertionmarkuplanguage
 securityassessment
 securityattribute
+securityaudit
 securityawareness
 securitybaseline
 securitycenter
@@ -11156,7 +11104,6 @@ serverconfig
 serverinventory
 serverless
 servermanagement
-serverprotection
 servers
 serversideautolabeling
 service
@@ -11267,18 +11214,19 @@ sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
 sharetru
+sharing
 sharpdown
 sheets
 shell
 shell-art
 shell-integration
+shellpilot
 shells
 sherweb
 shielded-vm
 shieldedvm
 shift-jis
 shim
-shims
 shipment
 shipping
 ships
@@ -11294,6 +11242,7 @@ shortcuts
 shortpath
 shotgun
 show
+show-command
 show-objecttree
 show-on-command
 showdemo
@@ -11377,6 +11326,7 @@ slash
 slashcommands
 sleep
 sleeper
+slides
 slideshow
 slmgr
 sln
@@ -11636,6 +11586,7 @@ srrdb
 srs
 srt
 srylius-write
+ss
 ssa
 ssas
 ssc
@@ -11645,7 +11596,6 @@ ssdt
 sse
 ssh
 ssh-config
-ssh-import-id
 ssh-keygen
 ssh-keys
 sshmanagement
@@ -11749,6 +11699,7 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storage-pool
@@ -11807,6 +11758,7 @@ studio
 style
 su
 sub-directory
+sub-menu
 subatomix
 subdirectory
 subject
@@ -11866,7 +11818,6 @@ surface
 surround
 surveillance
 survey
-surveymonkey
 sus
 sushi
 suspensive
@@ -11919,6 +11870,7 @@ sysadmin
 sysadmin windows sysadmin dargslan devops administration
 sysadmin-tool
 sysadmin-tools
+sysctl
 sysctr
 sysinfo
 sysinfocmdlets
@@ -12036,6 +11988,7 @@ tcx
 tcxaemgmt
 tdd
 tea
+teable
 teaching
 team
 teamcity
@@ -12126,6 +12079,7 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-quality
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -12153,10 +12107,10 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-menu
 text-templates
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -12210,7 +12164,6 @@ threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
 threatmanagement
-threatprotection
 threats
 threatsharing
 throttling
@@ -12270,6 +12223,9 @@ todo
 todo.txt
 together
 toggl
+toggl-api
+toggl-api-powershell
+toggl-api-ps
 toggle
 token
 tokencounter
@@ -12377,7 +12333,6 @@ trevor
 trevorsullivan
 triage
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -12414,9 +12369,6 @@ tsg
 tsheets
 tsqlbestpractice
 tsqlt
-tst
-tst1
-tst3
 tsv
 ttd
 ttrpg
@@ -12598,6 +12550,7 @@ unraid
 unsigned
 unsupported
 untis
+unused
 unzip
 up
 upbank
@@ -12978,7 +12931,6 @@ vtt
 vue
 vulnerabilities
 vulnerability
-vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
@@ -13193,7 +13145,6 @@ windows-registry
 windows-remoting
 windows-server
 windows-server-2016
-windows-subsystem-for-linux
 windows-switcher
 windows-terminal
 windows-update
@@ -13404,7 +13355,6 @@ wunderlist
 wus
 wvd
 www
-x-adcommander
 x-cart
 x.509
 x1
@@ -13420,7 +13370,6 @@ x509chain
 x64
 x86
 xa
-xadcommander
 xaf
 xaml
 xaml-gui
@@ -13517,6 +13466,7 @@ zcat
 zendesk
 zero-knowledge
 zerofailed
+zerossl
 zerotrust
 zerto
 zigbee
