@@ -1075,9 +1075,9 @@ Provide SSH and SCP functionality for executing commands against remote hosts. Y
 
 __Downloads__: 75,271,034 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
-## [ExchangeOnlineManagement](https://www.powershellgallery.com/Packages/ExchangeOnlineManagement/3.10.0) | 3.10.0
+## [ExchangeOnlineManagement](https://www.powershellgallery.com/Packages/ExchangeOnlineManagement/3.10.1) | 3.10.1
 
-### Published: 06/08/2026 09:05:38 by Microsoft Corporation
+### Published: 07/24/2026 09:57:50 by Microsoft Corporation
 
 This is a General Availability (GA) release of the Exchange Online Powershell V3 module. Exchange Online cmdlets in this module are REST-backed and do not require Basic Authentication to be enabled in WinRM. REST-based connections in Windows require the PowerShellGet module, and by dependency, the PackageManagement module.
 Please check the documentation here - https://aka.ms/exov3-module.
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Thursday, 23 July 2026 22:38:50 UTC*
+*Updated: Friday, 24 July 2026 11:26:09 UTC*
