@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 July 2026 12:46:04 UTC
+Updated: Monday, 27 July 2026 22:43:09 UTC
 
 .bat
 .env
@@ -301,6 +301,7 @@ agents
 aggregate
 aggregates
 aggregation
+agicap
 agile
 agility
 agm
@@ -450,7 +451,6 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
-antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -726,7 +726,6 @@ aumid
 australia
 aut
 auth
-auth-log
 auth0
 authenticate
 authentication
@@ -756,7 +755,6 @@ autocomplete
 autocompletion
 autodesk
 autoenv
-autogen
 autograph
 autohotkey
 autolabeling
@@ -1183,8 +1181,8 @@ bool
 boolean
 boot
 boot-policy
-boot-repair
 bootentry
+bootloader
 bootloader psmodule
 bootsecurity
 bootstrap
@@ -1195,7 +1193,6 @@ borg
 bot
 bots
 botservice
-bottleneck
 bouncer
 boundaries
 boundarygroups
@@ -1245,6 +1242,7 @@ browsing
 brs
 brute-force
 bruteforce
+bsi
 bson
 bssid
 btdf
@@ -1375,7 +1373,6 @@ cat-names
 catalog
 catalyst
 catapult
-category
 catesta
 catimage
 cats
@@ -1411,8 +1408,6 @@ ce
 celcat
 celerium
 censor
-censorchecker
-censorship
 center
 centered
 centra
@@ -1545,7 +1540,6 @@ cimsession
 cinst
 ciph4
 cipher
-ciphers
 circuit-breaker
 circumlunar
 cireson
@@ -1919,7 +1913,6 @@ connectednetwork
 connectedvmware
 connectexchange
 connection
-connection-security
 connections
 connectionsmanager
 connectionstring
@@ -2087,9 +2080,7 @@ credential
 credential-dialog
 credential-file
 credential-files
-credential-guard
 credential-manager
-credential-protection
 credentiallocker
 credentialmanagement
 credentialmanager
@@ -2106,7 +2097,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crewai
 cricket
 crime
 critical
@@ -2302,7 +2292,6 @@ data-backup
 data-boar
 data-loss-prevention
 data-protection
-data-sources
 data-tier
 data-transfer
 data-uri
@@ -2557,6 +2546,7 @@ devicehardening
 deviceid
 devicemanagement
 devicemanager
+devicepreparation
 deviceprovisioningservice
 devicequery
 deviceregistry
@@ -2725,7 +2715,6 @@ dns-async
 dns-client
 dns-over-https
 dns-resolver
-dns-server
 dnsbl
 dnsclient
 dnsdumpster
@@ -2907,7 +2896,6 @@ dungeonsanddragons
 duo
 duosecurity
 dupes
-duplex
 duplicate
 duplicate-files
 duplicates
@@ -2964,6 +2952,7 @@ ebay
 ebooks
 ebur128
 ec2
+ecdsa
 echo
 ecm
 ecma2
@@ -3039,6 +3028,7 @@ emailautomation
 emailcampain
 emailchecker
 emaildataplane
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -3075,6 +3065,7 @@ endomondo
 endpoint
 endpoint-management
 endpoint-manager
+endpointjobs
 endpointmanagement
 endpointmanager
 endpoints
@@ -3182,7 +3173,6 @@ ethereum
 etherium
 ethernet
 ethr
-ethtool
 ethz
 etl
 etl2pcapng
@@ -3199,7 +3189,6 @@ evc
 event
 event_id
 event_list
-event-forwarding
 event-log
 event-timeline
 eventbridge
@@ -3399,6 +3388,7 @@ featureupdate
 federated
 federateddirectory
 federation
+fedex
 feed
 feedback-provider
 fermentation
@@ -3620,7 +3610,6 @@ fortytwo
 forum
 forwardcompatibility
 forwardedevents
-forwarders
 forwarding
 foudil
 foundationmodels
@@ -3665,7 +3654,6 @@ fsf
 fsharp
 fslogix
 fsrm
-fstab
 ft232h
 ft232r
 ftdi
@@ -3960,6 +3948,7 @@ graphconnector
 grapheme
 graphexplorer
 graphic
+graphical
 graphics
 graphite
 graphql
@@ -3993,6 +3982,7 @@ grouvee
 growlnotify
 grpc
 grr
+grub
 gruvbox
 gsettings
 gsudo
@@ -4046,7 +4036,6 @@ hanaon
 handle
 handlebars
 handler
-handoff
 handshake
 handy
 hangouts
@@ -4065,7 +4054,6 @@ hardensysvol
 hardlink
 hardmatch
 hardware
-hardware-hash
 hardwaredetection
 harperdb
 hartokens
@@ -4262,7 +4250,6 @@ html-generator
 html-report
 html-templates
 htmlentity
-htop
 http
 http_proxy
 http-listener
@@ -4293,7 +4280,6 @@ humour
 hunk
 hunter
 hunting
-hvci
 hwid
 hwinfo64
 hybrid
@@ -4601,7 +4587,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ioc
 ionos
 iops
 ios
@@ -4639,7 +4624,6 @@ ips
 ipsc
 ipscan
 ipsec
-iptables
 ipv4
 ipv4ping
 ipv6
@@ -4674,6 +4658,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-grundschutz
 it-support
 it-tool
 it-tools
@@ -4859,6 +4844,7 @@ keymap
 keymapping
 keypair
 keyring
+keys
 keysms
 keytab
 keyusage
@@ -4980,7 +4966,6 @@ latestupdate
 latex
 latin
 latitude
-launch
 launcher
 launchpad
 laws
@@ -5033,7 +5018,6 @@ lf
 lgpo
 libgit2
 libmagic
-libphonenumber
 libraries
 library
 libsecret
@@ -5084,7 +5068,6 @@ lint
 linter
 linting
 linux
-linux fstab
 linux inode
 linux kernel
 linux motd
@@ -5100,6 +5083,7 @@ list_files
 list-directory
 list-item
 listener
+listing
 litecoin
 litedb
 literature
@@ -5113,7 +5097,6 @@ llama3
 llamaindex
 lldp
 llm
-llmnr
 llms
 lmhost
 lmhosts
@@ -5175,7 +5158,6 @@ log-files
 log-mail
 log-mails
 log-management
-log-parser
 log-rotation
 log4net
 loganalytics
@@ -5251,7 +5233,6 @@ ls_colors
 ls_icons
 lsa
 lsasecrets
-lsass
 lsblk
 lsd
 lsmod
@@ -5484,7 +5465,6 @@ membership
 memcm
 meme
 memory
-memory-protection
 memorydump
 memorymanagement
 memorystream
@@ -5875,7 +5855,6 @@ mysql
 mysql-database
 mytest
 myviewboard
-n
 n-able
 n-central
 nabu
@@ -5978,10 +5957,8 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-filesystem
 network-info
 network-policy
-network-profile
 network-shares
 networkadapter
 networkadmin
@@ -6044,7 +6021,6 @@ nexus
 nexusiq
 nfs
 nfsv3
-nftables
 ngen
 nginx
 ngts
@@ -6216,7 +6192,6 @@ odbc
 odfb
 odin
 odoo
-odsp
 oem-charset
 oembed
 offboarding
@@ -6305,7 +6280,6 @@ onvif
 onyphe
 onyphe.io
 oob
-oobe
 oop
 ooxml
 op
@@ -6417,6 +6391,7 @@ osa
 osbuild
 osbuilder
 osbuildersus
+oscal
 osd
 osdbuilder
 osdcloud
@@ -6697,7 +6672,6 @@ phishnet
 phoenix
 phone
 phoneautomation
-phonenumber
 photo
 photograph
 photos
@@ -7136,7 +7110,6 @@ problemmanagement
 problems
 process
 process-inspector
-processes
 processexplorer
 processing
 processmitigation
@@ -10539,7 +10512,6 @@ reflect
 reflection
 refresh
 refreshtoken
-refs
 reg
 reg_binary
 reg_dword
@@ -10591,7 +10563,6 @@ remote-access
 remote-admin
 remote-browser
 remote-desktop
-remote-management
 remote'
 remoteaccess
 remoteadmin
@@ -10683,10 +10654,8 @@ reshade
 resharper
 resilience
 resiliency
-resilient
 resize
 resolution
-resolv
 resolve
 resolve-dnsname
 resolve-stache
@@ -10720,7 +10689,6 @@ restaurant
 restful
 restore
 restore-point
-restore-points
 restrictive
 restructure
 results
@@ -10755,7 +10723,6 @@ rfc4007
 rfc4266
 rfc4291
 rfc5424
-rfc5905
 rfc5952
 rfc8009
 rfc826
@@ -10815,7 +10782,6 @@ rollback
 rollingfile
 rollout
 romaji
-ron
 rooms
 ropc
 rosetta
@@ -10869,7 +10835,6 @@ run-as-user
 run-key
 run-keys
 runas
-runas-ppl
 runasuser
 runbook
 runbooks
@@ -10960,7 +10925,6 @@ scanner
 scanning
 scap
 scatter
-scavenging
 scb
 scc
 sccm
@@ -11052,7 +11016,6 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
-scrubbing
 scsm
 scuba
 scvmm
@@ -11437,7 +11400,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slides
 slideshow
 slmgr
@@ -11565,6 +11527,7 @@ sourceforge
 sourcegraph
 sourceindexing
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -11816,7 +11779,6 @@ stolpe.io
 stop
 storablecolortheme
 storage
-storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -11937,7 +11899,6 @@ surveymonkey
 sus
 sushi
 suspensive
-suspicious
 svelte
 svesavov
 svetoslav
@@ -12255,7 +12216,6 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 theming
-themis
 thermal
 thermostat
 thinprint
@@ -12296,7 +12256,6 @@ tickets
 tickle
 ticks
 tictactoe
-tiering
 tiermodel
 tierzero
 tiktok
@@ -12311,6 +12270,7 @@ timespan
 timestamp
 timesyncd
 timesynchronization
+timetracking
 timezone
 tinkerpop
 tinymce
@@ -12345,7 +12305,6 @@ toggl-api-ps
 toggle
 token
 tokencounter
-tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12432,6 +12391,7 @@ transport
 trap
 traps
 travel
+treasury
 trec
 tree
 tree-sitter
@@ -12807,7 +12767,6 @@ vbaf
 vbaproject
 vbproj
 vbr
-vbs
 vbscript
 vbsinst
 vbtools
@@ -12910,7 +12869,6 @@ vimode
 virole
 virsh
 virtual
-virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -13130,7 +13088,6 @@ webdeveloper
 webdriver
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -13183,7 +13140,6 @@ whatif
 whatismyip
 whatsapp
 whatsupgold
-whd
 where
 whfb
 whisper
@@ -13388,6 +13344,7 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woodpecker
 woolworths
 woolworthsrewards
 word
@@ -13557,6 +13514,7 @@ yahoo
 yahw
 yamaha
 yaml
+yamlscript
 yamlstar
 yandex
 yandexdisk
@@ -13610,7 +13568,6 @@ zohoassist
 zoicware
 zombie
 zone
-zones
 zoom
 zoomapi
 zoommeeting
@@ -13630,8 +13587,10 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+中文
 全角半角変換
 加速
+图像生成
 字幕
 寿司
 日本語

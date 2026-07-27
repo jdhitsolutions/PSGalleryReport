@@ -1575,9 +1575,9 @@ Module for interacting with UEFI from PowerShell
 
 __Downloads__: 3,111,761 | __Repository__: https://github.com/mtniehaus/UEFIv2
 
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9.5) | 7.9.5
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9.6) | 7.9.6
 
-### Published: 07/10/2026 18:31:19 by Steven Villardi
+### Published: 07/27/2026 20:04:58 by Steven Villardi
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Monday, 27 July 2026 12:46:01 UTC*
+*Updated: Monday, 27 July 2026 22:43:05 UTC*
