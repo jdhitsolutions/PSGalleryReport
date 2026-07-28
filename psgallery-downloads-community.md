@@ -534,9 +534,9 @@ The module includes three functions:
 
 __Downloads__: 13,846,436 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
 
-## [Strapper](https://www.powershellgallery.com/Packages/Strapper/1.7.1.3) | 1.7.1.3
+## [Strapper](https://www.powershellgallery.com/Packages/Strapper/1.7.2.1) | 1.7.2.1
 
-### Published: 03/26/2025 21:04:13 by Stephen Nix
+### Published: 07/28/2026 12:52:17 by Stephen Nix
 
 A cross-platform helper module for PowerShell.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 28 July 2026 11:46:24 UTC*
+*Updated: Tuesday, 28 July 2026 22:43:04 UTC*
