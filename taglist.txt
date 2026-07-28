@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 July 2026 22:43:09 UTC
+Updated: Tuesday, 28 July 2026 11:46:27 UTC
 
 .bat
 .env
@@ -86,7 +86,6 @@ aam
 aas
 aatp
 abakion
-abc
 abc_testing
 abe
 about
@@ -451,6 +450,7 @@ ansistyle
 anthropic
 anti-idle
 anti-malware
+antimalware
 antimalwarescaninterface
 antiphishing
 antispam
@@ -461,7 +461,6 @@ any
 anypackage
 anypoint
 anystack.configurationascode
-anystack.reporting
 anystack.vsphere
 anywhere
 aovpn psmodule
@@ -726,6 +725,7 @@ aumid
 australia
 aut
 auth
+auth-log
 auth0
 authenticate
 authentication
@@ -755,6 +755,7 @@ autocomplete
 autocompletion
 autodesk
 autoenv
+autogen
 autograph
 autohotkey
 autolabeling
@@ -1180,7 +1181,7 @@ books
 bool
 boolean
 boot
-boot-policy
+boot-repair
 bootentry
 bootloader
 bootloader psmodule
@@ -1193,6 +1194,7 @@ borg
 bot
 bots
 botservice
+bottleneck
 bouncer
 boundaries
 boundarygroups
@@ -1247,7 +1249,6 @@ bson
 bssid
 btdf
 btm
-btmp
 bubbletea
 bubbsy
 bucket
@@ -1363,7 +1364,6 @@ careport
 cares
 cargo
 carol
-carousel
 carrier
 cartoon
 case
@@ -1373,6 +1373,7 @@ cat-names
 catalog
 catalyst
 catapult
+category
 catesta
 catimage
 cats
@@ -1408,6 +1409,8 @@ ce
 celcat
 celerium
 censor
+censorchecker
+censorship
 center
 centered
 centra
@@ -1511,7 +1514,6 @@ christmas
 chromaprint
 chrome
 chromium
-chrony
 chunk
 chunked
 chunking
@@ -1561,6 +1563,7 @@ civo
 cix
 cjk
 clack
+claims
 class
 classdependency
 classes
@@ -1913,6 +1916,7 @@ connectednetwork
 connectedvmware
 connectexchange
 connection
+connection-security
 connections
 connectionsmanager
 connectionstring
@@ -2080,7 +2084,9 @@ credential
 credential-dialog
 credential-file
 credential-files
+credential-guard
 credential-manager
+credential-protection
 credentiallocker
 credentialmanagement
 credentialmanager
@@ -2097,6 +2103,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crewai
 cricket
 crime
 critical
@@ -2292,6 +2299,7 @@ data-backup
 data-boar
 data-loss-prevention
 data-protection
+data-sources
 data-tier
 data-transfer
 data-uri
@@ -2395,7 +2403,6 @@ dbops
 dbpool
 dbup
 dbwebapi
-dbx
 dc
 dcim
 dcim_b324
@@ -2437,7 +2444,6 @@ deepseek
 deepseek-coder
 deepseek-coder-v2
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -2715,6 +2721,7 @@ dns-async
 dns-client
 dns-over-https
 dns-resolver
+dns-server
 dnsbl
 dnsclient
 dnsdumpster
@@ -2896,6 +2903,7 @@ dungeonsanddragons
 duo
 duosecurity
 dupes
+duplex
 duplicate
 duplicate-files
 duplicates
@@ -3173,6 +3181,7 @@ ethereum
 etherium
 ethernet
 ethr
+ethtool
 ethz
 etl
 etl2pcapng
@@ -3189,6 +3198,7 @@ evc
 event
 event_id
 event_list
+event-forwarding
 event-log
 event-timeline
 eventbridge
@@ -3610,6 +3620,7 @@ fortytwo
 forum
 forwardcompatibility
 forwardedevents
+forwarders
 forwarding
 foudil
 foundationmodels
@@ -3654,6 +3665,7 @@ fsf
 fsharp
 fslogix
 fsrm
+fstab
 ft232h
 ft232r
 ftdi
@@ -4036,6 +4048,7 @@ hanaon
 handle
 handlebars
 handler
+handoff
 handshake
 handy
 hangouts
@@ -4054,6 +4067,7 @@ hardensysvol
 hardlink
 hardmatch
 hardware
+hardware-hash
 hardwaredetection
 harperdb
 hartokens
@@ -4250,6 +4264,7 @@ html-generator
 html-report
 html-templates
 htmlentity
+htop
 http
 http_proxy
 http-listener
@@ -4280,6 +4295,7 @@ humour
 hunk
 hunter
 hunting
+hvci
 hwid
 hwinfo64
 hybrid
@@ -4399,7 +4415,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -4434,7 +4449,6 @@ incidentresponse
 incidents
 includeif
 incontact
-incremental
 indents
 index
 indexdb
@@ -4516,7 +4530,6 @@ instant
 instapush
 instorage
 insulinpump
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -4587,6 +4600,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ioc
 ionos
 iops
 ios
@@ -4624,6 +4638,7 @@ ips
 ipsc
 ipscan
 ipsec
+iptables
 ipv4
 ipv4ping
 ipv6
@@ -4966,6 +4981,7 @@ latestupdate
 latex
 latin
 latitude
+launch
 launcher
 launchpad
 laws
@@ -4988,6 +5004,7 @@ leadforge
 leaflet
 leafs
 league
+leak
 lean
 learn
 learn-powershell
@@ -5018,6 +5035,7 @@ lf
 lgpo
 libgit2
 libmagic
+libphonenumber
 libraries
 library
 libsecret
@@ -5068,6 +5086,7 @@ lint
 linter
 linting
 linux
+linux fstab
 linux inode
 linux kernel
 linux motd
@@ -5097,6 +5116,7 @@ llama3
 llamaindex
 lldp
 llm
+llmnr
 llms
 lmhost
 lmhosts
@@ -5158,6 +5178,7 @@ log-files
 log-mail
 log-mails
 log-management
+log-parser
 log-rotation
 log4net
 loganalytics
@@ -5233,6 +5254,7 @@ ls_colors
 ls_icons
 lsa
 lsasecrets
+lsass
 lsblk
 lsd
 lsmod
@@ -5381,14 +5403,12 @@ marvellqlogicfcpowerkit
 mask
 masking
 mass
-massmail
 masstransit
 masterconfiguration
 match
 matcharray
 matchhashtable
 materialdesign
-materialui
 mateso
 math
 mathematics
@@ -5465,6 +5485,7 @@ membership
 memcm
 meme
 memory
+memory-protection
 memorydump
 memorymanagement
 memorystream
@@ -5855,6 +5876,7 @@ mysql
 mysql-database
 mytest
 myviewboard
+n
 n-able
 n-central
 nabu
@@ -5957,8 +5979,9 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-filesystem
 network-info
-network-policy
+network-profile
 network-shares
 networkadapter
 networkadmin
@@ -6021,6 +6044,7 @@ nexus
 nexusiq
 nfs
 nfsv3
+nftables
 ngen
 nginx
 ngts
@@ -6125,7 +6149,6 @@ numa
 number
 numerical
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -6192,6 +6215,7 @@ odbc
 odfb
 odin
 odoo
+odsp
 oem-charset
 oembed
 offboarding
@@ -6208,7 +6232,6 @@ office2016
 office2019
 office365
 office365managementapi
-officedev
 officegraph
 officeimo
 officemessageencryption
@@ -6280,6 +6303,7 @@ onvif
 onyphe
 onyphe.io
 oob
+oobe
 oop
 ooxml
 op
@@ -6672,6 +6696,7 @@ phishnet
 phoenix
 phone
 phoneautomation
+phonenumber
 photo
 photograph
 photos
@@ -6693,7 +6718,6 @@ pin
 pinecone
 ping
 ping-async
-ping-sweep
 pinget
 pinging
 pingsweep
@@ -6834,7 +6858,6 @@ posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
-posh-weather.gov
 poshbot
 poshcommence
 poshde
@@ -7110,6 +7133,7 @@ problemmanagement
 problems
 process
 process-inspector
+processes
 processexplorer
 processing
 processmitigation
@@ -10512,6 +10536,7 @@ reflect
 reflection
 refresh
 refreshtoken
+refs
 reg
 reg_binary
 reg_dword
@@ -10555,6 +10580,7 @@ releases
 relevance
 relic
 reload
+relying-party
 remediation
 remedy
 reminder
@@ -10563,6 +10589,7 @@ remote-access
 remote-admin
 remote-browser
 remote-desktop
+remote-management
 remote'
 remoteaccess
 remoteadmin
@@ -10654,8 +10681,10 @@ reshade
 resharper
 resilience
 resiliency
+resilient
 resize
 resolution
+resolv
 resolve
 resolve-dnsname
 resolve-stache
@@ -10689,6 +10718,7 @@ restaurant
 restful
 restore
 restore-point
+restore-points
 restrictive
 restructure
 results
@@ -10723,6 +10753,7 @@ rfc4007
 rfc4266
 rfc4291
 rfc5424
+rfc5905
 rfc5952
 rfc8009
 rfc826
@@ -10782,6 +10813,7 @@ rollback
 rollingfile
 rollout
 romaji
+ron
 rooms
 ropc
 rosetta
@@ -10798,6 +10830,7 @@ routeros
 routes
 routetable
 routine
+routing
 rover
 royalapps
 royaldocument
@@ -10835,6 +10868,7 @@ run-as-user
 run-key
 run-keys
 runas
+runas-ppl
 runasuser
 runbook
 runbooks
@@ -10925,6 +10959,7 @@ scanner
 scanning
 scap
 scatter
+scavenging
 scb
 scc
 sccm
@@ -11016,6 +11051,7 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
+scrubbing
 scsm
 scuba
 scvmm
@@ -11085,7 +11121,6 @@ securityassertionmarkuplanguage
 securityassessment
 securityattribute
 securityaudit
-securityawareness
 securitybaseline
 securitycenter
 securitycompliancecenter
@@ -11400,6 +11435,7 @@ slack
 slash
 slashcommands
 sleep
+sleeper
 slides
 slideshow
 slmgr
@@ -11445,7 +11481,6 @@ smtpclient
 smtpoauth
 smtpsasl
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -11519,7 +11554,6 @@ sort-json
 sorting
 sound
 soundcore
-sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -11779,6 +11813,7 @@ stolpe.io
 stop
 storablecolortheme
 storage
+storage-pool
 storage-spaces
 storageaccount
 storageaction
@@ -11895,10 +11930,10 @@ surface
 surround
 surveillance
 survey
-surveymonkey
 sus
 sushi
 suspensive
+suspicious
 svelte
 svesavov
 svetoslav
@@ -12216,6 +12251,7 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 theming
+themis
 thermal
 thermostat
 thinprint
@@ -12256,6 +12292,7 @@ tickets
 tickle
 ticks
 tictactoe
+tiering
 tiermodel
 tierzero
 tiktok
@@ -12268,7 +12305,6 @@ timesheet
 timesheets
 timespan
 timestamp
-timesyncd
 timesynchronization
 timetracking
 timezone
@@ -12305,6 +12341,7 @@ toggl-api-ps
 toggle
 token
 tokencounter
+tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12560,7 +12597,6 @@ ud-window
 ud-wordtree
 udcm
 uddi
-udfeedback
 udp
 udpclient
 udptest
@@ -12767,6 +12803,7 @@ vbaf
 vbaproject
 vbproj
 vbr
+vbs
 vbscript
 vbsinst
 vbtools
@@ -12869,6 +12906,7 @@ vimode
 virole
 virsh
 virtual
+virtual-disk
 virtual-disks
 virtual-switch
 virtualappliance
@@ -13064,6 +13102,7 @@ wdac
 wdapi
 wds
 weather
+weather.gov
 weaviate
 weaviatenet
 web
@@ -13088,6 +13127,7 @@ webdeveloper
 webdriver
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -13140,6 +13180,7 @@ whatif
 whatismyip
 whatsapp
 whatsupgold
+whd
 where
 whfb
 whisper
@@ -13423,7 +13464,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wtmp
 wts
 wtsapi32
 wttr
@@ -13568,6 +13608,7 @@ zohoassist
 zoicware
 zombie
 zone
+zones
 zoom
 zoomapi
 zoommeeting
