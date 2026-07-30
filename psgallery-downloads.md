@@ -1010,9 +1010,9 @@ DSC resources for configuring settings related to networking.
 
 __Downloads__: 94,313,924 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
 
-## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.4.0) | 2.4.0
+## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.6.0) | 2.6.0
 
-### Published: 06/20/2025 09:08:43 by TeamViewer Germany GmbH
+### Published: 07/30/2026 07:28:49 by TeamViewer Germany GmbH
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Wednesday, 29 July 2026 22:40:41 UTC*
+*Updated: Thursday, 30 July 2026 11:34:02 UTC*
