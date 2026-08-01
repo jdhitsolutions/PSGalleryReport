@@ -1148,9 +1148,9 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 7,667,728 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.7.6.1) | 26.7.6.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.8.1.1) | 26.8.1.1
 
-### Published: 07/06/2026 06:17:08 by David Segura
+### Published: 08/01/2026 08:09:26 by David Segura
 
 Root module for OSD.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 31 July 2026 22:43:30 UTC*
+*Updated: Saturday, 01 August 2026 11:06:37 UTC*
