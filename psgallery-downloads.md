@@ -67,9 +67,9 @@ PowerShell module with commands for discovering, installing, updating and publis
 
 __Downloads__: 433,841,145 | __Repository__: https://go.microsoft.com/fwlink/?LinkId=828955
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.267) | 5.0.267
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.268) | 5.0.268
 
-### Published: 07/31/2026 19:36:00 by Amazon.com Inc
+### Published: 08/03/2026 19:52:52 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -188,9 +188,9 @@ For information on Billing, please visit the following: https://learn.microsoft.
 
 __Downloads__: 221,653,727 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.267) | 5.0.267
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.268) | 5.0.268
 
-### Published: 07/31/2026 19:39:51 by Amazon.com Inc
+### Published: 08/03/2026 19:55:20 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -216,9 +216,9 @@ Microsoft Azure PowerShell: Advisor cmdlets
 
 __Downloads__: 221,457,641 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.38.1) | 2.38.1
+## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:16:43 by Microsoft
+### Published: 08/03/2026 18:07:19 by Microsoft
 
 Microsoft Graph PowerShell Authentication Module.
 
@@ -1181,9 +1181,9 @@ Creates and manages log files for your scripts.
 
 __Downloads__: 56,967,782 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
 
-## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.38.1) | 2.38.1
+## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:41 by Microsoft Corporation
+### Published: 08/03/2026 18:10:11 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1223,9 +1223,9 @@ Microsoft Azure PowerShell: FirmwareAnalysis cmdlets
 
 __Downloads__: 50,721,148 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.38.1) | 2.38.1
+## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:23:48 by Microsoft Corporation
+### Published: 08/03/2026 18:11:51 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1265,9 +1265,9 @@ MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables 
 
 __Downloads__: 44,690,110 | __Repository__: https://github.com/jasoth/MSAL.PS
 
-## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.38.1) | 2.38.1
+## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:47 by Microsoft Corporation
+### Published: 08/03/2026 18:10:16 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1409,9 +1409,9 @@ Microsoft Azure PowerShell - CDN service cmdlets for Azure Resource Manager
 
 __Downloads__: 36,688,886 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.38.1) | 2.38.1
+## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:53 by Microsoft Corporation
+### Published: 08/03/2026 18:09:23 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1750,17 +1750,17 @@ Microsoft Azure PowerShell - Azure Policy Insights cmdlets. Allows querying poli
 
 __Downloads__: 32,515,133 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Microsoft.Graph.Applications](https://www.powershellgallery.com/Packages/Microsoft.Graph.Applications/2.38.1) | 2.38.1
+## [Microsoft.Graph.Applications](https://www.powershellgallery.com/Packages/Microsoft.Graph.Applications/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:16:34 by Microsoft Corporation
+### Published: 08/03/2026 18:06:59 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 32,283,503 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Mail](https://www.powershellgallery.com/Packages/Microsoft.Graph.Mail/2.38.1) | 2.38.1
+## [Microsoft.Graph.Mail](https://www.powershellgallery.com/Packages/Microsoft.Graph.Mail/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:09 by Microsoft Corporation
+### Published: 08/03/2026 18:10:38 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1774,9 +1774,9 @@ This PowerShell module contains PowerCLI Sdk.
 
 __Downloads__: 32,196,175 | __Repository__: https://developer.broadcom.com/powercli
 
-## [Microsoft.Graph.Sites](https://www.powershellgallery.com/Packages/Microsoft.Graph.Sites/2.38.1) | 2.38.1
+## [Microsoft.Graph.Sites](https://www.powershellgallery.com/Packages/Microsoft.Graph.Sites/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:22:52 by Microsoft Corporation
+### Published: 08/03/2026 18:11:32 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1806,9 +1806,9 @@ Windows PowerShell Module for managing devices
 
 __Downloads__: 30,353,515 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.267) | 5.0.267
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.268) | 5.0.268
 
-### Published: 07/31/2026 19:36:14 by Amazon.com Inc
+### Published: 08/03/2026 19:53:05 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -1832,17 +1832,17 @@ A module for lifecycle management of the Microsoft Visual C++ Redistributables. 
 
 __Downloads__: 28,616,636 | __Repository__: https://vcredist.com/
 
-## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.38.1) | 2.38.1
+## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:23:26 by Microsoft Corporation
+### Published: 08/03/2026 18:11:42 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 28,340,916 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.38.1) | 2.38.1
+## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:04 by Microsoft Corporation
+### Published: 08/03/2026 18:10:34 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1873,57 +1873,57 @@ IIS Configuration management module
 
 __Downloads__: 27,604,831 | __Repository__: 
 
-## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.38.1) | 2.38.1
+## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:34 by Microsoft Corporation
+### Published: 08/03/2026 18:09:05 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 27,593,040 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Devices.CorporateManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.CorporateManagement/2.38.1) | 2.38.1
+## [Microsoft.Graph.Devices.CorporateManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.CorporateManagement/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:06 by Microsoft Corporation
+### Published: 08/03/2026 18:09:35 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 27,188,719 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.38.1) | 2.38.1
+## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:49 by Microsoft Corporation
+### Published: 08/03/2026 18:11:06 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,974,048 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Bookings](https://www.powershellgallery.com/Packages/Microsoft.Graph.Bookings/2.38.1) | 2.38.1
+## [Microsoft.Graph.Bookings](https://www.powershellgallery.com/Packages/Microsoft.Graph.Bookings/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:17:28 by Microsoft Corporation
+### Published: 08/03/2026 18:08:04 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,865,167 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Calendar](https://www.powershellgallery.com/Packages/Microsoft.Graph.Calendar/2.38.1) | 2.38.1
+## [Microsoft.Graph.Calendar](https://www.powershellgallery.com/Packages/Microsoft.Graph.Calendar/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:17:44 by Microsoft Corporation
+### Published: 08/03/2026 18:08:32 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,790,542 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.38.1) | 2.38.1
+## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:23:05 by Microsoft Corporation
+### Published: 08/03/2026 18:11:37 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,679,952 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Identity.Governance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.Governance/2.38.1) | 2.38.1
+## [Microsoft.Graph.Identity.Governance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.Governance/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:54 by Microsoft Corporation
+### Published: 08/03/2026 18:10:24 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1937,25 +1937,25 @@ This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
 __Downloads__: 26,575,377 | __Repository__: https://developer.broadcom.com/powercli
 
-## [Microsoft.Graph.Reports](https://www.powershellgallery.com/Packages/Microsoft.Graph.Reports/2.38.1) | 2.38.1
+## [Microsoft.Graph.Reports](https://www.powershellgallery.com/Packages/Microsoft.Graph.Reports/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:21:01 by Microsoft Corporation
+### Published: 08/03/2026 18:11:10 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,417,394 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.CrossDeviceExperiences](https://www.powershellgallery.com/Packages/Microsoft.Graph.CrossDeviceExperiences/2.38.1) | 2.38.1
+## [Microsoft.Graph.CrossDeviceExperiences](https://www.powershellgallery.com/Packages/Microsoft.Graph.CrossDeviceExperiences/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:28 by Microsoft Corporation
+### Published: 08/03/2026 18:09:00 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,324,254 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Compliance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Compliance/2.38.1) | 2.38.1
+## [Microsoft.Graph.Compliance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Compliance/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:16 by Microsoft Corporation
+### Published: 08/03/2026 18:08:49 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1969,17 +1969,17 @@ This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
 __Downloads__: 26,238,150 | __Repository__: https://developer.broadcom.com/powercli
 
-## [Microsoft.Graph.ChangeNotifications](https://www.powershellgallery.com/Packages/Microsoft.Graph.ChangeNotifications/2.38.1) | 2.38.1
+## [Microsoft.Graph.ChangeNotifications](https://www.powershellgallery.com/Packages/Microsoft.Graph.ChangeNotifications/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:17:54 by Microsoft Corporation
+### Published: 08/03/2026 18:08:37 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,216,765 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Devices.CloudPrint](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.CloudPrint/2.38.1) | 2.38.1
+## [Microsoft.Graph.Devices.CloudPrint](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.CloudPrint/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:58 by Microsoft Corporation
+### Published: 08/03/2026 18:09:28 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1993,41 +1993,41 @@ This module includes DSC resources that simplify administration of certificates 
 
 __Downloads__: 25,860,675 | __Repository__: https://github.com/PowerShell/xCertificate
 
-## [Microsoft.Graph.Education](https://www.powershellgallery.com/Packages/Microsoft.Graph.Education/2.38.1) | 2.38.1
+## [Microsoft.Graph.Education](https://www.powershellgallery.com/Packages/Microsoft.Graph.Education/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:23 by Microsoft Corporation
+### Published: 08/03/2026 18:09:52 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,686,419 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.DeviceManagement.Functions](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Functions/2.38.1) | 2.38.1
+## [Microsoft.Graph.DeviceManagement.Functions](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Functions/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:46 by Microsoft Corporation
+### Published: 08/03/2026 18:09:17 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,647,185 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Files](https://www.powershellgallery.com/Packages/Microsoft.Graph.Files/2.38.1) | 2.38.1
+## [Microsoft.Graph.Files](https://www.powershellgallery.com/Packages/Microsoft.Graph.Files/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:31 by Microsoft Corporation
+### Published: 08/03/2026 18:10:03 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,594,573 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.DirectoryObjects](https://www.powershellgallery.com/Packages/Microsoft.Graph.DirectoryObjects/2.38.1) | 2.38.1
+## [Microsoft.Graph.DirectoryObjects](https://www.powershellgallery.com/Packages/Microsoft.Graph.DirectoryObjects/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:18 by Microsoft Corporation
+### Published: 08/03/2026 18:09:47 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,569,205 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Devices.ServiceAnnouncement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.ServiceAnnouncement/2.38.1) | 2.38.1
+## [Microsoft.Graph.Devices.ServiceAnnouncement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.ServiceAnnouncement/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:19:12 by Microsoft Corporation
+### Published: 08/03/2026 18:09:40 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2041,57 +2041,57 @@ DSC resources for managing certificates on a Windows Server.
 
 __Downloads__: 25,474,366 | __Repository__: https://github.com/dsccommunity/CertificateDsc
 
-## [Microsoft.Graph.CloudCommunications](https://www.powershellgallery.com/Packages/Microsoft.Graph.CloudCommunications/2.38.1) | 2.38.1
+## [Microsoft.Graph.CloudCommunications](https://www.powershellgallery.com/Packages/Microsoft.Graph.CloudCommunications/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:10 by Microsoft Corporation
+### Published: 08/03/2026 18:08:43 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,182,620 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.People](https://www.powershellgallery.com/Packages/Microsoft.Graph.People/2.38.1) | 2.38.1
+## [Microsoft.Graph.People](https://www.powershellgallery.com/Packages/Microsoft.Graph.People/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:32 by Microsoft Corporation
+### Published: 08/03/2026 18:10:56 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,002,267 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Notes](https://www.powershellgallery.com/Packages/Microsoft.Graph.Notes/2.38.1) | 2.38.1
+## [Microsoft.Graph.Notes](https://www.powershellgallery.com/Packages/Microsoft.Graph.Notes/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:26 by Microsoft Corporation
+### Published: 08/03/2026 18:10:51 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 24,954,748 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.SchemaExtensions](https://www.powershellgallery.com/Packages/Microsoft.Graph.SchemaExtensions/2.38.1) | 2.38.1
+## [Microsoft.Graph.SchemaExtensions](https://www.powershellgallery.com/Packages/Microsoft.Graph.SchemaExtensions/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:21:18 by Microsoft Corporation
+### Published: 08/03/2026 18:11:14 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 24,926,540 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Users.Functions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Functions/2.38.1) | 2.38.1
+## [Microsoft.Graph.Users.Functions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Functions/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:23:40 by Microsoft Corporation
+### Published: 08/03/2026 18:11:46 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 24,731,088 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Security](https://www.powershellgallery.com/Packages/Microsoft.Graph.Security/2.38.1) | 2.38.1
+## [Microsoft.Graph.Security](https://www.powershellgallery.com/Packages/Microsoft.Graph.Security/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:22:17 by Microsoft Corporation
+### Published: 08/03/2026 18:11:24 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 24,650,065 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.PersonalContacts](https://www.powershellgallery.com/Packages/Microsoft.Graph.PersonalContacts/2.38.1) | 2.38.1
+## [Microsoft.Graph.PersonalContacts](https://www.powershellgallery.com/Packages/Microsoft.Graph.PersonalContacts/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:20:38 by Microsoft Corporation
+### Published: 08/03/2026 18:11:00 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2105,17 +2105,17 @@ Module with DSC Resources for Web Administration
 
 __Downloads__: 24,507,806 | __Repository__: https://github.com/dsccommunity/xWebAdministration
 
-## [Microsoft.Graph.Search](https://www.powershellgallery.com/Packages/Microsoft.Graph.Search/2.38.1) | 2.38.1
+## [Microsoft.Graph.Search](https://www.powershellgallery.com/Packages/Microsoft.Graph.Search/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:21:50 by Microsoft Corporation
+### Published: 08/03/2026 18:11:19 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 24,197,253 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph](https://www.powershellgallery.com/Packages/Microsoft.Graph/2.38.1) | 2.38.1
+## [Microsoft.Graph](https://www.powershellgallery.com/Packages/Microsoft.Graph/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:24:00 by Microsoft
+### Published: 08/03/2026 18:11:55 by Microsoft
 
 Microsoft Graph PowerShell module
 
@@ -2129,9 +2129,9 @@ DSC resources for configuring WS-Man.
 
 __Downloads__: 23,623,340 | __Repository__: https://github.com/dsccommunity/WSManDsc
 
-## [Microsoft.Graph.DeviceManagement.Enrollment](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Enrollment/2.38.1) | 2.38.1
+## [Microsoft.Graph.DeviceManagement.Enrollment](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Enrollment/2.39.0) | 2.39.0
 
-### Published: 07/13/2026 19:18:40 by Microsoft Corporation
+### Published: 08/03/2026 18:09:11 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Monday, 03 August 2026 12:45:25 UTC*
+*Updated: Monday, 03 August 2026 22:41:36 UTC*
