@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Saturday, 08 August 2026 22:03:49 UTC*
+*Updated: Sunday, 09 August 2026 10:16:42 UTC*
