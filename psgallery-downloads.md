@@ -67,9 +67,9 @@ PowerShell module with commands for discovering, installing, updating and publis
 
 __Downloads__: 433,841,145 | __Repository__: https://go.microsoft.com/fwlink/?LinkId=828955
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.273) | 5.0.273
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.274) | 5.0.274
 
-### Published: 08/10/2026 19:39:22 by Amazon.com Inc
+### Published: 08/11/2026 19:45:21 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -188,9 +188,9 @@ For information on Billing, please visit the following: https://learn.microsoft.
 
 __Downloads__: 221,653,727 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.273) | 5.0.273
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.274) | 5.0.274
 
-### Published: 08/10/2026 19:41:59 by Amazon.com Inc
+### Published: 08/11/2026 19:49:27 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1273,9 +1273,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 43,098,842 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.1) | 6.0.1
+## [Pester](https://www.powershellgallery.com/Packages/Pester/6.1.0) | 6.1.0
 
-### Published: 07/18/2026 09:48:27 by Pester Team
+### Published: 08/11/2026 18:30:55 by Pester Team
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
@@ -1806,9 +1806,9 @@ Windows PowerShell Module for managing devices
 
 __Downloads__: 30,353,515 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.273) | 5.0.273
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.274) | 5.0.274
 
-### Published: 08/10/2026 19:39:26 by Amazon.com Inc
+### Published: 08/11/2026 19:45:42 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Tuesday, 11 August 2026 10:35:33 UTC*
+*Updated: Tuesday, 11 August 2026 22:25:11 UTC*

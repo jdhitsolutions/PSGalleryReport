@@ -183,9 +183,9 @@ MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables 
 
 __Downloads__: 44,690,110 | __Repository__: https://github.com/jasoth/MSAL.PS
 
-## [Pester](https://www.powershellgallery.com/Packages/Pester/6.0.1) | 6.0.1
+## [Pester](https://www.powershellgallery.com/Packages/Pester/6.1.0) | 6.1.0
 
-### Published: 07/18/2026 09:48:27 by Pester Team
+### Published: 08/11/2026 18:30:55 by Pester Team
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
@@ -1623,9 +1623,9 @@ Build and test automation in PowerShell
 
 __Downloads__: 2,999,721 | __Repository__: https://github.com/nightroman/Invoke-Build
 
-## [DSCParser](https://www.powershellgallery.com/Packages/DSCParser/3.1.0.1) | 3.1.0.1
+## [DSCParser](https://www.powershellgallery.com/Packages/DSCParser/3.1.0.2) | 3.1.0.2
 
-### Published: 08/10/2026 09:59:33 by Microsoft365DSC Team
+### Published: 08/11/2026 20:22:33 by Microsoft365DSC Team
 
 This module allows for the parsing of a DSC Configuration script into PSObject for analysis
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 11 August 2026 10:35:35 UTC*
+*Updated: Tuesday, 11 August 2026 22:25:13 UTC*
