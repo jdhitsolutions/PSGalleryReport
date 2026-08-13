@@ -76,9 +76,9 @@ Provides access to credentials in the Windows Credential Manager
 
 __Downloads__: 100,414,458 | __Repository__: 
 
-## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.6.0) | 2.6.0
+## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/3.0.2) | 3.0.2
 
-### Published: 07/30/2026 07:28:49 by TeamViewer Germany GmbH
+### Published: 08/13/2026 09:24:25 by TeamViewer Germany GmbH
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Wednesday, 12 August 2026 22:25:20 UTC*
+*Updated: Thursday, 13 August 2026 10:45:34 UTC*
