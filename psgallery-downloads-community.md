@@ -1130,9 +1130,9 @@ Windows PowerShell Module for managing file and folder security on NTFS volumes
 
 __Downloads__: 7,796,945 | __Repository__: https://github.com/raandree/NTFSSecurity
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26198.8910) | 5.1.26198.8910
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26229.9143) | 5.1.26229.9143
 
-### Published: 07/17/2026 05:30:57 by Red Gate Software Ltd.
+### Published: 08/17/2026 07:02:09 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -1853,9 +1853,9 @@ Sample functions to add/retrieve/update entities on Azure Storage Tables from Po
 
 __Downloads__: 2,089,203 | __Repository__: 
 
-## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.4.1) | 0.4.1
+## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.5.0) | 0.5.0
 
-### Published: 06/12/2026 22:50:00 by Warren Frame
+### Published: 08/17/2026 04:50:47 by Warren Frame
 
 PowerShell Dependency Handler
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Sunday, 16 August 2026 21:57:50 UTC*
+*Updated: Monday, 17 August 2026 10:16:51 UTC*

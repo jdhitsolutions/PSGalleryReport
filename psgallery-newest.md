@@ -3,6 +3,1061 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SitecoreCecSearchModule](https://www.powershellgallery.com/Packages/SitecoreCecSearchModule/0.4.5) | 0.4.5
+
+### Published: 08/17/2026 09:50:36 by Jesper Balle
+
+This module lets you interact with the APIs provided by the Sitecore Customer Engagement Console (CEC) for Sitecore Search.
+
+__Downloads__: 787 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
+
+## [TIConnector](https://www.powershellgallery.com/Packages/TIConnector/1.0.1) | 1.0.1
+
+### Published: 08/17/2026 09:16:05 by Patrick Lehmann
+
+PowerShell module to manage TI Connectors via REST API.
+
+__Downloads__: 0 | __Repository__: https://github.com/PAL-Varo
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.790.1) | 1.790.1
+
+### Published: 08/17/2026 09:10:05 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [RealmJoin](https://www.powershellgallery.com/Packages/RealmJoin/2.0.1) | 2.0.1
+
+### Published: 08/17/2026 09:00:48 by glueckkanja
+
+PowerShell module for managing RealmJoin (https://www.realmjoin.com/) tenant.
+
+__Downloads__: 2,130 | __Repository__: https://www.realmjoin.com/
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:35:07 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 28,212 | __Repository__: 
+
+## [PSSailpoint.NERMV2025](https://www.powershellgallery.com/Packages/PSSailpoint.NERMV2025/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:42 by OpenAPI Generator Team
+
+PSSailpoint.NERMV2025 - the PowerShell module for NERM API v2025
+
+__Downloads__: 10 | __Repository__: 
+
+## [PSSailpoint.NERM](https://www.powershellgallery.com/Packages/PSSailpoint.NERM/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:38 by OpenAPI Generator Team
+
+PSSailpoint.NERM - the PowerShell module for NERM API
+
+__Downloads__: 10 | __Repository__: 
+
+## [PSSailpoint.Workflows](https://www.powershellgallery.com/Packages/PSSailpoint.Workflows/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:32 by OpenAPI Generator Team
+
+PSSailpoint.Workflows - the PowerShell module for Identity Security Cloud API - Workflows
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.WorkReassignment](https://www.powershellgallery.com/Packages/PSSailpoint.WorkReassignment/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:28 by OpenAPI Generator Team
+
+PSSailpoint.WorkReassignment - the PowerShell module for Identity Security Cloud API - Work Reassignment
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.WorkItems](https://www.powershellgallery.com/Packages/PSSailpoint.WorkItems/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:23 by OpenAPI Generator Team
+
+PSSailpoint.WorkItems - the PowerShell module for Identity Security Cloud API - Work Items
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.UiMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.UiMetadata/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:18 by OpenAPI Generator Team
+
+PSSailpoint.UiMetadata - the PowerShell module for Identity Security Cloud API - UI Metadata
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Triggers](https://www.powershellgallery.com/Packages/PSSailpoint.Triggers/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:13 by OpenAPI Generator Team
+
+PSSailpoint.Triggers - the PowerShell module for Identity Security Cloud API - Triggers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Transforms](https://www.powershellgallery.com/Packages/PSSailpoint.Transforms/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:08 by OpenAPI Generator Team
+
+PSSailpoint.Transforms - the PowerShell module for Identity Security Cloud API - Transforms
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.TenantContext](https://www.powershellgallery.com/Packages/PSSailpoint.TenantContext/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:33:04 by OpenAPI Generator Team
+
+PSSailpoint.TenantContext - the PowerShell module for Identity Security Cloud API - Tenant Context
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Tenant](https://www.powershellgallery.com/Packages/PSSailpoint.Tenant/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:59 by OpenAPI Generator Team
+
+PSSailpoint.Tenant - the PowerShell module for Identity Security Cloud API - Tenant
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.TaskManagement](https://www.powershellgallery.com/Packages/PSSailpoint.TaskManagement/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:54 by OpenAPI Generator Team
+
+PSSailpoint.TaskManagement - the PowerShell module for Identity Security Cloud API - Task Management
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.Tags](https://www.powershellgallery.com/Packages/PSSailpoint.Tags/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:50 by OpenAPI Generator Team
+
+PSSailpoint.Tags - the PowerShell module for Identity Security Cloud API - Tags
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.TaggedObjects](https://www.powershellgallery.com/Packages/PSSailpoint.TaggedObjects/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:45 by OpenAPI Generator Team
+
+PSSailpoint.TaggedObjects - the PowerShell module for Identity Security Cloud API - Tagged Objects
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SuggestedEntitlementDescription](https://www.powershellgallery.com/Packages/PSSailpoint.SuggestedEntitlementDescription/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:40 by OpenAPI Generator Team
+
+PSSailpoint.SuggestedEntitlementDescription - the PowerShell module for Identity Security Cloud API - Suggested Entitlement Description
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SpConfig](https://www.powershellgallery.com/Packages/PSSailpoint.SpConfig/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:35 by OpenAPI Generator Team
+
+PSSailpoint.SpConfig - the PowerShell module for Identity Security Cloud API - SP-Config
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.Sources](https://www.powershellgallery.com/Packages/PSSailpoint.Sources/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:30 by OpenAPI Generator Team
+
+PSSailpoint.Sources - the PowerShell module for Identity Security Cloud API - Sources
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SourceUsages](https://www.powershellgallery.com/Packages/PSSailpoint.SourceUsages/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:26 by OpenAPI Generator Team
+
+PSSailpoint.SourceUsages - the PowerShell module for Identity Security Cloud API - Source Usages
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SodViolations](https://www.powershellgallery.com/Packages/PSSailpoint.SodViolations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:21 by OpenAPI Generator Team
+
+PSSailpoint.SodViolations - the PowerShell module for Identity Security Cloud API - SOD Violations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SodPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.SodPolicies/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:16 by OpenAPI Generator Team
+
+PSSailpoint.SodPolicies - the PowerShell module for Identity Security Cloud API - SOD Policies
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SodControls](https://www.powershellgallery.com/Packages/PSSailpoint.SodControls/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:12 by OpenAPI Generator Team
+
+PSSailpoint.SodControls - the PowerShell module for Identity Security Cloud API - SOD Controls
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.SimIntegrations](https://www.powershellgallery.com/Packages/PSSailpoint.SimIntegrations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:07 by OpenAPI Generator Team
+
+PSSailpoint.SimIntegrations - the PowerShell module for Identity Security Cloud API - SIM Integrations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SharedSignalsFrameworkSsf](https://www.powershellgallery.com/Packages/PSSailpoint.SharedSignalsFrameworkSsf/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:32:02 by OpenAPI Generator Team
+
+PSSailpoint.SharedSignalsFrameworkSsf - the PowerShell module for Identity Security Cloud API - Shared Signals Framework (SSF)
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ServiceDeskIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.ServiceDeskIntegration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:50 by OpenAPI Generator Team
+
+PSSailpoint.ServiceDeskIntegration - the PowerShell module for Identity Security Cloud API - Service Desk Integration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Segments](https://www.powershellgallery.com/Packages/PSSailpoint.Segments/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:44 by OpenAPI Generator Team
+
+PSSailpoint.Segments - the PowerShell module for Identity Security Cloud API - Segments
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SearchAttributeConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.SearchAttributeConfiguration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:39 by OpenAPI Generator Team
+
+PSSailpoint.SearchAttributeConfiguration - the PowerShell module for Identity Security Cloud API - Search Attribute Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Search](https://www.powershellgallery.com/Packages/PSSailpoint.Search/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:28 by OpenAPI Generator Team
+
+PSSailpoint.Search - the PowerShell module for Identity Security Cloud API - Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ScheduledSearch](https://www.powershellgallery.com/Packages/PSSailpoint.ScheduledSearch/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:16 by OpenAPI Generator Team
+
+PSSailpoint.ScheduledSearch - the PowerShell module for Identity Security Cloud API - Scheduled Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SavedSearch](https://www.powershellgallery.com/Packages/PSSailpoint.SavedSearch/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:11 by OpenAPI Generator Team
+
+PSSailpoint.SavedSearch - the PowerShell module for Identity Security Cloud API - Saved Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Roles](https://www.powershellgallery.com/Packages/PSSailpoint.Roles/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:06 by OpenAPI Generator Team
+
+PSSailpoint.Roles - the PowerShell module for Identity Security Cloud API - Roles
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RolePropagation](https://www.powershellgallery.com/Packages/PSSailpoint.RolePropagation/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:31:01 by OpenAPI Generator Team
+
+PSSailpoint.RolePropagation - the PowerShell module for Identity Security Cloud API - Role Propagation
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RoleInsights](https://www.powershellgallery.com/Packages/PSSailpoint.RoleInsights/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:30:51 by OpenAPI Generator Team
+
+PSSailpoint.RoleInsights - the PowerShell module for Identity Security Cloud API - Role Insights
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RequestableObjects](https://www.powershellgallery.com/Packages/PSSailpoint.RequestableObjects/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:30:32 by OpenAPI Generator Team
+
+PSSailpoint.RequestableObjects - the PowerShell module for Identity Security Cloud API - Requestable Objects
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ReportsDataExtraction](https://www.powershellgallery.com/Packages/PSSailpoint.ReportsDataExtraction/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:30:27 by OpenAPI Generator Team
+
+PSSailpoint.ReportsDataExtraction - the PowerShell module for Identity Security Cloud API - Reports Data Extraction
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PublicMachineIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicMachineIdentities/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:30:21 by OpenAPI Generator Team
+
+PSSailpoint.PublicMachineIdentities - the PowerShell module for Identity Security Cloud API - Public Machine Identities
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.PublicIdentitiesConfig](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentitiesConfig/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:55 by OpenAPI Generator Team
+
+PSSailpoint.PublicIdentitiesConfig - the PowerShell module for Identity Security Cloud API - Public Identities Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PublicIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentities/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:47 by OpenAPI Generator Team
+
+PSSailpoint.PublicIdentities - the PowerShell module for Identity Security Cloud API - Public Identities
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PrivilegeCriteriaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteriaConfiguration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:38 by OpenAPI Generator Team
+
+PSSailpoint.PrivilegeCriteriaConfiguration - the PowerShell module for Identity Security Cloud API - Privilege Criteria Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PrivilegeCriteria](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteria/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:32 by OpenAPI Generator Team
+
+PSSailpoint.PrivilegeCriteria - the PowerShell module for Identity Security Cloud API - Privilege Criteria
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PersonalAccessTokens](https://www.powershellgallery.com/Packages/PSSailpoint.PersonalAccessTokens/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:21 by OpenAPI Generator Team
+
+PSSailpoint.PersonalAccessTokens - the PowerShell module for Identity Security Cloud API - Personal Access Tokens
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordSyncGroups](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordSyncGroups/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:16 by OpenAPI Generator Team
+
+PSSailpoint.PasswordSyncGroups - the PowerShell module for Identity Security Cloud API - Password Sync Groups
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordPolicies/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:11 by OpenAPI Generator Team
+
+PSSailpoint.PasswordPolicies - the PowerShell module for Identity Security Cloud API - Password Policies
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordManagement](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordManagement/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:07 by OpenAPI Generator Team
+
+PSSailpoint.PasswordManagement - the PowerShell module for Identity Security Cloud API - Password Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordDictionary](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordDictionary/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:29:01 by OpenAPI Generator Team
+
+PSSailpoint.PasswordDictionary - the PowerShell module for Identity Security Cloud API - Password Dictionary
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordConfiguration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:57 by OpenAPI Generator Team
+
+PSSailpoint.PasswordConfiguration - the PowerShell module for Identity Security Cloud API - Password Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ParameterStorage](https://www.powershellgallery.com/Packages/PSSailpoint.ParameterStorage/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:52 by OpenAPI Generator Team
+
+PSSailpoint.ParameterStorage - the PowerShell module for Identity Security Cloud API - Parameter Storage
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.OrgConfig](https://www.powershellgallery.com/Packages/PSSailpoint.OrgConfig/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:48 by OpenAPI Generator Team
+
+PSSailpoint.OrgConfig - the PowerShell module for Identity Security Cloud API - Org Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.OauthClients](https://www.powershellgallery.com/Packages/PSSailpoint.OauthClients/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:43 by OpenAPI Generator Team
+
+PSSailpoint.OauthClients - the PowerShell module for Identity Security Cloud API - OAuth Clients
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Notifications](https://www.powershellgallery.com/Packages/PSSailpoint.Notifications/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:38 by OpenAPI Generator Team
+
+PSSailpoint.Notifications - the PowerShell module for Identity Security Cloud API - Notifications
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.NonEmployeeLifecycleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.NonEmployeeLifecycleManagement/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:33 by OpenAPI Generator Team
+
+PSSailpoint.NonEmployeeLifecycleManagement - the PowerShell module for Identity Security Cloud API - Non-Employee Lifecycle Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MultiHostIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.MultiHostIntegration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:27 by OpenAPI Generator Team
+
+PSSailpoint.MultiHostIntegration - the PowerShell module for Identity Security Cloud API - Multi-Host Integration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MfaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.MfaConfiguration/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:23 by OpenAPI Generator Team
+
+PSSailpoint.MfaConfiguration - the PowerShell module for Identity Security Cloud API - MFA Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ManagedClusters](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClusters/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:18 by OpenAPI Generator Team
+
+PSSailpoint.ManagedClusters - the PowerShell module for Identity Security Cloud API - Managed Clusters
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ManagedClusterTypes](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClusterTypes/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:13 by OpenAPI Generator Team
+
+PSSailpoint.ManagedClusterTypes - the PowerShell module for Identity Security Cloud API - Managed Cluster Types
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ManagedClients](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClients/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:09 by OpenAPI Generator Team
+
+PSSailpoint.ManagedClients - the PowerShell module for Identity Security Cloud API - Managed Clients
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineIdentitiesLifecycleActions](https://www.powershellgallery.com/Packages/PSSailpoint.MachineIdentitiesLifecycleActions/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:28:04 by OpenAPI Generator Team
+
+PSSailpoint.MachineIdentitiesLifecycleActions - the PowerShell module for Identity Security Cloud API - Machine Identity Lifecycle Actions
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.MachineIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.MachineIdentities/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:27:56 by OpenAPI Generator Team
+
+PSSailpoint.MachineIdentities - the PowerShell module for Identity Security Cloud API - Machine Identities
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineClassificationConfig](https://www.powershellgallery.com/Packages/PSSailpoint.MachineClassificationConfig/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:27:43 by OpenAPI Generator Team
+
+PSSailpoint.MachineClassificationConfig - the PowerShell module for Identity Security Cloud API - Machine Classification Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccounts](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccounts/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:27:30 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccounts - the PowerShell module for Identity Security Cloud API - Machine Accounts
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountSubtypes](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountSubtypes/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:27:21 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountSubtypes - the PowerShell module for Identity Security Cloud API - Machine Account Subtypes
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountMappings](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountMappings/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:27:06 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountMappings - the PowerShell module for Identity Security Cloud API - Machine Account Mappings
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountCreationRequest](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountCreationRequest/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:26:48 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountCreationRequest - the PowerShell module for Identity Security Cloud API - Machine Account Creation Request
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountClassify](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountClassify/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:26:37 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountClassify - the PowerShell module for Identity Security Cloud API - Machine Account Classify
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.LifecycleStates](https://www.powershellgallery.com/Packages/PSSailpoint.LifecycleStates/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:26:17 by OpenAPI Generator Team
+
+PSSailpoint.LifecycleStates - the PowerShell module for Identity Security Cloud API - Lifecycle States
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Launchers](https://www.powershellgallery.com/Packages/PSSailpoint.Launchers/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:26:03 by OpenAPI Generator Team
+
+PSSailpoint.Launchers - the PowerShell module for Identity Security Cloud API - Launchers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.JitActivations](https://www.powershellgallery.com/Packages/PSSailpoint.JitActivations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:25:43 by OpenAPI Generator Team
+
+PSSailpoint.JitActivations - the PowerShell module for Identity Security Cloud API - JIT Activations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.JitAccess](https://www.powershellgallery.com/Packages/PSSailpoint.JitAccess/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:25:22 by OpenAPI Generator Team
+
+PSSailpoint.JitAccess - the PowerShell module for Identity Security Cloud API - JIT Access
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Intelligence](https://www.powershellgallery.com/Packages/PSSailpoint.Intelligence/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:25:08 by OpenAPI Generator Team
+
+PSSailpoint.Intelligence - the PowerShell module for Identity Security Cloud API - Intelligence
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.IdentityProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityProfiles/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:24:53 by OpenAPI Generator Team
+
+PSSailpoint.IdentityProfiles - the PowerShell module for Identity Security Cloud API - Identity Profiles
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IdentityHistory](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityHistory/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:24:38 by OpenAPI Generator Team
+
+PSSailpoint.IdentityHistory - the PowerShell module for Identity Security Cloud API - Identity History
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IdentityAttributes](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityAttributes/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:24:20 by OpenAPI Generator Team
+
+PSSailpoint.IdentityAttributes - the PowerShell module for Identity Security Cloud API - Identity Attributes
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Identities](https://www.powershellgallery.com/Packages/PSSailpoint.Identities/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:24:15 by OpenAPI Generator Team
+
+PSSailpoint.Identities - the PowerShell module for Identity Security Cloud API - Identities
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Icons](https://www.powershellgallery.com/Packages/PSSailpoint.Icons/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:24:04 by OpenAPI Generator Team
+
+PSSailpoint.Icons - the PowerShell module for Identity Security Cloud API - Icons
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiRoleMining](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRoleMining/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:46 by OpenAPI Generator Team
+
+PSSailpoint.IaiRoleMining - the PowerShell module for Identity Security Cloud API - IAI Role Mining
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRecommendations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:36 by OpenAPI Generator Team
+
+PSSailpoint.IaiRecommendations - the PowerShell module for Identity Security Cloud API - IAI Recommendations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiPeerGroupStrategies](https://www.powershellgallery.com/Packages/PSSailpoint.IaiPeerGroupStrategies/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:25 by OpenAPI Generator Team
+
+PSSailpoint.IaiPeerGroupStrategies - the PowerShell module for Identity Security Cloud API - IAI Peer Group Strategies
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiOutliers](https://www.powershellgallery.com/Packages/PSSailpoint.IaiOutliers/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:12 by OpenAPI Generator Team
+
+PSSailpoint.IaiOutliers - the PowerShell module for Identity Security Cloud API - IAI Outliers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiCommonAccess](https://www.powershellgallery.com/Packages/PSSailpoint.IaiCommonAccess/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:07 by OpenAPI Generator Team
+
+PSSailpoint.IaiCommonAccess - the PowerShell module for Identity Security Cloud API - IAI Common Access
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiAccessRequestRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiAccessRequestRecommendations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:23:02 by OpenAPI Generator Team
+
+PSSailpoint.IaiAccessRequestRecommendations - the PowerShell module for Identity Security Cloud API - IAI Access Request Recommendations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.GovernanceGroups](https://www.powershellgallery.com/Packages/PSSailpoint.GovernanceGroups/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:57 by OpenAPI Generator Team
+
+PSSailpoint.GovernanceGroups - the PowerShell module for Identity Security Cloud API - Governance Groups
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.GlobalTenantSecuritySettings](https://www.powershellgallery.com/Packages/PSSailpoint.GlobalTenantSecuritySettings/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:52 by OpenAPI Generator Team
+
+PSSailpoint.GlobalTenantSecuritySettings - the PowerShell module for Identity Security Cloud API - Global Tenant Security Settings
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Entitlements](https://www.powershellgallery.com/Packages/PSSailpoint.Entitlements/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:47 by OpenAPI Generator Team
+
+PSSailpoint.Entitlements - the PowerShell module for Identity Security Cloud API - Entitlements
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.EntitlementConnections](https://www.powershellgallery.com/Packages/PSSailpoint.EntitlementConnections/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:42 by OpenAPI Generator Team
+
+PSSailpoint.EntitlementConnections - the PowerShell module for Identity Security Cloud API - Entitlement Connections
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Dimensions](https://www.powershellgallery.com/Packages/PSSailpoint.Dimensions/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:36 by OpenAPI Generator Team
+
+PSSailpoint.Dimensions - the PowerShell module for Identity Security Cloud API - Dimensions
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.DeclassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.DeclassifySource/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:31 by OpenAPI Generator Team
+
+PSSailpoint.DeclassifySource - the PowerShell module for Identity Security Cloud API - Declassify Source
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.DataSegmentation](https://www.powershellgallery.com/Packages/PSSailpoint.DataSegmentation/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:27 by OpenAPI Generator Team
+
+PSSailpoint.DataSegmentation - the PowerShell module for Identity Security Cloud API - Data Segmentation
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.DataAccessSecurity](https://www.powershellgallery.com/Packages/PSSailpoint.DataAccessSecurity/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:22 by OpenAPI Generator Team
+
+PSSailpoint.DataAccessSecurity - the PowerShell module for Identity Security Cloud API - Data Access Security
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomUserLevels](https://www.powershellgallery.com/Packages/PSSailpoint.CustomUserLevels/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:17 by OpenAPI Generator Team
+
+PSSailpoint.CustomUserLevels - the PowerShell module for Identity Security Cloud API - Custom User Levels
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomPasswordInstructions](https://www.powershellgallery.com/Packages/PSSailpoint.CustomPasswordInstructions/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:12 by OpenAPI Generator Team
+
+PSSailpoint.CustomPasswordInstructions - the PowerShell module for Identity Security Cloud API - Custom Password Instructions
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomForms](https://www.powershellgallery.com/Packages/PSSailpoint.CustomForms/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:08 by OpenAPI Generator Team
+
+PSSailpoint.CustomForms - the PowerShell module for Identity Security Cloud API - Custom Forms
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Connectors](https://www.powershellgallery.com/Packages/PSSailpoint.Connectors/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:22:03 by OpenAPI Generator Team
+
+PSSailpoint.Connectors - the PowerShell module for Identity Security Cloud API - Connectors
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConnectorRuleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorRuleManagement/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:58 by OpenAPI Generator Team
+
+PSSailpoint.ConnectorRuleManagement - the PowerShell module for Identity Security Cloud API - Connector Rule Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConnectorCustomizers](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorCustomizers/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:53 by OpenAPI Generator Team
+
+PSSailpoint.ConnectorCustomizers - the PowerShell module for Identity Security Cloud API - Connector Customizers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConfigurationHub](https://www.powershellgallery.com/Packages/PSSailpoint.ConfigurationHub/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:48 by OpenAPI Generator Team
+
+PSSailpoint.ConfigurationHub - the PowerShell module for Identity Security Cloud API - Configuration Hub
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ClassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.ClassifySource/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:44 by OpenAPI Generator Team
+
+PSSailpoint.ClassifySource - the PowerShell module for Identity Security Cloud API - Classify Source
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Certifications](https://www.powershellgallery.com/Packages/PSSailpoint.Certifications/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:39 by OpenAPI Generator Team
+
+PSSailpoint.Certifications - the PowerShell module for Identity Security Cloud API - Certifications
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationSummaries](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationSummaries/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:34 by OpenAPI Generator Team
+
+PSSailpoint.CertificationSummaries - the PowerShell module for Identity Security Cloud API - Certification Summaries
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationCampaigns](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaigns/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:30 by OpenAPI Generator Team
+
+PSSailpoint.CertificationCampaigns - the PowerShell module for Identity Security Cloud API - Certification Campaigns
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationCampaignFilters](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaignFilters/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:19 by OpenAPI Generator Team
+
+PSSailpoint.CertificationCampaignFilters - the PowerShell module for Identity Security Cloud API - Certification Campaign Filters
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.BusinessApplications](https://www.powershellgallery.com/Packages/PSSailpoint.BusinessApplications/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:09 by OpenAPI Generator Team
+
+PSSailpoint.BusinessApplications - the PowerShell module for Identity Security Cloud API - Business Applications
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.Branding](https://www.powershellgallery.com/Packages/PSSailpoint.Branding/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:21:04 by OpenAPI Generator Team
+
+PSSailpoint.Branding - the PowerShell module for Identity Security Cloud API - Branding
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.AuthUsers](https://www.powershellgallery.com/Packages/PSSailpoint.AuthUsers/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:58 by OpenAPI Generator Team
+
+PSSailpoint.AuthUsers - the PowerShell module for Identity Security Cloud API - Auth Users
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.AuthProfile](https://www.powershellgallery.com/Packages/PSSailpoint.AuthProfile/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:54 by OpenAPI Generator Team
+
+PSSailpoint.AuthProfile - the PowerShell module for Identity Security Cloud API - Auth Profile
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Apps](https://www.powershellgallery.com/Packages/PSSailpoint.Apps/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:49 by OpenAPI Generator Team
+
+PSSailpoint.Apps - the PowerShell module for Identity Security Cloud API - Apps
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Approvals](https://www.powershellgallery.com/Packages/PSSailpoint.Approvals/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:44 by OpenAPI Generator Team
+
+PSSailpoint.Approvals - the PowerShell module for Identity Security Cloud API - Approvals
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.ApplicationDiscovery](https://www.powershellgallery.com/Packages/PSSailpoint.ApplicationDiscovery/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:39 by OpenAPI Generator Team
+
+PSSailpoint.ApplicationDiscovery - the PowerShell module for Identity Security Cloud API - Application Discovery
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.ApiUsage](https://www.powershellgallery.com/Packages/PSSailpoint.ApiUsage/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:34 by OpenAPI Generator Team
+
+PSSailpoint.ApiUsage - the PowerShell module for Identity Security Cloud API - Api Usage
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.119) | 3.0.119
+
+### Published: 08/17/2026 08:20:30 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [PSSailpoint.Accounts](https://www.powershellgallery.com/Packages/PSSailpoint.Accounts/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:26 by OpenAPI Generator Team
+
+PSSailpoint.Accounts - the PowerShell module for Identity Security Cloud API - Accounts
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountUsages](https://www.powershellgallery.com/Packages/PSSailpoint.AccountUsages/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:20 by OpenAPI Generator Team
+
+PSSailpoint.AccountUsages - the PowerShell module for Identity Security Cloud API - Account Usages
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountDeletionRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccountDeletionRequests/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:15 by OpenAPI Generator Team
+
+PSSailpoint.AccountDeletionRequests - the PowerShell module for Identity Security Cloud API - Account Deletion Requests
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountAggregations](https://www.powershellgallery.com/Packages/PSSailpoint.AccountAggregations/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:07 by OpenAPI Generator Team
+
+PSSailpoint.AccountAggregations - the PowerShell module for Identity Security Cloud API - Account Aggregations
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountActivities](https://www.powershellgallery.com/Packages/PSSailpoint.AccountActivities/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:20:02 by OpenAPI Generator Team
+
+PSSailpoint.AccountActivities - the PowerShell module for Identity Security Cloud API - Account Activities
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequests/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:19:57 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequests - the PowerShell module for Identity Security Cloud API - Access Requests
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequestIdentityMetrics](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestIdentityMetrics/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:19:46 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequestIdentityMetrics - the PowerShell module for Identity Security Cloud API - Access Request Identity Metrics
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequestApprovals](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestApprovals/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:19:41 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequestApprovals - the PowerShell module for Identity Security Cloud API - Access Request Approvals
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.AccessProfiles/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:19:34 by OpenAPI Generator Team
+
+PSSailpoint.AccessProfiles - the PowerShell module for Identity Security Cloud API - Access Profiles
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessModelMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.AccessModelMetadata/2.1.17) | 2.1.17
+
+### Published: 08/17/2026 08:19:29 by OpenAPI Generator Team
+
+PSSailpoint.AccessModelMetadata - the PowerShell module for Identity Security Cloud API - Access Model Metadata
+
+__Downloads__: 8 | __Repository__: 
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26229.9143) | 5.1.26229.9143
+
+### Published: 08/17/2026 07:02:09 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 7,793,786 | __Repository__: https://www.red-gate.com/products/sql-change-automation/support/
+
+## [AzureScout](https://www.powershellgallery.com/Packages/AzureScout/3.15.0) | 3.15.0
+
+### Published: 08/17/2026 06:27:56 by Kristopher Turner
+
+AzureScout — discover, inventory, and assess everything in your Azure environment from one command. Run Invoke-AzureScout with no parameters for a guided wizard, or drive it with switches: by default it inventories tenant-wide Azure ARM resources and produces the live React, Json, and JsonEvidence outputs; opt into Entra ID collection with -Scope All; add -Assessment to run a read-only CAF/WAF assessment. Detailed run logs capture debug and verbose diagnostics without adding console noise. See everything. Own your cloud. (Requires PowerShell 7 on PowerShell Core.)
+
+__Downloads__: 34 | __Repository__: https://labs.hybridsolutions.cloud/azure-scout/
+
+## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.5.0) | 0.5.0
+
+### Published: 08/17/2026 04:50:47 by Warren Frame
+
+PowerShell Dependency Handler
+
+__Downloads__: 2,079,799 | __Repository__: https://github.com/PowerShellOrg/PSDepend/
+
+## [OMG.PSUtilities.Core](https://www.powershellgallery.com/Packages/OMG.PSUtilities.Core/1.0.27) | 1.0.27
+
+### Published: 08/17/2026 04:18:31 by Lakshmanachari Panuganti
+
+General purpose PowerShell utilities and system-level tools.
+
+__Downloads__: 3,553 | __Repository__: 
+
+## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.97) | 0.5.97
+
+### Published: 08/17/2026 03:21:19 by Dan Damit
+
+A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp. TechToolbox also utilizes the conventional PowerShell help system, so Get-Help <command-name> is your friend.
+
+__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
+
+## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.2.16) | 1.2.16
+
+### Published: 08/17/2026 03:13:09 by Brian Lalonde
+
+Converts HTML to Markdown/CommonMark.
+
+__Downloads__: 24,011 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.5.30) | 0.5.30
+
+### Published: 08/17/2026 03:00:28 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+- Use `Enter-ps12exeInteract` to enter an interactive mode for compiling scripts without parameters;
+- Use `exe21sp` to extract the PowerShell script from a ps12exe-generated executable back into a `.ps1` script.
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 22,486 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [WinGetManifestFetcher](https://www.powershellgallery.com/Packages/WinGetManifestFetcher/1.6.0) | 1.6.0
+
+### Published: 08/17/2026 00:39:10 by WinGet Manifest Fetcher Contributors
+
+Retrieves installer information from the microsoft/winget-pkgs repository without requiring the WinGet client.
+
+__Downloads__: 528 | __Repository__: https://github.com/jorgeasaurus/WinGet-Manifest-Fetcher
+
+## [PacCopilotKit](https://www.powershellgallery.com/Packages/PacCopilotKit/0.1.0) | 0.1.0
+
+### Published: 08/16/2026 22:22:24 by Mariano Gomez Bent
+
+Paved-road toolkit for the Microsoft Copilot Studio agent lifecycle over the pac CLI and the Dataverse Web API. Creates Dataverse knowledge sources in-solution and repeatably, and makes the published Copilot Studio ALM prescription executable in a shell and in CI.
+
+__Downloads__: 0 | __Repository__: https://github.com/dgpblogster/pac-copilot-kit
+
 ## [PSDataRepository](https://www.powershellgallery.com/Packages/PSDataRepository/0.7.4) | 0.7.4
 
 ### Published: 08/16/2026 20:46:26 by Ondrej Kracmar
@@ -19,30 +1074,6 @@ PSSqlRepository: PowerShell + EF Core repository module with pluggable SQL provi
 
 __Downloads__: 0 | __Repository__: https://github.com/ondrejkracmar/PSSqlRepository
 
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.116) | 3.0.116
-
-### Published: 08/16/2026 20:23:26 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
-## [ModuleAssembler](https://www.powershellgallery.com/Packages/ModuleAssembler/0.3.0) | 0.3.0
-
-### Published: 08/16/2026 19:46:50 by TrisBits
-
-ModuleAssembler is a PowerShell module that provides scaffolding, build, test, documentation, versioning, and publishing utilities for PowerShell module development. It is suited for both interactive development workflows and CI/CD pipelines.
-
-__Downloads__: 0 | __Repository__: https://github.com/ModuleAssembler/ModuleAssembler
-
-## [Az.SerbiceFabric](https://www.powershellgallery.com/Packages/Az.SerbiceFabric/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:02:45 by Drew Carter
-
-Neat system utilities
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.SerciceFabric](https://www.powershellgallery.com/Packages/Az.SerciceFabric/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:02:43 by Morgan Murphy
@@ -56,6 +1087,14 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 19:02:40 by Skyler Foster
 
 Clean extensions
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.SeeviceFabric](https://www.powershellgallery.com/Packages/Az.SeeviceFabric/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:02:37 by Morgan Murphy
+
+Smart toolkit
 
 __Downloads__: 0 | __Repository__: 
 
@@ -83,6 +1122,14 @@ Smart module
 
 __Downloads__: 0 | __Repository__: 
 
+## [Az.AerviceFabric](https://www.powershellgallery.com/Packages/Az.AerviceFabric/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:02:25 by Drew Sullivan
+
+Portable management tools
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Ax.ServiceFabric](https://www.powershellgallery.com/Packages/Ax.ServiceFabric/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:02:22 by Taylor Bennett
@@ -107,6 +1154,14 @@ Minimal module
 
 __Downloads__: 0 | __Repository__: 
 
+## [Az.RedisCachw](https://www.powershellgallery.com/Packages/Az.RedisCachw/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:02:13 by Skyler Hayes
+
+Small toolkit
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Az.RedisCacje](https://www.powershellgallery.com/Packages/Az.RedisCacje/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:02:11 by Reese Ward
@@ -123,11 +1178,11 @@ Minimal core helpers
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.RedisCavhe](https://www.powershellgallery.com/Packages/Az.RedisCavhe/1.0.0) | 1.0.0
+## [Az.RedisCaxhe](https://www.powershellgallery.com/Packages/Az.RedisCaxhe/1.0.0) | 1.0.0
 
-### Published: 08/16/2026 19:02:06 by Avery Murphy
+### Published: 08/16/2026 19:02:04 by Logan Sullivan
 
-Quick runtime utils
+Handy automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -144,14 +1199,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 19:01:59 by Jamie Reed
 
 Simple tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RedisXache](https://www.powershellgallery.com/Packages/Az.RedisXache/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:01:56 by Taylor Reed
-
-Portable tools
 
 __Downloads__: 0 | __Repository__: 
 
@@ -195,11 +1242,19 @@ Useful automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.RrdisCache](https://www.powershellgallery.com/Packages/Az.RrdisCache/1.0.0) | 1.0.0
+## [Az.RwdisCache](https://www.powershellgallery.com/Packages/Az.RwdisCache/1.0.0) | 1.0.0
 
-### Published: 08/16/2026 19:01:37 by Casey Foster
+### Published: 08/16/2026 19:01:34 by Drew Parker
 
-Flexible toolkit
+Fast utilities
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.TedisCache](https://www.powershellgallery.com/Packages/Az.TedisCache/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:01:31 by Cameron Murphy
+
+Quick automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -216,14 +1271,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 19:01:26 by Jamie Gray
 
 Lightweight management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Sz.RedisCache](https://www.powershellgallery.com/Packages/Sz.RedisCache/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:01:24 by Reese Gray
-
-Neat extensions
 
 __Downloads__: 0 | __Repository__: 
 
@@ -246,14 +1293,6 @@ __Downloads__: 0 | __Repository__:
 ## [Az.FrontDopr](https://www.powershellgallery.com/Packages/Az.FrontDopr/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:01:16 by Reese Brooks
-
-Smart framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.FrontDoir](https://www.powershellgallery.com/Packages/Az.FrontDoir/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:01:13 by Cameron Ward
 
 Smart framework helpers
 
@@ -291,22 +1330,6 @@ Quick extensions
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.FronyDoor](https://www.powershellgallery.com/Packages/Az.FronyDoor/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:00:58 by Jamie Carter
-
-Flexible system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.FronrDoor](https://www.powershellgallery.com/Packages/Az.FronrDoor/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:00:56 by Quinn Parker
-
-Neat runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.FromtDoor](https://www.powershellgallery.com/Packages/Az.FromtDoor/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:00:53 by Casey Bennett
@@ -323,22 +1346,6 @@ Flexible system utilities
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.FrpntDoor](https://www.powershellgallery.com/Packages/Az.FrpntDoor/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:00:47 by Skyler Hayes
-
-Robust tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.FrintDoor](https://www.powershellgallery.com/Packages/Az.FrintDoor/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 19:00:45 by Taylor Miller
-
-Handy extensions
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.FtontDoor](https://www.powershellgallery.com/Packages/Az.FtontDoor/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 19:00:42 by Taylor Reed
@@ -352,6 +1359,14 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 19:00:39 by Drew Hayes
 
 Flexible management tools
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.GrontDoor](https://www.powershellgallery.com/Packages/Az.GrontDoor/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:00:36 by Avery Brooks
+
+Fast tools
 
 __Downloads__: 0 | __Repository__: 
 
@@ -376,6 +1391,14 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 19:00:28 by Skyler Brooks
 
 Simple framework helpers
+
+__Downloads__: 0 | __Repository__: 
+
+## [DellBIOSProviderr](https://www.powershellgallery.com/Packages/DellBIOSProviderr/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 19:00:25 by Hayden Gray
+
+Portable automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -448,14 +1471,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 18:59:57 by Riley Gray
 
 Handy runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [DellBBIOSProvider](https://www.powershellgallery.com/Packages/DellBBIOSProvider/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:59:54 by Quinn Parker
-
-Lightweight extensions
 
 __Downloads__: 0 | __Repository__: 
 
@@ -555,27 +1570,11 @@ Simple utilities
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.PolicyInsughts](https://www.powershellgallery.com/Packages/Az.PolicyInsughts/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:59:17 by Taylor Reed
-
-Flexible automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.PolicyIndights](https://www.powershellgallery.com/Packages/Az.PolicyIndights/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:59:15 by Riley Reed
 
 Fast system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.PolicyInaights](https://www.powershellgallery.com/Packages/Az.PolicyInaights/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:59:12 by Avery Foster
-
-Robust extensions
 
 __Downloads__: 0 | __Repository__: 
 
@@ -627,14 +1626,6 @@ Robust extensions
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.PolivyInsights](https://www.powershellgallery.com/Packages/Az.PolivyInsights/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:52 by Quinn Bennett
-
-Useful runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.PolixyInsights](https://www.powershellgallery.com/Packages/Az.PolixyInsights/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:58:50 by Jordan Carter
@@ -648,14 +1639,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 18:58:47 by Skyler Bennett
 
 Smart runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.PolucyInsights](https://www.powershellgallery.com/Packages/Az.PolucyInsights/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:45 by Avery Reed
-
-Clean framework helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -680,22 +1663,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 18:58:37 by Casey Parker
 
 Clean module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.OolicyInsights](https://www.powershellgallery.com/Packages/Az.OolicyInsights/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:34 by Jordan Murphy
-
-Efficient management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Ax.PolicyInsights](https://www.powershellgallery.com/Packages/Ax.PolicyInsights/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:31 by Reese Hayes
-
-Handy system utilities
 
 __Downloads__: 0 | __Repository__: 
 
@@ -739,19 +1706,19 @@ Modern management tools
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.ServiceVus](https://www.powershellgallery.com/Packages/Az.ServiceVus/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:14 by Casey Gray
-
-Neat extensions
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.ServicrBus](https://www.powershellgallery.com/Packages/Az.ServicrBus/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:58:11 by Quinn Brooks
 
 Lightweight extensions
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.ServicwBus](https://www.powershellgallery.com/Packages/Az.ServicwBus/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:58:08 by Casey Sullivan
+
+Compact tools
 
 __Downloads__: 0 | __Repository__: 
 
@@ -763,14 +1730,6 @@ Neat tools
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.ServixeBus](https://www.powershellgallery.com/Packages/Az.ServixeBus/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:58:02 by Jamie Reed
-
-Fast helpers
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.ServoceBus](https://www.powershellgallery.com/Packages/Az.ServoceBus/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:58:00 by Alex Parker
@@ -779,11 +1738,11 @@ Reliable management tools
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.SerbiceBus](https://www.powershellgallery.com/Packages/Az.SerbiceBus/1.0.0) | 1.0.0
+## [Az.ServuceBus](https://www.powershellgallery.com/Packages/Az.ServuceBus/1.0.0) | 1.0.0
 
-### Published: 08/16/2026 18:57:55 by Reese Bennett
+### Published: 08/16/2026 18:57:57 by Blake Bennett
 
-Portable tools
+Portable toolkit
 
 __Downloads__: 0 | __Repository__: 
 
@@ -803,19 +1762,19 @@ Useful utilities
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.SeeviceBus](https://www.powershellgallery.com/Packages/Az.SeeviceBus/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:57:47 by Riley Parker
-
-Robust module
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Az.SrrviceBus](https://www.powershellgallery.com/Packages/Az.SrrviceBus/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:57:44 by Alex Bennett
 
 Compact module
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.SwrviceBus](https://www.powershellgallery.com/Packages/Az.SwrviceBus/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:57:41 by Alex Parker
+
+Useful automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -835,11 +1794,11 @@ Reliable framework helpers
 
 __Downloads__: 0 | __Repository__: 
 
-## [Sz.ServiceBus](https://www.powershellgallery.com/Packages/Sz.ServiceBus/1.0.0) | 1.0.0
+## [Ax.ServiceBus](https://www.powershellgallery.com/Packages/Ax.ServiceBus/1.0.0) | 1.0.0
 
-### Published: 08/16/2026 18:57:28 by Jordan Reed
+### Published: 08/16/2026 18:57:30 by Taylor Parker
 
-Robust runtime utils
+Modern automation helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -859,6 +1818,14 @@ Smart management tools
 
 __Downloads__: 0 | __Repository__: 
 
+## [Az.LogicSpp](https://www.powershellgallery.com/Packages/Az.LogicSpp/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:57:19 by Alex Brooks
+
+Simple runtime utils
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Az.LogixApp](https://www.powershellgallery.com/Packages/Az.LogixApp/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:57:15 by Quinn Turner
@@ -875,11 +1842,11 @@ Compact system utilities
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.LohicApp](https://www.powershellgallery.com/Packages/Az.LohicApp/1.0.0) | 1.0.0
+## [Az.LogucApp](https://www.powershellgallery.com/Packages/Az.LogucApp/1.0.0) | 1.0.0
 
-### Published: 08/16/2026 18:57:07 by Riley Foster
+### Published: 08/16/2026 18:57:09 by Logan Murphy
 
-Simple extensions
+Clean extensions
 
 __Downloads__: 0 | __Repository__: 
 
@@ -899,6 +1866,14 @@ Compact toolkit
 
 __Downloads__: 0 | __Repository__: 
 
+## [Az.LigicApp](https://www.powershellgallery.com/Packages/Az.LigicApp/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:56:58 by Blake Gray
+
+Robust framework helpers
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Az.KogicApp](https://www.powershellgallery.com/Packages/Az.KogicApp/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:56:55 by Taylor Brooks
@@ -915,6 +1890,14 @@ Robust tools
 
 __Downloads__: 0 | __Repository__: 
 
+## [Sz.LogicApp](https://www.powershellgallery.com/Packages/Sz.LogicApp/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:56:49 by Avery Murphy
+
+Quick helpers
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Az.IotHun](https://www.powershellgallery.com/Packages/Az.IotHun/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:56:46 by Blake Brooks
@@ -928,6 +1911,14 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/16/2026 18:56:40 by Alex Turner
 
 Neat automation helpers
+
+__Downloads__: 0 | __Repository__: 
+
+## [Az.IotHyb](https://www.powershellgallery.com/Packages/Az.IotHyb/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:56:37 by Reese Reed
+
+Small core helpers
 
 __Downloads__: 0 | __Repository__: 
 
@@ -987,6 +1978,14 @@ Small utilities
 
 __Downloads__: 0 | __Repository__: 
 
+## [Sz.IotHub](https://www.powershellgallery.com/Packages/Sz.IotHub/1.0.0) | 1.0.0
+
+### Published: 08/16/2026 18:56:11 by Drew Brooks
+
+Portable runtime utils
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Az.DevTestLabd](https://www.powershellgallery.com/Packages/Az.DevTestLabd/1.0.0) | 1.0.0
 
 ### Published: 08/16/2026 18:56:08 by Taylor Brooks
@@ -1011,996 +2010,4 @@ Simple system utilities
 
 __Downloads__: 0 | __Repository__: 
 
-## [Az.DevTestLsbs](https://www.powershellgallery.com/Packages/Az.DevTestLsbs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:56 by Jamie Brooks
-
-Robust toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTestKabs](https://www.powershellgallery.com/Packages/Az.DevTestKabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:53 by Riley Bennett
-
-Fast helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTesyLabs](https://www.powershellgallery.com/Packages/Az.DevTesyLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:51 by Cameron Miller
-
-Neat utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTesrLabs](https://www.powershellgallery.com/Packages/Az.DevTesrLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:48 by Riley Parker
-
-Minimal management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTedtLabs](https://www.powershellgallery.com/Packages/Az.DevTedtLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:45 by Alex Carter
-
-Quick toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTeatLabs](https://www.powershellgallery.com/Packages/Az.DevTeatLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:42 by Riley Brooks
-
-Small helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevTwstLabs](https://www.powershellgallery.com/Packages/Az.DevTwstLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:37 by Riley Gray
-
-Flexible runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevYestLabs](https://www.powershellgallery.com/Packages/Az.DevYestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:34 by Quinn Turner
-
-Modern runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DevRestLabs](https://www.powershellgallery.com/Packages/Az.DevRestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:31 by Skyler Sullivan
-
-Robust extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DebTestLabs](https://www.powershellgallery.com/Packages/Az.DebTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:29 by Riley Carter
-
-Useful toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DecTestLabs](https://www.powershellgallery.com/Packages/Az.DecTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:25 by Reese Turner
-
-Flexible runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DrvTestLabs](https://www.powershellgallery.com/Packages/Az.DrvTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:23 by Cameron Ward
-
-Robust tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DwvTestLabs](https://www.powershellgallery.com/Packages/Az.DwvTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:20 by Morgan Carter
-
-Fast utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.SevTestLabs](https://www.powershellgallery.com/Packages/Az.SevTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:14 by Avery Sullivan
-
-Portable toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Ax.DevTestLabs](https://www.powershellgallery.com/Packages/Ax.DevTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:11 by Avery Carter
-
-Useful core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Sz.DevTestLabs](https://www.powershellgallery.com/Packages/Sz.DevTestLabs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:09 by Blake Carter
-
-Lightweight framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServiced](https://www.powershellgallery.com/Packages/Az.RecoveryServiced/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:06 by Hayden Bennett
-
-Reliable toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServicea](https://www.powershellgallery.com/Packages/Az.RecoveryServicea/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:03 by Hayden Murphy
-
-Modern system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServicrs](https://www.powershellgallery.com/Packages/Az.RecoveryServicrs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:55:01 by Jordan Brooks
-
-Reliable system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServicws](https://www.powershellgallery.com/Packages/Az.RecoveryServicws/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:57 by Alex Hayes
-
-Fast utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServives](https://www.powershellgallery.com/Packages/Az.RecoveryServives/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:55 by Quinn Bennett
-
-Simple system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServixes](https://www.powershellgallery.com/Packages/Az.RecoveryServixes/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:52 by Quinn Collins
-
-Neat utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServoces](https://www.powershellgallery.com/Packages/Az.RecoveryServoces/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:49 by Avery Gray
-
-Practical tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryServuces](https://www.powershellgallery.com/Packages/Az.RecoveryServuces/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:47 by Alex Brooks
-
-Robust system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoverySerbices](https://www.powershellgallery.com/Packages/Az.RecoverySerbices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:44 by Logan Foster
-
-Efficient management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoverySercices](https://www.powershellgallery.com/Packages/Az.RecoverySercices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:40 by Avery Carter
-
-Reliable automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoverySetvices](https://www.powershellgallery.com/Packages/Az.RecoverySetvices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:38 by Avery Brooks
-
-Flexible runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoverySrrvices](https://www.powershellgallery.com/Packages/Az.RecoverySrrvices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:33 by Skyler Ward
-
-Small helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryDervices](https://www.powershellgallery.com/Packages/Az.RecoveryDervices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:26 by Riley Collins
-
-Flexible core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveryAervices](https://www.powershellgallery.com/Packages/Az.RecoveryAervices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:23 by Alex Brooks
-
-Reliable management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoveruServices](https://www.powershellgallery.com/Packages/Az.RecoveruServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:20 by Casey Foster
-
-Practical extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecovertServices](https://www.powershellgallery.com/Packages/Az.RecovertServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:18 by Logan Miller
-
-Compact tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecovetyServices](https://www.powershellgallery.com/Packages/Az.RecovetyServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:15 by Quinn Hayes
-
-Flexible runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecovrryServices](https://www.powershellgallery.com/Packages/Az.RecovrryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:09 by Logan Bennett
-
-Practical extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecovwryServices](https://www.powershellgallery.com/Packages/Az.RecovwryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:05 by Hayden Brooks
-
-Fast runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoberyServices](https://www.powershellgallery.com/Packages/Az.RecoberyServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:03 by Skyler Hayes
-
-Robust helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecoceryServices](https://www.powershellgallery.com/Packages/Az.RecoceryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:54:00 by Morgan Hayes
-
-Robust framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RecpveryServices](https://www.powershellgallery.com/Packages/Az.RecpveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:58 by Reese Turner
-
-Compact extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.ReciveryServices](https://www.powershellgallery.com/Packages/Az.ReciveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:55 by Morgan Carter
-
-Flexible module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RevoveryServices](https://www.powershellgallery.com/Packages/Az.RevoveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:52 by Drew Ward
-
-Neat tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RrcoveryServices](https://www.powershellgallery.com/Packages/Az.RrcoveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:45 by Jamie Turner
-
-Fast management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RwcoveryServices](https://www.powershellgallery.com/Packages/Az.RwcoveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:42 by Hayden Murphy
-
-Fast system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.TecoveryServices](https://www.powershellgallery.com/Packages/Az.TecoveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:40 by Taylor Bennett
-
-Modern core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EecoveryServices](https://www.powershellgallery.com/Packages/Az.EecoveryServices/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:37 by Jamie Parker
-
-Modern module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventGrif](https://www.powershellgallery.com/Packages/Az.EventGrif/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:28 by Hayden Gray
-
-Practical helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventGris](https://www.powershellgallery.com/Packages/Az.EventGris/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:26 by Morgan Brooks
-
-Smart system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventGrod](https://www.powershellgallery.com/Packages/Az.EventGrod/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:23 by Blake Carter
-
-Neat extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventHrid](https://www.powershellgallery.com/Packages/Az.EventHrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:12 by Skyler Brooks
-
-Compact utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvenyGrid](https://www.powershellgallery.com/Packages/Az.EvenyGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:06 by Riley Hayes
-
-Smart management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvemtGrid](https://www.powershellgallery.com/Packages/Az.EvemtGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:53:01 by Jordan Miller
-
-Compact tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvrntGrid](https://www.powershellgallery.com/Packages/Az.EvrntGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:55 by Alex Foster
-
-Lightweight framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EbentGrid](https://www.powershellgallery.com/Packages/Az.EbentGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:48 by Cameron Collins
-
-Portable management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EcentGrid](https://www.powershellgallery.com/Packages/Az.EcentGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:45 by Jamie Bennett
-
-Handy framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.RventGrid](https://www.powershellgallery.com/Packages/Az.RventGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:42 by Logan Turner
-
-Smart toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Ax.EventGrid](https://www.powershellgallery.com/Packages/Ax.EventGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:36 by Skyler Parker
-
-Portable system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Sz.EventGrid](https://www.powershellgallery.com/Packages/Sz.EventGrid/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:33 by Logan Reed
-
-Portable core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsighy](https://www.powershellgallery.com/Packages/Az.HDInsighy/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:30 by Skyler Murphy
-
-Lightweight module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsighr](https://www.powershellgallery.com/Packages/Az.HDInsighr/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:28 by Reese Gray
-
-Smart helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsigjt](https://www.powershellgallery.com/Packages/Az.HDInsigjt/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:25 by Casey Hayes
-
-Quick system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsiggt](https://www.powershellgallery.com/Packages/Az.HDInsiggt/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:22 by Riley Hayes
-
-Clean tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsihht](https://www.powershellgallery.com/Packages/Az.HDInsihht/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:20 by Cameron Sullivan
-
-Clean management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsifht](https://www.powershellgallery.com/Packages/Az.HDInsifht/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:17 by Reese Murphy
-
-Modern automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsoght](https://www.powershellgallery.com/Packages/Az.HDInsoght/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:14 by Logan Reed
-
-Fast extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDInsught](https://www.powershellgallery.com/Packages/Az.HDInsught/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:11 by Cameron Bennett
-
-Handy management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDIndight](https://www.powershellgallery.com/Packages/Az.HDIndight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:08 by Hayden Hayes
-
-Reliable management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDImsight](https://www.powershellgallery.com/Packages/Az.HDImsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:03 by Hayden Carter
-
-Small automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDIbsight](https://www.powershellgallery.com/Packages/Az.HDIbsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:52:01 by Logan Hayes
-
-Reliable automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDOnsight](https://www.powershellgallery.com/Packages/Az.HDOnsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:58 by Skyler Miller
-
-Compact management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HDUnsight](https://www.powershellgallery.com/Packages/Az.HDUnsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:55 by Avery Parker
-
-Quick system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HFInsight](https://www.powershellgallery.com/Packages/Az.HFInsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:52 by Casey Foster
-
-Lightweight module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.HSInsight](https://www.powershellgallery.com/Packages/Az.HSInsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:49 by Drew Foster
-
-Compact module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.JDInsight](https://www.powershellgallery.com/Packages/Az.JDInsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:45 by Riley Turner
-
-Handy utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Ax.HDInsight](https://www.powershellgallery.com/Packages/Ax.HDInsight/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:39 by Morgan Carter
-
-Robust runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalyticd](https://www.powershellgallery.com/Packages/Az.DataLakeAnalyticd/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:33 by Taylor Bennett
-
-Minimal extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalytica](https://www.powershellgallery.com/Packages/Az.DataLakeAnalytica/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:30 by Reese Reed
-
-Fast tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalytivs](https://www.powershellgallery.com/Packages/Az.DataLakeAnalytivs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:28 by Blake Brooks
-
-Smart utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalytixs](https://www.powershellgallery.com/Packages/Az.DataLakeAnalytixs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:25 by Drew Carter
-
-Minimal helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalytocs](https://www.powershellgallery.com/Packages/Az.DataLakeAnalytocs/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:22 by Quinn Miller
-
-Fast framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalyyics](https://www.powershellgallery.com/Packages/Az.DataLakeAnalyyics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:16 by Morgan Brooks
-
-Practical system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalyrics](https://www.powershellgallery.com/Packages/Az.DataLakeAnalyrics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:13 by Quinn Ward
-
-Quick core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnalutics](https://www.powershellgallery.com/Packages/Az.DataLakeAnalutics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:11 by Alex Turner
-
-Handy helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnakytics](https://www.powershellgallery.com/Packages/Az.DataLakeAnakytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:05 by Riley Sullivan
-
-Useful framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAnslytics](https://www.powershellgallery.com/Packages/Az.DataLakeAnslytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:02 by Drew Parker
-
-Minimal extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAmalytics](https://www.powershellgallery.com/Packages/Az.DataLakeAmalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:51:00 by Taylor Carter
-
-Efficient module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAbalytics](https://www.powershellgallery.com/Packages/Az.DataLakeAbalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:57 by Drew Carter
-
-Clean module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeSnalytics](https://www.powershellgallery.com/Packages/Az.DataLakeSnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:54 by Jamie Murphy
-
-Simple automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakwAnalytics](https://www.powershellgallery.com/Packages/Az.DataLakwAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:49 by Reese Turner
-
-Handy framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLaleAnalytics](https://www.powershellgallery.com/Packages/Az.DataLaleAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:46 by Riley Parker
-
-Useful management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLajeAnalytics](https://www.powershellgallery.com/Packages/Az.DataLajeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:43 by Avery Collins
-
-Smart core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataKakeAnalytics](https://www.powershellgallery.com/Packages/Az.DataKakeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:37 by Taylor Carter
-
-Small automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DatsLakeAnalytics](https://www.powershellgallery.com/Packages/Az.DatsLakeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:34 by Riley Miller
-
-Useful core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DayaLakeAnalytics](https://www.powershellgallery.com/Packages/Az.DayaLakeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:31 by Avery Foster
-
-Efficient automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.FataLakeAnalytics](https://www.powershellgallery.com/Packages/Az.FataLakeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:22 by Riley Foster
-
-Fast module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.SataLakeAnalytics](https://www.powershellgallery.com/Packages/Az.SataLakeAnalytics/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:19 by Blake Sullivan
-
-Clean automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.Dnd](https://www.powershellgallery.com/Packages/Az.Dnd/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:10 by Morgan Carter
-
-Handy management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.Dna](https://www.powershellgallery.com/Packages/Az.Dna/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:07 by Skyler Parker
-
-Neat framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.Dms](https://www.powershellgallery.com/Packages/Az.Dms/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:50:05 by Quinn Miller
-
-Reliable framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.Fns](https://www.powershellgallery.com/Packages/Az.Fns/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:59 by Cameron Murphy
-
-Lightweight runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.Sns](https://www.powershellgallery.com/Packages/Az.Sns/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:56 by Drew Miller
-
-Compact helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeStorr](https://www.powershellgallery.com/Packages/Az.DataLakeStorr/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:41 by Casey Foster
-
-Compact runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeStorw](https://www.powershellgallery.com/Packages/Az.DataLakeStorw/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:39 by Drew Ward
-
-Modern system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeStote](https://www.powershellgallery.com/Packages/Az.DataLakeStote/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:35 by Logan Carter
-
-Small management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeStire](https://www.powershellgallery.com/Packages/Az.DataLakeStire/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:27 by Blake Sullivan
-
-Clean management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeSyore](https://www.powershellgallery.com/Packages/Az.DataLakeSyore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:24 by Reese Turner
-
-Flexible framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeSrore](https://www.powershellgallery.com/Packages/Az.DataLakeSrore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:22 by Blake Foster
-
-Small toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakeAtore](https://www.powershellgallery.com/Packages/Az.DataLakeAtore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:16 by Jamie Bennett
-
-Useful utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakrStore](https://www.powershellgallery.com/Packages/Az.DataLakrStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:14 by Taylor Ward
-
-Modern toolkit
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLakwStore](https://www.powershellgallery.com/Packages/Az.DataLakwStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:11 by Reese Reed
-
-Reliable management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLaleStore](https://www.powershellgallery.com/Packages/Az.DataLaleStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:08 by Casey Ward
-
-Practical utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DataLajeStore](https://www.powershellgallery.com/Packages/Az.DataLajeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:49:05 by Hayden Sullivan
-
-Robust core helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DatsLakeStore](https://www.powershellgallery.com/Packages/Az.DatsLakeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:56 by Logan Brooks
-
-Flexible helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.DaraLakeStore](https://www.powershellgallery.com/Packages/Az.DaraLakeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:50 by Jamie Murphy
-
-Smart framework helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.FataLakeStore](https://www.powershellgallery.com/Packages/Az.FataLakeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:45 by Cameron Gray
-
-Smart utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.SataLakeStore](https://www.powershellgallery.com/Packages/Az.SataLakeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:42 by Blake Collins
-
-Neat module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Ax.DataLakeStore](https://www.powershellgallery.com/Packages/Ax.DataLakeStore/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:39 by Riley Miller
-
-Compact management tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventHun](https://www.powershellgallery.com/Packages/Az.EventHun/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:33 by Taylor Parker
-
-Robust tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventHib](https://www.powershellgallery.com/Packages/Az.EventHib/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:28 by Jamie Bennett
-
-Simple extensions
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventJub](https://www.powershellgallery.com/Packages/Az.EventJub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:22 by Skyler Brooks
-
-Minimal system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EventGub](https://www.powershellgallery.com/Packages/Az.EventGub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:19 by Alex Gray
-
-Quick system utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvenyHub](https://www.powershellgallery.com/Packages/Az.EvenyHub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:17 by Blake Sullivan
-
-Efficient tools
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvenrHub](https://www.powershellgallery.com/Packages/Az.EvenrHub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:13 by Skyler Parker
-
-Simple automation helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvemtHub](https://www.powershellgallery.com/Packages/Az.EvemtHub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:10 by Hayden Murphy
-
-Small utilities
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvebtHub](https://www.powershellgallery.com/Packages/Az.EvebtHub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:08 by Cameron Miller
-
-Clean helpers
-
-__Downloads__: 0 | __Repository__: 
-
-## [Az.EvrntHub](https://www.powershellgallery.com/Packages/Az.EvrntHub/1.0.0) | 1.0.0
-
-### Published: 08/16/2026 18:48:05 by Casey Parker
-
-Handy runtime utils
-
-__Downloads__: 0 | __Repository__: 
-
-*Updated: Sunday, 16 August 2026 21:57:41 UTC*
+*Updated: Monday, 17 August 2026 10:16:41 UTC*
