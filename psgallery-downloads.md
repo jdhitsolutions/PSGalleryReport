@@ -770,6 +770,14 @@ Microsoft Azure PowerShell: ManagedServiceIdentity cmdlets
 
 __Downloads__: 173,281,798 | __Repository__: https://github.com/Azure/azure-powershell
 
+## [HP.Private](https://www.powershellgallery.com/Packages/HP.Private/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:13:42 by HP Development Company L.P.
+
+Private utility module for HP Client Management Script Library
+
+__Downloads__: 169,792,709 | __Repository__: https://developers.hp.com/clientmanagement
+
 ## [Az.PostgreSql](https://www.powershellgallery.com/Packages/Az.PostgreSql/1.4.1) | 1.4.1
 
 ### Published: 05/05/2026 03:39:42 by Microsoft Corporation
@@ -785,6 +793,22 @@ __Downloads__: 169,725,700 | __Repository__: https://github.com/Azure/azure-powe
 Powershell module for serializing and deserializing YAML
 
 __Downloads__: 169,292,020 | __Repository__: https://github.com/cloudbase/powershell-yaml
+
+## [HP.Utility](https://www.powershellgallery.com/Packages/HP.Utility/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:17:01 by HP Development Company L.P.
+
+Public utility module for HP Client Management Script Library
+
+__Downloads__: 167,546,707 | __Repository__: https://developers.hp.com/clientmanagement
+
+## [HP.ClientManagement](https://www.powershellgallery.com/Packages/HP.ClientManagement/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:19:30 by HP Development Company L.P.
+
+Device and BIOS management module for HP Client Management Script Library
+
+__Downloads__: 166,865,629 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [Az.ConfidentialLedger](https://www.powershellgallery.com/Packages/Az.ConfidentialLedger/2.0.0) | 2.0.0
 
@@ -825,6 +849,14 @@ __Downloads__: 158,634,441 | __Repository__: https://github.com/bcwilhite/Pendin
 Microsoft Azure PowerShell - Profile credential management cmdlets for Azure Resource Manager
 
 __Downloads__: 157,819,899 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [HP.Firmware](https://www.powershellgallery.com/Packages/HP.Firmware/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:22:07 by HP Development Company L.P.
+
+Firmware access module for HP Client Management Script Library
+
+__Downloads__: 156,908,144 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [Az.Automanage](https://www.powershellgallery.com/Packages/Az.Automanage/2.0.0) | 2.0.0
 
@@ -914,6 +946,14 @@ Microsoft Azure PowerShell: DevCenter cmdlets
 
 __Downloads__: 135,485,393 | __Repository__: https://github.com/Azure/azure-powershell
 
+## [HP.Repo](https://www.powershellgallery.com/Packages/HP.Repo/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:27:03 by HP Development Company L.P.
+
+Softpaq repository management modules
+
+__Downloads__: 135,323,971 | __Repository__: https://developers.hp.com/clientmanagement
+
 ## [Az.NetworkCloud](https://www.powershellgallery.com/Packages/Az.NetworkCloud/3.0.0) | 3.0.0
 
 ### Published: 06/02/2026 01:58:18 by Microsoft Corporation
@@ -970,6 +1010,14 @@ Microsoft Azure PowerShell: ConnectedMachine cmdlets
 
 __Downloads__: 120,857,271 | __Repository__: https://github.com/Azure/azure-powershell
 
+## [HP.Sinks](https://www.powershellgallery.com/Packages/HP.Sinks/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:29:41 by HP Development Company L.P.
+
+Output sinks module
+
+__Downloads__: 118,926,518 | __Repository__: https://developers.hp.com/clientmanagement
+
 ## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
 
 ### Published: 06/02/2020 21:46:51 by Thomas Kurth
@@ -985,6 +1033,14 @@ __Downloads__: 115,260,999 | __Repository__: https://github.com/ThomasKur/Modern
 Microsoft Azure PowerShell: Oracle cmdlets
 
 __Downloads__: 111,474,050 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [HP.Softpaq](https://www.powershellgallery.com/Packages/HP.Softpaq/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:24:31 by HP Development Company L.P.
+
+Softpaq management module for HP Client Management Script Library
+
+__Downloads__: 102,882,160 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
 
@@ -1017,6 +1073,14 @@ __Downloads__: 94,313,924 | __Repository__: https://github.com/dsccommunity/Netw
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
 __Downloads__: 91,464,358 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+
+## [HP.Consent](https://www.powershellgallery.com/Packages/HP.Consent/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:32:21 by HP Development Company L.P.
+
+Module to manage consent for HP Analytics
+
+__Downloads__: 87,752,971 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [Az.Workloads](https://www.powershellgallery.com/Packages/Az.Workloads/2.0.0) | 2.0.0
 
@@ -1066,6 +1130,14 @@ __Downloads__: 78,837,711 | __Repository__: https://github.com/OneGet/MicrosoftD
 Microsoft Azure PowerShell - Storage service cmdlets. Manages blobs, queues, tables and files in Microsoft Azure storage accounts
 
 __Downloads__: 78,645,859 | __Repository__: https://github.com/Azure/azure-powershell
+
+## [HP.Retail](https://www.powershellgallery.com/Packages/HP.Retail/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:34:48 by HP Development Company L.P.
+
+Retail Point of Sale Module for HP Client Management Script Library
+
+__Downloads__: 75,530,013 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.7) | 3.2.7
 
@@ -1141,9 +1213,9 @@ Module to manage systems using SNMP.
 
 __Downloads__: 62,471,084 | __Repository__: 
 
-## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.8.6) | 1.8.6
+## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.9.0) | 1.9.0
 
-### Published: 04/01/2026 14:56:33 by HP Development Company L.P.
+### Published: 08/18/2026 15:53:17 by HP Development Company L.P.
 
 HP Client Management Script Library
 
@@ -1164,6 +1236,14 @@ __Downloads__: 58,969,670 | __Repository__: https://github.com/Azure/azure-power
 List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
 
 __Downloads__: 58,569,268 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
+
+## [HP.Notifications](https://www.powershellgallery.com/Packages/HP.Notifications/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:37:30 by HP Development Company L.P.
+
+Notifications utility module
+
+__Downloads__: 58,548,900 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [Invoke-CommandAs](https://www.powershellgallery.com/Packages/Invoke-CommandAs/3.1.9) | 3.1.9
 
@@ -1280,6 +1360,14 @@ __Downloads__: 43,098,842 | __Repository__: https://github.com/microsoftgraph/ms
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
 __Downloads__: 40,923,786 | __Repository__: https://github.com/Pester/Pester
+
+## [HP.SmartExperiences](https://www.powershellgallery.com/Packages/HP.SmartExperiences/1.9.0) | 1.9.0
+
+### Published: 08/18/2026 15:40:05 by HP Development Company L.P.
+
+SmartExperiences module
+
+__Downloads__: 40,597,274 | __Repository__: https://developers.hp.com/clientmanagement
 
 ## [AzureRM.Automation](https://www.powershellgallery.com/Packages/AzureRM.Automation/6.1.2) | 6.1.2
 
@@ -2057,92 +2145,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 25,002,267 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Notes](https://www.powershellgallery.com/Packages/Microsoft.Graph.Notes/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:10:51 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,954,748 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [Microsoft.Graph.SchemaExtensions](https://www.powershellgallery.com/Packages/Microsoft.Graph.SchemaExtensions/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:14 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,926,540 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [Microsoft.Graph.Users.Functions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Functions/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:46 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,731,088 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [Microsoft.Graph.Security](https://www.powershellgallery.com/Packages/Microsoft.Graph.Security/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:24 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,650,065 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [Microsoft.Graph.PersonalContacts](https://www.powershellgallery.com/Packages/Microsoft.Graph.PersonalContacts/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:00 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,564,371 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [xWebAdministration](https://www.powershellgallery.com/Packages/xWebAdministration/3.3.0) | 3.3.0
-
-### Published: 06/03/2022 16:38:57 by DSC Community
-
-Module with DSC Resources for Web Administration
-
-__Downloads__: 24,507,806 | __Repository__: https://github.com/dsccommunity/xWebAdministration
-
-## [Microsoft.Graph.Search](https://www.powershellgallery.com/Packages/Microsoft.Graph.Search/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:19 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 24,197,253 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [Microsoft.Graph](https://www.powershellgallery.com/Packages/Microsoft.Graph/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:11:55 by Microsoft
-
-Microsoft Graph PowerShell module
-
-__Downloads__: 24,139,812 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [WSManDsc](https://www.powershellgallery.com/Packages/WSManDsc/3.2.0) | 3.2.0
-
-### Published: 01/19/2025 09:32:48 by DSC Community
-
-DSC resources for configuring WS-Man.
-
-__Downloads__: 23,623,340 | __Repository__: https://github.com/dsccommunity/WSManDsc
-
-## [Microsoft.Graph.DeviceManagement.Enrollment](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Enrollment/2.39.0) | 2.39.0
-
-### Published: 08/03/2026 18:09:11 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 23,471,463 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [PolicyFileEditor](https://www.powershellgallery.com/Packages/PolicyFileEditor/3.0.1) | 3.0.1
-
-### Published: 02/12/2018 21:22:59 by Dave Wyatt
-
-Commands and DSC resource for modifying Administrative Templates settings in local GPO registry.pol files.
-
-__Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
-
-*Updated: Tuesday, 18 August 2026 10:04:12 UTC*
+*Updated: Tuesday, 18 August 2026 21:59:31 UTC*

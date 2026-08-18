@@ -1344,9 +1344,9 @@ This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder
 
 __Downloads__: 5,345,977 | __Repository__: https://developer.broadcom.com/powercli
 
-## [Bicep](https://www.powershellgallery.com/Packages/Bicep/3.0.1) | 3.0.1
+## [Bicep](https://www.powershellgallery.com/Packages/Bicep/3.0.2) | 3.0.2
 
-### Published: 05/05/2026 06:07:29 by Stefan Ivemo
+### Published: 08/18/2026 18:55:48 by Stefan Ivemo
 
 A module to run Bicep using PowerShell. The module is a community project built using the Bicep assemblies to provide you with an enhanced Bicep experience directly from PowerShell without having Bicep CLI installed. 
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 18 August 2026 10:04:14 UTC*
+*Updated: Tuesday, 18 August 2026 21:59:34 UTC*
