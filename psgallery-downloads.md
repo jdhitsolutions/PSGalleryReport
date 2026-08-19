@@ -67,9 +67,9 @@ PowerShell module with commands for discovering, installing, updating and publis
 
 __Downloads__: 433,841,145 | __Repository__: https://go.microsoft.com/fwlink/?LinkId=828955
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.279) | 5.0.279
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.280) | 5.0.280
 
-### Published: 08/18/2026 19:45:01 by Amazon.com Inc
+### Published: 08/19/2026 20:20:06 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -188,9 +188,9 @@ For information on Billing, please visit the following: https://learn.microsoft.
 
 __Downloads__: 221,653,727 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.279) | 5.0.279
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.280) | 5.0.280
 
-### Published: 08/18/2026 19:46:35 by Amazon.com Inc
+### Published: 08/19/2026 20:24:19 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1026,9 +1026,9 @@ Microsoft Azure PowerShell: Workloads cmdlets
 
 __Downloads__: 85,569,757 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
+## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.16.0) | 2.16.0
 
-### Published: 08/18/2023 18:53:24 by Aaron Jensen
+### Published: 08/19/2026 21:34:45 by Aaron Jensen
 
 Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
 
@@ -1189,9 +1189,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 56,033,024 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/3.4.0) | 3.4.0
+## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/3.4.1) | 3.4.1
 
-### Published: 08/19/2026 08:36:35 by Microsoft 365 Patterns and Practices
+### Published: 08/19/2026 20:08:41 by Microsoft 365 Patterns and Practices
 
 Microsoft 365 Patterns and Practices PowerShell Cmdlets
 
@@ -1806,9 +1806,9 @@ Windows PowerShell Module for managing devices
 
 __Downloads__: 30,353,515 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.279) | 5.0.279
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.280) | 5.0.280
 
-### Published: 08/18/2026 19:45:10 by Amazon.com Inc
+### Published: 08/19/2026 20:20:14 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Wednesday, 19 August 2026 10:04:45 UTC*
+*Updated: Wednesday, 19 August 2026 22:02:18 UTC*
