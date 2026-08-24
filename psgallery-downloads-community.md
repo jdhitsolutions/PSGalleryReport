@@ -488,11 +488,11 @@ Query SQLite databases
 
 __Downloads__: 15,495,497 | __Repository__: https://github.com/RamblingCookieMonster/PSSQLite
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2607.2841.0) | 2607.2841.0
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2608.2847.0) | 2608.2847.0
 
-### Published: 07/12/2026 03:27:37 by Aaron Parker
+### Published: 08/24/2026 13:52:21 by Aaron Parker
 
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
 __Downloads__: 15,347,582 | __Repository__: https://eucpilots.com/evergreen/
 
@@ -2018,9 +2018,9 @@ PowerShell Community Extensions (PSCX) base module which implements a general pu
 
 __Downloads__: 1,645,073 | __Repository__: https://github.com/Pscx/Pscx
 
-## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.1) | 2.5.1
+## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.2) | 2.5.2
 
-### Published: 05/19/2021 16:51:44 by AtlassianPS
+### Published: 08/24/2026 16:24:10 by AtlassianPS
 
 PowerShell module to interact with the Atlassian Confluence REST API
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Monday, 24 August 2026 10:23:18 UTC*
+*Updated: Monday, 24 August 2026 22:02:16 UTC*
