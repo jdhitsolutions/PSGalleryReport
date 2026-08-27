@@ -3,29 +3,1253 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Belin.Html](https://www.powershellgallery.com/Packages/Belin.Html/4.3.0) | 4.3.0
+## [businessdev.ALbuild](https://www.powershellgallery.com/Packages/businessdev.ALbuild/2.37.27501) | 2.37.27501
 
-### Published: 08/27/2026 00:01:17 by Cédric Belin <cedx@outlook.com>
+### Published: 08/27/2026 19:11:25 by 365 business development GmbH
 
-PowerShell cmdlets for rendering HTML documents.
+ALbuild: a self-contained toolchain for Microsoft Dynamics 365 Business Central AL development. A single module composed of use-case nested modules (Core, Containers, Apps, Feeds, RuntimePackages, Marketplace, OnPrem, Environments).
 
-__Downloads__: 268 | __Repository__: https://github.com/CedX/Html.ps1
+__Downloads__: 118 | __Repository__: https://github.com/365businessdev/ALbuild
 
-## [TerminalStyles](https://www.powershellgallery.com/Packages/TerminalStyles/0.8.15) | 0.8.15
+## [F8Tools](https://www.powershellgallery.com/Packages/F8Tools/1.0.1) | 1.0.1
 
-### Published: 08/26/2026 23:28:25 by Felipe Cremerius
+### Published: 08/27/2026 19:01:20 by F8
+
+F8  module
+
+__Downloads__: 0 | __Repository__: 
+
+## [TerminalStyles](https://www.powershellgallery.com/Packages/TerminalStyles/0.8.17) | 0.8.17
+
+### Published: 08/27/2026 18:39:39 by Felipe Cremerius
 
 Theme your terminal from PowerShell: 16 bundled color schemes with an arrow-key picker that previews each theme live in your current tab (Enter keeps, Esc reverts). Switch color scheme, cursor, font, opacity, and background image in one command, and install curated coding fonts (JetBrains Mono, Fira Code, Cascadia Code and more) straight from their official sources. Works on Windows Terminal, macOS Terminal.app, iTerm2, and any terminal that supports OSC color sequences -- and can style zsh and bash as well as PowerShell. Runs on PowerShell 7 and Windows PowerShell 5.1, on Windows, macOS, and Linux.
 
 __Downloads__: 77 | __Repository__: https://github.com/fcreme/TerminalStyles
 
-## [Avm.Authoring](https://www.powershellgallery.com/Packages/Avm.Authoring/0.10.2) | 0.10.2
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2026.2.4) | 2026.2.4
 
-### Published: 08/26/2026 23:22:25 by Azure Verified Modules
+### Published: 08/27/2026 18:25:05 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Cloud using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 557,362 | __Repository__: https://devolutions.net/
+
+## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.27.0) | 0.27.0
+
+### Published: 08/27/2026 17:52:54 by Cédric Belin <cedx@outlook.com>
+
+Component library by Cédric Belin, full stack developer.
+
+__Downloads__: 159 | __Repository__: https://github.com/CedX/UI
+
+## [SqlReliabilityKit](https://www.powershellgallery.com/Packages/SqlReliabilityKit/0.6.0) | 0.6.0
+
+### Published: 08/27/2026 17:40:54 by Deepesh Dhake
+
+A SQL Server reliability toolkit: backup recoverability, restore-chain validation, disaster-recovery drift detection, backup anomaly detection, and Query Store regression analysis. Built on dbatools.
+
+__Downloads__: 0 | __Repository__: https://github.com/deepeshd87/SqlReliabilityKit
+
+## [Belin.Sql](https://www.powershellgallery.com/Packages/Belin.Sql/3.2.1) | 3.2.1
+
+### Published: 08/27/2026 17:32:05 by Cédric Belin <cedx@outlook.com>
+
+A simple micro-ORM, based on ADO.NET and data annotations.
+
+__Downloads__: 266 | __Repository__: https://github.com/CedX/Sql.ps1
+
+## [PSComplexity](https://www.powershellgallery.com/Packages/PSComplexity/0.5.0) | 0.5.0
+
+### Published: 08/27/2026 17:15:19 by Fortigi
+
+Cyclomatic and cognitive complexity for PowerShell. Cognitive complexity implements the SonarSource metric in full (nesting-aware -- the better signal for "hard to understand"), scoring every reference example exactly as published, and extends it for PowerShell constructs the specification does not cover: ForEach-Object and Where-Object, the && and || pipeline chains, and ?? and ??=. Measures per unit (function/filter, class method/constructor, initialised class property, + script body) via the PowerShell AST; ships a Test-PSComplexity gate for CI.
+
+__Downloads__: 0 | __Repository__: https://github.com/Fortigi/PSComplexity
+
+## [Avm.Authoring](https://www.powershellgallery.com/Packages/Avm.Authoring/0.10.3) | 0.10.3
+
+### Published: 08/27/2026 16:07:40 by Azure Verified Modules
 
 Cross-platform PowerShell 7 CLI that consolidates the authoring and CI tooling for Azure Verified Modules (https://aka.ms/avm). A single avm command (alias: avm) works across both ecosystems and ships: environment diagnostics (avm version, avm doctor); a checksum-pinned managed-tool resolver (avm tool list/which/install) that downloads and verifies the exact terraform, terraform-docs, tflint, conftest and mapotf binaries a module needs; and a fully wired Terraform authoring chain - avm pre-commit fixes and checks a module locally (convention checks, HCL transforms via mapotf, terraform fmt and terraform-docs) while avm pr-check adds tflint, APRL/AVMSEC policy checks and terraform validate. No Docker, make or porch required. The Bicep facade is in active development. Requires PowerShell 7.4+ (Core). See https://github.com/Azure/azure-verified-modules-tools for status and docs.
 
 __Downloads__: 42 | __Repository__: https://github.com/Azure/azure-verified-modules-tools
+
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.53) | 0.0.53
+
+### Published: 08/27/2026 15:34:05 by M�tz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 2,179 | __Repository__: 
+
+## [ndt](https://www.powershellgallery.com/Packages/ndt/1.0.59) | 1.0.59
+
+### Published: 08/27/2026 15:07:35 by NDT
+
+NDT Deployment Toolkit - installs and configures an NDT deployment share.
+
+__Downloads__: 43 | __Repository__: https://github.com/AB-Lindex/NDT-NextGenerationDeploymentToolkit
+
+## [XKCD](https://www.powershellgallery.com/Packages/XKCD/1.5.3) | 1.5.3
+
+### Published: 08/27/2026 14:58:54 by Mark Wragg
+
+Commands related to the webcomic XKCD: http://xkcd.com
+
+__Downloads__: 1,754 | __Repository__: https://github.com/markwragg/Powershell-XKCD
+
+## [CreatePSProfiles](https://www.powershellgallery.com/Packages/CreatePSProfiles/1.0.0) | 1.0.0
+
+### Published: 08/27/2026 14:29:35 by LanDX
+
+A lightweight module to create and manage PowerShell profile files across different scopes.
+
+__Downloads__: 0 | __Repository__: https://powershellgallery.com/
+
+## [Belin.Html](https://www.powershellgallery.com/Packages/Belin.Html/4.5.0) | 4.5.0
+
+### Published: 08/27/2026 14:29:09 by Cédric Belin <cedx@outlook.com>
+
+PowerShell cmdlets for rendering HTML documents.
+
+__Downloads__: 268 | __Repository__: https://github.com/CedX/Html.ps1
+
+## [Devolutions.Ahtola.Sqlite](https://www.powershellgallery.com/Packages/Devolutions.Ahtola.Sqlite/0.7.0) | 0.7.0
+
+### Published: 08/27/2026 12:42:22 by Devolutions
+
+PowerShell SQLite module backed by the pure-managed Ahtola engine (cloned from synedgy.PSSqlite). PowerShell 7+ / .NET 8+ only.
+
+__Downloads__: 0 | __Repository__: https://github.com/Devolutions/ahtola
+
+## [AzureStagecoach](https://www.powershellgallery.com/Packages/AzureStagecoach/0.1.0) | 0.1.0
+
+### Published: 08/27/2026 12:28:03 by Kristopher Turner / Stagecoach Engineering
+
+One-click Entra ID-authenticated RDP/SSH launcher for Azure VMs, Arc servers, and Bastion.
+
+__Downloads__: 0 | __Repository__: https://labs.hybridsolutions.cloud/stagecoach/
+
+## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.55) | 1.0.55
+
+### Published: 08/27/2026 12:21:48 by Leif Almberg
+
+AB Lindex Powershell Hyper-V Module
+
+__Downloads__: 508 | __Repository__: 
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:41:05 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 28,212 | __Repository__: 
+
+## [PSSailpoint.NERMV2025](https://www.powershellgallery.com/Packages/PSSailpoint.NERMV2025/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:37:26 by OpenAPI Generator Team
+
+PSSailpoint.NERMV2025 - the PowerShell module for NERM API v2025
+
+__Downloads__: 10 | __Repository__: 
+
+## [PSSailpoint.NERM](https://www.powershellgallery.com/Packages/PSSailpoint.NERM/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:37:22 by OpenAPI Generator Team
+
+PSSailpoint.NERM - the PowerShell module for NERM API
+
+__Downloads__: 10 | __Repository__: 
+
+## [PSSailpoint.Workflows](https://www.powershellgallery.com/Packages/PSSailpoint.Workflows/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:37:10 by OpenAPI Generator Team
+
+PSSailpoint.Workflows - the PowerShell module for Identity Security Cloud API - Workflows
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.WorkReassignment](https://www.powershellgallery.com/Packages/PSSailpoint.WorkReassignment/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:37:06 by OpenAPI Generator Team
+
+PSSailpoint.WorkReassignment - the PowerShell module for Identity Security Cloud API - Work Reassignment
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.WorkItems](https://www.powershellgallery.com/Packages/PSSailpoint.WorkItems/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:37:02 by OpenAPI Generator Team
+
+PSSailpoint.WorkItems - the PowerShell module for Identity Security Cloud API - Work Items
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.UiMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.UiMetadata/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:57 by OpenAPI Generator Team
+
+PSSailpoint.UiMetadata - the PowerShell module for Identity Security Cloud API - UI Metadata
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.TenantContext](https://www.powershellgallery.com/Packages/PSSailpoint.TenantContext/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:44 by OpenAPI Generator Team
+
+PSSailpoint.TenantContext - the PowerShell module for Identity Security Cloud API - Tenant Context
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Tenant](https://www.powershellgallery.com/Packages/PSSailpoint.Tenant/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:40 by OpenAPI Generator Team
+
+PSSailpoint.Tenant - the PowerShell module for Identity Security Cloud API - Tenant
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.TaskManagement](https://www.powershellgallery.com/Packages/PSSailpoint.TaskManagement/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:35 by OpenAPI Generator Team
+
+PSSailpoint.TaskManagement - the PowerShell module for Identity Security Cloud API - Task Management
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.Tags](https://www.powershellgallery.com/Packages/PSSailpoint.Tags/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:31 by OpenAPI Generator Team
+
+PSSailpoint.Tags - the PowerShell module for Identity Security Cloud API - Tags
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.TaggedObjects](https://www.powershellgallery.com/Packages/PSSailpoint.TaggedObjects/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:26 by OpenAPI Generator Team
+
+PSSailpoint.TaggedObjects - the PowerShell module for Identity Security Cloud API - Tagged Objects
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SuggestedEntitlementDescription](https://www.powershellgallery.com/Packages/PSSailpoint.SuggestedEntitlementDescription/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:21 by OpenAPI Generator Team
+
+PSSailpoint.SuggestedEntitlementDescription - the PowerShell module for Identity Security Cloud API - Suggested Entitlement Description
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SpConfig](https://www.powershellgallery.com/Packages/PSSailpoint.SpConfig/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:17 by OpenAPI Generator Team
+
+PSSailpoint.SpConfig - the PowerShell module for Identity Security Cloud API - SP-Config
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.Sources](https://www.powershellgallery.com/Packages/PSSailpoint.Sources/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:12 by OpenAPI Generator Team
+
+PSSailpoint.Sources - the PowerShell module for Identity Security Cloud API - Sources
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SourceUsages](https://www.powershellgallery.com/Packages/PSSailpoint.SourceUsages/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:36:08 by OpenAPI Generator Team
+
+PSSailpoint.SourceUsages - the PowerShell module for Identity Security Cloud API - Source Usages
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.SodControls](https://www.powershellgallery.com/Packages/PSSailpoint.SodControls/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:54 by OpenAPI Generator Team
+
+PSSailpoint.SodControls - the PowerShell module for Identity Security Cloud API - SOD Controls
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.SimIntegrations](https://www.powershellgallery.com/Packages/PSSailpoint.SimIntegrations/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:50 by OpenAPI Generator Team
+
+PSSailpoint.SimIntegrations - the PowerShell module for Identity Security Cloud API - SIM Integrations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SharedSignalsFrameworkSsf](https://www.powershellgallery.com/Packages/PSSailpoint.SharedSignalsFrameworkSsf/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:45 by OpenAPI Generator Team
+
+PSSailpoint.SharedSignalsFrameworkSsf - the PowerShell module for Identity Security Cloud API - Shared Signals Framework (SSF)
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ServiceDeskIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.ServiceDeskIntegration/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:41 by OpenAPI Generator Team
+
+PSSailpoint.ServiceDeskIntegration - the PowerShell module for Identity Security Cloud API - Service Desk Integration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Segments](https://www.powershellgallery.com/Packages/PSSailpoint.Segments/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:37 by OpenAPI Generator Team
+
+PSSailpoint.Segments - the PowerShell module for Identity Security Cloud API - Segments
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SearchAttributeConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.SearchAttributeConfiguration/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:32 by OpenAPI Generator Team
+
+PSSailpoint.SearchAttributeConfiguration - the PowerShell module for Identity Security Cloud API - Search Attribute Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Search](https://www.powershellgallery.com/Packages/PSSailpoint.Search/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:28 by OpenAPI Generator Team
+
+PSSailpoint.Search - the PowerShell module for Identity Security Cloud API - Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ScheduledSearch](https://www.powershellgallery.com/Packages/PSSailpoint.ScheduledSearch/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:23 by OpenAPI Generator Team
+
+PSSailpoint.ScheduledSearch - the PowerShell module for Identity Security Cloud API - Scheduled Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.SavedSearch](https://www.powershellgallery.com/Packages/PSSailpoint.SavedSearch/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:19 by OpenAPI Generator Team
+
+PSSailpoint.SavedSearch - the PowerShell module for Identity Security Cloud API - Saved Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Roles](https://www.powershellgallery.com/Packages/PSSailpoint.Roles/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:15 by OpenAPI Generator Team
+
+PSSailpoint.Roles - the PowerShell module for Identity Security Cloud API - Roles
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RolePropagation](https://www.powershellgallery.com/Packages/PSSailpoint.RolePropagation/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:10 by OpenAPI Generator Team
+
+PSSailpoint.RolePropagation - the PowerShell module for Identity Security Cloud API - Role Propagation
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RoleInsights](https://www.powershellgallery.com/Packages/PSSailpoint.RoleInsights/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:05 by OpenAPI Generator Team
+
+PSSailpoint.RoleInsights - the PowerShell module for Identity Security Cloud API - Role Insights
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RequestableObjects](https://www.powershellgallery.com/Packages/PSSailpoint.RequestableObjects/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:35:00 by OpenAPI Generator Team
+
+PSSailpoint.RequestableObjects - the PowerShell module for Identity Security Cloud API - Requestable Objects
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ReportsDataExtraction](https://www.powershellgallery.com/Packages/PSSailpoint.ReportsDataExtraction/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:56 by OpenAPI Generator Team
+
+PSSailpoint.ReportsDataExtraction - the PowerShell module for Identity Security Cloud API - Reports Data Extraction
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PublicMachineIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicMachineIdentities/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:51 by OpenAPI Generator Team
+
+PSSailpoint.PublicMachineIdentities - the PowerShell module for Identity Security Cloud API - Public Machine Identities
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.PublicIdentitiesConfig](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentitiesConfig/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:45 by OpenAPI Generator Team
+
+PSSailpoint.PublicIdentitiesConfig - the PowerShell module for Identity Security Cloud API - Public Identities Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PublicIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentities/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:41 by OpenAPI Generator Team
+
+PSSailpoint.PublicIdentities - the PowerShell module for Identity Security Cloud API - Public Identities
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PrivilegeCriteriaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteriaConfiguration/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:37 by OpenAPI Generator Team
+
+PSSailpoint.PrivilegeCriteriaConfiguration - the PowerShell module for Identity Security Cloud API - Privilege Criteria Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PrivilegeCriteria](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteria/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:32 by OpenAPI Generator Team
+
+PSSailpoint.PrivilegeCriteria - the PowerShell module for Identity Security Cloud API - Privilege Criteria
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PersonalAccessTokens](https://www.powershellgallery.com/Packages/PSSailpoint.PersonalAccessTokens/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:26 by OpenAPI Generator Team
+
+PSSailpoint.PersonalAccessTokens - the PowerShell module for Identity Security Cloud API - Personal Access Tokens
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordSyncGroups](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordSyncGroups/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:22 by OpenAPI Generator Team
+
+PSSailpoint.PasswordSyncGroups - the PowerShell module for Identity Security Cloud API - Password Sync Groups
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordPolicies/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:17 by OpenAPI Generator Team
+
+PSSailpoint.PasswordPolicies - the PowerShell module for Identity Security Cloud API - Password Policies
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordManagement](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordManagement/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:12 by OpenAPI Generator Team
+
+PSSailpoint.PasswordManagement - the PowerShell module for Identity Security Cloud API - Password Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordDictionary](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordDictionary/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:07 by OpenAPI Generator Team
+
+PSSailpoint.PasswordDictionary - the PowerShell module for Identity Security Cloud API - Password Dictionary
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.PasswordConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordConfiguration/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:34:01 by OpenAPI Generator Team
+
+PSSailpoint.PasswordConfiguration - the PowerShell module for Identity Security Cloud API - Password Configuration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ParameterStorage](https://www.powershellgallery.com/Packages/PSSailpoint.ParameterStorage/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:57 by OpenAPI Generator Team
+
+PSSailpoint.ParameterStorage - the PowerShell module for Identity Security Cloud API - Parameter Storage
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.OrgConfig](https://www.powershellgallery.com/Packages/PSSailpoint.OrgConfig/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:52 by OpenAPI Generator Team
+
+PSSailpoint.OrgConfig - the PowerShell module for Identity Security Cloud API - Org Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.OauthClients](https://www.powershellgallery.com/Packages/PSSailpoint.OauthClients/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:47 by OpenAPI Generator Team
+
+PSSailpoint.OauthClients - the PowerShell module for Identity Security Cloud API - OAuth Clients
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Notifications](https://www.powershellgallery.com/Packages/PSSailpoint.Notifications/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:43 by OpenAPI Generator Team
+
+PSSailpoint.Notifications - the PowerShell module for Identity Security Cloud API - Notifications
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.NonEmployeeLifecycleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.NonEmployeeLifecycleManagement/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:38 by OpenAPI Generator Team
+
+PSSailpoint.NonEmployeeLifecycleManagement - the PowerShell module for Identity Security Cloud API - Non-Employee Lifecycle Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MultiHostIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.MultiHostIntegration/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:33 by OpenAPI Generator Team
+
+PSSailpoint.MultiHostIntegration - the PowerShell module for Identity Security Cloud API - Multi-Host Integration
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ManagedClusterTypes](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClusterTypes/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:17 by OpenAPI Generator Team
+
+PSSailpoint.ManagedClusterTypes - the PowerShell module for Identity Security Cloud API - Managed Cluster Types
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ManagedClients](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClients/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:13 by OpenAPI Generator Team
+
+PSSailpoint.ManagedClients - the PowerShell module for Identity Security Cloud API - Managed Clients
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineIdentitiesLifecycleActions](https://www.powershellgallery.com/Packages/PSSailpoint.MachineIdentitiesLifecycleActions/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:33:08 by OpenAPI Generator Team
+
+PSSailpoint.MachineIdentitiesLifecycleActions - the PowerShell module for Identity Security Cloud API - Machine Identity Lifecycle Actions
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.MachineClassificationConfig](https://www.powershellgallery.com/Packages/PSSailpoint.MachineClassificationConfig/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:58 by OpenAPI Generator Team
+
+PSSailpoint.MachineClassificationConfig - the PowerShell module for Identity Security Cloud API - Machine Classification Config
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccounts](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccounts/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:54 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccounts - the PowerShell module for Identity Security Cloud API - Machine Accounts
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountMappings](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountMappings/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:45 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountMappings - the PowerShell module for Identity Security Cloud API - Machine Account Mappings
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountCreationRequest](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountCreationRequest/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:41 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountCreationRequest - the PowerShell module for Identity Security Cloud API - Machine Account Creation Request
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.MachineAccountClassify](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountClassify/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:36 by OpenAPI Generator Team
+
+PSSailpoint.MachineAccountClassify - the PowerShell module for Identity Security Cloud API - Machine Account Classify
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Launchers](https://www.powershellgallery.com/Packages/PSSailpoint.Launchers/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:26 by OpenAPI Generator Team
+
+PSSailpoint.Launchers - the PowerShell module for Identity Security Cloud API - Launchers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.JitActivations](https://www.powershellgallery.com/Packages/PSSailpoint.JitActivations/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:32:21 by OpenAPI Generator Team
+
+PSSailpoint.JitActivations - the PowerShell module for Identity Security Cloud API - JIT Activations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.JitAccess](https://www.powershellgallery.com/Packages/PSSailpoint.JitAccess/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:31:16 by OpenAPI Generator Team
+
+PSSailpoint.JitAccess - the PowerShell module for Identity Security Cloud API - JIT Access
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Intelligence](https://www.powershellgallery.com/Packages/PSSailpoint.Intelligence/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:30:11 by OpenAPI Generator Team
+
+PSSailpoint.Intelligence - the PowerShell module for Identity Security Cloud API - Intelligence
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.IdentityProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityProfiles/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:29:06 by OpenAPI Generator Team
+
+PSSailpoint.IdentityProfiles - the PowerShell module for Identity Security Cloud API - Identity Profiles
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IdentityHistory](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityHistory/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:29:01 by OpenAPI Generator Team
+
+PSSailpoint.IdentityHistory - the PowerShell module for Identity Security Cloud API - Identity History
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IdentityAttributes](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityAttributes/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:57 by OpenAPI Generator Team
+
+PSSailpoint.IdentityAttributes - the PowerShell module for Identity Security Cloud API - Identity Attributes
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Identities](https://www.powershellgallery.com/Packages/PSSailpoint.Identities/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:53 by OpenAPI Generator Team
+
+PSSailpoint.Identities - the PowerShell module for Identity Security Cloud API - Identities
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Icons](https://www.powershellgallery.com/Packages/PSSailpoint.Icons/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:48 by OpenAPI Generator Team
+
+PSSailpoint.Icons - the PowerShell module for Identity Security Cloud API - Icons
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiRoleMining](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRoleMining/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:44 by OpenAPI Generator Team
+
+PSSailpoint.IaiRoleMining - the PowerShell module for Identity Security Cloud API - IAI Role Mining
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRecommendations/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:39 by OpenAPI Generator Team
+
+PSSailpoint.IaiRecommendations - the PowerShell module for Identity Security Cloud API - IAI Recommendations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiPeerGroupStrategies](https://www.powershellgallery.com/Packages/PSSailpoint.IaiPeerGroupStrategies/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:35 by OpenAPI Generator Team
+
+PSSailpoint.IaiPeerGroupStrategies - the PowerShell module for Identity Security Cloud API - IAI Peer Group Strategies
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiOutliers](https://www.powershellgallery.com/Packages/PSSailpoint.IaiOutliers/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:30 by OpenAPI Generator Team
+
+PSSailpoint.IaiOutliers - the PowerShell module for Identity Security Cloud API - IAI Outliers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiCommonAccess](https://www.powershellgallery.com/Packages/PSSailpoint.IaiCommonAccess/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:26 by OpenAPI Generator Team
+
+PSSailpoint.IaiCommonAccess - the PowerShell module for Identity Security Cloud API - IAI Common Access
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.IaiAccessRequestRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiAccessRequestRecommendations/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:20 by OpenAPI Generator Team
+
+PSSailpoint.IaiAccessRequestRecommendations - the PowerShell module for Identity Security Cloud API - IAI Access Request Recommendations
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.GovernanceGroups](https://www.powershellgallery.com/Packages/PSSailpoint.GovernanceGroups/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:15 by OpenAPI Generator Team
+
+PSSailpoint.GovernanceGroups - the PowerShell module for Identity Security Cloud API - Governance Groups
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.GlobalTenantSecuritySettings](https://www.powershellgallery.com/Packages/PSSailpoint.GlobalTenantSecuritySettings/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:11 by OpenAPI Generator Team
+
+PSSailpoint.GlobalTenantSecuritySettings - the PowerShell module for Identity Security Cloud API - Global Tenant Security Settings
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Entitlements](https://www.powershellgallery.com/Packages/PSSailpoint.Entitlements/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:06 by OpenAPI Generator Team
+
+PSSailpoint.Entitlements - the PowerShell module for Identity Security Cloud API - Entitlements
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.EntitlementConnections](https://www.powershellgallery.com/Packages/PSSailpoint.EntitlementConnections/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:28:01 by OpenAPI Generator Team
+
+PSSailpoint.EntitlementConnections - the PowerShell module for Identity Security Cloud API - Entitlement Connections
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Dimensions](https://www.powershellgallery.com/Packages/PSSailpoint.Dimensions/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:56 by OpenAPI Generator Team
+
+PSSailpoint.Dimensions - the PowerShell module for Identity Security Cloud API - Dimensions
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.DeclassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.DeclassifySource/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:52 by OpenAPI Generator Team
+
+PSSailpoint.DeclassifySource - the PowerShell module for Identity Security Cloud API - Declassify Source
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.DataSegmentation](https://www.powershellgallery.com/Packages/PSSailpoint.DataSegmentation/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:47 by OpenAPI Generator Team
+
+PSSailpoint.DataSegmentation - the PowerShell module for Identity Security Cloud API - Data Segmentation
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomUserLevels](https://www.powershellgallery.com/Packages/PSSailpoint.CustomUserLevels/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:38 by OpenAPI Generator Team
+
+PSSailpoint.CustomUserLevels - the PowerShell module for Identity Security Cloud API - Custom User Levels
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomPasswordInstructions](https://www.powershellgallery.com/Packages/PSSailpoint.CustomPasswordInstructions/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:33 by OpenAPI Generator Team
+
+PSSailpoint.CustomPasswordInstructions - the PowerShell module for Identity Security Cloud API - Custom Password Instructions
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CustomForms](https://www.powershellgallery.com/Packages/PSSailpoint.CustomForms/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:28 by OpenAPI Generator Team
+
+PSSailpoint.CustomForms - the PowerShell module for Identity Security Cloud API - Custom Forms
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Connectors](https://www.powershellgallery.com/Packages/PSSailpoint.Connectors/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:23 by OpenAPI Generator Team
+
+PSSailpoint.Connectors - the PowerShell module for Identity Security Cloud API - Connectors
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConnectorRuleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorRuleManagement/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:18 by OpenAPI Generator Team
+
+PSSailpoint.ConnectorRuleManagement - the PowerShell module for Identity Security Cloud API - Connector Rule Management
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConnectorCustomizers](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorCustomizers/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:14 by OpenAPI Generator Team
+
+PSSailpoint.ConnectorCustomizers - the PowerShell module for Identity Security Cloud API - Connector Customizers
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ConfigurationHub](https://www.powershellgallery.com/Packages/PSSailpoint.ConfigurationHub/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:08 by OpenAPI Generator Team
+
+PSSailpoint.ConfigurationHub - the PowerShell module for Identity Security Cloud API - Configuration Hub
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.ClassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.ClassifySource/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:27:03 by OpenAPI Generator Team
+
+PSSailpoint.ClassifySource - the PowerShell module for Identity Security Cloud API - Classify Source
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Certifications](https://www.powershellgallery.com/Packages/PSSailpoint.Certifications/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:59 by OpenAPI Generator Team
+
+PSSailpoint.Certifications - the PowerShell module for Identity Security Cloud API - Certifications
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationSummaries](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationSummaries/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:54 by OpenAPI Generator Team
+
+PSSailpoint.CertificationSummaries - the PowerShell module for Identity Security Cloud API - Certification Summaries
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationCampaigns](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaigns/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:49 by OpenAPI Generator Team
+
+PSSailpoint.CertificationCampaigns - the PowerShell module for Identity Security Cloud API - Certification Campaigns
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.CertificationCampaignFilters](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaignFilters/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:44 by OpenAPI Generator Team
+
+PSSailpoint.CertificationCampaignFilters - the PowerShell module for Identity Security Cloud API - Certification Campaign Filters
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.BusinessApplications](https://www.powershellgallery.com/Packages/PSSailpoint.BusinessApplications/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:39 by OpenAPI Generator Team
+
+PSSailpoint.BusinessApplications - the PowerShell module for Identity Security Cloud API - Business Applications
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint.Branding](https://www.powershellgallery.com/Packages/PSSailpoint.Branding/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:34 by OpenAPI Generator Team
+
+PSSailpoint.Branding - the PowerShell module for Identity Security Cloud API - Branding
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.AuthUsers](https://www.powershellgallery.com/Packages/PSSailpoint.AuthUsers/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:28 by OpenAPI Generator Team
+
+PSSailpoint.AuthUsers - the PowerShell module for Identity Security Cloud API - Auth Users
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.AuthProfile](https://www.powershellgallery.com/Packages/PSSailpoint.AuthProfile/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:23 by OpenAPI Generator Team
+
+PSSailpoint.AuthProfile - the PowerShell module for Identity Security Cloud API - Auth Profile
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Apps](https://www.powershellgallery.com/Packages/PSSailpoint.Apps/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:18 by OpenAPI Generator Team
+
+PSSailpoint.Apps - the PowerShell module for Identity Security Cloud API - Apps
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Approvals](https://www.powershellgallery.com/Packages/PSSailpoint.Approvals/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:13 by OpenAPI Generator Team
+
+PSSailpoint.Approvals - the PowerShell module for Identity Security Cloud API - Approvals
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.ApplicationDiscovery](https://www.powershellgallery.com/Packages/PSSailpoint.ApplicationDiscovery/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:08 by OpenAPI Generator Team
+
+PSSailpoint.ApplicationDiscovery - the PowerShell module for Identity Security Cloud API - Application Discovery
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.ApiUsage](https://www.powershellgallery.com/Packages/PSSailpoint.ApiUsage/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:26:03 by OpenAPI Generator Team
+
+PSSailpoint.ApiUsage - the PowerShell module for Identity Security Cloud API - Api Usage
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.Accounts](https://www.powershellgallery.com/Packages/PSSailpoint.Accounts/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:58 by OpenAPI Generator Team
+
+PSSailpoint.Accounts - the PowerShell module for Identity Security Cloud API - Accounts
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountUsages](https://www.powershellgallery.com/Packages/PSSailpoint.AccountUsages/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:52 by OpenAPI Generator Team
+
+PSSailpoint.AccountUsages - the PowerShell module for Identity Security Cloud API - Account Usages
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountDeletionRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccountDeletionRequests/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:47 by OpenAPI Generator Team
+
+PSSailpoint.AccountDeletionRequests - the PowerShell module for Identity Security Cloud API - Account Deletion Requests
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountAggregations](https://www.powershellgallery.com/Packages/PSSailpoint.AccountAggregations/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:41 by OpenAPI Generator Team
+
+PSSailpoint.AccountAggregations - the PowerShell module for Identity Security Cloud API - Account Aggregations
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountActivities](https://www.powershellgallery.com/Packages/PSSailpoint.AccountActivities/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:36 by OpenAPI Generator Team
+
+PSSailpoint.AccountActivities - the PowerShell module for Identity Security Cloud API - Account Activities
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequests/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:31 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequests - the PowerShell module for Identity Security Cloud API - Access Requests
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequestIdentityMetrics](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestIdentityMetrics/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:25 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequestIdentityMetrics - the PowerShell module for Identity Security Cloud API - Access Request Identity Metrics
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessRequestApprovals](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestApprovals/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:20 by OpenAPI Generator Team
+
+PSSailpoint.AccessRequestApprovals - the PowerShell module for Identity Security Cloud API - Access Request Approvals
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.AccessProfiles/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:14 by OpenAPI Generator Team
+
+PSSailpoint.AccessProfiles - the PowerShell module for Identity Security Cloud API - Access Profiles
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccessModelMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.AccessModelMetadata/2.1.25) | 2.1.25
+
+### Published: 08/27/2026 11:25:08 by OpenAPI Generator Team
+
+PSSailpoint.AccessModelMetadata - the PowerShell module for Identity Security Cloud API - Access Model Metadata
+
+__Downloads__: 8 | __Repository__: 
+
+## [IdentityManager](https://www.powershellgallery.com/Packages/IdentityManager/3.2) | 3.2
+
+### Published: 08/27/2026 11:16:05 by Rob Looman
+
+Powershell Module for accessing One Identity
+
+__Downloads__: 2,815 | __Repository__: 
+
+## [Fortytwo.IAM.Core.Connector.Successfactors](https://www.powershellgallery.com/Packages/Fortytwo.IAM.Core.Connector.Successfactors/1.5.1) | 1.5.1
+
+### Published: 08/27/2026 11:00:08 by Henrik Nilsson
+
+SuccessFactors connector for Fortytwo Core IAM
+
+__Downloads__: 5 | __Repository__: https://github.com/fortytwoservices/powershell-module-fortytwo-iam-core-connector-successfactors
+
+## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.7.0) | 0.7.0
+
+### Published: 08/27/2026 10:41:53 by Jordan Borean
+
+Cross platform module that can get/set information in Active Directory.`nSee https://github.com/jborean93/PSOpenAD for more info
+
+__Downloads__: 8,342 | __Repository__: https://github.com/jborean93/PSOpenAD
+
+## [SophosFirewall.Wireless](https://www.powershellgallery.com/Packages/SophosFirewall.Wireless/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:11:50 by Jan Weis
+
+PowerShell module for managing the wireless configuration of Sophos XGS / SFOS 22.0 firewalls via API: wireless networks and their enable/disable switch, access point groups, hotspots with their voucher definitions, and the hotspot advanced configuration. Read access is included for access points, mesh networks, the built-in local access point and the wireless protection global settings.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Wireless
+
+## [SophosFirewall.SophosCentral](https://www.powershellgallery.com/Packages/SophosFirewall.SophosCentral/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:11:25 by Jan Weis
+
+PowerShell module for the SYSTEM > Sophos Central area of Sophos XGS / SFOS 22.0 firewalls via API: the cloud central management switches for reporting, management and configuration backup, and the Synchronized Security settings for Security Heartbeat and Synchronized Application Control.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.SophosCentral
+
+## [SophosFirewall.Diagnostics](https://www.powershellgallery.com/Packages/SophosFirewall.Diagnostics/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:10:59 by Jan Weis
+
+PowerShell module for the MONITOR & ANALYZE > Diagnostics area of Sophos XGS / SFOS 22.0 firewalls: remote support access, read-only access to the web admin console log viewer and dashboard (service status, firewall health check, system usage graphs), and running commands on the appliance device console. Intended for administrators who need to open a temporary support channel, review recent log or system activity, or reach the device console without a physical or serial connection.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Diagnostics
+
+## [SophosFirewall.Email](https://www.powershellgallery.com/Packages/SophosFirewall.Email/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:10:33 by Jan Weis
+
+PowerShell module for managing email protection on Sophos XGS / SFOS 22.0 firewalls via API: SMTP and POP/IMAP scanning policies, MTA address groups, exception policies, data control lists, SPX, anti-spam rules and the mail configuration.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Email
+
+## [SophosFirewall.Administration](https://www.powershellgallery.com/Packages/SophosFirewall.Administration/1.4.4) | 1.4.4
+
+### Published: 08/27/2026 10:10:07 by Jan Weis
+
+PowerShell module for managing System > Administration settings on Sophos XGS / SFOS 22.0 firewalls via API: mail server notification settings, SNMP agent configuration, system date/time, SNMP communities, SNMPv3 users, customizable end-user messages, appliance service access, admin settings (hostname, web admin, login security, admin and User account password complexity, login disclaimer, factory reset), Local Service ACL rules, and restart/shutdown of the appliance through the web admin console.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Administration
+
+## [SophosFirewall.SystemServices](https://www.powershellgallery.com/Packages/SophosFirewall.SystemServices/1.4.3) | 1.4.3
+
+### Published: 08/27/2026 10:09:41 by Jan Weis
+
+PowerShell module for managing System Services on Sophos XGS / SFOS 22.0 firewalls via API: QoS (traffic shaping) policies, syslog servers, the system service daemon manager, High Availability, and RED configuration.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.SystemServices
+
+## [SophosFirewall.Applications](https://www.powershellgallery.com/Packages/SophosFirewall.Applications/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:09:15 by Jan Weis
+
+PowerShell module for managing application control on Sophos XGS / SFOS 22.0 firewalls via API: application filter policies and rules, application objects, application categories with QoS assignment, application classification.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Applications
+
+## [SophosFirewall.ActiveThreatResponse](https://www.powershellgallery.com/Packages/SophosFirewall.ActiveThreatResponse/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:08:49 by Jan Weis
+
+PowerShell module for managing Active Threat Response on Sophos XGS / SFOS 22.0 firewalls: ATP (Sophos X-Ops threat feeds) settings, third-party threat feeds, NDR intrusion detection settings and MDR threat feed settings.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.ActiveThreatResponse
+
+## [SophosFirewall.IntrusionPrevention](https://www.powershellgallery.com/Packages/SophosFirewall.IntrusionPrevention/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:08:23 by Jan Weis
+
+PowerShell module for managing intrusion prevention on Sophos XGS / SFOS 22.0 firewalls via API: IPS policies, custom signatures, IPS switch, DoS settings, DoS bypass rules, spoof prevention and trusted MACs.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.IntrusionPrevention
+
+## [SophosFirewall.VPN](https://www.powershellgallery.com/Packages/SophosFirewall.VPN/1.4.2) | 1.4.2
+
+### Published: 08/27/2026 10:07:57 by Jan Weis
+
+PowerShell module for managing VPN on Sophos XGS / SFOS 22.0 firewalls via API: IPsec connections, SSL VPN, L2TP, PPTP, VPN profiles and failover groups.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.VPN
+
+## [SophosFirewall.Network](https://www.powershellgallery.com/Packages/SophosFirewall.Network/1.4.3) | 1.4.3
+
+### Published: 08/27/2026 10:06:33 by Jan Weis
+
+PowerShell module for managing the network configuration of Sophos XGS / SFOS 22.0 firewalls via API: interfaces, VLANs, zones, gateways, DNS, DHCP, ARP and tunnels.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Network
+
+## [SophosFirewall.Firewall](https://www.powershellgallery.com/Packages/SophosFirewall.Firewall/1.4.2) | 1.4.2
+
+### Published: 08/27/2026 10:06:01 by Jan Weis
+
+PowerShell module for managing firewall rules, rule groups, NAT rules and SSL/TLS inspection on Sophos XGS / SFOS 22.0 firewalls via API.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Firewall
+
+## [SophosFirewall.Web](https://www.powershellgallery.com/Packages/SophosFirewall.Web/1.4.2) | 1.4.2
+
+### Published: 08/27/2026 10:05:33 by Jan Weis
+
+PowerShell module for managing the web protection area of Sophos XGS / SFOS 22.0 firewalls via API.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Web
+
+## [SophosFirewall.HostsAndServices](https://www.powershellgallery.com/Packages/SophosFirewall.HostsAndServices/1.4.1) | 1.4.1
+
+### Published: 08/27/2026 10:05:03 by Jan Weis
+
+Manages IP hosts, FQDN hosts, MAC hosts, host groups, services and service groups on a Sophos XGS / SFOS 22.0 firewall via the management API.
+
+__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.HostsAndServices
+
+## [SophosFirewall.Core](https://www.powershellgallery.com/Packages/SophosFirewall.Core/1.4.4) | 1.4.4
+
+### Published: 08/27/2026 10:04:29 by Jan Weis
+
+Core helper functions for Sophos Firewall API modules. Provides session management, API communication, XML escaping, and response validation.
+
+__Downloads__: 72 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Core
+
+## [TIConnector](https://www.powershellgallery.com/Packages/TIConnector/1.3.1) | 1.3.1
+
+### Published: 08/27/2026 10:03:00 by Patrick Lehmann
+
+PowerShell module to manage TI Connectors via REST API.
+
+__Downloads__: 0 | __Repository__: https://github.com/PAL-Varo
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.798.1) | 1.798.1
+
+### Published: 08/27/2026 10:02:18 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.13.0) | 9.13.0
+
+### Published: 08/27/2026 09:57:17 by JT
+
+OfficeAndAzureTools
+
+__Downloads__: 101 | __Repository__: 
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.11.1) | 19.11.1
+
+### Published: 08/27/2026 09:34:53 by JT
+
+JaapsTools
+
+__Downloads__: 2,896 | __Repository__: 
+
+## [InvokeBuildHelper](https://www.powershellgallery.com/Packages/InvokeBuildHelper/3.7.1) | 3.7.1
+
+### Published: 08/27/2026 09:12:47 by Claudio Spizzi
+
+Common build tasks for the Invoke-Build PowerShell module.
+
+__Downloads__: 1,769 | __Repository__: https://github.com/claudiospizzi/PSInvokeBuildHelper
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.14.1) | 1.14.1
+
+### Published: 08/27/2026 07:09:47 by Yoshifumi Tsuda
+
+Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 3,743 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
+
+## [Use-Onyphe](https://www.powershellgallery.com/Packages/Use-Onyphe/2.2.0) | 2.2.0
+
+### Published: 08/27/2026 06:56:36 by MS-LUF
+
+Add few cmdlets to use API from onyphe.io through PowerShell interface
+
+__Downloads__: 1,061 | __Repository__: https://github.com/MS-LUF/Use-Onyphe
+
+## [pwsh.mcp](https://www.powershellgallery.com/Packages/pwsh.mcp/0.1.6) | 0.1.6
+
+### Published: 08/27/2026 06:20:35 by igor.stepanushko@gmail.com
+
+Lightweight PowerShell MCP framework. Expose custom PowerShell functions through a pure-PowerShell MCP server to integrate with MCP-compliant AI agents.
+
+__Downloads__: 1,268 | __Repository__: https://github.com/warm-snow-13/pwsh-mcp
+
+## [CreateProfiles](https://www.powershellgallery.com/Packages/CreateProfiles/1.0.0) | 1.0.0
+
+### Published: 08/27/2026 05:21:23 by LanDX
+
+A lightweight module to create and manage PowerShell profile files across different scopes.
+
+__Downloads__: 0 | __Repository__: https://powershellgallery.com/
+
+## [M365DSC.mgx](https://www.powershellgallery.com/Packages/M365DSC.mgx/2.1.0) | 2.1.0
+
+### Published: 08/27/2026 05:05:09 by Thomas Maillo Grome Fabien Tschanz
+
+Resilient companion for Microsoft.Graph PowerShell. Adds retry, circuit breaker, rate limiting, streaming pagination, batching, and fan-out to any Graph API endpoint.
+
+__Downloads__: 0 | __Repository__: https://github.com/Microsoft365DSC/mgx
+
+## [oh-my-stats](https://www.powershellgallery.com/Packages/oh-my-stats/1.1.1) | 1.1.1
+
+### Published: 08/27/2026 04:35:10 by Paweł Żentała
+
+Neofetch-style system stats for your PowerShell prompt: CPU, RAM and disk as colour-coded bars, plus OS, uptime and process counts. Nerd Font icons with a plain Unicode fallback, JSON config, and a cache that keeps the banner off your startup time. Windows only (reads WMI/CIM).
+
+__Downloads__: 0 | __Repository__: https://github.com/zentala/oh-my-stats
+
+## [PSWriteMessage](https://www.powershellgallery.com/Packages/PSWriteMessage/2026.8.26) | 2026.8.26
+
+### Published: 08/27/2026 04:21:07 by William Quinn
+
+Write-Message is a drop-in replacement for the builtin Write-* cmdlets: it timestamps every message, formats it by type (Debug, Verbose, Info, Success, Warning, Error) with ANSI color and a type prefix, and can optionally tee the message to a log file.
+
+__Downloads__: 0 | __Repository__: https://github.com/youvegotwq/PSWriteMessage
+
+## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.106) | 0.5.106
+
+### Published: 08/27/2026 04:08:59 by Dan Damit
+
+A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp. TechToolbox also utilizes the conventional PowerShell help system, so Get-Help <command-name> is your friend.
+
+__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
+
+## [IDBridge](https://www.powershellgallery.com/Packages/IDBridge/26.8.27.0) | 26.8.27.0
+
+### Published: 08/27/2026 01:49:59 by Sam Cattanach
+
+IdentityBridge — automated account provisioning for Google Workspace and Active Directory from school SIS/GSheet data.
+
+__Downloads__: 5 | __Repository__: https://github.com/SCNetworksLLC/IDBridge
 
 ## [Shmuelie.Windows](https://www.powershellgallery.com/Packages/Shmuelie.Windows/0.1.1) | 0.1.1
 
@@ -34,22 +1258,6 @@ __Downloads__: 42 | __Repository__: https://github.com/Azure/azure-verified-modu
 Windows-only developer utilities: installed applications, Windows Terminal, Windows Performance Recorder, service host processes, and app-installer packages.
 
 __Downloads__: 0 | __Repository__: https://github.com/shmuelie/powershell-modules
-
-## [PSWriteMessage](https://www.powershellgallery.com/Packages/PSWriteMessage/2026.8.21) | 2026.8.21
-
-### Published: 08/26/2026 22:18:58 by William Quinn
-
-Write-Message is a drop-in replacement for the builtin Write-* cmdlets: it timestamps every message, formats it by type (Debug, Verbose, Info, Success, Warning, Error) with ANSI color and a type prefix, and can optionally tee the message to a log file.
-
-__Downloads__: 0 | __Repository__: https://github.com/youvegotwq/PSWriteMessage
-
-## [businessdev.ALbuild](https://www.powershellgallery.com/Packages/businessdev.ALbuild/2.34.27481) | 2.34.27481
-
-### Published: 08/26/2026 20:58:34 by 365 business development GmbH
-
-ALbuild: a self-contained toolchain for Microsoft Dynamics 365 Business Central AL development. A single module composed of use-case nested modules (Core, Containers, Apps, Feeds, RuntimePackages, Marketplace, OnPrem, Environments).
-
-__Downloads__: 118 | __Repository__: https://github.com/365businessdev/ALbuild
 
 ## [OrvantaClient](https://www.powershellgallery.com/Packages/OrvantaClient/5.0.0) | 5.0.0
 
@@ -107,22 +1315,6 @@ Portable GitHub Copilot customization library. Ships custom agents, auto-applied
 
 __Downloads__: 0 | __Repository__: https://github.com/raandree/CopilotAtelier
 
-## [F8Tools](https://www.powershellgallery.com/Packages/F8Tools/1.0.0) | 1.0.0
-
-### Published: 08/26/2026 16:00:32 by F8
-
-F8  module
-
-__Downloads__: 0 | __Repository__: 
-
-## [Use-Onyphe](https://www.powershellgallery.com/Packages/Use-Onyphe/2.1.3) | 2.1.3
-
-### Published: 08/26/2026 15:26:37 by MS-LUF
-
-Add few cmdlets to use API from onyphe.io through PowerShell interface
-
-__Downloads__: 1,061 | __Repository__: https://github.com/MS-LUF/Use-Onyphe
-
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/7.3.2) | 7.3.2
 
 ### Published: 08/26/2026 14:14:21 by abgox
@@ -134,30 +1326,6 @@ It provides fast rendering, wildcard/subsequence filtering, history-aware orderi
 - Gitee:   https://gitee.com/abgox/PSCompletions
 
 __Downloads__: 106,091 | __Repository__: https://pscompletions.abgox.com/
-
-## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.52) | 0.0.52
-
-### Published: 08/26/2026 13:09:22 by M�tz Jensen
-
-Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
-
-__Downloads__: 2,179 | __Repository__: 
-
-## [Indent](https://www.powershellgallery.com/Packages/Indent/1.2.2) | 1.2.2
-
-### Published: 08/26/2026 12:49:13 by Jonathan Dung
-
-Indent text smoothly.
-
-__Downloads__: 0 | __Repository__: https://github.com/jonathandung/Indent
-
-## [PrtgSensorKit](https://www.powershellgallery.com/Packages/PrtgSensorKit/1.4.3) | 1.4.3
-
-### Published: 08/26/2026 12:35:33 by ArchitektApx
-
-PowerShell framework for building PRTG custom sensors less boilerplate, valid output every time.
-
-__Downloads__: 0 | __Repository__: https://github.com/ArchitektApx/PrtgSensorKit
 
 ## [WinBatchOrchestrator](https://www.powershellgallery.com/Packages/WinBatchOrchestrator/1.0.2) | 1.0.2
 
@@ -206,830 +1374,6 @@ __Downloads__: 2,897 | __Repository__: https://wiki.hornbill.com/index.php/Micro
 PowerShell module for managing RealmJoin (https://www.realmjoin.com/) tenant.
 
 __Downloads__: 2,130 | __Repository__: https://www.realmjoin.com/
-
-## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:31:11 by Sailpoint Developer Relations
-
-PSSailpoint - the PowerShell module for IdentityNow
-
-__Downloads__: 28,212 | __Repository__: 
-
-## [PSSailpoint.NERMV2025](https://www.powershellgallery.com/Packages/PSSailpoint.NERMV2025/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:42 by OpenAPI Generator Team
-
-PSSailpoint.NERMV2025 - the PowerShell module for NERM API v2025
-
-__Downloads__: 10 | __Repository__: 
-
-## [PSSailpoint.NERM](https://www.powershellgallery.com/Packages/PSSailpoint.NERM/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:37 by OpenAPI Generator Team
-
-PSSailpoint.NERM - the PowerShell module for NERM API
-
-__Downloads__: 10 | __Repository__: 
-
-## [PSSailpoint.WorkReassignment](https://www.powershellgallery.com/Packages/PSSailpoint.WorkReassignment/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:27 by OpenAPI Generator Team
-
-PSSailpoint.WorkReassignment - the PowerShell module for Identity Security Cloud API - Work Reassignment
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.WorkItems](https://www.powershellgallery.com/Packages/PSSailpoint.WorkItems/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:23 by OpenAPI Generator Team
-
-PSSailpoint.WorkItems - the PowerShell module for Identity Security Cloud API - Work Items
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.UiMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.UiMetadata/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:18 by OpenAPI Generator Team
-
-PSSailpoint.UiMetadata - the PowerShell module for Identity Security Cloud API - UI Metadata
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Triggers](https://www.powershellgallery.com/Packages/PSSailpoint.Triggers/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:13 by OpenAPI Generator Team
-
-PSSailpoint.Triggers - the PowerShell module for Identity Security Cloud API - Triggers
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Transforms](https://www.powershellgallery.com/Packages/PSSailpoint.Transforms/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:09 by OpenAPI Generator Team
-
-PSSailpoint.Transforms - the PowerShell module for Identity Security Cloud API - Transforms
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.TenantContext](https://www.powershellgallery.com/Packages/PSSailpoint.TenantContext/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:28:04 by OpenAPI Generator Team
-
-PSSailpoint.TenantContext - the PowerShell module for Identity Security Cloud API - Tenant Context
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Tenant](https://www.powershellgallery.com/Packages/PSSailpoint.Tenant/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:59 by OpenAPI Generator Team
-
-PSSailpoint.Tenant - the PowerShell module for Identity Security Cloud API - Tenant
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.TaskManagement](https://www.powershellgallery.com/Packages/PSSailpoint.TaskManagement/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:55 by OpenAPI Generator Team
-
-PSSailpoint.TaskManagement - the PowerShell module for Identity Security Cloud API - Task Management
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.Sources](https://www.powershellgallery.com/Packages/PSSailpoint.Sources/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:29 by OpenAPI Generator Team
-
-PSSailpoint.Sources - the PowerShell module for Identity Security Cloud API - Sources
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SourceUsages](https://www.powershellgallery.com/Packages/PSSailpoint.SourceUsages/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:24 by OpenAPI Generator Team
-
-PSSailpoint.SourceUsages - the PowerShell module for Identity Security Cloud API - Source Usages
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.SodViolations](https://www.powershellgallery.com/Packages/PSSailpoint.SodViolations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:18 by OpenAPI Generator Team
-
-PSSailpoint.SodViolations - the PowerShell module for Identity Security Cloud API - SOD Violations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SodPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.SodPolicies/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:14 by OpenAPI Generator Team
-
-PSSailpoint.SodPolicies - the PowerShell module for Identity Security Cloud API - SOD Policies
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SodControls](https://www.powershellgallery.com/Packages/PSSailpoint.SodControls/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:09 by OpenAPI Generator Team
-
-PSSailpoint.SodControls - the PowerShell module for Identity Security Cloud API - SOD Controls
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSSailpoint.SimIntegrations](https://www.powershellgallery.com/Packages/PSSailpoint.SimIntegrations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:05 by OpenAPI Generator Team
-
-PSSailpoint.SimIntegrations - the PowerShell module for Identity Security Cloud API - SIM Integrations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SharedSignalsFrameworkSsf](https://www.powershellgallery.com/Packages/PSSailpoint.SharedSignalsFrameworkSsf/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:27:00 by OpenAPI Generator Team
-
-PSSailpoint.SharedSignalsFrameworkSsf - the PowerShell module for Identity Security Cloud API - Shared Signals Framework (SSF)
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ServiceDeskIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.ServiceDeskIntegration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:56 by OpenAPI Generator Team
-
-PSSailpoint.ServiceDeskIntegration - the PowerShell module for Identity Security Cloud API - Service Desk Integration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Segments](https://www.powershellgallery.com/Packages/PSSailpoint.Segments/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:51 by OpenAPI Generator Team
-
-PSSailpoint.Segments - the PowerShell module for Identity Security Cloud API - Segments
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SearchAttributeConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.SearchAttributeConfiguration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:45 by OpenAPI Generator Team
-
-PSSailpoint.SearchAttributeConfiguration - the PowerShell module for Identity Security Cloud API - Search Attribute Configuration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Search](https://www.powershellgallery.com/Packages/PSSailpoint.Search/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:40 by OpenAPI Generator Team
-
-PSSailpoint.Search - the PowerShell module for Identity Security Cloud API - Search
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ScheduledSearch](https://www.powershellgallery.com/Packages/PSSailpoint.ScheduledSearch/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:34 by OpenAPI Generator Team
-
-PSSailpoint.ScheduledSearch - the PowerShell module for Identity Security Cloud API - Scheduled Search
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SavedSearch](https://www.powershellgallery.com/Packages/PSSailpoint.SavedSearch/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:30 by OpenAPI Generator Team
-
-PSSailpoint.SavedSearch - the PowerShell module for Identity Security Cloud API - Saved Search
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Roles](https://www.powershellgallery.com/Packages/PSSailpoint.Roles/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:25 by OpenAPI Generator Team
-
-PSSailpoint.Roles - the PowerShell module for Identity Security Cloud API - Roles
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.RolePropagation](https://www.powershellgallery.com/Packages/PSSailpoint.RolePropagation/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:26:21 by OpenAPI Generator Team
-
-PSSailpoint.RolePropagation - the PowerShell module for Identity Security Cloud API - Role Propagation
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PublicIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentities/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:52 by OpenAPI Generator Team
-
-PSSailpoint.PublicIdentities - the PowerShell module for Identity Security Cloud API - Public Identities
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PrivilegeCriteriaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteriaConfiguration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:43 by OpenAPI Generator Team
-
-PSSailpoint.PrivilegeCriteriaConfiguration - the PowerShell module for Identity Security Cloud API - Privilege Criteria Configuration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PrivilegeCriteria](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteria/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:39 by OpenAPI Generator Team
-
-PSSailpoint.PrivilegeCriteria - the PowerShell module for Identity Security Cloud API - Privilege Criteria
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PersonalAccessTokens](https://www.powershellgallery.com/Packages/PSSailpoint.PersonalAccessTokens/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:34 by OpenAPI Generator Team
-
-PSSailpoint.PersonalAccessTokens - the PowerShell module for Identity Security Cloud API - Personal Access Tokens
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordSyncGroups](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordSyncGroups/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:28 by OpenAPI Generator Team
-
-PSSailpoint.PasswordSyncGroups - the PowerShell module for Identity Security Cloud API - Password Sync Groups
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordPolicies/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:23 by OpenAPI Generator Team
-
-PSSailpoint.PasswordPolicies - the PowerShell module for Identity Security Cloud API - Password Policies
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordManagement](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordManagement/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:19 by OpenAPI Generator Team
-
-PSSailpoint.PasswordManagement - the PowerShell module for Identity Security Cloud API - Password Management
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordDictionary](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordDictionary/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:14 by OpenAPI Generator Team
-
-PSSailpoint.PasswordDictionary - the PowerShell module for Identity Security Cloud API - Password Dictionary
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordConfiguration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:09 by OpenAPI Generator Team
-
-PSSailpoint.PasswordConfiguration - the PowerShell module for Identity Security Cloud API - Password Configuration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ParameterStorage](https://www.powershellgallery.com/Packages/PSSailpoint.ParameterStorage/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:25:05 by OpenAPI Generator Team
-
-PSSailpoint.ParameterStorage - the PowerShell module for Identity Security Cloud API - Parameter Storage
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.OrgConfig](https://www.powershellgallery.com/Packages/PSSailpoint.OrgConfig/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:59 by OpenAPI Generator Team
-
-PSSailpoint.OrgConfig - the PowerShell module for Identity Security Cloud API - Org Config
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.OauthClients](https://www.powershellgallery.com/Packages/PSSailpoint.OauthClients/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:53 by OpenAPI Generator Team
-
-PSSailpoint.OauthClients - the PowerShell module for Identity Security Cloud API - OAuth Clients
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.NonEmployeeLifecycleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.NonEmployeeLifecycleManagement/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:44 by OpenAPI Generator Team
-
-PSSailpoint.NonEmployeeLifecycleManagement - the PowerShell module for Identity Security Cloud API - Non-Employee Lifecycle Management
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MultiHostIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.MultiHostIntegration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:39 by OpenAPI Generator Team
-
-PSSailpoint.MultiHostIntegration - the PowerShell module for Identity Security Cloud API - Multi-Host Integration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MfaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.MfaConfiguration/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:35 by OpenAPI Generator Team
-
-PSSailpoint.MfaConfiguration - the PowerShell module for Identity Security Cloud API - MFA Configuration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ManagedClusters](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClusters/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:30 by OpenAPI Generator Team
-
-PSSailpoint.ManagedClusters - the PowerShell module for Identity Security Cloud API - Managed Clusters
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ManagedClusterTypes](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClusterTypes/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:26 by OpenAPI Generator Team
-
-PSSailpoint.ManagedClusterTypes - the PowerShell module for Identity Security Cloud API - Managed Cluster Types
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ManagedClients](https://www.powershellgallery.com/Packages/PSSailpoint.ManagedClients/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:21 by OpenAPI Generator Team
-
-PSSailpoint.ManagedClients - the PowerShell module for Identity Security Cloud API - Managed Clients
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineIdentitiesLifecycleActions](https://www.powershellgallery.com/Packages/PSSailpoint.MachineIdentitiesLifecycleActions/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:16 by OpenAPI Generator Team
-
-PSSailpoint.MachineIdentitiesLifecycleActions - the PowerShell module for Identity Security Cloud API - Machine Identity Lifecycle Actions
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSSailpoint.MachineIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.MachineIdentities/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:11 by OpenAPI Generator Team
-
-PSSailpoint.MachineIdentities - the PowerShell module for Identity Security Cloud API - Machine Identities
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineClassificationConfig](https://www.powershellgallery.com/Packages/PSSailpoint.MachineClassificationConfig/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:06 by OpenAPI Generator Team
-
-PSSailpoint.MachineClassificationConfig - the PowerShell module for Identity Security Cloud API - Machine Classification Config
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineAccounts](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccounts/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:24:01 by OpenAPI Generator Team
-
-PSSailpoint.MachineAccounts - the PowerShell module for Identity Security Cloud API - Machine Accounts
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineAccountSubtypes](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountSubtypes/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:57 by OpenAPI Generator Team
-
-PSSailpoint.MachineAccountSubtypes - the PowerShell module for Identity Security Cloud API - Machine Account Subtypes
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineAccountMappings](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountMappings/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:52 by OpenAPI Generator Team
-
-PSSailpoint.MachineAccountMappings - the PowerShell module for Identity Security Cloud API - Machine Account Mappings
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineAccountCreationRequest](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountCreationRequest/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:48 by OpenAPI Generator Team
-
-PSSailpoint.MachineAccountCreationRequest - the PowerShell module for Identity Security Cloud API - Machine Account Creation Request
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.MachineAccountClassify](https://www.powershellgallery.com/Packages/PSSailpoint.MachineAccountClassify/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:43 by OpenAPI Generator Team
-
-PSSailpoint.MachineAccountClassify - the PowerShell module for Identity Security Cloud API - Machine Account Classify
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.LifecycleStates](https://www.powershellgallery.com/Packages/PSSailpoint.LifecycleStates/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:37 by OpenAPI Generator Team
-
-PSSailpoint.LifecycleStates - the PowerShell module for Identity Security Cloud API - Lifecycle States
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Launchers](https://www.powershellgallery.com/Packages/PSSailpoint.Launchers/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:33 by OpenAPI Generator Team
-
-PSSailpoint.Launchers - the PowerShell module for Identity Security Cloud API - Launchers
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.JitActivations](https://www.powershellgallery.com/Packages/PSSailpoint.JitActivations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:28 by OpenAPI Generator Team
-
-PSSailpoint.JitActivations - the PowerShell module for Identity Security Cloud API - JIT Activations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.JitAccess](https://www.powershellgallery.com/Packages/PSSailpoint.JitAccess/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:24 by OpenAPI Generator Team
-
-PSSailpoint.JitAccess - the PowerShell module for Identity Security Cloud API - JIT Access
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Intelligence](https://www.powershellgallery.com/Packages/PSSailpoint.Intelligence/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:19 by OpenAPI Generator Team
-
-PSSailpoint.Intelligence - the PowerShell module for Identity Security Cloud API - Intelligence
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSSailpoint.IdentityProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityProfiles/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:13 by OpenAPI Generator Team
-
-PSSailpoint.IdentityProfiles - the PowerShell module for Identity Security Cloud API - Identity Profiles
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IdentityHistory](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityHistory/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:09 by OpenAPI Generator Team
-
-PSSailpoint.IdentityHistory - the PowerShell module for Identity Security Cloud API - Identity History
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IdentityAttributes](https://www.powershellgallery.com/Packages/PSSailpoint.IdentityAttributes/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:23:04 by OpenAPI Generator Team
-
-PSSailpoint.IdentityAttributes - the PowerShell module for Identity Security Cloud API - Identity Attributes
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Identities](https://www.powershellgallery.com/Packages/PSSailpoint.Identities/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:58 by OpenAPI Generator Team
-
-PSSailpoint.Identities - the PowerShell module for Identity Security Cloud API - Identities
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Icons](https://www.powershellgallery.com/Packages/PSSailpoint.Icons/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:54 by OpenAPI Generator Team
-
-PSSailpoint.Icons - the PowerShell module for Identity Security Cloud API - Icons
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiRoleMining](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRoleMining/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:49 by OpenAPI Generator Team
-
-PSSailpoint.IaiRoleMining - the PowerShell module for Identity Security Cloud API - IAI Role Mining
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiRecommendations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:44 by OpenAPI Generator Team
-
-PSSailpoint.IaiRecommendations - the PowerShell module for Identity Security Cloud API - IAI Recommendations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiPeerGroupStrategies](https://www.powershellgallery.com/Packages/PSSailpoint.IaiPeerGroupStrategies/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:38 by OpenAPI Generator Team
-
-PSSailpoint.IaiPeerGroupStrategies - the PowerShell module for Identity Security Cloud API - IAI Peer Group Strategies
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiOutliers](https://www.powershellgallery.com/Packages/PSSailpoint.IaiOutliers/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:33 by OpenAPI Generator Team
-
-PSSailpoint.IaiOutliers - the PowerShell module for Identity Security Cloud API - IAI Outliers
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiCommonAccess](https://www.powershellgallery.com/Packages/PSSailpoint.IaiCommonAccess/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:28 by OpenAPI Generator Team
-
-PSSailpoint.IaiCommonAccess - the PowerShell module for Identity Security Cloud API - IAI Common Access
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.IaiAccessRequestRecommendations](https://www.powershellgallery.com/Packages/PSSailpoint.IaiAccessRequestRecommendations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:22 by OpenAPI Generator Team
-
-PSSailpoint.IaiAccessRequestRecommendations - the PowerShell module for Identity Security Cloud API - IAI Access Request Recommendations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Entitlements](https://www.powershellgallery.com/Packages/PSSailpoint.Entitlements/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:22:04 by OpenAPI Generator Team
-
-PSSailpoint.Entitlements - the PowerShell module for Identity Security Cloud API - Entitlements
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.EntitlementConnections](https://www.powershellgallery.com/Packages/PSSailpoint.EntitlementConnections/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:58 by OpenAPI Generator Team
-
-PSSailpoint.EntitlementConnections - the PowerShell module for Identity Security Cloud API - Entitlement Connections
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Dimensions](https://www.powershellgallery.com/Packages/PSSailpoint.Dimensions/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:53 by OpenAPI Generator Team
-
-PSSailpoint.Dimensions - the PowerShell module for Identity Security Cloud API - Dimensions
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.DeclassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.DeclassifySource/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:47 by OpenAPI Generator Team
-
-PSSailpoint.DeclassifySource - the PowerShell module for Identity Security Cloud API - Declassify Source
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.DataSegmentation](https://www.powershellgallery.com/Packages/PSSailpoint.DataSegmentation/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:41 by OpenAPI Generator Team
-
-PSSailpoint.DataSegmentation - the PowerShell module for Identity Security Cloud API - Data Segmentation
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.DataAccessSecurity](https://www.powershellgallery.com/Packages/PSSailpoint.DataAccessSecurity/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:35 by OpenAPI Generator Team
-
-PSSailpoint.DataAccessSecurity - the PowerShell module for Identity Security Cloud API - Data Access Security
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CustomUserLevels](https://www.powershellgallery.com/Packages/PSSailpoint.CustomUserLevels/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:30 by OpenAPI Generator Team
-
-PSSailpoint.CustomUserLevels - the PowerShell module for Identity Security Cloud API - Custom User Levels
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CustomPasswordInstructions](https://www.powershellgallery.com/Packages/PSSailpoint.CustomPasswordInstructions/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:25 by OpenAPI Generator Team
-
-PSSailpoint.CustomPasswordInstructions - the PowerShell module for Identity Security Cloud API - Custom Password Instructions
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CustomForms](https://www.powershellgallery.com/Packages/PSSailpoint.CustomForms/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:20 by OpenAPI Generator Team
-
-PSSailpoint.CustomForms - the PowerShell module for Identity Security Cloud API - Custom Forms
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Connectors](https://www.powershellgallery.com/Packages/PSSailpoint.Connectors/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:15 by OpenAPI Generator Team
-
-PSSailpoint.Connectors - the PowerShell module for Identity Security Cloud API - Connectors
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ConnectorRuleManagement](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorRuleManagement/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:11 by OpenAPI Generator Team
-
-PSSailpoint.ConnectorRuleManagement - the PowerShell module for Identity Security Cloud API - Connector Rule Management
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ConnectorCustomizers](https://www.powershellgallery.com/Packages/PSSailpoint.ConnectorCustomizers/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:05 by OpenAPI Generator Team
-
-PSSailpoint.ConnectorCustomizers - the PowerShell module for Identity Security Cloud API - Connector Customizers
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ConfigurationHub](https://www.powershellgallery.com/Packages/PSSailpoint.ConfigurationHub/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:21:00 by OpenAPI Generator Team
-
-PSSailpoint.ConfigurationHub - the PowerShell module for Identity Security Cloud API - Configuration Hub
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ClassifySource](https://www.powershellgallery.com/Packages/PSSailpoint.ClassifySource/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:55 by OpenAPI Generator Team
-
-PSSailpoint.ClassifySource - the PowerShell module for Identity Security Cloud API - Classify Source
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CertificationSummaries](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationSummaries/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:45 by OpenAPI Generator Team
-
-PSSailpoint.CertificationSummaries - the PowerShell module for Identity Security Cloud API - Certification Summaries
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CertificationCampaigns](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaigns/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:39 by OpenAPI Generator Team
-
-PSSailpoint.CertificationCampaigns - the PowerShell module for Identity Security Cloud API - Certification Campaigns
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CertificationCampaignFilters](https://www.powershellgallery.com/Packages/PSSailpoint.CertificationCampaignFilters/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:33 by OpenAPI Generator Team
-
-PSSailpoint.CertificationCampaignFilters - the PowerShell module for Identity Security Cloud API - Certification Campaign Filters
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.BusinessApplications](https://www.powershellgallery.com/Packages/PSSailpoint.BusinessApplications/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:27 by OpenAPI Generator Team
-
-PSSailpoint.BusinessApplications - the PowerShell module for Identity Security Cloud API - Business Applications
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSSailpoint.Branding](https://www.powershellgallery.com/Packages/PSSailpoint.Branding/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:22 by OpenAPI Generator Team
-
-PSSailpoint.Branding - the PowerShell module for Identity Security Cloud API - Branding
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.AuthUsers](https://www.powershellgallery.com/Packages/PSSailpoint.AuthUsers/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:17 by OpenAPI Generator Team
-
-PSSailpoint.AuthUsers - the PowerShell module for Identity Security Cloud API - Auth Users
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.AuthProfile](https://www.powershellgallery.com/Packages/PSSailpoint.AuthProfile/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:13 by OpenAPI Generator Team
-
-PSSailpoint.AuthProfile - the PowerShell module for Identity Security Cloud API - Auth Profile
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Apps](https://www.powershellgallery.com/Packages/PSSailpoint.Apps/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:08 by OpenAPI Generator Team
-
-PSSailpoint.Apps - the PowerShell module for Identity Security Cloud API - Apps
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Approvals](https://www.powershellgallery.com/Packages/PSSailpoint.Approvals/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:20:02 by OpenAPI Generator Team
-
-PSSailpoint.Approvals - the PowerShell module for Identity Security Cloud API - Approvals
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.ApplicationDiscovery](https://www.powershellgallery.com/Packages/PSSailpoint.ApplicationDiscovery/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:55 by OpenAPI Generator Team
-
-PSSailpoint.ApplicationDiscovery - the PowerShell module for Identity Security Cloud API - Application Discovery
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.ApiUsage](https://www.powershellgallery.com/Packages/PSSailpoint.ApiUsage/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:49 by OpenAPI Generator Team
-
-PSSailpoint.ApiUsage - the PowerShell module for Identity Security Cloud API - Api Usage
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.Accounts](https://www.powershellgallery.com/Packages/PSSailpoint.Accounts/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:43 by OpenAPI Generator Team
-
-PSSailpoint.Accounts - the PowerShell module for Identity Security Cloud API - Accounts
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccountUsages](https://www.powershellgallery.com/Packages/PSSailpoint.AccountUsages/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:37 by OpenAPI Generator Team
-
-PSSailpoint.AccountUsages - the PowerShell module for Identity Security Cloud API - Account Usages
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccountDeletionRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccountDeletionRequests/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:31 by OpenAPI Generator Team
-
-PSSailpoint.AccountDeletionRequests - the PowerShell module for Identity Security Cloud API - Account Deletion Requests
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccountAggregations](https://www.powershellgallery.com/Packages/PSSailpoint.AccountAggregations/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:24 by OpenAPI Generator Team
-
-PSSailpoint.AccountAggregations - the PowerShell module for Identity Security Cloud API - Account Aggregations
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccountActivities](https://www.powershellgallery.com/Packages/PSSailpoint.AccountActivities/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:18 by OpenAPI Generator Team
-
-PSSailpoint.AccountActivities - the PowerShell module for Identity Security Cloud API - Account Activities
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequests/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:12 by OpenAPI Generator Team
-
-PSSailpoint.AccessRequests - the PowerShell module for Identity Security Cloud API - Access Requests
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessRequestIdentityMetrics](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestIdentityMetrics/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:06 by OpenAPI Generator Team
-
-PSSailpoint.AccessRequestIdentityMetrics - the PowerShell module for Identity Security Cloud API - Access Request Identity Metrics
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessRequestApprovals](https://www.powershellgallery.com/Packages/PSSailpoint.AccessRequestApprovals/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:19:00 by OpenAPI Generator Team
-
-PSSailpoint.AccessRequestApprovals - the PowerShell module for Identity Security Cloud API - Access Request Approvals
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.AccessProfiles/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:18:53 by OpenAPI Generator Team
-
-PSSailpoint.AccessProfiles - the PowerShell module for Identity Security Cloud API - Access Profiles
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessModelMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.AccessModelMetadata/2.1.24) | 2.1.24
-
-### Published: 08/26/2026 08:18:46 by OpenAPI Generator Team
-
-PSSailpoint.AccessModelMetadata - the PowerShell module for Identity Security Cloud API - Access Model Metadata
-
-__Downloads__: 8 | __Repository__: 
 
 ## [UncommonSense.ALRuleset](https://www.powershellgallery.com/Packages/UncommonSense.ALRuleset/0.0.1) | 0.0.1
 
@@ -1103,14 +1447,6 @@ Provides maintenance functions to manage SQL Server.
 
 __Downloads__: 127 | __Repository__: https://github.com/netsec4u/SqlServerMaintenance
 
-## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.104) | 0.5.104
-
-### Published: 08/26/2026 00:11:08 by Dan Damit
-
-A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp. TechToolbox also utilizes the conventional PowerShell help system, so Get-Help <command-name> is your friend.
-
-__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
-
 ## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.5.147) | 0.5.147
 
 ### Published: 08/25/2026 23:15:47 by Pete Maan
@@ -1118,14 +1454,6 @@ __Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
 Enables user interaction with the API for the CyberArk Identity platform
 
 __Downloads__: 15,795 | __Repository__: https://github.com/pspete/IdentityCommand/
-
-## [MaestroKit](https://www.powershellgallery.com/Packages/MaestroKit/0.9.3) | 0.9.3
-
-### Published: 08/25/2026 22:11:19 by Arthur Biazon Machado
-
-MaestroKit - plan/implement/test/document workflow installer, validators and packaging for AI coding agents.
-
-__Downloads__: 0 | __Repository__: https://gitlab.com/abmach/maestro
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.16.3) | 2.16.3
 
@@ -1135,22 +1463,6 @@ Powershell Module to run JumpCloud Active Directory Migration Utility.
 
 __Downloads__: 22,511 | __Repository__: 
 
-## [CommunityADF](https://www.powershellgallery.com/Packages/CommunityADF/2026.8.25.1619) | 2026.8.25.1619
-
-### Published: 08/25/2026 21:21:34 by Shannon Graybrook
-
-DSL Module for building Atlassian Document Format (ADF) formatted output.
-
-__Downloads__: 0 | __Repository__: https://github.com/realslacker/CommunityADF
-
-## [Matrix](https://www.powershellgallery.com/Packages/Matrix/0.1) | 0.1
-
-### Published: 08/25/2026 20:31:48 by James Brundage
-
-Matrix Transforms with PowerShell
-
-__Downloads__: 0 | __Repository__: https://github.com/PoshWeb/Matrix/
-
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.24.0) | 2.24.0
 
 ### Published: 08/25/2026 20:13:52 by Jón Fjölnir Albertsson
@@ -1158,22 +1470,6 @@ __Downloads__: 0 | __Repository__: https://github.com/PoshWeb/Matrix/
 PowerShell Module for handling Microsoft Business Central related automation.  This is a submodule that add some small functions to make PowerShell somewhat easier.
 
 __Downloads__: 7,698 | __Repository__: https://github.com/Dynapro-AS/dynapro-powershell
-
-## [UpdateRunbookContent](https://www.powershellgallery.com/Packages/UpdateRunbookContent/0.0.1) | 0.0.1
-
-### Published: 08/25/2026 19:50:20 by Don Morgan
-
-This module provides a command to update the content of an Azure Automation Account Runbook.
-
-__Downloads__: 0 | __Repository__: https://github.com/mister-dj/PowerShell
-
-## [Hephaestus](https://www.powershellgallery.com/Packages/Hephaestus/0.7.0) | 0.7.0
-
-### Published: 08/25/2026 19:38:16 by Itamartz
-
-Hephaestus Deployment Toolkit - a PowerShell replacement for MDT.
-
-__Downloads__: 0 | __Repository__: https://github.com/itamartz/HDT
 
 ## [netbox-rest-module](https://www.powershellgallery.com/Packages/netbox-rest-module/1.0.1) | 1.0.1
 
@@ -1199,22 +1495,6 @@ Provide extra functionality for AppVentiX.
 
 __Downloads__: 1,605 | __Repository__: https://appventix.com/
 
-## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.26.0) | 0.26.0
-
-### Published: 08/25/2026 15:07:44 by Cédric Belin <cedx@outlook.com>
-
-Component library by Cédric Belin, full stack developer.
-
-__Downloads__: 159 | __Repository__: https://github.com/CedX/UI
-
-## [RenderKit](https://www.powershellgallery.com/Packages/RenderKit/1.1.8) | 1.1.8
-
-### Published: 08/25/2026 14:54:49 by Norbert Marton
-
-PowerShell tools for structured video editing project workflows.
-
-__Downloads__: 204 | __Repository__: https://github.com/djtroi/RenderKit
-
 ## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.39.0) | 1.39.0
 
 ### Published: 08/25/2026 14:24:10 by Fortytwo
@@ -1223,21 +1503,13 @@ Client for the Fortytwo Galaxy Collections Criteria API, which allows you to cre
 
 __Downloads__: 156 | __Repository__: 
 
-## [AzureRMFAccelerator](https://www.powershellgallery.com/Packages/AzureRMFAccelerator/1.1.0) | 1.1.0
+## [DevContext](https://www.powershellgallery.com/Packages/DevContext/1.11.0) | 1.11.0
 
-### Published: 08/25/2026 13:30:21 by Alan Rosado
+### Published: 08/25/2026 13:41:43 by Thierry V.
 
-Azure RMF Accelerator - PowerShell module for managing ARA JSON files with roles, environments, resources, STIGs, and configuration strings.
+Keep development identities apart, per folder. One context = one folder + one complete identity: git email, SSH key, GitHub account, Vercel session, Supabase tokens, VS Code profile, MCP servers. Several coexist at once, and the folder decides which applies -- including a guard that refuses destructive commands against a production database, from every shell.
 
-__Downloads__: 0 | __Repository__: https://github.com/alrosado/azure-rmf-accelerator-json/tree/main/powershell/AzureRMFAccelerator
-
-## [GCCare](https://www.powershellgallery.com/Packages/GCCare/2026.8.25.777) | 2026.8.25.777
-
-### Published: 08/25/2026 11:02:36 by Holger Zimmermann | zimmermann.holger@live.de
-
-GCCare is an acronym for Garmin Connect Care.
-
-__Downloads__: 0 | __Repository__: https://github.com/HerrHozi/GCCare
+__Downloads__: 0 | __Repository__: https://github.com/thierryvm/devcontext
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.46) | 1.0.46
 
@@ -1367,14 +1639,6 @@ Functions for Active Directory
 
 __Downloads__: 200,737 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [Codesmithy](https://www.powershellgallery.com/Packages/Codesmithy/0.0.0.5) | 0.0.0.5
-
-### Published: 08/25/2026 03:39:19 by Brian Lalonde
-
-Utilities for .NET programmers.
-
-__Downloads__: 0 | __Repository__: https://github.com/brianary/Codesmithy/
-
 ## [AD-HealthCheck-Toolkit](https://www.powershellgallery.com/Packages/AD-HealthCheck-Toolkit/1.1.0) | 1.1.0
 
 ### Published: 08/25/2026 02:10:11 by Sandeep Kumar Reddy Lingampalli
@@ -1382,14 +1646,6 @@ __Downloads__: 0 | __Repository__: https://github.com/brianary/Codesmithy/
 A PowerShell toolkit for proactive Active Directory health monitoring - checks replication health, DNS zone/record validation, and FSMO role holder reachability, with optional automated email reporting, to help sysadmins catch issues before they cause outages.
 
 __Downloads__: 0 | __Repository__: https://github.com/sandeep6891/AD-HealthCheck-Toolkit
-
-## [gcpstools](https://www.powershellgallery.com/Packages/gcpstools/0.1.27) | 0.1.27
-
-### Published: 08/25/2026 00:58:40 by Glenn Carr
-
-Glenn's custom PowerShell tools
-
-__Downloads__: 0 | __Repository__: https://github.com/glenncarr/gcpstools
 
 ## [Shmuelie.Dsc](https://www.powershellgallery.com/Packages/Shmuelie.Dsc/0.1.0) | 0.1.0
 
@@ -1415,14 +1671,6 @@ Interact with Github via PowerShell
 
 __Downloads__: 162 | __Repository__: https://github.com/chris-peterson/pwsh-github
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.796.0) | 1.796.0
-
-### Published: 08/24/2026 20:43:50 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [AtlassianPS.Configuration](https://www.powershellgallery.com/Packages/AtlassianPS.Configuration/0.2.9) | 0.2.9
 
 ### Published: 08/24/2026 20:22:34 by Lipkau
@@ -1430,6 +1678,22 @@ __Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmil
 A module for modules - AtlasianPS modules use this to handle the user's configuration
 
 __Downloads__: 21,774 | __Repository__: https://github.com/AtlassianPS/AtlassianPS.Configuration
+
+## [GitServe](https://www.powershellgallery.com/Packages/GitServe/0.0.13) | 0.0.13
+
+### Published: 08/24/2026 20:13:18 by Jake Bolton
+
+Query git logs and metrics from the cli or over localhost using fetch from other apps
+
+__Downloads__: 0 | __Repository__: https://github.com/ninmonkey/GitServed
+
+## [ClusterValidator.MCP](https://www.powershellgallery.com/Packages/ClusterValidator.MCP/1.1.0) | 1.1.0
+
+### Published: 08/24/2026 20:06:14 by Detent Point LLC
+
+ClusterValidator checks the health of a Windows Server Failover Cluster - including SQL Server FCI resources - across 16 read-only validation phases. This module is the PowerShell client for it: plain commands (no AI assistant) that launch the ClusterValidator stdio tool locally (dnx DetentPoint.ClusterValidator.Mcp) and return findings as objects. It does nothing on its own and requires that tool. PowerShell 7+ and Windows only. Runs in Free mode with no license (2 clusters per month); a purchased license unlocks higher tiers.
+
+__Downloads__: 0 | __Repository__: https://detentpoint.com/clustervalidator
 
 ## [TerraformCloud](https://www.powershellgallery.com/Packages/TerraformCloud/1.4.5) | 1.4.5
 
@@ -1447,14 +1711,6 @@ Gets a credential object based on a user name and password. It uses Windows nati
 
 __Downloads__: 0 | __Repository__: https://github.com/AlexCMarty/CredUICredential
 
-## [PowerDMARC](https://www.powershellgallery.com/Packages/PowerDMARC/0.1.1) | 0.1.1
-
-### Published: 08/24/2026 17:10:05 by Stefan Wey
-
-PowerShell wrapper for the PowerDMARC API. Connect with a Personal Access Token in either Default (End User) or Reseller (MSSP) mode, then retrieve and manage customer accounts, domains, and Hosted SPF (PowerSPF) configuration.
-
-__Downloads__: 0 | __Repository__: https://exchangepermissions.alweys.ch/powerdmarc
-
 ## [DNSHealth](https://www.powershellgallery.com/Packages/DNSHealth/1.1.10) | 1.1.10
 
 ### Published: 08/24/2026 16:52:31 by John Duprey
@@ -1470,14 +1726,6 @@ __Downloads__: 606 | __Repository__: https://github.com/johnduprey/DNSHealth
 PowerShell module to interact with the Atlassian Confluence REST API
 
 __Downloads__: 1,631,113 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
-
-## [ConsoleStatus](https://www.powershellgallery.com/Packages/ConsoleStatus/2026.824.1230) | 2026.824.1230
-
-### Published: 08/24/2026 15:12:49 by John Billekens
-
-Console status output with sections, labeled values, live progress and a colored result. Writes to the host only, so wrapped output stays on the success stream.
-
-__Downloads__: 0 | __Repository__: https://github.com/j81blog/ConsoleStatus
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2608.2847.0) | 2608.2847.0
 
@@ -1543,14 +1791,6 @@ This module provides an interface to the NinjaOne API.
 
 __Downloads__: 820,921 | __Repository__: https://docs.homotechsual.dev/modules/ninjaone
 
-## [TIConnector](https://www.powershellgallery.com/Packages/TIConnector/1.2.0) | 1.2.0
-
-### Published: 08/24/2026 08:12:17 by Patrick Lehmann
-
-PowerShell module to manage TI Connectors via REST API.
-
-__Downloads__: 0 | __Repository__: https://github.com/PAL-Varo
-
 ## [Nexthink-Omnissa-Connector](https://www.powershellgallery.com/Packages/Nexthink-Omnissa-Connector/0.2.18) | 0.2.18
 
 ### Published: 08/24/2026 07:49:55 by Nexthink
@@ -1590,14 +1830,6 @@ __Downloads__: 1,181,094 | __Repository__: https://mysupport.netapp.com/site/too
 Google Drive and Google Sheets REST Api module
 
 __Downloads__: 16,385 | __Repository__: https://github.com/MVKozlov/GMGoogleDrive
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/1.14.0) | 1.14.0
-
-### Published: 08/24/2026 03:27:51 by Yoshifumi Tsuda
-
-Open-source PSDrives and cmdlets for managing UiPath Orchestrator. Not an official abbreviation of, or part of, the Orchestrator product. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 3,743 | __Repository__: https://github.com/UiPath-Services/UiPathOrch
 
 ## [PoshLLM](https://www.powershellgallery.com/Packages/PoshLLM/0.3.1) | 0.3.1
 
@@ -1680,6 +1912,14 @@ Active Directory and Entra ID operations toolkit - inventory, health checks, aud
 
 __Downloads__: 25 | __Repository__: https://github.com/Karanth1992/ADOpsKit
 
+## [PSMutant](https://www.powershellgallery.com/Packages/PSMutant/0.3.2) | 0.3.2
+
+### Published: 08/23/2026 10:02:25 by Fortigi
+
+Mutation testing for PowerShell. Injects small faults (flip -eq to -ne, $true to $false, N to N+1, drop -not) into your scripts using the PowerShell AST and reports how many your Pester suite catches - the metric line coverage cannot give you. Runs mutants in a throwaway sandbox so your source is never modified. Requires Pester 5.0.0 or later AT RUN TIME, and deliberately does not declare it as a RequiredModule: PSMutant runs under whichever Pester >= 5 you have loaded rather than importing one for you. Install Pester yourself if you do not already have it.
+
+__Downloads__: 0 | __Repository__: https://github.com/Fortigi/PSMutant
+
 ## [EvergreenUI](https://www.powershellgallery.com/Packages/EvergreenUI/1.1.27) | 1.1.27
 
 ### Published: 08/23/2026 02:47:27 by Aaron Parker (stealthpuppy)
@@ -1704,22 +1944,6 @@ SQL Server administration toolkit built on dbatools. Provides reporting, health 
 
 __Downloads__: 1,727 | __Repository__: https://github.com/JankeUwe/sqmSQLTool
 
-## [PSComplexity](https://www.powershellgallery.com/Packages/PSComplexity/0.3.0) | 0.3.0
-
-### Published: 08/22/2026 18:14:20 by Fortigi
-
-Cyclomatic and cognitive complexity for PowerShell. Cognitive complexity is a faithful port of the SonarSource metric (nesting-aware -- the better signal for "hard to understand"), validated against reference scores. Measures per unit (function/filter, class method/constructor, initialised class property, + script body) via the PowerShell AST; ships a Test-PSComplexity gate for CI.
-
-__Downloads__: 0 | __Repository__: https://github.com/Fortigi/PSComplexity
-
-## [SophosFirewall.SophosCentral](https://www.powershellgallery.com/Packages/SophosFirewall.SophosCentral/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:40:26 by Jan Weis
-
-PowerShell module for the SYSTEM > Sophos Central area of Sophos XGS / SFOS 22.0 firewalls via API: the cloud central management switches for reporting, management and configuration backup.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.SophosCentral
-
 ## [SophosFirewall.ZeroDayProtection](https://www.powershellgallery.com/Packages/SophosFirewall.ZeroDayProtection/1.4.0) | 1.4.0
 
 ### Published: 08/22/2026 17:40:01 by Jan Weis
@@ -1727,150 +1951,6 @@ __Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-Pow
 PowerShell module for managing zero-day protection settings on Sophos XGS / SFOS 22.0 firewalls via API: the sandbox analysis datacenter and excluded file types.
 
 __Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.ZeroDayProtection
-
-## [SophosFirewall.Diagnostics](https://www.powershellgallery.com/Packages/SophosFirewall.Diagnostics/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:39:36 by Jan Weis
-
-PowerShell module for the MONITOR & ANALYZE > Diagnostics area of Sophos XGS / SFOS 22.0 firewalls: remote support access, read-only access to the web admin console log viewer, and running commands on the appliance device console. Intended for administrators who need to open a temporary support channel, review recent log activity, or reach the device console without a physical or serial connection.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Diagnostics
-
-## [SophosFirewall.Email](https://www.powershellgallery.com/Packages/SophosFirewall.Email/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:39:11 by Jan Weis
-
-PowerShell module for managing email protection on Sophos XGS / SFOS 22.0 firewalls via API: SMTP and POP/IMAP scanning policies, MTA address groups, exception policies, data control lists, SPX, anti-spam rules and the mail configuration.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Email
-
-## [SophosFirewall.Certificates](https://www.powershellgallery.com/Packages/SophosFirewall.Certificates/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:38:45 by Jan Weis
-
-PowerShell module for managing certificates on Sophos XGS / SFOS 22.0 firewalls via API: certificates, certificate authorities and certificate revocation lists.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Certificates
-
-## [SophosFirewall.WebServer](https://www.powershellgallery.com/Packages/SophosFirewall.WebServer/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:38:18 by Jan Weis
-
-PowerShell module for managing Web Server Protection (WAF) on Sophos XGS / SFOS 22.0 firewalls via API: web servers, protection policies, authentication policies and templates, slow HTTP protection settings.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.WebServer
-
-## [SophosFirewall.Profiles](https://www.powershellgallery.com/Packages/SophosFirewall.Profiles/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:37:52 by Jan Weis
-
-PowerShell module for managing System > Profiles on Sophos XGS / SFOS 22.0 firewalls via API: schedules, access time policies, data transfer policies, decryption profiles and administrator role profiles.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Profiles
-
-## [SophosFirewall.Administration](https://www.powershellgallery.com/Packages/SophosFirewall.Administration/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:37:27 by Jan Weis
-
-PowerShell module for managing System > Administration settings on Sophos XGS / SFOS 22.0 firewalls via API: mail server notification settings, SNMP agent configuration, system date/time, SNMP communities, SNMPv3 users, customizable end-user messages, appliance service access, admin settings (hostname, web admin, login security, password complexity, login disclaimer, factory reset), Local Service ACL rules, and restart/shutdown of the appliance through the web admin console.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Administration
-
-## [SophosFirewall.SystemServices](https://www.powershellgallery.com/Packages/SophosFirewall.SystemServices/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:37:01 by Jan Weis
-
-PowerShell module for managing System Services on Sophos XGS / SFOS 22.0 firewalls via API: QoS (traffic shaping) policies, syslog servers, the system service daemon manager, High Availability, and RED configuration.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.SystemServices
-
-## [SophosFirewall.Applications](https://www.powershellgallery.com/Packages/SophosFirewall.Applications/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:36:36 by Jan Weis
-
-PowerShell module for managing application control on Sophos XGS / SFOS 22.0 firewalls via API: application filter policies and rules, application objects, application categories with QoS assignment, application classification.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Applications
-
-## [SophosFirewall.ActiveThreatResponse](https://www.powershellgallery.com/Packages/SophosFirewall.ActiveThreatResponse/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:36:10 by Jan Weis
-
-PowerShell module for managing Active Threat Response on Sophos XGS / SFOS 22.0 firewalls via API: ATP (Sophos X-Ops threat feeds) settings and third-party threat feeds.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.ActiveThreatResponse
-
-## [SophosFirewall.IntrusionPrevention](https://www.powershellgallery.com/Packages/SophosFirewall.IntrusionPrevention/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:35:44 by Jan Weis
-
-PowerShell module for managing intrusion prevention on Sophos XGS / SFOS 22.0 firewalls via API: IPS policies, custom signatures, IPS switch, DoS settings, DoS bypass rules, spoof prevention and trusted MACs.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.IntrusionPrevention
-
-## [SophosFirewall.VPN](https://www.powershellgallery.com/Packages/SophosFirewall.VPN/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:35:17 by Jan Weis
-
-PowerShell module for managing VPN on Sophos XGS / SFOS 22.0 firewalls via API: IPsec connections, SSL VPN, L2TP, PPTP, VPN profiles and failover groups.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.VPN
-
-## [SophosFirewall.Routing](https://www.powershellgallery.com/Packages/SophosFirewall.Routing/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:34:51 by Jan Weis
-
-PowerShell module for managing routing on Sophos XGS / SFOS 22.0 firewalls via API: gateways, health checks, SD-WAN profiles and routes, unicast and multicast routing.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Routing
-
-## [SophosFirewall.Authentication](https://www.powershellgallery.com/Packages/SophosFirewall.Authentication/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:34:25 by Jan Weis
-
-PowerShell module for managing authentication servers, users, groups, guest users, one-time passwords, captive portal and SSO on Sophos XGS / SFOS 22.0 firewalls via API.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Authentication
-
-## [SophosFirewall.Network](https://www.powershellgallery.com/Packages/SophosFirewall.Network/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:33:57 by Jan Weis
-
-PowerShell module for managing the network configuration of Sophos XGS / SFOS 22.0 firewalls via API: interfaces, VLANs, zones, gateways, DNS, DHCP, ARP and tunnels.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Network
-
-## [SophosFirewall.Firewall](https://www.powershellgallery.com/Packages/SophosFirewall.Firewall/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:33:31 by Jan Weis
-
-PowerShell module for managing firewall rules, rule groups, NAT rules and SSL/TLS inspection on Sophos XGS / SFOS 22.0 firewalls via API.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Firewall
-
-## [SophosFirewall.Web](https://www.powershellgallery.com/Packages/SophosFirewall.Web/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:33:05 by Jan Weis
-
-PowerShell module for managing the web protection area of Sophos XGS / SFOS 22.0 firewalls via API.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Web
-
-## [SophosFirewall.HostsAndServices](https://www.powershellgallery.com/Packages/SophosFirewall.HostsAndServices/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:32:38 by Jan Weis
-
-Manages IP hosts, FQDN hosts, MAC hosts, host groups, services and service groups on a Sophos XGS / SFOS 22.0 firewall via the management API.
-
-__Downloads__: 0 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.HostsAndServices
-
-## [SophosFirewall.Core](https://www.powershellgallery.com/Packages/SophosFirewall.Core/1.4.0) | 1.4.0
-
-### Published: 08/22/2026 17:21:05 by Jan Weis
-
-Core helper functions for Sophos Firewall API modules. Provides session management, API communication, XML escaping, and response validation.
-
-__Downloads__: 72 | __Repository__: https://github.com/janweis/SophosFirewall-PowerShell/tree/main/Modules/SophosFirewall.Core
 
 ## [cciget](https://www.powershellgallery.com/Packages/cciget/0.6.2) | 0.6.2
 
@@ -1880,6 +1960,14 @@ Discover and install CCI internal PowerShell modules from per-tenant Azure Artif
 
 __Downloads__: 60 | __Repository__: https://ccistack.ghe.com/itplatform/cciget
 
+## [msgraphProxy](https://www.powershellgallery.com/Packages/msgraphProxy/1.0.4) | 1.0.4
+
+### Published: 08/22/2026 12:47:59 by Morten Mynster
+
+PowerShell wrapper for a self-contained Microsoft Graph Dev Proxy build - start, stop and check status without requiring .NET installed.
+
+__Downloads__: 0 | __Repository__: https://github.com/Mynster9361/msgraphProxy
+
 ## [AitherZero](https://www.powershellgallery.com/Packages/AitherZero/2.3.5) | 2.3.5
 
 ### Published: 08/22/2026 06:48:28 by Aitherium
@@ -1887,14 +1975,6 @@ __Downloads__: 60 | __Repository__: https://ccistack.ghe.com/itplatform/cciget
 AitherZero Automation Platform - Proper PowerShell module for infrastructure automation with config-based orchestration
 
 __Downloads__: 89 | __Repository__: https://github.com/Aitherium/AitherZero
-
-## [IDBridge](https://www.powershellgallery.com/Packages/IDBridge/26.8.22.0) | 26.8.22.0
-
-### Published: 08/22/2026 01:34:31 by Sam Cattanach
-
-IdentityBridge — automated account provisioning for Google Workspace and Active Directory from school SIS/GSheet data.
-
-__Downloads__: 5 | __Repository__: https://github.com/SCNetworksLLC/IDBridge
 
 ## [PSChristmasTree](https://www.powershellgallery.com/Packages/PSChristmasTree/1.2.2.0) | 1.2.2.0
 
@@ -1928,84 +2008,4 @@ Simple project to query Sql Server and other databases using PowerShell
 
 __Downloads__: 988 | __Repository__: https://github.com/EvotecIT/DbaClientX
 
-## [Get-EntraZTAssess](https://www.powershellgallery.com/Packages/Get-EntraZTAssess/0.3.3) | 0.3.3
-
-### Published: 08/21/2026 15:37:36 by Olamide Olaleye
-
-Runs read-only Microsoft Entra ID and Intune Zero Trust assessments using Microsoft Graph collection, declarative checks, maturity scoring, and local report artifact generation for consultant-led delivery.
-
-__Downloads__: 0 | __Repository__: https://github.com/Princetimber/EntraZTAssess
-
-## [Jax](https://www.powershellgallery.com/Packages/Jax/0.1.17) | 0.1.17
-
-### Published: 08/21/2026 13:54:56 by Sergey Novikov <sergey@novik.fr>
-
-Repository-independent PowerShell task and environment runner.
-
-__Downloads__: 0 | __Repository__: https://github.com/serrnovik/jax
-
-## [ndt](https://www.powershellgallery.com/Packages/ndt/1.0.56) | 1.0.56
-
-### Published: 08/21/2026 13:40:26 by NDT
-
-NDT Deployment Toolkit - installs and configures an NDT deployment share.
-
-__Downloads__: 43 | __Repository__: https://github.com/AB-Lindex/NDT-NextGenerationDeploymentToolkit
-
-## [PSAzureSQLElasticJob](https://www.powershellgallery.com/Packages/PSAzureSQLElasticJob/1.0.1) | 1.0.1
-
-### Published: 08/21/2026 09:43:12 by Constantin Hager
-
-Manages Azure SQL Elastic Jobs, including idempotent provisioning of the Elastic Job Agent server, job database and agent.
-
-__Downloads__: 0 | __Repository__: https://github.com/constantinhager/PSAzureSQLElasticJob
-
-## [EntraZTAssess.Provisioning](https://www.powershellgallery.com/Packages/EntraZTAssess.Provisioning/0.1.3) | 0.1.3
-
-### Published: 08/21/2026 09:09:28 by Olamide Olaleye
-
-Admin-run, one-time provisioning commands (certificate, Entra ID app registration, Exchange Online role grants) for the read-only Get-EntraZTAssess assessment toolkit. Published separately from the assessment module because it performs Graph and Exchange Online WRITE operations, which the read-only assessment surface never does.
-
-__Downloads__: 0 | __Repository__: https://github.com/Princetimber/EntraZTAssess/tree/main/scripts/EntraZTAssess.Provisioning
-
-## [QrCodeReader](https://www.powershellgallery.com/Packages/QrCodeReader/0.0.3) | 0.0.3
-
-### Published: 08/21/2026 07:50:03 by kumo203
-
-This module reads QR Code to convert to readable text.
-
-__Downloads__: 58 | __Repository__: https://github.com/kumo203/QrCodeReader
-
-## [eNLib](https://www.powershellgallery.com/Packages/eNLib/1.4.30) | 1.4.30
-
-### Published: 08/21/2026 07:43:01 by ::))o-
-
-powerfull write-log function forking information to the screen and to the file with timestamp and screen colouring and more, CSV manipulation functions allowing to convert to and from XLS and load CSV with header check, password generator, input message GUI, connection checkers and couple other usefull functions accelerating scripting and helping in everyday work with commandline.
-
-__Downloads__: 1,920 | __Repository__: https://github.com/nExoRek/eN-Lib/tree/master/eNLib
-
-## [Belin.Validation](https://www.powershellgallery.com/Packages/Belin.Validation/0.6.0) | 0.6.0
-
-### Published: 08/21/2026 07:25:40 by Cédric Belin <cedx@outlook.com>
-
-A simple yet effective validation engine specifically designed for PowerShell.
-
-__Downloads__: 0 | __Repository__: https://github.com/CedX/Validation.ps1
-
-## [PSFoundation](https://www.powershellgallery.com/Packages/PSFoundation/1.3.0) | 1.3.0
-
-### Published: 08/21/2026 02:22:01 by MVProwess
-
-A foundational PowerShell module library for Windows administration, providing registry, networking, security, package management, and system utilities.
-
-__Downloads__: 0 | __Repository__: https://github.com/adnoctem/PSFoundation
-
-## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.26.819.100) | 1.26.819.100
-
-### Published: 08/21/2026 01:32:01 by Yorick Kuijs
-
-DSC composite resource for configuring Microsoft 365
-
-__Downloads__: 19,906 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
-*Updated: Thursday, 27 August 2026 01:06:38 UTC*
+*Updated: Thursday, 27 August 2026 20:01:28 UTC*
