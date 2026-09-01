@@ -512,11 +512,11 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 14,428,142 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.0) | 2.0.0
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.1) | 2.0.1
 
-### Published: 06/14/2026 18:43:50 by Przemyslaw Klys
+### Published: 08/31/2026 21:20:44 by Przemyslaw Klys
 
-Transferetto is a PowerShell module and reusable .NET library for FTP, FTPS, SFTP, SCP, FXP, SSH commands, SSH shells, and SSH tunnels.
+Transferetto provides reusable .NET and PowerShell data transfer across filesystems, FTP, FTPS, SFTP, SCP, FXP, Amazon S3 and S3-compatible storage, Azure Blob Storage, and SSH operations.
 
 __Downloads__: 14,066,505 | __Repository__: https://github.com/EvotecIT/Transferetto
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Monday, 31 August 2026 17:15:22 UTC*
+*Updated: Tuesday, 01 September 2026 00:49:07 UTC*
