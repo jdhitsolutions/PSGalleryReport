@@ -67,9 +67,9 @@ PowerShell module with commands for discovering, installing, updating and publis
 
 __Downloads__: 433,841,145 | __Repository__: https://go.microsoft.com/fwlink/?LinkId=828955
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.289) | 5.0.289
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.290) | 5.0.290
 
-### Published: 08/31/2026 23:38:25 by Amazon.com Inc
+### Published: 09/01/2026 19:38:14 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -188,9 +188,9 @@ For information on Billing, please visit the following: https://learn.microsoft.
 
 __Downloads__: 221,653,727 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.289) | 5.0.289
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/5.0.290) | 5.0.290
 
-### Published: 08/31/2026 23:42:06 by Amazon.com Inc
+### Published: 09/01/2026 19:43:30 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1806,9 +1806,9 @@ Windows PowerShell Module for managing devices
 
 __Downloads__: 30,353,515 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.289) | 5.0.289
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/5.0.290) | 5.0.290
 
-### Published: 08/31/2026 23:38:35 by Amazon.com Inc
+### Published: 09/01/2026 19:38:42 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Tuesday, 01 September 2026 14:20:00 UTC*
+*Updated: Tuesday, 01 September 2026 23:35:24 UTC*
