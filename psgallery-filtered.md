@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ModernConveniences](https://www.powershellgallery.com/Packages/ModernConveniences/0.0.1.33) | 0.0.1.33
+
+### Published: 09/06/2026 21:32:10 by Brian Lalonde
+
+Quality of life improvements and enhancements to core PowerShell functionality.
+
+__Downloads__: 93 | __Repository__: https://github.com/brianary/ModernConveniences/
+
+## [WindowsAccessControl](https://www.powershellgallery.com/Packages/WindowsAccessControl/0.2.0) | 0.2.0
+
+### Published: 09/06/2026 21:00:18 by WindowsAccessControl contributors
+
+Pipeline-first Windows security descriptor management for PowerShell.
+
+__Downloads__: 0 | __Repository__: https://github.com/raandree/WindowsAccessControl
+
+## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.122) | 0.5.122
+
+### Published: 09/06/2026 20:16:50 by Dan Damit
+
+A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp.
+
+__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
+
+## [xProgress](https://www.powershellgallery.com/Packages/xProgress/1.1.0) | 1.1.0
+
+### Published: 09/06/2026 18:25:03 by Mike Campbell (thatexactmike)
+
+xProgress provides throttled, automatically timed progress bars for PowerShell scripts and modules. It solves two problems: performance (Write-Progress is expensive to call on every iteration) and complexity (managing calculations, parent/child relationships, and timer state). Supports calculated and explicit progress intervals, nested parent/child progress bars with automatic ID management, and full stopwatch lifecycle control including suspend and resume.
+
+__Downloads__: 1,309 | __Repository__: https://github.com/themodulecollective/xProgress
+
+## [CrossroadsIntegration](https://www.powershellgallery.com/Packages/CrossroadsIntegration/1.0.2) | 1.0.2
+
+### Published: 09/06/2026 18:13:51 by Roy Ashbrook
+
+Source adapters and durable request delivery for Crossroads.
+
+__Downloads__: 0 | __Repository__: https://github.com/royashbrook/crossroads-integration
+
+## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.35.0) | 0.35.0
+
+### Published: 09/06/2026 16:22:18 by Cédric Belin <cedx@outlook.com>
+
+Web component library by Cédric Belin, full stack developer.
+
+__Downloads__: 159 | __Repository__: https://github.com/CedX/UI
+
+## [ImportIcal](https://www.powershellgallery.com/Packages/ImportIcal/0.0.3) | 0.0.3
+
+### Published: 09/06/2026 14:36:42 by Craig Chamberlain
+
+Cmdlets to create and assemble objects from the Ical.Net library.
+
+__Downloads__: 77 | __Repository__: https://github.com/CraigChamberlain/ImportIcal
+
 ## [GliderUI.Server.linux-arm64](https://www.powershellgallery.com/Packages/GliderUI.Server.linux-arm64/0.4.1) | 0.4.1
 
 ### Published: 09/06/2026 12:41:27 by mdgrs-mei
@@ -114,22 +170,6 @@ __Downloads__: 0 | __Repository__:
 Rotates Active Directory, Entra ID, and custom-backend account passwords and protects them via Shamir Secret Sharing (Posh-SecretSharing).
 
 __Downloads__: 0 | __Repository__: https://github.com/MS-LUF/Posh-SecretRotation
-
-## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/0.5.118) | 0.5.118
-
-### Published: 09/06/2026 05:11:10 by Dan Damit
-
-A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp. TechToolbox also utilizes the conventional PowerShell help system, so Get-Help <command-name> is your friend.
-
-__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
-
-## [CrossroadsIntegration](https://www.powershellgallery.com/Packages/CrossroadsIntegration/1.0.1) | 1.0.1
-
-### Published: 09/06/2026 04:32:49 by Roy Ashbrook
-
-Source adapters and durable request delivery for Crossroads.
-
-__Downloads__: 0 | __Repository__: https://github.com/royashbrook/crossroads-integration
 
 ## [ix](https://www.powershellgallery.com/Packages/ix/1.0.0.0) | 1.0.0.0
 
@@ -277,14 +317,6 @@ Git worktree + VS Code/(vscode based editors like Cursor) workspace manager. Cre
 
 __Downloads__: 101 | __Repository__: https://github.com/serrnovik/wtw
 
-## [Belin.UI](https://www.powershellgallery.com/Packages/Belin.UI/0.34.1) | 0.34.1
-
-### Published: 09/05/2026 10:39:27 by Cédric Belin <cedx@outlook.com>
-
-Web component library by Cédric Belin, full stack developer.
-
-__Downloads__: 159 | __Repository__: https://github.com/CedX/UI
-
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.135) | 3.0.135
 
 ### Published: 09/05/2026 07:35:59 by Przemyslaw Klys
@@ -317,14 +349,6 @@ __Downloads__: 93 | __Repository__: https://github.com/PSModule/Template-PSModul
 Comprehensive PowerShell module for Windows image management, customization, and deployment automation. Features native DISM API integration, registry operations, driver management, wallpaper configuration, Autopilot setup, and Windows Update catalog integration with enterprise-grade tools for WIM/ESD manipulation.
 
 __Downloads__: 0 | __Repository__: https://github.com/Grace-Solutions/PSWindowsImageTools
-
-## [xProgress](https://www.powershellgallery.com/Packages/xProgress/1.0.1) | 1.0.1
-
-### Published: 09/05/2026 01:59:30 by Mike Campbell (thatexactmike)
-
-xProgress provides throttled, automatically timed progress bars for PowerShell scripts and modules. It solves two problems: performance (Write-Progress is expensive to call on every iteration) and complexity (managing calculations, parent/child relationships, and timer state). Supports calculated and explicit progress intervals, nested parent/child progress bars with automatic ID management, and full stopwatch lifecycle control including suspend and resume.
-
-__Downloads__: 1,309 | __Repository__: 
 
 ## [PSAITerminal](https://www.powershellgallery.com/Packages/PSAITerminal/1.0.3) | 1.0.3
 
@@ -574,14 +598,6 @@ PSSailpoint.Tenant - the PowerShell module for Identity Security Cloud API - Ten
 
 __Downloads__: 9 | __Repository__: 
 
-## [PSSailpoint.TaskManagement](https://www.powershellgallery.com/Packages/PSSailpoint.TaskManagement/2.1.31) | 2.1.31
-
-### Published: 09/04/2026 08:39:50 by OpenAPI Generator Team
-
-PSSailpoint.TaskManagement - the PowerShell module for Identity Security Cloud API - Task Management
-
-__Downloads__: 8 | __Repository__: 
-
 ## [PSSailpoint.Tags](https://www.powershellgallery.com/Packages/PSSailpoint.Tags/2.1.31) | 2.1.31
 
 ### Published: 09/04/2026 08:39:45 by OpenAPI Generator Team
@@ -662,6 +678,14 @@ PSSailpoint.SimIntegrations - the PowerShell module for Identity Security Cloud 
 
 __Downloads__: 9 | __Repository__: 
 
+## [PSSailpoint.SharedSignalsFrameworkSsf](https://www.powershellgallery.com/Packages/PSSailpoint.SharedSignalsFrameworkSsf/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:38:19 by OpenAPI Generator Team
+
+PSSailpoint.SharedSignalsFrameworkSsf - the PowerShell module for Identity Security Cloud API - Shared Signals Framework (SSF)
+
+__Downloads__: 9 | __Repository__: 
+
 ## [PSSailpoint.ServiceDeskIntegration](https://www.powershellgallery.com/Packages/PSSailpoint.ServiceDeskIntegration/2.1.31) | 2.1.31
 
 ### Published: 09/04/2026 08:37:55 by OpenAPI Generator Team
@@ -707,6 +731,38 @@ __Downloads__: 9 | __Repository__:
 ### Published: 09/04/2026 08:36:30 by OpenAPI Generator Team
 
 PSSailpoint.SavedSearch - the PowerShell module for Identity Security Cloud API - Saved Search
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.Roles](https://www.powershellgallery.com/Packages/PSSailpoint.Roles/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:36:12 by OpenAPI Generator Team
+
+PSSailpoint.Roles - the PowerShell module for Identity Security Cloud API - Roles
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RolePropagation](https://www.powershellgallery.com/Packages/PSSailpoint.RolePropagation/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:35:55 by OpenAPI Generator Team
+
+PSSailpoint.RolePropagation - the PowerShell module for Identity Security Cloud API - Role Propagation
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RoleInsights](https://www.powershellgallery.com/Packages/PSSailpoint.RoleInsights/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:35:37 by OpenAPI Generator Team
+
+PSSailpoint.RoleInsights - the PowerShell module for Identity Security Cloud API - Role Insights
+
+__Downloads__: 9 | __Repository__: 
+
+## [PSSailpoint.RequestableObjects](https://www.powershellgallery.com/Packages/PSSailpoint.RequestableObjects/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:35:24 by OpenAPI Generator Team
+
+PSSailpoint.RequestableObjects - the PowerShell module for Identity Security Cloud API - Requestable Objects
 
 __Downloads__: 9 | __Repository__: 
 
@@ -1078,6 +1134,14 @@ PSSailpoint.IaiAccessRequestRecommendations - the PowerShell module for Identity
 
 __Downloads__: 9 | __Repository__: 
 
+## [PSSailpoint.GovernanceGroups](https://www.powershellgallery.com/Packages/PSSailpoint.GovernanceGroups/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:24:55 by OpenAPI Generator Team
+
+PSSailpoint.GovernanceGroups - the PowerShell module for Identity Security Cloud API - Governance Groups
+
+__Downloads__: 9 | __Repository__: 
+
 ## [PSSailpoint.GlobalTenantSecuritySettings](https://www.powershellgallery.com/Packages/PSSailpoint.GlobalTenantSecuritySettings/2.1.31) | 2.1.31
 
 ### Published: 09/04/2026 08:24:47 by OpenAPI Generator Team
@@ -1254,6 +1318,14 @@ PSSailpoint.AuthUsers - the PowerShell module for Identity Security Cloud API - 
 
 __Downloads__: 9 | __Repository__: 
 
+## [PSSailpoint.AuthProfile](https://www.powershellgallery.com/Packages/PSSailpoint.AuthProfile/2.1.31) | 2.1.31
+
+### Published: 09/04/2026 08:20:47 by OpenAPI Generator Team
+
+PSSailpoint.AuthProfile - the PowerShell module for Identity Security Cloud API - Auth Profile
+
+__Downloads__: 9 | __Repository__: 
+
 ## [PSSailpoint.Apps](https://www.powershellgallery.com/Packages/PSSailpoint.Apps/2.1.31) | 2.1.31
 
 ### Published: 09/04/2026 08:20:37 by OpenAPI Generator Team
@@ -1261,22 +1333,6 @@ __Downloads__: 9 | __Repository__:
 PSSailpoint.Apps - the PowerShell module for Identity Security Cloud API - Apps
 
 __Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Approvals](https://www.powershellgallery.com/Packages/PSSailpoint.Approvals/2.1.31) | 2.1.31
-
-### Published: 09/04/2026 08:20:27 by OpenAPI Generator Team
-
-PSSailpoint.Approvals - the PowerShell module for Identity Security Cloud API - Approvals
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.ApplicationDiscovery](https://www.powershellgallery.com/Packages/PSSailpoint.ApplicationDiscovery/2.1.31) | 2.1.31
-
-### Published: 09/04/2026 08:20:14 by OpenAPI Generator Team
-
-PSSailpoint.ApplicationDiscovery - the PowerShell module for Identity Security Cloud API - Application Discovery
-
-__Downloads__: 8 | __Repository__: 
 
 ## [PSSailpoint.ApiUsage](https://www.powershellgallery.com/Packages/PSSailpoint.ApiUsage/2.1.31) | 2.1.31
 
@@ -1347,22 +1403,6 @@ __Downloads__: 8 | __Repository__:
 ### Published: 09/04/2026 08:17:40 by OpenAPI Generator Team
 
 PSSailpoint.AccessRequestApprovals - the PowerShell module for Identity Security Cloud API - Access Request Approvals
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessProfiles](https://www.powershellgallery.com/Packages/PSSailpoint.AccessProfiles/2.1.31) | 2.1.31
-
-### Published: 09/04/2026 08:17:15 by OpenAPI Generator Team
-
-PSSailpoint.AccessProfiles - the PowerShell module for Identity Security Cloud API - Access Profiles
-
-__Downloads__: 8 | __Repository__: 
-
-## [PSSailpoint.AccessModelMetadata](https://www.powershellgallery.com/Packages/PSSailpoint.AccessModelMetadata/2.1.31) | 2.1.31
-
-### Published: 09/04/2026 08:16:56 by OpenAPI Generator Team
-
-PSSailpoint.AccessModelMetadata - the PowerShell module for Identity Security Cloud API - Access Model Metadata
 
 __Downloads__: 8 | __Repository__: 
 
@@ -1717,6 +1757,14 @@ Interactive documentation: https://deepwiki.com/DailenG/Search-GPO
 
 __Downloads__: 69 | __Repository__: https://github.com/DailenG/Search-GPO
 
+## [UKGHRSD](https://www.powershellgallery.com/Packages/UKGHRSD/0.2.0) | 0.2.0
+
+### Published: 09/03/2026 16:31:48 by Don Sheehan
+
+PowerShell wrapper for the UKG HR Service Delivery (HRSD) REST API v2. Retrieve People Assist requests (e.g. manager-submitted offboarding requests) and resolve their form/custom-field values into readable output.
+
+__Downloads__: 0 | __Repository__: https://github.com/SuperCoreSolutions/UKGHRSD
+
 ## [PSADDS](https://www.powershellgallery.com/Packages/PSADDS/0.4.5) | 0.4.5
 
 ### Published: 09/03/2026 16:10:16 by Bastien Perez
@@ -1724,6 +1772,14 @@ __Downloads__: 69 | __Repository__: https://github.com/DailenG/Search-GPO
 PSADDS PowerShell Module
 
 __Downloads__: 34 | __Repository__: https://github.com/bastienperez/PSADDS
+
+## [Amici.IT](https://www.powershellgallery.com/Packages/Amici.IT/1.0.1) | 1.0.1
+
+### Published: 09/03/2026 15:05:15 by Amici IT
+
+Helper functions for MyAmici IT scripts
+
+__Downloads__: 0 | __Repository__: 
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.9.15) | 1.9.15
 
@@ -1861,6 +1917,14 @@ SdnDiagnostics is a tool used to simplify the data collection and diagnostics of
 
 __Downloads__: 394,959 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
+## [UKGPro](https://www.powershellgallery.com/Packages/UKGPro/0.3.0) | 0.3.0
+
+### Published: 09/02/2026 18:30:26 by Don Sheehan
+
+General-purpose PowerShell wrapper for the UKG Pro HCM REST API. Provides Get- cmdlets for personnel/v1 (employment, person) and configuration/v1 (org-levels, jobs, job-groups, company-details) endpoints with unified authentication, pagination, date-filter handling, secure-by-default PII redaction, and optional SecretManagement-backed auth.
+
+__Downloads__: 0 | __Repository__: https://github.com/SuperCoreSolutions/UKGPro
+
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/3.0.2) | 3.0.2
 
 ### Published: 09/02/2026 18:15:29 by Santiago Squarzon
@@ -1868,6 +1932,14 @@ __Downloads__: 394,959 | __Repository__: https://github.com/microsoft/SdnDiagnos
 Tree-like cmdlets for file system and registry exploration!
 
 __Downloads__: 82,177 | __Repository__: https://www.github.com/santisq/PSTree
+
+## [MET](https://www.powershellgallery.com/Packages/MET/0.11.0) | 0.11.0
+
+### Published: 09/02/2026 17:26:22 by Pierre Thoor
+
+Security Posture Scanner for MDO, EXO and Teams - assesses MDO, EXO/EOP, and Teams protection posture.
+
+__Downloads__: 0 | __Repository__: https://github.com/pthoor/MET
 
 ## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/1.20265.2668) | 1.20265.2668
 
@@ -1945,76 +2017,4 @@ It provides fast rendering, wildcard/subsequence filtering, history-aware orderi
 
 __Downloads__: 106,091 | __Repository__: https://pscompletions.abgox.com/
 
-## [pscodebeamer](https://www.powershellgallery.com/Packages/pscodebeamer/1.3.7) | 1.3.7
-
-### Published: 09/02/2026 13:23:40 by Krzysztof Brandowski
-
-PSCodeBeamer is a comprehensive PowerShell module for automating and integrating with the Codebeamer ALM platform via its REST API (https://codebeamer.com/cb/wiki/11375767). It enables users to manage projects, trackers, items, users, baselines, and more directly from PowerShell scripts or the command line.
-
-__Downloads__: 144 | __Repository__: 
-
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.39) | 1.0.39
-
-### Published: 09/02/2026 13:18:40 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 11,631 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [learnExport](https://www.powershellgallery.com/Packages/learnExport/0.2.0) | 0.2.0
-
-### Published: 09/02/2026 13:14:46 by Renaud Wangler
-
-Export Microsoft Learn courses to Markdown, EPUB and PDF.
-
-__Downloads__: 0 | __Repository__: https://github.com/renaudwangler/ib
-
-## [TerminalStyles](https://www.powershellgallery.com/Packages/TerminalStyles/0.8.21) | 0.8.21
-
-### Published: 09/02/2026 12:49:18 by Felipe Cremerius
-
-Theme your terminal from PowerShell: 16 bundled color schemes with an arrow-key picker that previews each theme live in your current tab (Enter keeps, Esc reverts). Switch color scheme, cursor, font, opacity, and background image in one command, and install curated coding fonts (JetBrains Mono, Fira Code, Cascadia Code and more) straight from their official sources. Works on Windows Terminal, macOS Terminal.app, iTerm2, and any terminal that supports OSC color sequences -- and can style zsh and bash as well as PowerShell. Runs on PowerShell 7 and Windows PowerShell 5.1, on Windows, macOS, and Linux.
-
-__Downloads__: 77 | __Repository__: https://github.com/fcreme/TerminalStyles
-
-## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.12.2) | 0.12.2
-
-### Published: 09/02/2026 12:09:15 by kurokobo
-
-PowerShell module for Dify.
-
-__Downloads__: 258 | __Repository__: https://github.com/kurokobo/psdify
-
-## [DesktopManager](https://www.powershellgallery.com/Packages/DesktopManager/4.4.0) | 4.4.0
-
-### Published: 09/02/2026 10:20:15 by Przemyslaw Klys
-
-Desktop Manager is a PowerShell module that allows easy way to change wallpaper on multiple screens/monitors.
-
-__Downloads__: 575,403 | __Repository__: https://github.com/EvotecIT/DesktopManager
-
-## [MariusTestModule](https://www.powershellgallery.com/Packages/MariusTestModule/0.4.13) | 0.4.13
-
-### Published: 09/02/2026 08:40:27 by MariusStorhaug
-
-A PowerShell module to test the PSModule framework from a personal repo.
-
-__Downloads__: 235 | __Repository__: https://github.com/MariusStorhaug/MariusTestModule
-
-## [Dune](https://www.powershellgallery.com/Packages/Dune/1.1.3) | 1.1.3
-
-### Published: 09/02/2026 07:50:55 by yendico AG
-
-Powershell Wrapper for Dune API (duneframework.com)
-
-__Downloads__: 142 | __Repository__: 
-
-## [Nebula.Tools](https://www.powershellgallery.com/Packages/Nebula.Tools/1.0.6) | 1.0.6
-
-### Published: 09/02/2026 07:04:02 by Giovanni Solone
-
-Everyday functions and utilities for PowerShell.
-
-__Downloads__: 91 | __Repository__: https://github.com/gioxx/Nebula.Tools
-
-*Updated: Sunday, 06 September 2026 13:10:34 UTC*
+*Updated: Sunday, 06 September 2026 23:11:07 UTC*
