@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 05 September 2026 23:21:39 UTC
+Updated: Sunday, 06 September 2026 13:10:44 UTC
 
 .bat
 .env
@@ -106,7 +106,6 @@ accessibility
 accesspackage
 accesspackages
 accesspoint
-accessreview
 accessrights
 accesstoken
 accord
@@ -133,7 +132,6 @@ actifio
 actifiogo
 action
 action1
-actionablemessages
 actiongroup
 actionhero
 actionplan
@@ -302,6 +300,7 @@ agentic
 agenticoperatingmodel
 agentplugin
 agents
+agentskills
 aggregates
 aggregation
 agicap
@@ -352,12 +351,12 @@ aks-hci
 aksarc
 akscluster
 al
-alabama
 alac
 alain
 alarm
 alb
 albuild
+albums
 alc
 alero
 alert
@@ -391,6 +390,7 @@ alt3
 alter
 alteryx
 alto
+always-on
 alwayson
 alwaysontop
 alwaysonvpn
@@ -690,7 +690,6 @@ asynchronous
 atempo
 atera
 athena
-atlas
 atlassian
 atlassiancli
 atlassianps
@@ -706,6 +705,7 @@ attach
 attack-surface-reduction
 attacksimulation
 attendance
+attention
 attestation
 attila
 attilakrick
@@ -752,6 +752,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authorized_keys
 authz
 autify
 auto
@@ -810,6 +811,8 @@ availability
 availabilitygroups
 availabilityset
 avalara
+avatar
+avatax
 avd
 ave
 avepoint
@@ -929,6 +932,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -967,7 +971,6 @@ azurerunasconnection
 azurescout
 azuresearch
 azuresearcher
-azuresecurity
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -1031,7 +1034,6 @@ bash
 basic
 bastion
 bat
-batc
 batcat
 batch
 batch-install
@@ -1108,6 +1110,7 @@ bin-obj
 binaries
 binary
 binaryip
+binarymodule
 bind
 binding
 bindings
@@ -1177,7 +1180,6 @@ bmc
 bms
 bnm
 boards
-bodycomposition
 bofh
 boilerplate
 boinc
@@ -1193,7 +1195,6 @@ boolean
 boot
 boot-policy
 boot-repair
-bootentry
 bootloader
 bootloader psmodule
 bootsecurity
@@ -1231,6 +1232,7 @@ brew
 brewing
 brewzilla
 brickset
+brickstore
 bridge
 brief
 brightbooking
@@ -1305,6 +1307,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 byka
 bynarypsmodule
@@ -1320,7 +1323,6 @@ c++
 c2r
 ca
 caa
-cab
 cache
 cache-poisoning
 cachedroles
@@ -1332,6 +1334,7 @@ caffeine
 cairovolt
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1385,6 +1388,7 @@ cat-names
 catalog
 catalyst
 catapult
+category
 catesta
 catimage
 catppuccin
@@ -1518,7 +1522,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-chokidar
 choose_file
 choose_file_name
 choose_folder
@@ -1544,6 +1547,7 @@ cidrcalculator
 ciellos
 ciem
 cif
+cifs
 cifv3
 cil
 cim
@@ -1565,7 +1569,6 @@ ciresonportal
 cis
 cis-benchmark
 cisa
-cisbenchmark
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1578,6 +1581,7 @@ civo
 cix
 cjk
 clack
+claims
 class
 classdependency
 classes
@@ -1595,6 +1599,7 @@ cldr
 clean
 clean-architecture
 clean-up
+cleanarchitecture
 cleanmgr
 cleanup
 cleanup-orphans
@@ -1737,6 +1742,7 @@ code-completion
 code-generation
 code-integrity
 code-page
+code-quality
 code-reuse
 code-snippets
 code365
@@ -1762,8 +1768,10 @@ codesign
 codesigning
 codex
 coercion
+cognitive
 cognitiveservice
 cognitiveservices
+cognos
 cohere
 cohesity
 coinbase
@@ -1788,6 +1796,7 @@ colorful
 colorful-output
 colorful-scripts
 colorful-terminal
+colorize
 colorized
 coloroutput
 colorpicker
@@ -1820,6 +1829,7 @@ commands
 commandsandresource
 commence
 comment
+commentbasedhelp
 comments
 commerce
 commfort
@@ -1848,8 +1858,8 @@ completion
 completionresult
 completions
 complex
+complexity
 compliance
-compliancemessagetraceanalyzer
 compliancepolicy
 compliant
 component
@@ -1895,7 +1905,6 @@ config
 configapi
 configascode
 configdata
-configdrift
 configkey
 configmap
 configmgr
@@ -1929,6 +1938,7 @@ connectednetwork
 connectedvmware
 connectexchange
 connection
+connection-security
 connections
 connectionsmanager
 connectionstring
@@ -2032,7 +2042,6 @@ copyfileex
 copypaste
 copyright
 core
-coreposh
 coreutils
 corona
 correlation
@@ -2099,6 +2108,7 @@ credential
 credential-dialog
 credential-file
 credential-files
+credential-guard
 credential-manager
 credential-protection
 credentiallocker
@@ -2166,6 +2176,7 @@ ctf
 ctglobal
 ctl
 ctrl+c
+cts
 ctx
 ctype
 cu
@@ -2262,7 +2273,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberark-sia
 cyberdrain
@@ -2271,6 +2281,7 @@ cybersecurity
 cyberwatch
 cyclic
 cyclicredundancycheck
+cyclomatic
 cygwin
 cylance
 cypher
@@ -2301,7 +2312,6 @@ dargslan
 dark
 dark-theme
 darkmode
-darktrace
 dash
 dashboard
 dashboardapi
@@ -2487,6 +2497,7 @@ deferrals
 definition
 deflate
 deflate-compression
+defrag
 delegateaccesscontrol
 delegated
 delegation
@@ -2508,6 +2519,7 @@ demonstration
 demos
 demultiplex
 demultiplexing
+departure
 dependencies
 dependency
 dependency-free
@@ -2541,7 +2553,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionengineering
 detectionrule
 deutschland
 dev
@@ -2656,7 +2667,6 @@ directoryservices
 directorysync
 directrouting
 directsend
-directtocloud
 directus
 direnv
 dirkjan
@@ -2721,6 +2731,7 @@ diving
 division
 divoom
 diy
+dj
 dkim
 dkimcheck
 dkschrutebeets
@@ -2865,7 +2876,6 @@ drivemap
 drivemapping
 driven
 driver
-driverpack
 driverpacks
 drivers
 drivertool
@@ -2952,7 +2962,6 @@ dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamic-port
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -3034,6 +3043,8 @@ eklient psedition_core psedition_desktop
 eku
 elapsed
 elastic
+elasticjob
+elasticjobs
 elasticsan
 elasticsearch
 elb
@@ -3085,7 +3096,6 @@ emoji
 emojis
 emotion
 empire
-employee
 employeemonitoring
 empty
 emulator
@@ -3105,7 +3115,9 @@ encryption
 end-of-line
 endomondo
 endpoint
+endpoint-management
 endpoint-manager
+endpointjobs
 endpointmanagement
 endpointmanager
 endpoints
@@ -3299,6 +3311,7 @@ exchangerate
 exchangeserver
 exchangewebservices
 exclusion
+exclusive
 excuse
 exe
 exec
@@ -3346,6 +3359,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+exposuremanagement
 expression
 extend
 extended
@@ -3387,7 +3401,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
-fail2ban
+fail-safe
 failedlogin
 failover
 failovercluster
@@ -3441,6 +3455,7 @@ fermentation
 fetch
 ffmpeg
 ffprobe
+fgpp
 fhirservice
 fiche
 fiddler
@@ -3468,6 +3483,7 @@ file-name-extension-association
 file-screens
 file-server
 file-share
+file-sharing
 file-system
 file-transfer
 file-transform
@@ -3558,9 +3574,7 @@ firmwareanalysis
 first
 fisher
 fissionproducts
-fit
 fitbit
-fitness
 fits
 five
 five9
@@ -3588,7 +3602,6 @@ flex-query
 flexdesk
 flickr
 florecruit
-florida
 flow
 flowchart
 flowy
@@ -3703,6 +3716,7 @@ fscps
 fsf
 fsharp
 fslogix
+fsmo
 fsrm
 fstab
 ft232h
@@ -3756,9 +3770,6 @@ gameserver
 gaming
 gan
 garage
-garmin
-garminconnect
-garminconnectcare
 gas
 gat
 gateway
@@ -3954,6 +3965,7 @@ google-fonts
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloud
 googlecloudplatform
 googledrive
@@ -4015,6 +4027,7 @@ graylog
 greenhouse
 greenlake
 greenplum
+greeting
 gregorian
 gremlin
 grep
@@ -4104,6 +4117,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardeningkitty
 hardensysvol
 hardlink
 hardmatch
@@ -4252,6 +4266,7 @@ homelandsecurity
 homeschooling
 hometheater
 hon
+hook
 hooking
 hooks
 horizon
@@ -4269,11 +4284,13 @@ hosts
 hosts-file
 hostsfile
 hot-water
+hotcakex
 hotfix
 hotkey
 hotkeys
 hotp
 hotpatch
+hotspot
 hougaard
 howto
 hp
@@ -4295,10 +4312,8 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hr
-hr-service-delivery
 hris
 hrprovisioning
-hrsd
 hrservicedelivery
 hsdp
 hsl
@@ -4340,6 +4355,7 @@ humour
 hunk
 hunter
 hunting
+hvci
 hwid
 hwinfo64
 hybrid
@@ -4439,6 +4455,7 @@ ihs
 iiittttt
 iis
 iis-crypto
+iis-smtp
 iisadministration
 iiscrypto
 ikev2
@@ -4630,6 +4647,7 @@ intuneapp
 intuneappwinutil
 intuneql
 intunestuff
+intunewin
 intunewinapputil
 inventory
 inventory360
@@ -4681,7 +4699,6 @@ ipc
 ipcalc
 ipcalculator
 ipconfig
-ipcontrol
 iperf
 ipfy.org
 iphone
@@ -4694,7 +4711,6 @@ ipp
 iprange
 ipranges
 ips
-ipsc
 ipscan
 ipsec
 iptables
@@ -4821,6 +4837,7 @@ jokes
 jose
 jotform
 journal
+journalctl
 journald
 joyride
 jpg
@@ -4897,11 +4914,11 @@ keepit
 kelverion
 kelvin
 kentico
-kentucky
 kerb
 kerberoasting
 kerberos
 kerberosauthentication
+kerberospolicy
 kernel
 kernel32
 kestrel
@@ -5030,6 +5047,7 @@ laplace
 laps
 lapslegacy
 laragon
+laravel
 largefiles
 laserbeams
 last
@@ -5047,7 +5065,7 @@ latin
 latitude
 launch
 launcher
-launchlibrary
+launchpad
 laws
 layer
 layman
@@ -5103,6 +5121,7 @@ libphonenumber
 libraries
 library
 libsecret
+libsodium
 libvirt
 licence
 license
@@ -5153,6 +5172,7 @@ linux fstab
 linux inode
 linux kernel
 linux motd
+linux network
 linux pam
 linux-command
 linux-style
@@ -5172,7 +5192,6 @@ litedb
 literature
 litetouch
 live
-livedisplay
 livemigration
 livingdoc
 llama
@@ -5280,6 +5299,7 @@ logitech
 logmail
 logmails
 logman
+logo
 logoff
 logon
 logonright
@@ -5311,6 +5331,7 @@ lookupaccountname
 lookupaccountsid
 loop
 loopback
+looper
 loremipsum
 love
 lovequotes
@@ -5347,12 +5368,12 @@ lxcapstool
 lxco
 lxcopstool
 lync
-lyrics
 lzip
 lzip-compression
 m365
 m365defenderstuff
 m365dsc
+m365dscfasthost
 m365permissions
 maa
 maas360
@@ -5407,7 +5428,6 @@ mak
 make
 maker
 malware
-malwareanalysis
 mamagedidentity
 maml
 man-highlighting
@@ -5444,7 +5464,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper
 mapper24
 mapping
 maps
@@ -5552,6 +5571,7 @@ melamed
 meltdown
 mem
 member
+memberof
 members
 membership
 memcm
@@ -5575,8 +5595,6 @@ message-emoji
 message-emojis
 messagebox
 messages
-messagetrace
-messagetraceanalyzer
 messaging
 messaging-emoji
 messaging-emojis
@@ -5622,7 +5640,6 @@ microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
-microsoft-windows-subsystem-for-linux
 microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
@@ -5653,11 +5670,13 @@ microsoftgraphrestapi
 microsofthealth
 microsoftidentitymanager
 microsoftintune
+microsoftlearn
 microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
 microsoftonline
-microsoftpurview
+microsoftsecurity
+microsoftsecuritycompliancetoolkit
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -5745,7 +5764,6 @@ models.dev
 modern
 modernactivedirectoryenhanced
 modernflow
-modernstandby
 modify
 module
 module-maintenance
@@ -5774,7 +5792,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -5799,7 +5816,6 @@ mosaic
 motd
 motivation
 motivationalquotes
-motorfuel
 mount
 mouse
 move
@@ -5963,7 +5979,6 @@ nagios
 nakivo
 name
 name-of-dogs
-name-resolution
 namedpipe
 nameit
 nameresolution
@@ -5978,6 +5993,7 @@ nanoleaf
 napster
 nartac
 nasdaq
+nat
 nationalinstruments
 nationalweatherservice
 native
@@ -6059,9 +6075,11 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-diagnostics
 network-filesystem
 network-info
 network-policy
+network-profile
 network-shares
 networkadapter
 networkadmin
@@ -6082,6 +6100,7 @@ networking
 networkinterfaces
 networkloadbalancer
 networklocal
+networkmapping
 networkpolicyserver
 networkprofile
 networkscan
@@ -6122,6 +6141,7 @@ nexenta
 nexentastor
 nextcloud
 nexthink
+nextjs
 nexus
 nexusiq
 nfs
@@ -6176,7 +6196,6 @@ nordtools
 normal
 normalization
 norskale
-northcarolina
 norway
 norwegian
 nos
@@ -6197,7 +6216,6 @@ notify-send
 notify-send-wsl
 notion
 nova
-nowplaying
 npgsql
 npm
 npm-proxy
@@ -6329,11 +6347,11 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
-offsetanalysis
 ofx
 ogg
 oh-my-posh
 oh-my-zsh
+ohmypi
 oidc
 okta
 old
@@ -6406,6 +6424,7 @@ open-ai
 open-files
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opencage
@@ -6464,7 +6483,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimized
 optimizer
 option
@@ -6489,7 +6510,6 @@ order
 organization
 organizational-unit
 organizationally
-organize
 organizer
 orgnetwork
 oriflame
@@ -6654,6 +6674,7 @@ pass
 pass-the-hash
 pass-the-ticket
 passcode
+passivetotal
 passkey
 passkeys
 passphrase
@@ -6664,6 +6685,7 @@ password_generation
 password-generator
 password-less
 password-manager
+password-policy
 password.ninja
 passwordcrack
 passwordexpiration
@@ -6698,7 +6720,6 @@ path
 pathfinder
 pathlength
 pathmanagement
-pattern
 patternmatching
 paulo
 pause
@@ -6749,6 +6770,7 @@ peopledoc
 peoplestage
 perceptual-hash
 perfmon
+perforce
 performance
 performance-counters
 performancecounter
@@ -6756,6 +6778,7 @@ performancecounters
 performancemonitoring
 perl
 permission
+permissionmatrix
 permissions
 permutation
 permutations
@@ -6769,7 +6792,6 @@ personalisation
 personalization
 personalvault
 personio
-personnel
 pester
 pesterassertion
 pf
@@ -6830,6 +6852,7 @@ pipenv
 pipescript
 piraeus
 piskel
+pitchshift
 piv
 pivot
 pivotal
@@ -6860,6 +6883,7 @@ playback
 playbook
 player
 playlist
+playlists
 playwright
 plc
 plc4x™
@@ -6912,6 +6936,7 @@ poll
 pollinations.ai
 pollinationsai
 polly
+poly1305
 polycom
 polyglot
 polymarket
@@ -6989,6 +7014,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -7162,6 +7188,7 @@ pq
 pqc
 pr
 pranks
+pre-commit
 predicate
 prediction
 predictive
@@ -7224,6 +7251,7 @@ privilegedidentitymanagement
 privileges
 pro
 proactive
+proactive-remediations
 probability
 probe
 problemmanagement
@@ -7507,6 +7535,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -8060,6 +8101,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -9468,6 +9522,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -10281,6 +10348,7 @@ psstyle
 pst
 pstablacus
 pstanss
+psterminalanimations
 psthread
 pstk
 pstui
@@ -10321,9 +10389,9 @@ pubxml
 pug
 pug-templates
 pugjs
+puk
 pull
 pull-request
-pull-requests
 pulldistributionpoint
 pullrequest
 pullserver
@@ -10346,7 +10414,6 @@ purview
 push
 push-location
 push-notifications
-pushbuttonreset
 pushd
 pushover
 pushoverapi
@@ -10362,10 +10429,12 @@ pwsafe
 pwsh
 pwsh-module
 pwsh.fw
+pwsh7
 pwshake
 pwshfw
 pwshrc
 pwshspectreconsole
+pxe
 pxedistributionpoint
 pyenv
 pygmentize
@@ -10414,7 +10483,6 @@ queries
 query
 querybuilder
 queryexcel
-querystore
 querystring
 question
 queue
@@ -10645,9 +10713,9 @@ releasemanagement
 releasenotes
 releases
 relevance
-reliability
 relic
 reload
+relying-party
 remediation
 remedy
 reminder
@@ -10727,6 +10795,7 @@ reportportal
 reportportal.io
 reportrunner
 reports
+reportsasaservice
 reportserver
 repos
 repositories
@@ -10779,6 +10848,7 @@ response
 rest
 rest_cherrypy
 rest-api
+rest-client
 restapi
 restart
 restaurant
@@ -10844,6 +10914,7 @@ ring
 ripe
 risk
 riskassessment
+riskiq
 riskpro
 risksense
 rivermeadow
@@ -10965,7 +11036,6 @@ s2d
 s3
 s4b
 saas
-saasprotection
 sabnzbd
 sabnzbd+
 sacd
@@ -11122,7 +11192,6 @@ scriptsmonitoring
 scrolllock
 scrub
 scrubber
-scrubbing
 scsm
 scuba
 scvmm
@@ -11150,6 +11219,7 @@ secedit
 secops
 secret
 secret-sharing
+secretbox
 secretmanagement
 secretmanagementextension
 secrets
@@ -11194,7 +11264,6 @@ securityandcompliance
 securityassertionmarkuplanguage
 securityassessment
 securityattribute
-securityaudit
 securityawareness
 securitybaseline
 securitycenter
@@ -11254,7 +11323,6 @@ sendmail
 sense
 sensitive
 sensitive-data
-sensitiveinformationtype
 sensitivity
 sensitivitylabels
 sensor
@@ -11288,7 +11356,6 @@ serverless
 servermanagement
 serverprotection
 servers
-serversideautolabeling
 service
 service-bus
 service-messages
@@ -11345,7 +11412,6 @@ set-psenv
 set-randompass
 set-type
 setbios
-setlist
 sets
 setspn
 setthreadexecutionstate
@@ -11399,6 +11465,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sharetru
 sharing
+sharinglinks
 sharpdown
 sheets
 shell
@@ -11407,7 +11474,6 @@ shell-integration
 shellpilot
 shells
 sherweb
-shielded-vm
 shieldedvm
 shift-jis
 shim
@@ -11512,7 +11578,6 @@ slash
 slashcommands
 sleep
 sleeper
-slides
 slideshow
 slip-0039
 slmgr
@@ -11637,6 +11702,7 @@ sort-json
 sorting
 sound
 soundcore
+sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -11647,12 +11713,10 @@ sourcemod
 sourceone
 sourcepawn
 sourcequery
-southcarolina
 sovcloud
 sovereign
 sovereigntrust
 space
-spaceflight
 spaces
 spacex
 spam
@@ -11703,6 +11767,7 @@ splash
 splat
 splatting
 split
+split-tunnel
 splunk
 spmt
 spn
@@ -11794,6 +11859,7 @@ ssdt
 sse
 ssh
 ssh-config
+ssh-import-id
 ssh-keygen
 ssh-keys
 sshmanagement
@@ -11836,7 +11902,6 @@ standard
 standarderror
 standardoutput
 standards
-standby
 standbypool
 stansummary
 starship
@@ -11923,6 +11988,7 @@ storeonce
 storeserv
 stories
 strangeloop
+strasbourg
 stratacloudmanager
 stratum
 strava
@@ -11963,6 +12029,7 @@ su
 sub-directory
 sub-menu
 subatomix
+subdirectory
 subject
 subjectname
 sublimetext
@@ -12027,13 +12094,16 @@ sus
 sushi
 suspensive
 suspicious
+svelte
 svesavov
 svetoslav
 svg
+svgl
 svn
 svt
 swagger
 swamid
+swap
 swarm
 swimlane
 swimmingpool
@@ -12176,7 +12246,6 @@ tasksbyme
 taskscheduler
 tatux
 tauricraft
-tax
 taxjar
 taxonomy
 tcg
@@ -12250,7 +12319,6 @@ tenanthealth
 tenantmanagement
 tenantmanagercontrolplane
 tenanttoolbox
-tennessee
 teradata
 termbin
 terminal
@@ -12417,6 +12485,7 @@ titan
 titanhq
 title
 tld
+tlm
 tls
 tls-rpt
 tls11
@@ -12427,6 +12496,7 @@ tlsrpt
 tmconsole.provider.nutanix.move
 tmurgent
 tmux
+tmw
 to-do
 toast
 toasts
@@ -12442,7 +12512,6 @@ toggl-api-ps
 toggle
 token
 tokencounter
-tokenization
 tokenlifetime
 tokens
 tokyo-night
@@ -12485,7 +12554,6 @@ tpm
 tr-064
 tr064
 trace
-traceanalyzer
 traceevent
 tracer
 traceroute
@@ -12509,6 +12577,7 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
 transfer
@@ -12685,12 +12754,12 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -12908,6 +12977,7 @@ vbaf
 vbaproject
 vbproj
 vbr
+vbs
 vbscript
 vbsinst
 vbtools
@@ -12985,6 +13055,7 @@ version-sort
 versioncontrol
 versioning
 versionmanager
+versionnumber
 versionpinning
 vertical
 vester
@@ -13008,12 +13079,12 @@ vigenere
 vim
 vimode
 vip
-virginia
 virole
 virsh
 virtual
 virtual-disk
 virtual-disks
+virtual-switch
 virtualappliance
 virtualbox
 virtualboxguestadditions
@@ -13044,6 +13115,7 @@ visualbuilder
 visualc
 visualeffects
 visualfields
+visualisation
 visualization
 visualstudio
 visualstudiocode
@@ -13088,7 +13160,6 @@ vnugglets
 vnugglets.com
 vocabularies
 voice
-voicemeeter
 voiceservices
 voidtools
 voip
@@ -13150,8 +13221,8 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtpm
 vtt
+vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -13346,6 +13417,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32-app
 win32app
 win32appmigrationtool
 win32shutdown
@@ -13372,7 +13444,6 @@ windows-registry
 windows-remoting
 windows-server
 windows-server-2016
-windows-subsystem-for-linux
 windows-switcher
 windows-terminal
 windows-update
@@ -13494,6 +13565,7 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woodpecker
 woolworths
 woolworthsrewards
 word
@@ -13608,8 +13680,6 @@ xaml
 xaml-gui
 xbase
 xbox
-xc1p
-xc1pstoolkit
 xclarity
 xconvert
 xdr
@@ -13650,6 +13720,7 @@ xpt
 xql
 xrm
 xsa
+xsalsa20
 xsiam
 xsl
 xslt
@@ -13665,7 +13736,6 @@ yahw
 yamaha
 yaml
 yamlscript
-yamlstar
 yandex
 yandexdisk
 yapg
@@ -13680,6 +13750,7 @@ ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 youtubemusic
 yq
@@ -13698,6 +13769,7 @@ zcat
 zendesk
 zep
 zero-knowledge
+zero-touch
 zerodayprotection
 zerofailed
 zerossl
@@ -13742,6 +13814,7 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+中文
 串口
 二次编码
 全角半角変換
@@ -13749,6 +13822,7 @@ zypper
 占用
 压缩
 句柄
+图像生成
 字幕
 寿司
 文件
