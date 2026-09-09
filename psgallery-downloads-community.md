@@ -1829,9 +1829,9 @@ PowerNSX is currently a work in progress and is not yet feature complete.
 
 __Downloads__: 2,122,071 | __Repository__: https://powernsx.github.io/
 
-## [WindowsReleaseInformation](https://www.powershellgallery.com/Packages/WindowsReleaseInformation/1.2.2) | 1.2.2
+## [WindowsReleaseInformation](https://www.powershellgallery.com/Packages/WindowsReleaseInformation/1.2.3) | 1.2.3
 
-### Published: 09/01/2026 01:38:03 by Jose Schenardie @schenardie
+### Published: 09/09/2026 10:25:47 by Jose Schenardie @schenardie
 
 Parse Windows release information from the Microsoft official release information page
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 08 September 2026 23:40:57 UTC*
+*Updated: Wednesday, 09 September 2026 13:56:35 UTC*
