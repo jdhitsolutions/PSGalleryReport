@@ -599,9 +599,9 @@ For more information on Traffic Manager, please visit the following: https://lea
 
 __Downloads__: 208,135,222 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Maintenance](https://www.powershellgallery.com/Packages/Az.Maintenance/1.6.0) | 1.6.0
+## [Az.Maintenance](https://www.powershellgallery.com/Packages/Az.Maintenance/1.7.0) | 1.7.0
 
-### Published: 06/02/2026 01:58:01 by Microsoft Corporation
+### Published: 09/11/2026 05:42:53 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Maintenance cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Thursday, 10 September 2026 23:25:45 UTC*
+*Updated: Friday, 11 September 2026 13:50:44 UTC*
