@@ -1138,9 +1138,9 @@ Automation tools for production quality database deployment
 
 __Downloads__: 7,793,786 | __Repository__: https://www.red-gate.com/products/sql-change-automation/support/
 
-## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/7.1) | 7.1
+## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/7.2) | 7.2
 
-### Published: 07/04/2026 12:32:32 by Michael Grafnetter
+### Published: 09/11/2026 22:30:46 by Michael Grafnetter
 
 The DSInternals PowerShell Module exposes several internal features of Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups, and password hash calculation.
 
@@ -1575,9 +1575,9 @@ Module for interacting with UEFI from PowerShell
 
 __Downloads__: 3,111,761 | __Repository__: https://github.com/mtniehaus/UEFIv2
 
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.9.6) | 7.9.6
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.10.0) | 7.10.0
 
-### Published: 07/27/2026 20:04:58 by Steven Villardi
+### Published: 09/11/2026 19:06:02 by Steven Villardi
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 11 September 2026 13:50:46 UTC*
+*Updated: Friday, 11 September 2026 23:33:24 UTC*
