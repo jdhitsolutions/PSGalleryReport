@@ -3,6 +3,112 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/1.0.7) | 1.0.7
+
+### Published: 09/14/2026 23:50:55 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
+
+__Downloads__: 57,385 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+
+## [ServerBridge.LicenseScan](https://www.powershellgallery.com/Packages/ServerBridge.LicenseScan/1.1.0) | 1.1.0
+
+### Published: 09/14/2026 23:48:15 by Lee Crowe Software Solutions LLC
+
+Free, read-only Microsoft 365 unused-license scan. Cross-checks every assigned license against real sign-in or usage activity and shows the seats you pay for that nobody uses, in dollars. Device-code sign-in, no app registration, nothing stored, never changes your tenant.
+
+__Downloads__: 0 | __Repository__: https://github.com/lbcrowe-del/ServerBridge-LicenseScan
+
+## [EntraTest2](https://www.powershellgallery.com/Packages/EntraTest2/0.0.40) | 0.0.40
+
+### Published: 09/14/2026 22:44:01 by shammu25
+
+Entra test by gmail
+
+__Downloads__: 0 | __Repository__: 
+
+## [EntraTest3](https://www.powershellgallery.com/Packages/EntraTest3/0.0.1) | 0.0.1
+
+### Published: 09/14/2026 22:22:38 by shammu25
+
+EntraTest3 -- specific for gmail
+
+__Downloads__: 0 | __Repository__: 
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.89.0) | 1.89.0
+
+### Published: 09/14/2026 21:56:52 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 158,478 | __Repository__: 
+
+## [PSStarr](https://www.powershellgallery.com/Packages/PSStarr/1.0.0) | 1.0.0
+
+### Published: 09/14/2026 20:59:38 by AngryCuban13
+
+PSStarr is a PowerShell client module for Radarr, Sonarr, and Prowlarr.
+
+__Downloads__: 0 | __Repository__: https://github.com/angrycuban13/PSStarr
+
+## [SignalGraph](https://www.powershellgallery.com/Packages/SignalGraph/1.0.5) | 1.0.5
+
+### Published: 09/14/2026 20:38:24 by Silicon Dream Artists
+
+Native PowerShell implementation of the Signal protocol format, used in SovereignTrust for verifiable, structured execution results.
+
+__Downloads__: 0 | __Repository__: https://github.com/SiliconDreamArtists/SignalGraph
+
+## [Avm.Authoring](https://www.powershellgallery.com/Packages/Avm.Authoring/0.13.0) | 0.13.0
+
+### Published: 09/14/2026 20:24:23 by Azure Verified Modules
+
+Cross-platform PowerShell 7 CLI that consolidates the authoring and CI tooling for Azure Verified Modules (https://aka.ms/avm). A single avm command (alias: avm) works across both ecosystems and ships: environment diagnostics (avm version, avm doctor); a checksum-pinned managed-tool resolver (avm tool list/which/install) that downloads and verifies the exact terraform, terraform-docs, tflint, conftest and mapotf binaries a module needs; and a fully wired Terraform authoring chain - avm pre-commit fixes and checks a module locally (convention checks, HCL transforms via mapotf, terraform fmt and terraform-docs) while avm pr-check adds tflint, APRL/AVMSEC policy checks and terraform validate. No Docker, make or porch required. The Bicep facade is in active development. Requires PowerShell 7.4+ (Core). See https://github.com/Azure/azure-verified-modules-tools for status and docs.
+
+__Downloads__: 42 | __Repository__: https://github.com/Azure/azure-verified-modules-tools
+
+## [PS2EXE.Core](https://www.powershellgallery.com/Packages/PS2EXE.Core/0.6.2) | 0.6.2
+
+### Published: 09/14/2026 20:22:03 by Fabien Tschanz
+
+Compiles Powershell scripts to executables. Overworking of the great script of Ingo Karstein with GUI support.
+'Invoke-PS2EXE script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
+Or use Win-PS2EXE as a graphical front end to the compiler.
+
+__Downloads__: 1,038 | __Repository__: https://github.com/FabienTschanz/PS2EXE.Core
+
+## [GraphShell](https://www.powershellgallery.com/Packages/GraphShell/0.1.1) | 0.1.1
+
+### Published: 09/14/2026 19:55:53 by Josimar Honorato
+
+Explore and map Microsoft Graph PowerShell cmdlets, REST endpoints, permissions, modules and API metadata directly from PowerShell. GraphShell does not replace the Microsoft Graph PowerShell SDK and does not call the Microsoft Graph API or your tenant; it explains and relates the Graph surface using the same catalog that powers the GraphShell Explorer web app (https://explorer.graphshell.cloud/).
+
+__Downloads__: 0 | __Repository__: https://github.com/josimarh/GraphShell-Explorer
+
+## [TestEnvironment](https://www.powershellgallery.com/Packages/TestEnvironment/1.3.0) | 1.3.0
+
+### Published: 09/14/2026 19:40:52 by Jeffrey Stuhr
+
+Seeds a realistic identity test environment in Entra ID, Active Directory, Okta, Authentik or FreeIPA - users in every lifecycle state, groups, devices and hosts, and the access policy over them - and tears it down again cleanly, proving ownership of every object before deleting it. One connect-seed-report-teardown surface for all five, no module dependencies, Windows PowerShell 5.1 and PowerShell 7.
+
+__Downloads__: 0 | __Repository__: https://github.com/fadwen/TestEnvironment
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.173.0) | 1.173.0
+
+### Published: 09/14/2026 19:21:19 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 30,500 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
+
+## [HerdingVicuna](https://www.powershellgallery.com/Packages/HerdingVicuna/0.0.0) | 0.0.0
+
+### Published: 09/14/2026 18:35:07 by Fabio Tavares Leitao
+
+Local LLM inference capability broker — routes model/backend per persona, subordinate to Maestro.
+
+__Downloads__: 0 | __Repository__: https://github.com/DataBoar/herding-vicuna
+
 ## [JRE-Modules](https://www.powershellgallery.com/Packages/JRE-Modules/1.1.2) | 1.1.2
 
 ### Published: 09/14/2026 15:36:26 by ZeienKyle
@@ -275,14 +381,6 @@ PSSailpoint.ServiceDeskIntegration - the PowerShell module for Identity Security
 
 __Downloads__: 9 | __Repository__: 
 
-## [PSSailpoint.Segments](https://www.powershellgallery.com/Packages/PSSailpoint.Segments/2.1.37) | 2.1.37
-
-### Published: 09/14/2026 08:27:21 by OpenAPI Generator Team
-
-PSSailpoint.Segments - the PowerShell module for Identity Security Cloud API - Segments
-
-__Downloads__: 9 | __Repository__: 
-
 ## [PSSailpoint.SearchAttributeConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.SearchAttributeConfiguration/2.1.37) | 2.1.37
 
 ### Published: 09/14/2026 08:27:17 by OpenAPI Generator Team
@@ -400,14 +498,6 @@ __Downloads__: 9 | __Repository__:
 ### Published: 09/14/2026 08:25:58 by OpenAPI Generator Team
 
 PSSailpoint.PersonalAccessTokens - the PowerShell module for Identity Security Cloud API - Personal Access Tokens
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordSyncGroups](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordSyncGroups/2.1.37) | 2.1.37
-
-### Published: 09/14/2026 08:25:54 by OpenAPI Generator Team
-
-PSSailpoint.PasswordSyncGroups - the PowerShell module for Identity Security Cloud API - Password Sync Groups
 
 __Downloads__: 9 | __Repository__: 
 
@@ -768,22 +858,6 @@ __Downloads__: 9 | __Repository__:
 ### Published: 09/14/2026 08:18:28 by OpenAPI Generator Team
 
 PSSailpoint.DataAccessSecurity - the PowerShell module for Identity Security Cloud API - Data Access Security
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CustomUserLevels](https://www.powershellgallery.com/Packages/PSSailpoint.CustomUserLevels/2.1.37) | 2.1.37
-
-### Published: 09/14/2026 08:18:18 by OpenAPI Generator Team
-
-PSSailpoint.CustomUserLevels - the PowerShell module for Identity Security Cloud API - Custom User Levels
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.CustomPasswordInstructions](https://www.powershellgallery.com/Packages/PSSailpoint.CustomPasswordInstructions/2.1.37) | 2.1.37
-
-### Published: 09/14/2026 08:18:06 by OpenAPI Generator Team
-
-PSSailpoint.CustomPasswordInstructions - the PowerShell module for Identity Security Cloud API - Custom Password Instructions
 
 __Downloads__: 9 | __Repository__: 
 
@@ -1191,14 +1265,6 @@ Unified interface for GitHub, GitLab, and other software forges
 
 __Downloads__: 84 | __Repository__: https://github.com/chris-peterson/pwsh-forge
 
-## [SignalGraph](https://www.powershellgallery.com/Packages/SignalGraph/1.0.4) | 1.0.4
-
-### Published: 09/13/2026 16:34:08 by Silicon Dream Artists
-
-Native PowerShell implementation of the Signal protocol format, used in SovereignTrust for verifiable, structured execution results.
-
-__Downloads__: 0 | __Repository__: https://github.com/SiliconDreamArtists/SignalGraph
-
 ## [XurrentHelpers](https://www.powershellgallery.com/Packages/XurrentHelpers/0.7.1) | 0.7.1
 
 ### Published: 09/13/2026 14:25:56 by Ing. Fabian Steiner BSc.
@@ -1374,14 +1440,6 @@ Theme your terminal from PowerShell: 16 bundled color schemes with an arrow-key 
 
 __Downloads__: 77 | __Repository__: https://github.com/fcreme/TerminalStyles
 
-## [TestEnvironment](https://www.powershellgallery.com/Packages/TestEnvironment/1.2.0) | 1.2.0
-
-### Published: 09/12/2026 19:44:48 by Jeffrey Stuhr
-
-Seeds a realistic identity test environment in Entra ID, Active Directory, Okta, Authentik or FreeIPA - users in every lifecycle state, groups, devices and hosts, and the access policy over them - and tears it down again cleanly, proving ownership of every object before deleting it. One connect-seed-report-teardown surface for all five, no module dependencies, Windows PowerShell 5.1 and PowerShell 7.
-
-__Downloads__: 0 | __Repository__: https://github.com/fadwen/TestEnvironment
-
 ## [GitHubActionVersioning](https://www.powershellgallery.com/Packages/GitHubActionVersioning/2.1.1) | 2.1.1
 
 ### Published: 09/12/2026 19:02:08 by Jesse Houwing
@@ -1397,14 +1455,6 @@ __Downloads__: 114 | __Repository__: https://github.com/jessehouwing/actions-sem
 ModuleAssembler is a PowerShell module that provides scaffolding, build, test, documentation, versioning, and publishing utilities for PowerShell module development. It is suited for both interactive development workflows and CI/CD pipelines.
 
 __Downloads__: 0 | __Repository__: https://github.com/ModuleAssembler/ModuleAssembler
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.172.3) | 1.172.3
-
-### Published: 09/12/2026 18:10:40 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 30,500 | __Repository__: https://chris-peterson.github.io/pwsh-gitlab/
 
 ## [PSWriteOffice](https://www.powershellgallery.com/Packages/PSWriteOffice/3.0.7) | 3.0.7
 
@@ -1668,14 +1718,6 @@ Windows-only developer utilities: installed applications, Windows Terminal, Wind
 
 __Downloads__: 0 | __Repository__: https://github.com/shmuelie/powershell-modules
 
-## [EntraTest2](https://www.powershellgallery.com/Packages/EntraTest2/0.0.38) | 0.0.38
-
-### Published: 09/11/2026 16:29:47 by shammu25
-
-Entra test by gmail
-
-__Downloads__: 0 | __Repository__: 
-
 ## [IntegrisDeploy](https://www.powershellgallery.com/Packages/IntegrisDeploy/1.0.17) | 1.0.17
 
 ### Published: 09/11/2026 15:59:28 by David McVicker
@@ -1933,6 +1975,14 @@ Your friendly neighborhood helper for all things BC, NAV and AL
 
 __Downloads__: 838 | __Repository__: https://eos-solutions.github.io/Gordon
 
+## [PSWinOps](https://www.powershellgallery.com/Packages/PSWinOps/1.2.1) | 1.2.1
+
+### Published: 09/10/2026 12:58:33 by Franck SALLET
+
+A collection of PowerShell utilities for Windows system administrators
+
+__Downloads__: 363 | __Repository__: https://github.com/k9fr4n/PSWinOps
+
 ## [IdentityAtlas](https://www.powershellgallery.com/Packages/IdentityAtlas/2.0.0) | 2.0.0
 
 ### Published: 09/10/2026 12:35:43 by Mark Oldham
@@ -2000,52 +2050,4 @@ This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.Installer AP
 
 __Downloads__: 227,206 | __Repository__: https://developer.broadcom.com/powercli
 
-## [VMware.Sdk.Vcf.Ops](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.Ops/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:24:21 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.Ops API.
-
-__Downloads__: 227,023 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:24:04 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
-
-__Downloads__: 6,278,505 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.Sdk.vSphere](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:23:47 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.vSphere API.
-
-__Downloads__: 9,052,083 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.Vcf.SddcManager](https://www.powershellgallery.com/Packages/VMware.Vcf.SddcManager/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:23:28 by Broadcom
-
-PowerCLI VCF SDDC manager module.
-
-__Downloads__: 234,870 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:23:11 by Broadcom
-
-PowerShell commands for automation of workloads related functionality in vSphere.
-
-__Downloads__: 15,896,606 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.5.1.25718932) | 13.5.1.25718932
-
-### Published: 09/10/2026 11:22:54 by Broadcom
-
-This PowerShell module contains PowerCLI Cloud cmdlets.
-
-__Downloads__: 18,446,450 | __Repository__: https://developer.broadcom.com/powercli
-
-*Updated: Monday, 14 September 2026 16:00:56 UTC*
+*Updated: Monday, 14 September 2026 23:59:49 UTC*
