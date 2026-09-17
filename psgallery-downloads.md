@@ -78,9 +78,9 @@ Alternative modules, AWSPowerShell.NetCore and AWSPowerShell, provide support fo
 
 __Downloads__: 297,198,173 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/10.2.0) | 10.2.0
+## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/10.2.1) | 10.2.1
 
-### Published: 08/31/2026 22:48:21 by Microsoft Corporation
+### Published: 09/17/2026 01:29:05 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure Resource Manager and Active Directory cmdlets in Windows PowerShell and PowerShell Core.  Manages subscriptions, tenants, resource groups, deployment templates, providers, and resource permissions in Azure Resource Manager.  Provides cmdlets for managing resources generically across resource providers.
 For more information on Resource Manager, please visit the following: https://learn.microsoft.com/azure/azure-resource-manager/
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Wednesday, 16 September 2026 23:52:48 UTC*
+*Updated: Thursday, 17 September 2026 14:28:57 UTC*
