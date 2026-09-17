@@ -1623,9 +1623,9 @@ Build and test automation in PowerShell
 
 __Downloads__: 2,999,721 | __Repository__: https://github.com/nightroman/Invoke-Build
 
-## [DSCParser](https://www.powershellgallery.com/Packages/DSCParser/3.1.0.4) | 3.1.0.4
+## [DSCParser](https://www.powershellgallery.com/Packages/DSCParser/3.1.0.5) | 3.1.0.5
 
-### Published: 09/02/2026 07:58:42 by Microsoft365DSC Team
+### Published: 09/17/2026 21:11:21 by Microsoft365DSC Team
 
 This module allows for the parsing of a DSC Configuration script into PSObject for analysis
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 17 September 2026 14:28:59 UTC*
+*Updated: Thursday, 17 September 2026 23:43:14 UTC*
