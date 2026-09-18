@@ -802,9 +802,9 @@ PowerShell Module for the Windows Package Manager Client.
 
 __Downloads__: 164,455,797 | __Repository__: https://github.com/microsoft/winget-cli
 
-## [Az.DataProtection](https://www.powershellgallery.com/Packages/Az.DataProtection/3.0.1) | 3.0.1
+## [Az.DataProtection](https://www.powershellgallery.com/Packages/Az.DataProtection/3.1.0) | 3.1.0
 
-### Published: 07/07/2026 03:28:54 by Microsoft Corporation
+### Published: 09/18/2026 05:10:30 by Microsoft Corporation
 
 Microsoft Azure PowerShell: DataProtection cmdlets
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Thursday, 17 September 2026 23:43:12 UTC*
+*Updated: Friday, 18 September 2026 13:53:39 UTC*
