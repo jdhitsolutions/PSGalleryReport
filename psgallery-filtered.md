@@ -3,6 +3,174 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [StringEncrypt](https://www.powershellgallery.com/Packages/StringEncrypt/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:47 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for StringEncrypt. Encrypt strings and generate language-specific decryptors via https://www.stringencrypt.com/api.php.
+
+__Downloads__: 0 | __Repository__: https://www.stringencrypt.com/
+
+## [AZTecDecoder](https://www.powershellgallery.com/Packages/AZTecDecoder/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:44 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for AZTecDecoder. Decode AZTEC 2D codes from Polish vehicle registration certificates.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/pl/produkty/dekoder-aztec
+
+## [RadioCodeCalculator](https://www.powershellgallery.com/Packages/RadioCodeCalculator/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:41 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for Radio Code Calculator. Generate car radio unlocking codes via the PELock remote API.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/products/radio-code-calculator
+
+## [JObfuscator](https://www.powershellgallery.com/Packages/JObfuscator/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:38 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for JObfuscator. Obfuscate and protect Java source code via the PELock remote API.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/products/jobfuscator
+
+## [TotalCommanderFtpPasswordRecovery](https://www.powershellgallery.com/Packages/TotalCommanderFtpPasswordRecovery/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:35 by Bartosz Wójcik
+
+Offline PowerShell decoder for Total Commander FTP passwords stored in wcx_ftp.ini.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/
+
+## [SteganographyOnlineCodec](https://www.powershellgallery.com/Packages/SteganographyOnlineCodec/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:32 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for Steganography Online Codec. Hide and extract AES-encrypted messages in images via the PELock remote API.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/products/steganography-online-codec
+
+## [AutoItObfuscator](https://www.powershellgallery.com/Packages/AutoItObfuscator/1.0.0) | 1.0.0
+
+### Published: 09/20/2026 23:25:29 by Bartosz Wójcik
+
+PowerShell Gallery Web API client for AutoIt Obfuscator. Obfuscate and protect AutoIt v3 .au3 source code via the PELock remote API.
+
+__Downloads__: 0 | __Repository__: https://www.pelock.com/products/autoit-obfuscator
+
+## [TerminalStyles](https://www.powershellgallery.com/Packages/TerminalStyles/0.8.40) | 0.8.40
+
+### Published: 09/20/2026 22:46:28 by Felipe Cremerius
+
+Theme your terminal from PowerShell: 16 bundled color schemes with an arrow-key picker that previews each theme live in your current tab (Enter keeps, Esc reverts). Switch color scheme, cursor, font, opacity, and background image in one command, and install curated coding fonts (JetBrains Mono, Fira Code, Cascadia Code and more) straight from their official sources. Works on Windows Terminal, macOS Terminal.app, iTerm2, and any terminal that supports OSC color sequences -- and can style zsh and bash as well as PowerShell. Runs on PowerShell 7 and Windows PowerShell 5.1, on Windows, macOS, and Linux.
+
+__Downloads__: 77 | __Repository__: https://github.com/fcreme/TerminalStyles
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.90.0) | 1.90.0
+
+### Published: 09/20/2026 20:14:20 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 158,478 | __Repository__: 
+
+## [MSCKite.Azure.Platform](https://www.powershellgallery.com/Packages/MSCKite.Azure.Platform/0.2.0) | 0.2.0
+
+### Published: 09/20/2026 20:00:42 by Martin Swinkels
+
+Lightweight automation for Azure platform engineering, developer enablement, and cloud operations.
+
+__Downloads__: 0 | __Repository__: https://github.com/msckite/az-platform-kite
+
+## [GPOZaurr](https://www.powershellgallery.com/Packages/GPOZaurr/1.1.11) | 1.1.11
+
+### Published: 09/20/2026 18:05:37 by Przemyslaw Klys
+
+Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
+
+__Downloads__: 421,558 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+
+## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/3.1.13) | 3.1.13
+
+### Published: 09/20/2026 17:53:03 by Przemyslaw Klys
+
+This module provides an easy way to cleanup Active Directory and cloud devices from dead/old objects based on various criteria. It can also disable, move, retire or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
+
+__Downloads__: 25,686 | __Repository__: https://github.com/EvotecIT/CleanupMonster
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/1.0.5) | 1.0.5
+
+### Published: 09/20/2026 17:38:00 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 627,126 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.92) | 0.0.92
+
+### Published: 09/20/2026 17:22:14 by Przemyslaw Klys
+
+Testimo is Powershell module that tests Active Directory against specific set of tests.
+
+__Downloads__: 133,941 | __Repository__: https://github.com/EvotecIT/Testimo
+
+## [NetScalerToolkit](https://www.powershellgallery.com/Packages/NetScalerToolkit/2026.914.1645) | 2026.914.1645
+
+### Published: 09/20/2026 17:12:31 by John Billekens
+
+NetScaler NITRO API toolkit module framework.
+
+__Downloads__: 44 | __Repository__: https://github.com/j81blog/NetScalerToolkit
+
+## [PSWriteColor](https://www.powershellgallery.com/Packages/PSWriteColor/1.0.4) | 1.0.4
+
+### Published: 09/20/2026 16:50:35 by Przemyslaw Klys
+
+Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output. It provides easy manipulation of colors, logging output to file (log) and nice formatting options out of the box.
+
+__Downloads__: 1,132,669 | __Repository__: https://github.com/EvotecIT/PSWriteColor
+
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/4.0.0) | 4.0.0
+
+### Published: 09/20/2026 16:30:37 by Przemyslaw Klys
+
+High-performance typed Windows Event Log queries, reports, exports, watchers, WEC, custom providers, diagnostics, and administration for PowerShell.
+
+__Downloads__: 1,046,177 | __Repository__: https://github.com/EvotecIT/EventViewerX
+
+## [ServerInfo](https://www.powershellgallery.com/Packages/ServerInfo/26.6.3) | 26.6.3
+
+### Published: 09/20/2026 16:10:59 by Srini Vemulapalli
+
+This module contains functions to manage server infrastructure.
+
+__Downloads__: 0 | __Repository__: https://github.com/myPowerShell/ServerInfo
+
+## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/1.1.1) | 1.1.1
+
+### Published: 09/20/2026 15:55:09 by Dan Damit
+
+A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp.
+
+__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.146) | 3.0.146
+
+### Published: 09/20/2026 15:45:31 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [PiHoleShell](https://www.powershellgallery.com/Packages/PiHoleShell/0.0.28) | 0.0.28
+
+### Published: 09/20/2026 14:02:42 by Mike Madeja
+
+A module to interact with the v6 version of PiHole API
+
+__Downloads__: 99 | __Repository__: https://github.com/mikemadeja/PiHoleShell
+
 ## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.6.3) | 0.6.3
 
 ### Published: 09/20/2026 13:29:20 by steve02081504
@@ -92,22 +260,6 @@ Custom visual formatting for PowerShell file system objects.
 
 __Downloads__: 0 | __Repository__: https://github.com/2CHEVSKII/gly
 
-## [TerminalStyles](https://www.powershellgallery.com/Packages/TerminalStyles/0.8.36) | 0.8.36
-
-### Published: 09/19/2026 22:26:54 by Felipe Cremerius
-
-Theme your terminal from PowerShell: 16 bundled color schemes with an arrow-key picker that previews each theme live in your current tab (Enter keeps, Esc reverts). Switch color scheme, cursor, font, opacity, and background image in one command, and install curated coding fonts (JetBrains Mono, Fira Code, Cascadia Code and more) straight from their official sources. Works on Windows Terminal, macOS Terminal.app, iTerm2, and any terminal that supports OSC color sequences -- and can style zsh and bash as well as PowerShell. Runs on PowerShell 7 and Windows PowerShell 5.1, on Windows, macOS, and Linux.
-
-__Downloads__: 77 | __Repository__: https://github.com/fcreme/TerminalStyles
-
-## [PiHoleShell](https://www.powershellgallery.com/Packages/PiHoleShell/0.0.27) | 0.0.27
-
-### Published: 09/19/2026 21:42:55 by Mike Madeja
-
-A module to interact with the v6 version of PiHole API
-
-__Downloads__: 99 | __Repository__: https://github.com/mikemadeja/PiHoleShell
-
 ## [PowerStub](https://www.powershellgallery.com/Packages/PowerStub/1.2.0) | 1.2.0
 
 ### Published: 09/19/2026 21:33:12 by DevPossible LLC
@@ -123,14 +275,6 @@ __Downloads__: 111 | __Repository__: https://github.com/DevPossible/power-stub
 Repository-independent PowerShell task and environment runner.
 
 __Downloads__: 0 | __Repository__: https://github.com/serrnovik/jax
-
-## [SubEtha](https://www.powershellgallery.com/Packages/SubEtha/0.4.1) | 0.4.1
-
-### Published: 09/19/2026 19:04:07 by Markus Newton
-
-Shared memory between processes, as PowerShell cmdlets and objects. Rings, queues, channels, locks, atomics, counters and shared collections that several processes on one machine read and write at the same time, each backed by a memory-mapped file that outlives the session that made it. A New- cmdlet makes one and an Open- cmdlet attaches to one another process has already made; the object either one returns carries the operations as methods, and Send-SubEthaItem and Receive-SubEthaItem move items through the pipeline. Bytes cross as byte[] pinned in place rather than copied, and a lock or a hold comes back as an object that releases on Release(), Dispose() or collection. Every cmdlet answers to a shorter name with the SE prefix. Bound directly to Rust with PoWerRuSt (pwrs), Rust bindings for writing PowerShell binary modules in the spirit of PyO3: the cmdlets are the library, not a wrapper over a command line. Windows x64 and Linux x64 in one module, on PowerShell 7 and Windows PowerShell 5.1. Source and issues at https://github.com/Variably-Constant/SubEtha; the binding framework at https://github.com/Variably-Constant/PWRS and https://crates.io/crates/PoWerRuSt.
-
-__Downloads__: 0 | __Repository__: https://github.com/Variably-Constant/SubEtha
 
 ## [PowerPlug](https://www.powershellgallery.com/Packages/PowerPlug/1.0.0) | 1.0.0
 
@@ -171,14 +315,6 @@ __Downloads__: 4,799 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 Plaster is a template-based file and project generator written in PowerShell. Create consistent PowerShell projects with customizable templates supporting both XML and JSON formats.
 
 __Downloads__: 1,085,073 | __Repository__: https://github.com/PowerShellOrg/Plaster
-
-## [ServerInfo](https://www.powershellgallery.com/Packages/ServerInfo/26.6.1) | 26.6.1
-
-### Published: 09/19/2026 12:18:06 by Srini Vemulapalli
-
-This module contain cmdlets to manage Server Infrastructure.
-
-__Downloads__: 0 | __Repository__: https://github.com/myPowerShell/ServerInfo
 
 ## [wtw](https://www.powershellgallery.com/Packages/wtw/0.2.37) | 0.2.37
 
@@ -240,14 +376,6 @@ Hard to upgrade from PS2EXE to ps12exe? No problem!
 This module can hooks PS2EXE calls into ps12exe, All you need is just uninstall PS2EXE and install this, then use PS2EXE as normal.
 
 __Downloads__: 1,427 | __Repository__: https://github.com/steve02081504/ps12exe
-
-## [TechToolbox](https://www.powershellgallery.com/Packages/TechToolbox/1.0.8) | 1.0.8
-
-### Published: 09/19/2026 00:09:02 by Dan Damit
-
-A technician-grade toolbox for automation, diagnostics, and enterprise workflows. Invoke-TechAgent now supports OpenAI API key usage for cloud-based inference, allowing operators to leverage the TechAgent workflows without local inference requirements. First time users should start with Get-TechToolboxConfig and Get-ToolboxHelp.
-
-__Downloads__: 173 | __Repository__: https://github.com/dan-damit/TechToolbox
 
 ## [Avm.Authoring](https://www.powershellgallery.com/Packages/Avm.Authoring/0.15.2) | 0.15.2
 
@@ -381,14 +509,6 @@ A module for handling Azure Table Storage operations by wrapping the Azure Data 
 
 __Downloads__: 93,772 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTables
 
-## [OpenPackageManifest](https://www.powershellgallery.com/Packages/OpenPackageManifest/1.0.0) | 1.0.0
-
-### Published: 09/18/2026 13:35:44 by Caphyon
-
-Open Package Manifest (OPM) is an open format for describing application deployment information alongside the application. This module provides PowerShell tools for creating, reading, modifying, and saving OPM manifests.
-
-__Downloads__: 0 | __Repository__: https://www.getpackit.com/
-
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.815.0) | 1.815.0
 
 ### Published: 09/18/2026 13:30:07 by Windmill Labs
@@ -417,63 +537,6 @@ Manage Entra ID and Azure RBAC building blocks across tenants: Entra ID groups, 
 
 __Downloads__: 0 | __Repository__: https://github.com/Omnicit/Omnicit.EntraRBAC
 
-## [SfMetadataToolkit](https://www.powershellgallery.com/Packages/SfMetadataToolkit/0.3.0) | 0.3.0
-
-### Published: 09/18/2026 09:39:40 by Uwe Braig
-
-A PowerShell-based toolkit for generating, analyzing, and automating Salesforce metadata from spreadsheet-style configuration sources.
-
-__Downloads__: 0 | __Repository__: https://codeberg.org/uwe-braig/sf-metadata-toolkit
-
-## [Get-AppInfo](https://www.powershellgallery.com/Packages/Get-AppInfo/1.1.0) | 1.1.0
-
-### Published: 09/18/2026 09:31:21 by Dave Thompson
-
-Used to hold functions used across InTune app packaging and deployment.
-
-__Downloads__: 0 | __Repository__: 
-
-## [AI图像生成](https://www.powershellgallery.com/Packages/AI图像生成/1.1.0) | 1.1.0
-
-### Published: 09/18/2026 08:47:43 by 埃博拉酱
-
-通过 OpenAI 兼容接口（GPT-Image-2）、Gemini generateContent 接口、Reve v2 接口、OpenRouter Image API（MAI）与商汤日日新图像接口（SenseNova U1 系列）生成 AI 图像。
-支持参考图编辑、DPAPI 凭据记忆、搜索增强。
-公开函数使用方法（首次使用任选其一提供凭据，之后自动记忆）：
-  -密钥           交互式输入密钥
-  -密钥值 'sk-…'  直接传入密钥明文
-  -基础地址 / -模型 / -输出路径 等通用参数
-
-New-GPT图像 —— gpt-image-2（OpenAI 兼容接口，自动补 /v1）
-  New-GPT图像 -提示词 "水彩柴犬" -基础地址 'https://open.cherryin.net/v1'
-  New-GPT图像 -提示词 "优化手脚结构细节，脚趾甲要粉白圆润可爱" -参考图 "D:\Image-generation-cli\reve_20260811_135446.png" -蒙版 "D:\Image-generation-cli\135446蒙版.png"
-  可选：-尺寸 2880x2880 -质量 high（2.5 系列还支持 xhigh/max）；参考图最多 16 张（≤50MB/张），蒙版仅作用于第一张且需透明通道。
-
-New-Gemini图像 —— Gemini generateContent（自动补 /v1beta）
-  New-Gemini图像 -提示词 "水彩柴犬" -密钥值 'sk-xxx' -模型 'gemini-3.1-flash-image-preview'
-  可选：-宽高比 1:1（10 种）-分辨率 4K-参考图。
-
-New-Reve图像 —— Reve 2.1（Atlas Cloud 协议，默认 https://api.atlascloud.ai）
-  New-Reve图像 -提示词 "水彩柴犬"
-  New-Reve图像 -提示词 "让人物穿上宇航服" -参考图 .\照片.jpg            （1 张 → edit）
-  New-Reve图像 -提示词 "雌小鬼虫惑魔（<frame>0</frame>）与魅惑蛇女（<frame>1</frame>）撕打大战一团，腹黑病毒娘埃博拉酱（<frame>2</frame>）坏笑看戏。注意手指、脚趾和肢体结构合理性" -参考图 "D:\OneDrive\图片\虫惑魔\合并虫惑魔.png","D:\Image-generation-cli\gemini_20260811_001744.png","D:\OneDrive\图片\自设\立绘.jpg"  （2~6 张 → remix）
-  可选：-宽高比 auto（18 种）-去背景。密钥失效（401）时会立即交互式提示输入新密钥并重试。
-
-New-MAI图像 —— 微软 MAI-Image-2.5（OpenRouter Image API，默认 https://openrouter.ai）
-  New-MAI图像 -提示词 "水彩柴犬" -密钥值 'sk-or-xxx'
-  New-MAI图像 -提示词 "改成吉卜力风格" -参考图 .\照片.png
-  可选：-宽高比 auto（8 种）-尺寸 1K -数量 2。参考图最多 1 张。
-
-New-SenseNova图像 —— 商汤日日新 U1 系列（默认官网 + SenseNova U1 Pro）
-  New-SenseNova图像 -提示词 "水彩柴犬" -密钥值 'xxx'
-  New-SenseNova图像 -提示词 "把背景改成雪山" -参考图 .\照片.png
-  可选：-尺寸 auto/2K/4K/WxH -水印 -保留提示词 -输出格式 png/jpg/webp。
-  注意：U1 Pro 处于邀测阶段，未开通时用 -模型 换已开放模型（如 sensenova-u1.5-lite）。
-
-所有函数的 -提示文件 参数可传入提示词文本文件代替 -提示词；-密钥 开关可随时交互式更换密钥。
-
-__Downloads__: 0 | __Repository__: https://github.com/Ebola-Chan-bot/Image-generation-cli
-
 ## [SignalGraph](https://www.powershellgallery.com/Packages/SignalGraph/1.0.6) | 1.0.6
 
 ### Published: 09/18/2026 07:28:36 by Silicon Dream Artists
@@ -498,14 +561,6 @@ ConfigMap is a PowerShell module that extends publishmap functionality to provid
 
 __Downloads__: 216 | __Repository__: https://github.com/qbikez/ps-publishmap/tree/master/src/configmap
 
-## [NSP.Bootstrap](https://www.powershellgallery.com/Packages/NSP.Bootstrap/0.1.1) | 0.1.1
-
-### Published: 09/18/2026 04:32:00 by Network Systems Plus
-
-Shared bootstrap layer for NSP PowerShell tooling: module install, secret storage, and small cross-version helpers. Windows PowerShell 5.1 compatible.
-
-__Downloads__: 0 | __Repository__: https://github.com/ITGuyFromIA2/NSP-Bootstrap
-
 ## [TerraformAST](https://www.powershellgallery.com/Packages/TerraformAST/2.0.0) | 2.0.0
 
 ### Published: 09/18/2026 04:27:26 by Jerry Balmer
@@ -521,14 +576,6 @@ __Downloads__: 42 | __Repository__: https://github.com/JerryBalmer1/TerraformAST
 For troubleshooting UT 99 servers.
 
 __Downloads__: 299 | __Repository__: https://github.com/RIKIKU/UT99-Tools
-
-## [psRadiantOne](https://www.powershellgallery.com/Packages/psRadiantOne/0.3.38) | 0.3.38
-
-### Published: 09/17/2026 23:51:18 by Pete Maan
-
-Enables user interaction with the API for the Radiant Logic RadiantOne platform
-
-__Downloads__: 0 | __Repository__: https://github.com/pspete/psRadiantOne/
 
 ## [Invoke-Storage](https://www.powershellgallery.com/Packages/Invoke-Storage/0.0.5) | 0.0.5
 
@@ -577,14 +624,6 @@ __Downloads__: 129 | __Repository__:
 A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
 
 __Downloads__: 3,626 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Diagram
-
-## [MyWebApi](https://www.powershellgallery.com/Packages/MyWebApi/0.2.1) | 0.2.1
-
-### Published: 09/17/2026 16:31:04 by CPlugin
-
-PowerShell client for the trading platform management WebAPI (v2): REST + real-time streaming.
-
-__Downloads__: 0 | __Repository__: https://github.com/CPlugin/mywebapi.com-sdk-powershell
 
 ## [chplib](https://www.powershellgallery.com/Packages/chplib/0.0.17) | 0.0.17
 
@@ -762,14 +801,6 @@ PSSailpoint.TaskManagement - the PowerShell module for Identity Security Cloud A
 
 __Downloads__: 8 | __Repository__: 
 
-## [PSSailpoint.Tags](https://www.powershellgallery.com/Packages/PSSailpoint.Tags/2.1.40) | 2.1.40
-
-### Published: 09/17/2026 08:46:26 by OpenAPI Generator Team
-
-PSSailpoint.Tags - the PowerShell module for Identity Security Cloud API - Tags
-
-__Downloads__: 8 | __Repository__: 
-
 ## [PSSailpoint.TaggedObjects](https://www.powershellgallery.com/Packages/PSSailpoint.TaggedObjects/2.1.40) | 2.1.40
 
 ### Published: 09/17/2026 08:46:08 by OpenAPI Generator Team
@@ -825,14 +856,6 @@ __Downloads__: 9 | __Repository__:
 PSSailpoint.SodPolicies - the PowerShell module for Identity Security Cloud API - SOD Policies
 
 __Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SodControls](https://www.powershellgallery.com/Packages/PSSailpoint.SodControls/2.1.40) | 2.1.40
-
-### Published: 09/17/2026 08:44:27 by OpenAPI Generator Team
-
-PSSailpoint.SodControls - the PowerShell module for Identity Security Cloud API - SOD Controls
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PSSailpoint.SimIntegrations](https://www.powershellgallery.com/Packages/PSSailpoint.SimIntegrations/2.1.40) | 2.1.40
 
@@ -1522,6 +1545,30 @@ PSSailpoint.ApiUsage - the PowerShell module for Identity Security Cloud API - A
 
 __Downloads__: 8 | __Repository__: 
 
+## [PSSailpoint.Accounts](https://www.powershellgallery.com/Packages/PSSailpoint.Accounts/2.1.40) | 2.1.40
+
+### Published: 09/17/2026 08:16:31 by OpenAPI Generator Team
+
+PSSailpoint.Accounts - the PowerShell module for Identity Security Cloud API - Accounts
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountUsages](https://www.powershellgallery.com/Packages/PSSailpoint.AccountUsages/2.1.40) | 2.1.40
+
+### Published: 09/17/2026 08:16:09 by OpenAPI Generator Team
+
+PSSailpoint.AccountUsages - the PowerShell module for Identity Security Cloud API - Account Usages
+
+__Downloads__: 8 | __Repository__: 
+
+## [PSSailpoint.AccountDeletionRequests](https://www.powershellgallery.com/Packages/PSSailpoint.AccountDeletionRequests/2.1.40) | 2.1.40
+
+### Published: 09/17/2026 08:15:39 by OpenAPI Generator Team
+
+PSSailpoint.AccountDeletionRequests - the PowerShell module for Identity Security Cloud API - Account Deletion Requests
+
+__Downloads__: 8 | __Repository__: 
+
 ## [PSSailpoint.AccountAggregations](https://www.powershellgallery.com/Packages/PSSailpoint.AccountAggregations/2.1.40) | 2.1.40
 
 ### Published: 09/17/2026 08:15:13 by OpenAPI Generator Team
@@ -1714,14 +1761,6 @@ Read-only Microsoft Intune evidence explorer. Quick start: Install-Module -Name 
 
 __Downloads__: 0 | __Repository__: https://github.com/ControlAltDeleteTechBits/intune-access
 
-## [ClaudeCodeTask](https://www.powershellgallery.com/Packages/ClaudeCodeTask/0.4.0) | 0.4.0
-
-### Published: 09/16/2026 04:54:51 by 长空X
-
-Claude Code Task Selector —— Claude Code 任务文件夹选择器：一条命令列出所有 Claude Code 任务文件夹与历史会话。全屏卡片网格选择器，支持键盘导航与实时搜索，选中后自动 cd 进入任务目录并启动 claude。会话按目录自动聚合，手动命名优先、AI 标题保底，支持精确恢复中途切换到子目录的会话。内置增量缓存与并行扫描，热启动提速约 65-73%；cct clear 可一键清理扫描缓存或多余会话。预编译 C# 内核承担性能关键路径，PowerShell TUI 外壳。 | Claude Code Task Selector: one command lists all Claude Code task folders and session history. A full-screen card-grid picker with keyboard navigation and real-time search; selecting one cds into the task folder and launches claude. Sessions are auto-grouped by folder (manually named items win, AI titles as fallback), with precise resume for sessions that moved into subdirectories. Incremental cache plus parallel scanning make warm starts about 65-73% faster; cct clear cleans the scan cache or surplus sessions in one command. A pre-compiled C# kernel handles performance-critical paths under a PowerShell TUI shell.
-
-__Downloads__: 0 | __Repository__: https://github.com/hjkl950217/ClaudeCodeTask
-
 ## [AD-HealthCheck-Toolkit](https://www.powershellgallery.com/Packages/AD-HealthCheck-Toolkit/1.2.0) | 1.2.0
 
 ### Published: 09/16/2026 03:08:20 by Sandeep Kumar Reddy Lingampalli
@@ -1777,22 +1816,6 @@ __Downloads__: 0 | __Repository__:
 Hephaestus Deployment Toolkit - a PowerShell replacement for MDT.
 
 __Downloads__: 0 | __Repository__: https://github.com/itamartz/HDT
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.144) | 3.0.144
-
-### Published: 09/15/2026 19:47:23 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
-## [KeenPlatypus](https://www.powershellgallery.com/Packages/KeenPlatypus/0.0.0) | 0.0.0
-
-### Published: 09/15/2026 17:52:50 by Fabio Tavares Leitao
-
-Keen Platypus (KP) — bestial security-audit CLI/TUI companion.
-
-__Downloads__: 0 | __Repository__: https://github.com/FabioLeitao/data-boar
 
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/4.33) | 4.33
 
@@ -2003,60 +2026,4 @@ This modules provides Cmdlets for OCI Sch Service
 
 __Downloads__: 14,695 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:59:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Rover Service
-
-__Downloads__: 14,378 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcesearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcesearch/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:59:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcesearch Service
-
-__Downloads__: 15,545 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcescheduler](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcescheduler/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:59:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcescheduler Service
-
-__Downloads__: 7,198 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:59:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcemanager Service
-
-__Downloads__: 14,749 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourceanalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourceanalytics/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:58:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourceanalytics Service
-
-__Downloads__: 2,012 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Redis](https://www.powershellgallery.com/Packages/OCI.PSModules.Redis/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:58:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Redis Service
-
-__Downloads__: 9,602 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Recovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Recovery/142.0.0) | 142.0.0
-
-### Published: 09/15/2026 16:58:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Recovery Service
-
-__Downloads__: 11,099 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 20 September 2026 13:43:49 UTC*
+*Updated: Sunday, 20 September 2026 23:33:17 UTC*
