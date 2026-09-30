@@ -1204,9 +1204,9 @@ Provides prompt with Git status summary information and tab completion for Git c
 
 __Downloads__: 6,727,799 | __Repository__: https://github.com/dahlbyk/posh-git
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/3.3.0) | 3.3.0
+## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/3.4.0) | 3.4.0
 
-### Published: 07/15/2026 19:28:06 by JumpCloud Solutions Architect Team
+### Published: 09/29/2026 13:41:07 by JumpCloud Solutions Architect Team
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 29 September 2026 16:08:15 UTC*
+*Updated: Wednesday, 30 September 2026 00:47:17 UTC*
