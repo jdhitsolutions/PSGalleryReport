@@ -1853,9 +1853,9 @@ Sample functions to add/retrieve/update entities on Azure Storage Tables from Po
 
 __Downloads__: 2,089,203 | __Repository__: 
 
-## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.5.0) | 0.5.0
+## [PSDepend](https://www.powershellgallery.com/Packages/PSDepend/0.6.0) | 0.6.0
 
-### Published: 08/17/2026 04:50:47 by Warren Frame
+### Published: 09/30/2026 20:50:06 by Warren Frame
 
 PowerShell Dependency Handler
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Wednesday, 30 September 2026 16:06:32 UTC*
+*Updated: Thursday, 01 October 2026 00:51:54 UTC*
