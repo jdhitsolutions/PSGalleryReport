@@ -762,9 +762,9 @@ For more information on Azure Synapse Analytics, please visit the following: htt
 
 __Downloads__: 174,663,299 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.ManagedServiceIdentity](https://www.powershellgallery.com/Packages/Az.ManagedServiceIdentity/2.0.0) | 2.0.0
+## [Az.ManagedServiceIdentity](https://www.powershellgallery.com/Packages/Az.ManagedServiceIdentity/2.1.0) | 2.1.0
 
-### Published: 05/19/2025 04:59:33 by Microsoft Corporation
+### Published: 10/06/2026 01:51:15 by Microsoft Corporation
 
 Microsoft Azure PowerShell: ManagedServiceIdentity cmdlets
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Monday, 05 October 2026 18:51:01 UTC*
+*Updated: Tuesday, 06 October 2026 01:56:08 UTC*
