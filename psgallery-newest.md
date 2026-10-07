@@ -3,13 +3,205 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Discover-WindowsServer](https://www.powershellgallery.com/Packages/Discover-WindowsServer/1.0.0) | 1.0.0
+## [AWS.Tools.ComputeOptimizerAutomation](https://www.powershellgallery.com/Packages/AWS.Tools.ComputeOptimizerAutomation/5.0.313) | 5.0.313
 
-### Published: 10/06/2026 15:50:38 by Brandon Cook
+### Published: 10/06/2026 23:47:43 by Amazon.com Inc
+
+The ComputeOptimizerAutomation module of AWS Tools for PowerShell lets developers and administrators manage Compute Optimizer Automation Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 3,740 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.ApplicationAutoScaling](https://www.powershellgallery.com/Packages/AWS.Tools.ApplicationAutoScaling/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:45:54 by Amazon.com Inc
+
+The ApplicationAutoScaling module of AWS Tools for PowerShell lets developers and administrators manage Application Auto Scaling from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 46,418 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.WAFV2](https://www.powershellgallery.com/Packages/AWS.Tools.WAFV2/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:45:14 by Amazon.com Inc
+
+The WAFV2 module of AWS Tools for PowerShell lets developers and administrators manage AWS WAF V2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 76,703 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.IoTJobsDataPlane](https://www.powershellgallery.com/Packages/AWS.Tools.IoTJobsDataPlane/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:44:51 by Amazon.com Inc
+
+The IoTJobsDataPlane module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Jobs Data Plane from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 60,018 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.ApplicationDiscoveryService](https://www.powershellgallery.com/Packages/AWS.Tools.ApplicationDiscoveryService/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:44:39 by Amazon.com Inc
+
+The ApplicationDiscoveryService module of AWS Tools for PowerShell lets developers and administrators manage AWS Application Discovery Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 43,499 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.ConfigService](https://www.powershellgallery.com/Packages/AWS.Tools.ConfigService/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:44:10 by Amazon.com Inc
+
+The ConfigService module of AWS Tools for PowerShell lets developers and administrators manage AWS Config from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 55,332 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/5.0.313) | 5.0.313
+
+### Published: 10/06/2026 23:42:40 by Amazon.com Inc
+
+The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required.
+Alternative modules, AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 297,198,173 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [gcpstools](https://www.powershellgallery.com/Packages/gcpstools/0.2.7) | 0.2.7
+
+### Published: 10/06/2026 21:54:42 by Glenn Carr
+
+Glenn's custom PowerShell tools
+
+__Downloads__: 0 | __Repository__: https://github.com/glenncarr/gcpstools
+
+## [Eigenverft.Manifested.Package](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Package/1.20265.48852) | 1.20265.48852
+
+### Published: 10/06/2026 21:54:42 by Eigenverft
+
+Windows-focused PowerShell package-assignment engine for signed catalogs, verified multi-file artifacts, shared depots, and offline developer-machine bootstrap.
+
+__Downloads__: 318 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Package
+
+## [ADCSGoat](https://www.powershellgallery.com/Packages/ADCSGoat/2026.10.62153) | 2026.10.62153
+
+### Published: 10/06/2026 21:53:57 by Jake Hildreth
+
+A tiny module built for a single purpose: building a small and very insecure AD CS lab.
+
+__Downloads__: 26 | __Repository__: https://github.com/jakehildreth/ADCSGoat
+
+## [businessdev.ALbuild](https://www.powershellgallery.com/Packages/businessdev.ALbuild/2.60.28488) | 2.60.28488
+
+### Published: 10/06/2026 21:39:22 by 365 business development GmbH
+
+ALbuild: a self-contained toolchain for Microsoft Dynamics 365 Business Central AL development. A single module composed of use-case nested modules (Core, Containers, Apps, Feeds, RuntimePackages, Marketplace, OnPrem, Environments).
+
+__Downloads__: 118 | __Repository__: https://github.com/365businessdev/ALbuild
+
+## [NameGender](https://www.powershellgallery.com/Packages/NameGender/0.3.0) | 0.3.0
+
+### Published: 10/06/2026 21:24:12 by NameGender
+
+PowerShell client for the NameGender API: gender from names, email addresses and usernames, with the probability and sample size behind each answer, salutations for letters and emails, and a check of whether a name typed into a form looks like a real person's name.
+
+__Downloads__: 0 | __Repository__: https://github.com/anpekesen/namegender-powershell
+
+## [Mc2it.Agicap](https://www.powershellgallery.com/Packages/Mc2it.Agicap/0.10.0) | 0.10.0
+
+### Published: 10/06/2026 20:55:00 by MC2IT <dev@mc2it.com>
+
+An Agicap API client library for PowerShell.
+
+__Downloads__: 0 | __Repository__: https://github.com/MC2IT/Agicap.ps1
+
+## [PSSqlRepository](https://www.powershellgallery.com/Packages/PSSqlRepository/0.8.0) | 0.8.0
+
+### Published: 10/06/2026 20:12:08 by Ondrej Kracmar
+
+PSSqlRepository: PowerShell + EF Core repository module with pluggable SQL providers and authentication strategies.
+
+__Downloads__: 0 | __Repository__: https://github.com/ondrejkracmar/PSSqlRepository
+
+## [PSDataRepository](https://www.powershellgallery.com/Packages/PSDataRepository/0.8.0) | 0.8.0
+
+### Published: 10/06/2026 20:10:35 by Ondrej Kracmar
+
+A PowerShell module for working with data repositories (FileSystem, AzureBlob, AzureQueue, AzureKeyVault, etc.) in a session-based approach.
+
+__Downloads__: 105 | __Repository__: https://github.com/ondrejkracmar/PSDataRepository
+
+## [PSADTIntune](https://www.powershellgallery.com/Packages/PSADTIntune/0.8.0) | 0.8.0
+
+### Published: 10/06/2026 19:00:34 by Darius Lakačauskis
+
+Packages PSAppDeployToolkit (PSADT) v4 applications as .intunewin and uploads, updates or supersedes them as Win32 apps in Microsoft Intune.
+
+__Downloads__: 0 | __Repository__: https://github.com/Dzhay/psadt-package-to-intune
+
+## [Intersight.appliance](https://www.powershellgallery.com/Packages/Intersight.appliance/1.1.8.0) | 1.1.8.0
+
+### Published: 10/06/2026 18:48:02 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 0 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.4.1) | 1.4.1
+
+### Published: 10/06/2026 18:33:54 by Marius Solbakken Mellum
+
+A module for completing password reset requests from the CheckID service into Active Directory
+
+__Downloads__: 595 | __Repository__: 
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.158) | 3.0.158
+
+### Published: 10/06/2026 18:27:43 by Przemyslaw Klys
+
+Build, test, version, sign, and publish PowerShell modules with reusable PowerForge pipelines.
+
+__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [EntraTest2](https://www.powershellgallery.com/Packages/EntraTest2/0.0.41) | 0.0.41
+
+### Published: 10/06/2026 18:21:02 by shammu25
+
+Entra test by gmail
+
+__Downloads__: 0 | __Repository__: 
+
+## [Discover-WindowsServer](https://www.powershellgallery.com/Packages/Discover-WindowsServer/1.0.1) | 1.0.1
+
+### Published: 10/06/2026 17:27:50 by Brandon Cook
 
 Orchestration engine for the Ultimate Modular Windows Server Discovery Toolkit. The interactive entry point is Discover-WindowsServer.ps1; this module exposes the engine functions it drives.
 
 __Downloads__: 0 | __Repository__: https://github.com/ghostinator/Discover-WindowsServer
+
+## [IntuneScriptLab](https://www.powershellgallery.com/Packages/IntuneScriptLab/0.28.0) | 0.28.0
+
+### Published: 10/06/2026 16:47:45 by Jeffrey Stuhr
+
+Test Intune scripts before Intune does: static rules, a runtime harness, Pester assertions, a Graph
+pre-flight over the tenant's deployed scripts and readers for the agent's logs
+
+__Downloads__: 0 | __Repository__: https://github.com/fadwen/IntuneScriptLab
+
+## [XKCD](https://www.powershellgallery.com/Packages/XKCD/1.11.0) | 1.11.0
+
+### Published: 10/06/2026 16:38:05 by Mark Wragg
+
+Commands related to the webcomic XKCD: https://xkcd.com
+
+__Downloads__: 1,754 | __Repository__: https://github.com/markwragg/Powershell-XKCD
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/144.1.0) | 144.1.0
 
@@ -19,22 +211,6 @@ Oracle Cloud Infrastructure (OCI) PowerShell Modules - Cmdlets to manage resourc
 For more information, please visit: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/powershell.htm
 
 __Downloads__: 12,201 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [ADCSGoat](https://www.powershellgallery.com/Packages/ADCSGoat/2026.10.61514) | 2026.10.61514
-
-### Published: 10/06/2026 15:14:24 by Jake Hildreth
-
-A tiny module built for a single purpose: building a small and very insecure AD CS lab.
-
-__Downloads__: 26 | __Repository__: https://github.com/jakehildreth/ADCSGoat
-
-## [NameGender](https://www.powershellgallery.com/Packages/NameGender/0.1.0) | 0.1.0
-
-### Published: 10/06/2026 15:06:29 by NameGender
-
-PowerShell client for the NameGender API: gender from names, email addresses and usernames, with the probability and sample size behind each answer.
-
-__Downloads__: 0 | __Repository__: https://github.com/anpekesen/namegender-powershell
 
 ## [OCI.PSModules.Zpr](https://www.powershellgallery.com/Packages/OCI.PSModules.Zpr/144.1.0) | 144.1.0
 
@@ -1188,14 +1364,6 @@ This modules provides Cmdlets for OCI Cloudguard Service
 
 __Downloads__: 14,954 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [SnmpTools](https://www.powershellgallery.com/Packages/SnmpTools/0.4.0) | 0.4.0
-
-### Published: 10/06/2026 14:37:02 by Matthijs Zwaan
-
-PowerShell module for querying and modifying SNMP-enabled devices using SNMP v1, v2c and v3. Compatible with Windows PowerShell 5.1 and PowerShell 7.
-
-__Downloads__: 0 | __Repository__: https://github.com/matthijslz/SnmpTools
-
 ## [OCI.PSModules.Cloudbridge](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudbridge/144.1.0) | 144.1.0
 
 ### Published: 10/06/2026 14:37:02 by Oracle Cloud Infrastructure
@@ -1203,6 +1371,14 @@ __Downloads__: 0 | __Repository__: https://github.com/matthijslz/SnmpTools
 This modules provides Cmdlets for OCI Cloudbridge Service
 
 __Downloads__: 12,005 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [SnmpTools](https://www.powershellgallery.com/Packages/SnmpTools/0.4.0) | 0.4.0
+
+### Published: 10/06/2026 14:37:02 by Matthijs Zwaan
+
+PowerShell module for querying and modifying SNMP-enabled devices using SNMP v1, v2c and v3. Compatible with Windows PowerShell 5.1 and PowerShell 7.
+
+__Downloads__: 0 | __Repository__: https://github.com/matthijslz/SnmpTools
 
 ## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/144.1.0) | 144.1.0
 
@@ -1484,14 +1660,6 @@ WinGet-compatible Pinget module for Windows PowerShell and PowerShell 7.
 
 __Downloads__: 228 | __Repository__: https://github.com/Devolutions/pinget
 
-## [XKCD](https://www.powershellgallery.com/Packages/XKCD/1.10.7) | 1.10.7
-
-### Published: 10/06/2026 12:26:06 by Mark Wragg
-
-Commands related to the webcomic XKCD: https://xkcd.com
-
-__Downloads__: 1,754 | __Repository__: https://github.com/markwragg/Powershell-XKCD
-
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/7.6.1) | 7.6.1
 
 ### Published: 10/06/2026 12:10:24 by abgox
@@ -1543,14 +1711,6 @@ __Downloads__: 0 | __Repository__: https://github.com/Devolutions/ahtola
 This module allows to synchronize users to/from Office 365. You can synchronize users information to personal contacts or synchronize tenants between each other.
 
 __Downloads__: 3,100 | __Repository__: https://github.com/EvotecIT/O365Synchronizer
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/3.0.157) | 3.0.157
-
-### Published: 10/06/2026 10:32:48 by Przemyslaw Klys
-
-Build, test, version, sign, and publish PowerShell modules with reusable PowerForge pipelines.
-
-__Downloads__: 17,213 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [PSWriteColor](https://www.powershellgallery.com/Packages/PSWriteColor/1.0.7) | 1.0.7
 
@@ -1744,35 +1904,11 @@ PSSailpoint.UiMetadata - the PowerShell module for Identity Security Cloud API -
 
 __Downloads__: 9 | __Repository__: 
 
-## [PSSailpoint.Triggers](https://www.powershellgallery.com/Packages/PSSailpoint.Triggers/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:27:56 by OpenAPI Generator Team
-
-PSSailpoint.Triggers - the PowerShell module for Identity Security Cloud API - Triggers
-
-__Downloads__: 9 | __Repository__: 
-
 ## [PSSailpoint.Transforms](https://www.powershellgallery.com/Packages/PSSailpoint.Transforms/2.1.53) | 2.1.53
 
 ### Published: 10/06/2026 08:27:51 by OpenAPI Generator Team
 
 PSSailpoint.Transforms - the PowerShell module for Identity Security Cloud API - Transforms
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.TenantContext](https://www.powershellgallery.com/Packages/PSSailpoint.TenantContext/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:27:46 by OpenAPI Generator Team
-
-PSSailpoint.TenantContext - the PowerShell module for Identity Security Cloud API - Tenant Context
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Tenant](https://www.powershellgallery.com/Packages/PSSailpoint.Tenant/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:27:41 by OpenAPI Generator Team
-
-PSSailpoint.Tenant - the PowerShell module for Identity Security Cloud API - Tenant
 
 __Downloads__: 9 | __Repository__: 
 
@@ -1816,14 +1952,6 @@ PSSailpoint.SpConfig - the PowerShell module for Identity Security Cloud API - S
 
 __Downloads__: 8 | __Repository__: 
 
-## [PSSailpoint.Sources](https://www.powershellgallery.com/Packages/PSSailpoint.Sources/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:27:11 by OpenAPI Generator Team
-
-PSSailpoint.Sources - the PowerShell module for Identity Security Cloud API - Sources
-
-__Downloads__: 9 | __Repository__: 
-
 ## [PSSailpoint.SourceUsages](https://www.powershellgallery.com/Packages/PSSailpoint.SourceUsages/2.1.53) | 2.1.53
 
 ### Published: 10/06/2026 08:27:06 by OpenAPI Generator Team
@@ -1837,14 +1965,6 @@ __Downloads__: 8 | __Repository__:
 ### Published: 10/06/2026 08:27:00 by OpenAPI Generator Team
 
 PSSailpoint.SodViolations - the PowerShell module for Identity Security Cloud API - SOD Violations
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.SodPolicies](https://www.powershellgallery.com/Packages/PSSailpoint.SodPolicies/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:26:56 by OpenAPI Generator Team
-
-PSSailpoint.SodPolicies - the PowerShell module for Identity Security Cloud API - SOD Policies
 
 __Downloads__: 9 | __Repository__: 
 
@@ -1904,108 +2024,4 @@ PSSailpoint.Search - the PowerShell module for Identity Security Cloud API - Sea
 
 __Downloads__: 9 | __Repository__: 
 
-## [PSSailpoint.ScheduledSearch](https://www.powershellgallery.com/Packages/PSSailpoint.ScheduledSearch/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:26:15 by OpenAPI Generator Team
-
-PSSailpoint.ScheduledSearch - the PowerShell module for Identity Security Cloud API - Scheduled Search
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.Roles](https://www.powershellgallery.com/Packages/PSSailpoint.Roles/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:26:05 by OpenAPI Generator Team
-
-PSSailpoint.Roles - the PowerShell module for Identity Security Cloud API - Roles
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.RolePropagation](https://www.powershellgallery.com/Packages/PSSailpoint.RolePropagation/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:26:01 by OpenAPI Generator Team
-
-PSSailpoint.RolePropagation - the PowerShell module for Identity Security Cloud API - Role Propagation
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.RoleInsights](https://www.powershellgallery.com/Packages/PSSailpoint.RoleInsights/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:56 by OpenAPI Generator Team
-
-PSSailpoint.RoleInsights - the PowerShell module for Identity Security Cloud API - Role Insights
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.RequestableObjects](https://www.powershellgallery.com/Packages/PSSailpoint.RequestableObjects/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:50 by OpenAPI Generator Team
-
-PSSailpoint.RequestableObjects - the PowerShell module for Identity Security Cloud API - Requestable Objects
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.ReportsDataExtraction](https://www.powershellgallery.com/Packages/PSSailpoint.ReportsDataExtraction/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:45 by OpenAPI Generator Team
-
-PSSailpoint.ReportsDataExtraction - the PowerShell module for Identity Security Cloud API - Reports Data Extraction
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PublicMachineIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicMachineIdentities/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:39 by OpenAPI Generator Team
-
-PSSailpoint.PublicMachineIdentities - the PowerShell module for Identity Security Cloud API - Public Machine Identities
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSSailpoint.PublicIdentitiesConfig](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentitiesConfig/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:35 by OpenAPI Generator Team
-
-PSSailpoint.PublicIdentitiesConfig - the PowerShell module for Identity Security Cloud API - Public Identities Config
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PublicIdentities](https://www.powershellgallery.com/Packages/PSSailpoint.PublicIdentities/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:30 by OpenAPI Generator Team
-
-PSSailpoint.PublicIdentities - the PowerShell module for Identity Security Cloud API - Public Identities
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PrivilegeCriteriaConfiguration](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteriaConfiguration/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:25 by OpenAPI Generator Team
-
-PSSailpoint.PrivilegeCriteriaConfiguration - the PowerShell module for Identity Security Cloud API - Privilege Criteria Configuration
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PrivilegeCriteria](https://www.powershellgallery.com/Packages/PSSailpoint.PrivilegeCriteria/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:20 by OpenAPI Generator Team
-
-PSSailpoint.PrivilegeCriteria - the PowerShell module for Identity Security Cloud API - Privilege Criteria
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PersonalAccessTokens](https://www.powershellgallery.com/Packages/PSSailpoint.PersonalAccessTokens/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:25:04 by OpenAPI Generator Team
-
-PSSailpoint.PersonalAccessTokens - the PowerShell module for Identity Security Cloud API - Personal Access Tokens
-
-__Downloads__: 9 | __Repository__: 
-
-## [PSSailpoint.PasswordSyncGroups](https://www.powershellgallery.com/Packages/PSSailpoint.PasswordSyncGroups/2.1.53) | 2.1.53
-
-### Published: 10/06/2026 08:24:59 by OpenAPI Generator Team
-
-PSSailpoint.PasswordSyncGroups - the PowerShell module for Identity Security Cloud API - Password Sync Groups
-
-__Downloads__: 9 | __Repository__: 
-
-*Updated: Tuesday, 06 October 2026 16:17:44 UTC*
+*Updated: Wednesday, 07 October 2026 01:02:05 UTC*
