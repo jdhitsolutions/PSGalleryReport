@@ -1130,9 +1130,9 @@ Windows PowerShell Module for managing file and folder security on NTFS volumes
 
 __Downloads__: 7,796,945 | __Repository__: https://github.com/raandree/NTFSSecurity
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26229.9143) | 5.1.26229.9143
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.1.26279.9571) | 5.1.26279.9571
 
-### Published: 08/17/2026 07:02:09 by Red Gate Software Ltd.
+### Published: 10/07/2026 07:18:44 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -2142,4 +2142,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Wednesday, 07 October 2026 01:02:13 UTC*
+*Updated: Thursday, 08 October 2026 01:21:24 UTC*
