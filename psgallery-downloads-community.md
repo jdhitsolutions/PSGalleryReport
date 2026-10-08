@@ -1148,11 +1148,14 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 7,667,728 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.8.1.1) | 26.8.1.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.10.6.1) | 26.10.6.1
 
-### Published: 08/01/2026 08:09:26 by David Segura
+### Published: 10/08/2026 13:05:44 by David Segura
 
-Root module for OSD.
+Recast OSD PowerShell Module.
+PowerShell module for OSD and OSDCloud v1 deployment automation from recastsoftware.com.
+Includes operating system, driver pack, and device provisioning workflows.
+Windows 11 26H2 GA Release
 
 __Downloads__: 7,586,305 | __Repository__: https://github.com/OSDeploy/OSD
 
@@ -2142,4 +2145,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 08 October 2026 01:21:24 UTC*
+*Updated: Thursday, 08 October 2026 16:58:39 UTC*
