@@ -1306,14 +1306,13 @@ YAML PowerShell module
 
 __Downloads__: 5,601,955 | __Repository__: https://github.com/bitrut94/psyml
 
-## [PSWSMan](https://www.powershellgallery.com/Packages/PSWSMan/2.3.1) | 2.3.1
+## [PSWSMan](https://www.powershellgallery.com/Packages/PSWSMan/3.0.0) | 3.0.0
 
-### Published: 11/27/2022 20:25:29 by Jordan Borean
+### Published: 10/13/2026 00:30:54 by Jordan Borean
 
-Module to install and manage the forked WSMan client libraries for Linux and macOS.
-See https://github.com/jborean93/omi for more details.
+Cross platform module that implements the WSMan connection plugin for remoting.`nSee https://github.com/jborean93/PSWSMan for more info
 
-__Downloads__: 5,548,143 | __Repository__: https://github.com/jborean93/omi
+__Downloads__: 5,548,143 | __Repository__: https://github.com/jborean93/PSWSMan
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2026.9.14) | 2026.9.14
 
@@ -2145,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Monday, 12 October 2026 19:21:45 UTC*
+*Updated: Tuesday, 13 October 2026 02:44:17 UTC*
