@@ -488,9 +488,9 @@ Query SQLite databases
 
 __Downloads__: 15,495,497 | __Repository__: https://github.com/RamblingCookieMonster/PSSQLite
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2610.2856.0) | 2610.2856.0
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2610.2859.0) | 2610.2859.0
 
-### Published: 10/18/2026 23:22:36 by Aaron Parker
+### Published: 10/23/2026 03:55:05 by Aaron Parker
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
@@ -512,9 +512,9 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 14,428,142 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.1) | 2.0.1
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.2) | 2.0.2
 
-### Published: 08/31/2026 21:20:44 by Przemyslaw Klys
+### Published: 10/23/2026 13:04:28 by Przemyslaw Klys
 
 Transferetto provides reusable .NET and PowerShell data transfer across filesystems, FTP, FTPS, SFTP, SCP, FXP, Amazon S3 and S3-compatible storage, Azure Blob Storage, and SSH operations.
 
@@ -600,9 +600,9 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 10,896,299 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.14.457) | 1.14.457
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.15.472) | 1.15.472
 
-### Published: 07/02/2026 09:12:15 by Friedrich Weinmann
+### Published: 10/23/2026 12:18:41 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 23 October 2026 00:11:54 UTC*
+*Updated: Friday, 23 October 2026 14:28:03 UTC*
