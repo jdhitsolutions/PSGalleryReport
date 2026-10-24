@@ -512,9 +512,9 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 14,428,142 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.3) | 2.0.3
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/2.0.4) | 2.0.4
 
-### Published: 10/23/2026 16:56:37 by Przemyslaw Klys
+### Published: 10/24/2026 08:02:15 by Przemyslaw Klys
 
 Transferetto provides reusable .NET and PowerShell data transfer across filesystems, FTP, FTPS, SFTP, SCP, FXP, Amazon S3 and S3-compatible storage, Azure Blob Storage, and SSH operations.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Saturday, 24 October 2026 00:04:04 UTC*
+*Updated: Saturday, 24 October 2026 13:37:51 UTC*
