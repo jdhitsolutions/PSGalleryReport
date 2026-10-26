@@ -320,9 +320,9 @@ PowerShell Module for interacting with the Atera API
 
 __Downloads__: 20,873,775 | __Repository__: https://github.com/davejlong/PSAtera
 
-## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.12.0) | 2.12.0
+## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.13.0) | 2.13.0
 
-### Published: 07/17/2026 08:25:42 by Thomas Freudenberg
+### Published: 10/26/2026 08:03:26 by Thomas Freudenberg
 
 Powershell module for creating and extracting 7-Zip archives
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Sunday, 25 October 2026 23:35:00 UTC*
+*Updated: Monday, 26 October 2026 16:20:00 UTC*
