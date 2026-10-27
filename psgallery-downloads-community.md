@@ -600,9 +600,9 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 10,896,299 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.15.472) | 1.15.472
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.15.479) | 1.15.479
 
-### Published: 10/23/2026 12:18:41 by Friedrich Weinmann
+### Published: 10/27/2026 11:36:21 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 27 October 2026 00:51:04 UTC*
+*Updated: Tuesday, 27 October 2026 15:33:41 UTC*
