@@ -488,9 +488,9 @@ Query SQLite databases
 
 __Downloads__: 15,495,497 | __Repository__: https://github.com/RamblingCookieMonster/PSSQLite
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2610.2859.0) | 2610.2859.0
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2610.2862.0) | 2610.2862.0
 
-### Published: 10/23/2026 03:55:05 by Aaron Parker
+### Published: 10/30/2026 08:50:07 by Aaron Parker
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Friday, 30 October 2026 01:22:24 UTC*
+*Updated: Friday, 30 October 2026 16:16:14 UTC*
