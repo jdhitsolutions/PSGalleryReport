@@ -1159,9 +1159,9 @@ Windows 11 26H2 GA Release
 
 __Downloads__: 7,586,305 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.41.0) | 1.41.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.42.0) | 1.42.0
 
-### Published: 03/08/2026 16:57:19 by Przemyslaw Klys
+### Published: 10/29/2026 17:20:30 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 29 October 2026 16:25:54 UTC*
+*Updated: Friday, 30 October 2026 01:22:24 UTC*
