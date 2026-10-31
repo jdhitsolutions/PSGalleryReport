@@ -1159,9 +1159,9 @@ Windows 11 26H2 GA Release
 
 __Downloads__: 7,586,305 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.42.0) | 1.42.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.43.0) | 1.43.0
 
-### Published: 10/29/2026 17:20:30 by Przemyslaw Klys
+### Published: 10/31/2026 08:21:39 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -1465,11 +1465,11 @@ Allows for an image to be dynamically set as the lockscreen image based off of t
 
 __Downloads__: 3,844,914 | __Repository__: 
 
-## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/1.0.1) | 1.0.1
+## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/1.0.2) | 1.0.2
 
-### Published: 07/08/2026 08:20:58 by Przemyslaw Klys
+### Published: 10/31/2026 08:16:43 by Przemyslaw Klys
 
-PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
+PGP encryption, decryption, signing, verification, and key management for PowerShell.
 
 __Downloads__: 3,831,376 | __Repository__: https://github.com/EvotecIT/PSPGP
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Saturday, 31 October 2026 01:05:25 UTC*
+*Updated: Saturday, 31 October 2026 15:30:59 UTC*
