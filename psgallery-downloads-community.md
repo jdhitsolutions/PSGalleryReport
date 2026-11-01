@@ -1505,9 +1505,9 @@ get/set display resolution info on windows
 
 __Downloads__: 3,629,702 | __Repository__: https://github.com/lust4life/display-resolution
 
-## [Pode](https://www.powershellgallery.com/Packages/Pode/2.14.1) | 2.14.1
+## [Pode](https://www.powershellgallery.com/Packages/Pode/2.14.2) | 2.14.2
 
-### Published: 08/29/2026 15:03:15 by Matthew Kelly (Badgerati)
+### Published: 11/01/2026 15:37:25 by Matthew Kelly (Badgerati)
 
 A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Sunday, 01 November 2026 00:26:15 UTC*
+*Updated: Sunday, 01 November 2026 16:25:44 UTC*
