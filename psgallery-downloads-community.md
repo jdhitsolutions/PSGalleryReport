@@ -1159,9 +1159,9 @@ Windows 11 26H2 GA Release
 
 __Downloads__: 7,586,305 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.43.0) | 1.43.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.45.0) | 1.45.0
 
-### Published: 10/31/2026 08:21:39 by Przemyslaw Klys
+### Published: 11/03/2026 08:46:00 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -2100,9 +2100,9 @@ PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying
 
 __Downloads__: 1,429,199 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
-## [PoShLog](https://www.powershellgallery.com/Packages/PoShLog/2.1.1) | 2.1.1
+## [PoShLog](https://www.powershellgallery.com/Packages/PoShLog/2.2.0) | 2.2.0
 
-### Published: 07/13/2020 12:44:35 by Tomas Bouda
+### Published: 11/03/2026 10:06:46 by Tomas Bouda
 
 PoShLog is powershell logging module. 
 PoShLog allows you to log structured event data into console, file and much more places easily.
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 03 November 2026 03:05:57 UTC*
+*Updated: Tuesday, 03 November 2026 17:21:39 UTC*
