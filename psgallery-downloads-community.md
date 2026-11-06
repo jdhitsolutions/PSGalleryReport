@@ -125,6 +125,14 @@ Provide SSH and SCP functionality for executing commands against remote hosts. Y
 
 __Downloads__: 75,271,034 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
+## [PS-SentinelOne](https://www.powershellgallery.com/Packages/PS-SentinelOne/2.1.2) | 2.1.2
+
+### Published: 08/12/2024 19:07:29 by davidhowell.tx
+
+A PowerShell script module that provides command-line interaction and automation for the SentinelOne API.
+
+__Downloads__: 66,670,412 | __Repository__: 
+
 ## [SNMP](https://www.powershellgallery.com/Packages/SNMP/1.0.0.1) | 1.0.0.1
 
 ### Published: 05/13/2014 17:51:13 by Bartosz Bielawski
@@ -480,9 +488,9 @@ Query SQLite databases
 
 __Downloads__: 15,495,497 | __Repository__: https://github.com/RamblingCookieMonster/PSSQLite
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2611.2871.0) | 2611.2871.0
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2611.2874.0) | 2611.2874.0
 
-### Published: 11/04/2026 20:59:25 by Aaron Parker
+### Published: 11/06/2026 04:17:06 by Aaron Parker
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
@@ -1025,6 +1033,22 @@ __Downloads__: 8,484,192 | __Repository__: https://developer.broadcom.com/powerc
 This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
 
 __Downloads__: 8,483,688 | __Repository__: https://developer.broadcom.com/powercli
+
+## [VMware.PowerCLI.Sdk](https://www.powershellgallery.com/Packages/VMware.PowerCLI.Sdk/13.3.0.24145081) | 13.3.0.24145081
+
+### Published: 07/25/2024 12:58:14 by Broadcom
+
+Product agnostic types definitions for the VMware.PowerCLI.VCenter module.
+
+__Downloads__: 8,483,630 | __Repository__: https://developer.vmware.com/powercli
+
+## [VMware.PowerCLI.VCenter.Types.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter.Types.CertificateManagement/13.3.0.24145081) | 13.3.0.24145081
+
+### Published: 07/25/2024 12:55:55 by Broadcom
+
+Types definitions for the VMware.PowerCLI.VCenter module related to the certificate management feature.
+
+__Downloads__: 8,481,490 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.Sdk.vSphere.vCenter.Topology](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Topology/9.0.0.24798382) | 9.0.0.24798382
 
@@ -1707,6 +1731,14 @@ Decode a JWT Access Token and convert to a PowerShell Object. JWT Access Token u
 
 __Downloads__: 2,718,952 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
 
+## [FileContentDsc](https://www.powershellgallery.com/Packages/FileContentDsc/1.3.0.151) | 1.3.0.151
+
+### Published: 07/20/2019 20:48:47 by Daniel Scott-Raynsford
+
+This module contains the DSC resources for manipulating the content of text files.
+
+__Downloads__: 2,615,288 | __Repository__: https://github.com/PlagueHO/FileContentDsc
+
 ## [GitHubActions](https://www.powershellgallery.com/Packages/GitHubActions/1.1.0.2) | 1.1.0.2
 
 ### Published: 11/11/2022 14:07:46 by https://github.com/ebekker/pwsh-github-action-tools/contributors
@@ -1771,6 +1803,14 @@ Provides a function to retrieve an authentication token for Intune Graph API cal
 
 __Downloads__: 2,208,558 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
 
+## [SplitPipeline](https://www.powershellgallery.com/Packages/SplitPipeline/2.0.1) | 2.0.1
+
+### Published: 10/11/2025 07:27:19 by Roman Kuzmin
+
+SplitPipeline - Parallel Data Processing in PowerShell
+
+__Downloads__: 2,184,705 | __Repository__: https://github.com/nightroman/SplitPipeline
+
 ## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2025.2.26.254) | 2025.2.26.254
 
 ### Published: 02/26/2025 22:45:29 by Dan Cuomo Trent Helms
@@ -1798,6 +1838,14 @@ __Downloads__: 2,122,071 | __Repository__: https://powernsx.github.io/
 Parse Windows release information from the Microsoft official release information page
 
 __Downloads__: 2,120,257 | __Repository__: https://github.com/schenardie/WindowsReleaseInformation
+
+## [TaskRunner](https://www.powershellgallery.com/Packages/TaskRunner/1.0) | 1.0
+
+### Published: 02/17/2016 23:35:47 by Ajay Arora
+
+This module can be used to run scheduled tasks and synchronously wait for them to complete.
+
+__Downloads__: 2,101,905 | __Repository__: 
 
 ## [AzureRmStorageTable](https://www.powershellgallery.com/Packages/AzureRmStorageTable/2.1.0) | 2.1.0
 
@@ -2096,55 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-## [psake](https://www.powershellgallery.com/Packages/psake/5.0.4) | 5.0.4
-
-### Published: 04/30/2026 18:57:55 by James Kovacs
-
-psake is a build automation tool written in PowerShell. Define tasks with
-dependencies, pre/post conditions, setup/teardown hooks, and input/output
-caching. Supports a compile-only mode for inspecting build plans in tests,
-structured output for GitHub Actions, and JSON output for tooling integration.
-
-__Downloads__: 1,329,011 | __Repository__: https://github.com/psake/psake
-
-## [pscredentialmanager](https://www.powershellgallery.com/Packages/pscredentialmanager/1.0.11) | 1.0.11
-
-### Published: 06/25/2019 21:48:19 by Adam Bertram
-
-This module allows management and automation of Windows cached credentials.
-
-__Downloads__: 1,312,920 | __Repository__: https://github.com/adbertram/PSCredentialManager
-
-## [AdmPwd.PS](https://www.powershellgallery.com/Packages/AdmPwd.PS/6.3.1.0) | 6.3.1.0
-
-### Published: 12/22/2019 06:29:35 by Jiri Formacek - GreyCorbel Solutions
-
-Provides cmdlets for configuration and usage of Local admin password management solution
-
-__Downloads__: 1,311,584 | __Repository__: 
-
-## [test_module2](https://www.powershellgallery.com/Packages/test_module2/5.0.0.0) | 5.0.0.0
-
-### Published: 04/12/2022 22:15:28 by Anam Navied
-
-This is a test module, for PSGallery team internal testing. Do not take a dependency on this package. This version contains tags for the package.
-
-__Downloads__: 1,298,170 | __Repository__: 
-
-## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/3.0.6) | 3.0.6
-
-### Published: 10/31/2026 07:56:25 by Przemyslaw Klys
-
-PowerShell email toolkit for SMTP, IMAP, POP3, Microsoft Graph, Gmail, SendGrid, Mailgun, and Amazon SES, with message-file, PST/OST archive, signing, and encryption workflows.
-
-__Downloads__: 1,245,739 | __Repository__: https://github.com/EvotecIT/MailoZaurr
-
-## [OSDCloudCLI](https://www.powershellgallery.com/Packages/OSDCloudCLI/22.10.19.1) | 22.10.19.1
-
-### Published: 10/19/2022 05:15:05 by David Segura
-
-OSDCloudCLI PowerShell Module
-
-__Downloads__: 1,227,370 | __Repository__: https://github.com/OSDeploy/OSDCloudCLI
-
-*Updated: Friday, 06 November 2026 01:48:49 UTC*
+*Updated: Friday, 06 November 2026 16:57:17 UTC*
