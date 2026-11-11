@@ -247,9 +247,9 @@ This PowerShell module contains PowerCLI Vim.
 
 __Downloads__: 28,964,886 | __Repository__: https://developer.broadcom.com/powercli
 
-## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.527) | 4.1.527
+## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.528) | 4.1.528
 
-### Published: 06/10/2026 09:55:29 by Aaron Parker
+### Published: 11/10/2026 23:38:04 by Aaron Parker
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Tuesday, 10 November 2026 17:19:01 UTC*
+*Updated: Wednesday, 11 November 2026 01:30:17 UTC*
