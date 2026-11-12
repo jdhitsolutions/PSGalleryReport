@@ -1122,11 +1122,11 @@ This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
 
 __Downloads__: 7,919,500 | __Repository__: https://developer.broadcom.com/powercli
 
-## [NTFSSecurity](https://www.powershellgallery.com/Packages/NTFSSecurity/4.2.6) | 4.2.6
+## [NTFSSecurity](https://www.powershellgallery.com/Packages/NTFSSecurity/5.0.0) | 5.0.0
 
-### Published: 07/12/2019 19:07:52 by Raimund Andree
+### Published: 11/12/2026 13:13:47 by Raimund Andree
 
-Windows PowerShell Module for managing file and folder security on NTFS volumes
+PowerShell module for managing file and folder security on NTFS volumes. NTFSSecurity will be archived; its successor is WindowsAccessControl.
 
 __Downloads__: 7,796,945 | __Repository__: https://github.com/raandree/NTFSSecurity
 
@@ -1755,9 +1755,9 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 2,568,620 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/4.1.0) | 4.1.0
+## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/4.1.2) | 4.1.2
 
-### Published: 04/14/2026 16:10:59 by Luke Whitelock
+### Published: 11/12/2026 09:38:07 by Luke Whitelock
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 12 November 2026 02:32:52 UTC*
+*Updated: Thursday, 12 November 2026 17:46:00 UTC*
