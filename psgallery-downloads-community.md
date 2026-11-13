@@ -1936,11 +1936,11 @@ test
 
 __Downloads__: 1,734,753 | __Repository__: 
 
-## [ConnectWiseControlAPI](https://www.powershellgallery.com/Packages/ConnectWiseControlAPI/0.4.0.0) | 0.4.0.0
+## [ConnectWiseControlAPI](https://www.powershellgallery.com/Packages/ConnectWiseControlAPI/0.5.0) | 0.5.0
 
-### Published: 05/07/2024 18:40:27 by Chris Taylor
+### Published: 11/12/2026 20:33:51 by Chris Taylor
 
-PowerShell wrapper for ConnectWise Control web API
+PowerShell wrapper for the ConnectWise ScreenConnect (formerly ConnectWise Control) web API
 
 __Downloads__: 1,732,867 | __Repository__: https://github.com/christaylorcodes/ConnectWiseControlAPI
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 12 November 2026 17:46:00 UTC*
+*Updated: Friday, 13 November 2026 02:11:52 UTC*
