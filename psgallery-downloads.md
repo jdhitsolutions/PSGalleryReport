@@ -565,9 +565,9 @@ For information on Azure Functions, please visit the following: https://learn.mi
 
 __Downloads__: 209,849,458 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.StorageSync](https://www.powershellgallery.com/Packages/Az.StorageSync/2.7.1) | 2.7.1
+## [Az.StorageSync](https://www.powershellgallery.com/Packages/Az.StorageSync/2.7.2) | 2.7.2
 
-### Published: 11/03/2026 01:12:18 by Microsoft Corporation
+### Published: 11/15/2026 23:25:28 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Storage Sync cmdlets in Windows PowerShell and PowerShell Core. Manages operations pertaining to Azure File Sync in PowerShell.
 
@@ -617,9 +617,9 @@ Microsoft Azure PowerShell - DataShare service cmdlets for Azure Resource Manage
 
 __Downloads__: 206,382,021 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az](https://www.powershellgallery.com/Packages/Az/16.5.0) | 16.5.0
+## [Az](https://www.powershellgallery.com/Packages/Az/17.0.0) | 17.0.0
 
-### Published: 11/03/2026 01:12:44 by Microsoft Corporation
+### Published: 11/15/2026 23:25:53 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Cmdlets to manage resources in Azure. This module is compatible with PowerShell and Windows PowerShell.
 For more information about the Az module, please visit the following: https://learn.microsoft.com/powershell/azure/
@@ -676,9 +676,9 @@ Microsoft Azure PowerShell: Migrate cmdlets
 
 __Downloads__: 187,890,368 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.RedisEnterpriseCache](https://www.powershellgallery.com/Packages/Az.RedisEnterpriseCache/2.0.0) | 2.0.0
+## [Az.RedisEnterpriseCache](https://www.powershellgallery.com/Packages/Az.RedisEnterpriseCache/2.1.0) | 2.1.0
 
-### Published: 06/02/2026 01:58:36 by Microsoft Corporation
+### Published: 11/15/2026 23:24:53 by Microsoft Corporation
 
 Microsoft Azure PowerShell: RedisEnterpriseCache cmdlets
 
@@ -728,9 +728,9 @@ Microsoft Azure PowerShell: SecurityInsights cmdlets
 
 __Downloads__: 181,813,237 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/3.0.0) | 3.0.0
+## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/3.0.1) | 3.0.1
 
-### Published: 06/02/2026 01:58:55 by Microsoft Corporation
+### Published: 11/15/2026 23:25:20 by Microsoft Corporation
 
 Microsoft Azure PowerShell: StackHci cmdlets
 
@@ -1732,9 +1732,9 @@ https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-collecto
 
 __Downloads__: 33,759,243 | __Repository__: 
 
-## [Az.NetAppFiles](https://www.powershellgallery.com/Packages/Az.NetAppFiles/1.4.1) | 1.4.1
+## [Az.NetAppFiles](https://www.powershellgallery.com/Packages/Az.NetAppFiles/2.0.0) | 2.0.0
 
-### Published: 08/31/2026 22:47:40 by Microsoft Corporation
+### Published: 11/15/2026 23:24:19 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure NetApp Files (ANF) service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Sunday, 15 November 2026 16:37:09 UTC*
+*Updated: Monday, 16 November 2026 01:25:24 UTC*
