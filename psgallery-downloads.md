@@ -1824,9 +1824,9 @@ This PowerShell module contains PowerCLI Vim.
 
 __Downloads__: 28,964,886 | __Repository__: https://developer.broadcom.com/powercli
 
-## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.528) | 4.1.528
+## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/5.0.10) | 5.0.10
 
-### Published: 11/10/2026 23:38:04 by Aaron Parker
+### Published: 11/20/2026 08:23:16 by Aaron Parker
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Friday, 20 November 2026 02:38:35 UTC*
+*Updated: Friday, 20 November 2026 18:01:57 UTC*
