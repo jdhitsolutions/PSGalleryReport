@@ -640,9 +640,9 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 9,284,178 | __Repository__: https://developer.vmware.com/powercli
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.9.1) | 2.9.1
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.9.2) | 2.9.2
 
-### Published: 10/15/2026 08:56:47 by the dbatools team
+### Published: 11/22/2026 01:24:20 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Saturday, 21 November 2026 16:58:21 UTC*
+*Updated: Sunday, 22 November 2026 01:36:35 UTC*
