@@ -1766,9 +1766,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 32,280,180 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.5.1.25718932) | 13.5.1.25718932
+## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.5.2.25952617) | 13.5.2.25952617
 
-### Published: 09/10/2026 11:14:29 by Broadcom
+### Published: 11/24/2026 11:09:30 by Broadcom
 
 This PowerShell module contains PowerCLI Sdk.
 
@@ -1790,9 +1790,9 @@ Microsoft Azure PowerShell - Azure SignalR service commands
 
 __Downloads__: 31,465,415 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.5.1.25718932) | 13.5.1.25718932
+## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.5.2.25952617) | 13.5.2.25952617
 
-### Published: 09/10/2026 11:14:47 by Broadcom
+### Published: 11/24/2026 11:09:39 by Broadcom
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
@@ -1816,9 +1816,9 @@ This product provides support for all AWS services in a single module. As an alt
 
 __Downloads__: 29,376,201 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/9.1.0.25718932) | 9.1.0.25718932
+## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/9.1.0.25952617) | 9.1.0.25952617
 
-### Published: 09/10/2026 11:15:30 by Broadcom
+### Published: 11/24/2026 11:16:12 by Broadcom
 
 This PowerShell module contains PowerCLI Vim.
 
@@ -1929,9 +1929,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,576,555 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.5.1.25718932) | 13.5.1.25718932
+## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.5.2.25952617) | 13.5.2.25952617
 
-### Published: 09/10/2026 11:16:17 by Broadcom
+### Published: 11/24/2026 11:32:34 by Broadcom
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
@@ -1961,9 +1961,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 26,251,120 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.5.1.25718932) | 13.5.1.25718932
+## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.5.2.25952617) | 13.5.2.25952617
 
-### Published: 09/10/2026 11:16:54 by Broadcom
+### Published: 11/24/2026 11:32:57 by Broadcom
 
 This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
@@ -2145,4 +2145,4 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 23,377,883 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-*Updated: Tuesday, 24 November 2026 05:32:44 UTC*
+*Updated: Tuesday, 24 November 2026 20:21:17 UTC*
