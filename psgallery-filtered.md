@@ -3,6 +3,105 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Invoke-NativeApplication](https://www.powershellgallery.com/Packages/Invoke-NativeApplication/1.3.0) | 1.3.0
+
+### Published: 11/25/2026 03:38:32 by Michael Naumov
+
+A set of helper functions to invoke native applications in PowerShell with proper error messages and exit code handlers
+
+__Downloads__: 24 | __Repository__: https://github.com/mnaoumov/Invoke-NativeApplication
+
+## [CompleterActions](https://www.powershellgallery.com/Packages/CompleterActions/3.0.1) | 3.0.1
+
+### Published: 11/25/2026 02:47:07 by Trent Stager
+
+CompleterActions is a PowerShell module for registering, discovering, querying, and removing PowerShell argument completers in a consistent way.
+It wraps Register-ArgumentCompleter with module-managed registration tracking, while also discovering completers that were registered directly in the current PowerShell runtime.
+
+__Downloads__: 19 | __Repository__: https://github.com/tstager/CompleterActions
+
+## [AzureScout](https://www.powershellgallery.com/Packages/AzureScout/3.18.12) | 3.18.12
+
+### Published: 11/25/2026 02:04:43 by Kristopher Turner
+
+AzureScout — discover, inventory, and assess everything in your Azure environment from one command. Run Invoke-AzureScout with no parameters for a guided wizard, or drive it with switches: by default it inventories tenant-wide Azure ARM resources and produces the live React, Json, and JsonEvidence outputs; opt into Entra ID collection with -Scope All; add -Assessment to run a read-only CAF/WAF assessment. Detailed run logs capture debug and verbose diagnostics without adding console noise. See everything. Own your cloud. (Requires PowerShell 7 on PowerShell Core.)
+
+__Downloads__: 34 | __Repository__: https://labs.hybridsolutions.cloud/azure-scout/
+
+## [PS_Completers](https://www.powershellgallery.com/Packages/PS_Completers/1.3.1) | 1.3.1
+
+### Published: 11/25/2026 01:55:18 by Trent Stager
+
+Argument completers for native commands, as a CompleterActions completer set.
+
+__Downloads__: 0 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.884.1) | 1.884.1
+
+### Published: 11/25/2026 01:47:05 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PoSh-oVirt](https://www.powershellgallery.com/Packages/PoSh-oVirt/4.5.5.1570025) | 4.5.5.1570025
+
+### Published: 11/25/2026 01:30:54 by Authored by David A. Stewart
+
+Powershell functions for Managing Oracle Linux Virtualization Manager (or oVirt)
+
+__Downloads__: 90 | __Repository__: https://www.powershellgallery.com/packages/PoSh-oVirt
+
+## [PSZebraSGD](https://www.powershellgallery.com/Packages/PSZebraSGD/0.2.0) | 0.2.0
+
+### Published: 11/25/2026 00:59:05 by Mad Crab Cyder
+
+A PowerShell module for managing and automating Zebra printers using SGD (Set-Get-Do) commands over TCP port 9100. Query
+printer information and device status, retrieve and modify configuration settings, execute printer commands, and streamline
+printer administration, monitoring, and inventory management.
+
+__Downloads__: 0 | __Repository__: https://github.com/MadCrabCyder/PSZebraSGD
+
+## [ManageExoSoa](https://www.powershellgallery.com/Packages/ManageExoSoa/1.0.3) | 1.0.3
+
+### Published: 11/24/2026 23:26:37 by timmcmic
+
+Provides bulk functionality for setting the exo soa bit on mailboxes.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PASeasyInstall](https://www.powershellgallery.com/Packages/PASeasyInstall/2.0.17) | 2.0.17
+
+### Published: 11/24/2026 23:12:30 by PASeasyInstall contributors
+
+Builds CyberArk PAM self-hosted labs from one Windows PowerShell 5.1 controller with plain commands: Install-PASVault (Primary Vault, optionally with DR), Install-PASPVWA, Install-PASCPM, Install-PASPSM, Install-PASPSMP, Install-PASDomainController, or a whole lab from one configuration file with Install-PASLab. Installs are durable and resumable (Get-PASRun, Wait-PASRun, Resume-PASRun, Stop-PASRun). Start-PASeasyInstall opens a desktop window that does the same in four steps. The module has no dependencies: the window is drawn with WPF, which is part of Windows. Intended for labs, demos and training; production use is at your own risk. You supply the vendor installation media and license. Not affiliated with or endorsed by CyberArk.
+
+__Downloads__: 0 | __Repository__: https://github.com/bigbatmanorg/PASeasyInstall
+
+## [InvokeZEP](https://www.powershellgallery.com/Packages/InvokeZEP/0.7.0) | 0.7.0
+
+### Published: 11/24/2026 22:46:40 by Klaus Kupferschmid
+
+PowerShell module for reading ZEP offers, offer items, offer categories, offer documents, projects, employees and customer contacts via REST API (offer documents via SOAP).
+
+__Downloads__: 0 | __Repository__: https://github.com/Kupferschmid/PowerShell-Modules
+
+## [psfdx](https://www.powershellgallery.com/Packages/psfdx/0.8.61) | 0.8.61
+
+### Published: 11/24/2026 21:42:35 by Tony Ward
+
+PowerShell module that wraps Salesforce SFDX command line interface
+
+__Downloads__: 0 | __Repository__: https://github.com/tonygward/psfdx
+
+## [ArcGIS](https://www.powershellgallery.com/Packages/ArcGIS/5.2.0) | 5.2.0
+
+### Published: 11/24/2026 20:36:38 by Esri
+
+ArcGIS Module for PowerShell DSC
+
+__Downloads__: 511,889 | __Repository__: https://github.com/Esri/arcgis-powershell-dsc
+
 ## [ModuleManager](https://www.powershellgallery.com/Packages/ModuleManager/0.13.0) | 0.13.0
 
 ### Published: 11/24/2026 20:13:03 by Mark Wragg
@@ -10,22 +109,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Understand and manage your installed PowerShell modules from the command line or a cross-platform terminal UI (modman). See every installed version and where it lives, check for updates in parallel, and update, uninstall or clean up old versions. Dependency-aware: it will not remove versions other modules need (such as those the Az rollup pins), updates dependencies first, and warns when a loaded module is too old. Works with PSResourceGet or PowerShellGet on Windows PowerShell 5.1 and PowerShell 7 on Windows, Linux and macOS.
 
 __Downloads__: 0 | __Repository__: https://github.com/markwragg/PowerShell-ModuleManager
-
-## [PASeasyInstall](https://www.powershellgallery.com/Packages/PASeasyInstall/2.0.15) | 2.0.15
-
-### Published: 11/24/2026 19:55:16 by PASeasyInstall contributors
-
-Builds CyberArk PAM self-hosted labs from one Windows PowerShell 5.1 controller with plain commands: Install-PASVault (Primary Vault, optionally with DR), Install-PASPVWA, Install-PASCPM, Install-PASPSM, Install-PASPSMP, Install-PASDomainController, or a whole lab from one configuration file with Install-PASLab. Installs are durable and resumable (Get-PASRun, Wait-PASRun, Resume-PASRun, Stop-PASRun). Start-PASeasyInstall opens a desktop window that does the same in four steps. The module has no dependencies: the window is drawn with WPF, which is part of Windows. Intended for labs, demos and training; production use is at your own risk. You supply the vendor installation media and license. Not affiliated with or endorsed by CyberArk.
-
-__Downloads__: 0 | __Repository__: https://github.com/bigbatmanorg/PASeasyInstall
-
-## [psfdx](https://www.powershellgallery.com/Packages/psfdx/0.8.59) | 0.8.59
-
-### Published: 11/24/2026 19:44:28 by Tony Ward
-
-PowerShell module that wraps Salesforce SFDX command line interface
-
-__Downloads__: 0 | __Repository__: https://github.com/tonygward/psfdx
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/150.0.0) | 150.0.0
 
@@ -1468,14 +1551,6 @@ Manage VirtualMetric DataStream from PowerShell: sign in from the browser, with 
 
 __Downloads__: 0 | __Repository__: https://www.virtualmetric.com/
 
-## [AzureScout](https://www.powershellgallery.com/Packages/AzureScout/3.18.10) | 3.18.10
-
-### Published: 11/24/2026 15:23:46 by Kristopher Turner
-
-AzureScout — discover, inventory, and assess everything in your Azure environment from one command. Run Invoke-AzureScout with no parameters for a guided wizard, or drive it with switches: by default it inventories tenant-wide Azure ARM resources and produces the live React, Json, and JsonEvidence outputs; opt into Entra ID collection with -Scope All; add -Assessment to run a read-only CAF/WAF assessment. Detailed run logs capture debug and verbose diagnostics without adding console noise. See everything. Own your cloud. (Requires PowerShell 7 on PowerShell Core.)
-
-__Downloads__: 34 | __Repository__: https://labs.hybridsolutions.cloud/azure-scout/
-
 ## [Glaass](https://www.powershellgallery.com/Packages/Glaass/1.0.17782) | 1.0.17782
 
 ### Published: 11/24/2026 15:16:59 by Tom Burger
@@ -1547,14 +1622,6 @@ __Downloads__: 0 | __Repository__: https://github.com/fortytwoservices/powershel
 PowerShell Management cmdlets for Quest OnDemand
 
 __Downloads__: 8,845 | __Repository__: 
-
-## [ManageExoSoa](https://www.powershellgallery.com/Packages/ManageExoSoa/1.0.2) | 1.0.2
-
-### Published: 11/24/2026 13:10:24 by timmcmic
-
-Provides bulk functionality for setting the exo soa bit on mailboxes.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.1.0.47) | 12.1.0.47
 
@@ -1710,14 +1777,6 @@ __Downloads__: 7,919,500 | __Repository__: https://developer.broadcom.com/powerc
 This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
 
 __Downloads__: 6,283,389 | __Repository__: https://developer.broadcom.com/powercli
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.883.0) | 1.883.0
-
-### Published: 11/24/2026 11:38:36 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 17,324 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/13.5.2.25952617) | 13.5.2.25952617
 
@@ -1951,60 +2010,4 @@ This PowerShell module contains PowerCLI VUM cmdlets.
 
 __Downloads__: 17,944,547 | __Repository__: https://developer.broadcom.com/powercli
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.5.2.25952617) | 13.5.2.25952617
-
-### Published: 11/24/2026 11:09:39 by Broadcom
-
-This PowerShell module contains functionality required by multiple PowerCLI modules.
-
-__Downloads__: 30,562,155 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.5.2.25952617) | 13.5.2.25952617
-
-### Published: 11/24/2026 11:09:30 by Broadcom
-
-This PowerShell module contains PowerCLI Sdk.
-
-__Downloads__: 32,196,175 | __Repository__: https://developer.broadcom.com/powercli
-
-## [VCF.RecoveryCoordinator](https://www.powershellgallery.com/Packages/VCF.RecoveryCoordinator/9.1.2.1002) | 9.1.2.1002
-
-### Published: 11/24/2026 10:58:12 by Broadcom
-
-PowerShell Module for VMware Cloud Foundation Recovery Coordinator (Instance Backup & Restore and Fleet Disaster Recovery)
-
-__Downloads__: 0 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-instance-recovery
-
-## [MyWebApi](https://www.powershellgallery.com/Packages/MyWebApi/0.6.1) | 0.6.1
-
-### Published: 11/24/2026 08:56:22 by CPlugin
-
-PowerShell module for CPlugin WebAPI: REST and real-time (SignalR) cmdlets that work with MetaTrader 4 and MetaTrader 5 servers - accounts, open positions, deposits, trade history, groups, symbols and server configuration for brokers. Product: https://mywebapi.com. Source: https://github.com/CPlugin/mywebapi.com-sdk-powershell. MetaTrader is a trademark of MetaQuotes Ltd.; this module is not affiliated with MetaQuotes.
-
-__Downloads__: 0 | __Repository__: https://mywebapi.com/
-
-## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/2.1.87) | 2.1.87
-
-### Published: 11/24/2026 08:26:22 by Sailpoint Developer Relations
-
-PSSailpoint - the PowerShell module for IdentityNow
-
-__Downloads__: 28,212 | __Repository__: 
-
-## [PSSailpoint.NERMV2025](https://www.powershellgallery.com/Packages/PSSailpoint.NERMV2025/2.1.87) | 2.1.87
-
-### Published: 11/24/2026 08:24:34 by OpenAPI Generator Team
-
-PSSailpoint.NERMV2025 - the PowerShell module for NERM API v2025
-
-__Downloads__: 10 | __Repository__: 
-
-## [PSSailpoint.NERM](https://www.powershellgallery.com/Packages/PSSailpoint.NERM/2.1.87) | 2.1.87
-
-### Published: 11/24/2026 08:24:27 by OpenAPI Generator Team
-
-PSSailpoint.NERM - the PowerShell module for NERM API
-
-__Downloads__: 10 | __Repository__: 
-
-*Updated: Tuesday, 24 November 2026 20:21:13 UTC*
+*Updated: Wednesday, 25 November 2026 04:36:50 UTC*
