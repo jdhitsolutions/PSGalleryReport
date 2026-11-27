@@ -1148,9 +1148,9 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 7,667,728 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/26.10.16.1) | 26.10.16.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/26.11.26.1) | 26.11.26.1
 
-### Published: 10/16/2026 19:08:17 by David Segura
+### Published: 11/26/2026 23:34:08 by David Segura
 
 Recast OSD PowerShell Module.
 PowerShell module for OSD and OSDCloud v1 deployment automation from recastsoftware.com.
@@ -2144,4 +2144,4 @@ PowerShell cmdlets for the Google Cloud Platform.
 
 __Downloads__: 1,338,600 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
 
-*Updated: Thursday, 26 November 2026 19:18:19 UTC*
+*Updated: Friday, 27 November 2026 03:47:54 UTC*
